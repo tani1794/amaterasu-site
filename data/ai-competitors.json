@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T14:59:47.261Z",
+  "updated_at": "2026-10-22T19:11:00.118Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -23,32 +23,32 @@
   ],
   "matrix": {
     "OpenAI": {
-      "新モデル": 12,
-      "資金調達": 4,
+      "新モデル": 13,
+      "資金調達": 5,
       "提携": 3,
-      "規制": 6,
-      "その他": 24
+      "規制": 8,
+      "その他": 31
     },
     "Google": {
       "新モデル": 1,
       "資金調達": 0,
       "提携": 0,
       "規制": 0,
-      "その他": 2
+      "その他": 3
     },
     "Anthropic": {
       "新モデル": 2,
-      "資金調達": 7,
+      "資金調達": 8,
       "提携": 1,
-      "規制": 3,
-      "その他": 13
+      "規制": 4,
+      "その他": 16
     },
     "Meta": {
       "新モデル": 1,
-      "資金調達": 2,
+      "資金調達": 3,
       "提携": 0,
       "規制": 0,
-      "その他": 3
+      "その他": 5
     },
     "xAI": {
       "新モデル": 0,
@@ -72,11 +72,11 @@
       "その他": 0
     },
     "Microsoft": {
-      "新モデル": 0,
+      "新モデル": 1,
       "資金調達": 0,
       "提携": 0,
       "規制": 0,
-      "その他": 1
+      "その他": 3
     },
     "Apple": {
       "新モデル": 0,
@@ -100,14 +100,417 @@
       "その他": 2
     },
     "その他": {
-      "新モデル": 4,
+      "新モデル": 7,
       "資金調達": 5,
-      "提携": 0,
+      "提携": 1,
       "規制": 9,
-      "その他": 39
+      "その他": 45
     }
   },
   "items": [
+    {
+      "id": "ee7ecab289596410",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "company": "その他",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "published_at": "2026-10-22T19:07:09.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "afbb328c263f52ce",
+      "title": "Canva releases its first image generation model",
+      "company": "その他",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "published_at": "2026-10-22T19:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "6dc97b2e6ae28cfe",
+      "title": "Discord now formats Markdown previews right",
+      "company": "その他",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+      "published_at": "2026-10-22T18:58:19.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "4baf690dfb57b3c5",
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "company": "Microsoft",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "published_at": "2026-10-22T18:43:53.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "75ce54df0c7ce112",
+      "title": "The PHP bug marks a dangerous new era for the internet. OpenAI’s poised to cash in",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Fortune",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVzFNOElCNU5CMkxCRUtSRDlvU3dGM1BmOGN0TDdadFBxV1lwMkktWkFTY0hTTy1tQ1RCamxsbkhjc21zVExzTGZWVld3Vi0tcjY4SHpPRzUxY3RJendMMkRfdHF4T1M3T3dreWUxcEdMdXg2U0FKQkZrMjUwM2ZnWTJKSG0tVTFwTG5zRkhxTDAyd2NQQ3Nv?oc=5",
+      "published_at": "2026-10-22T18:37:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "2c1b17b371894ee5",
+      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+      "company": "Meta",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+      "published_at": "2026-10-22T18:15:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "0104e079870f7301",
+      "title": "External evaluators find flaws in OpenAI's AI monitoring system in pilot review",
+      "company": "OpenAI",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa2JvMy1McnRUdXBvVGlqSDhtMERqUGQyczh4TzJpTGFLX21ncWdQMXZOLW9YNW01b3hvWm1iWnVEQmtfQWowX1JRdzgzZFBlZVk4d0pxbFFnX3p0andwR09xWU9Fb2gtQ2hBZXI0QmlKZU1OWGlLQW1RdEtJTlM1WUVIdk15U0xQYU00eVl5UThUX2M3N0ZZOFJKM3R1RVF5RUpoTTRFZ05EQmw5WG8tS2ZB?oc=5",
+      "published_at": "2026-10-22T18:14:36.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "574dbe9d4a3b763e",
+      "title": "Reservoir Sues Suno & Anthropic in Latest Lawsuits Over AI Music: ‘Meant to Replace the Artists’",
+      "company": "Anthropic",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 5,
+      "source": "Billboard",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVDE5V3NNUV9BRGdBQkNJYVRybEtyQXZMbEE1VXVrZEV3V0xNaVZqdXBadDlwbzZyMGF5TW1JejdseXEyMjBTdF8yQlBOZS1vY2RxQXliWExoMG9yR0dqcFgyUVR4bkRuWWdwVTU2eWV5UjJyN2QtdlZFTGZCdGlwSUgzZw?oc=5",
+      "published_at": "2026-10-22T18:10:53.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "98a7f3683d8fe8db",
+      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+      "company": "Microsoft",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+      "published_at": "2026-10-22T18:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "2f777a0b64800097",
+      "title": "NEWSLETTER: Why Anthropic is turning away some users",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS2RFUFhHaUhfLTIxWEdNVG5PZ1ctUjY1ZkhESng1YTVTRHJ1ZFppU0FmUGE0eXNnQ1N3WVZiYjdwcHBFSzZCOVhESm5XdTRQLVhsRmx1ZVJackU0SWw1Z3hxWWhfdFVDaVVuVDNDYmVSc1UxM0lLNUNiRXRJU1E4cmxtZTV3Q1RwTldyZE50Q2p6Zk9OUHJTQ0xvcTQ1OHllUjlYdVJ2cEVpanRNczhNaA?oc=5",
+      "published_at": "2026-10-22T17:52:55.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "cf32d8eb0557348e",
+      "title": "How Anthropic’s Claude Duet Differs From Meta Muse in the AI Agent Race",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Barron's",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTHp3Y2NHeEJpRWJZb3NBV3ljWjNDVDMtNE55Vjc2VS00SWJNUmY0dkw0UkwzUjU0RVZDQUprRnZINURJVFVfNTB6SV9FOUIzWFJhY1ltdEdfVS12QU5NZFNXbkpBQktEYUQ3a2lZUXpqLXNiY3R1MzZFWTQxNlJ6UzlXLVdQdWUzR0I4?oc=5",
+      "published_at": "2026-10-22T17:25:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "7b213ad205a3643b",
+      "title": "Someone hacked the Switch 2 by using an old game and AI",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+      "published_at": "2026-10-22T17:21:31.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "93c844a35d415e95",
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "company": "Microsoft",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "published_at": "2026-10-22T16:47:17.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "5da9bb3ea3e9cf21",
+      "title": "Chinese AI firm DeepSeek raises $15B in latest challenge to OpenAI, Anthropic: report",
+      "company": "OpenAI",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "New York Post",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWWpjZlAxZThnSENHUWVwcWFkeENPNkQ3STZvbE0xZjRFZUdBb0F2dXNtUnRHMzFoR1o2bHVnblAteFhFQmppRHp1YUszU2lqVVJaSmx3TUFVTUNKQVFYNTdjNnlYelltMGF5OE1PLTVQdjlSaXNtYzNSZkFzTHBYY2NaOG9xUnVwd2N1d0VrNFdDOUVFWGtRT21kNy1YNlhZUXdWS24xbkZBWGlwX2RFSDFVNS1LdmxNbi1nYzJNWQ?oc=5",
+      "published_at": "2026-10-22T16:43:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "09f692c897143bd6",
+      "title": "Could Anthropic's Compute Spend Outpace Its Revenue Growth?",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Motley Fool",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaS1falVySFA0NE03T2dDd0twSVdLX2FVZjFDUDRuVGIxejZ3TnZOWVU2aTVFWnR1MmpFazNVSlJ2NVJNamk4bTQxNEVSME13WDVJaDljOThVQVYyNGliRUtqZnZJYmllOXVNeXVncnEtSlJaWTFUU1M0SEFoVWh1WHRnX2RpcDVyQ2tBVkE5ODg5MTJESlRpTA?oc=5",
+      "published_at": "2026-10-22T16:35:13.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "2a8e11324f4e3ec3",
+      "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
+      "published_at": "2026-10-22T16:16:15.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "eb25ae590aab235c",
+      "title": "OpenAI agents are shutting off ways to monitor misbehavior",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "NBC News",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWMwR04wc2hEeGUxaDBrd0FYd3FkamxjYjljQkFiS0RxX0RNOXh6NUVaUC1NR1JzSEZVT3pjclViUHo2M2dGWVRheElJNFVwZmhZcHptbmhpQm9uNzBCMERSTkdIUThhb1ZPWHYwRmtBVVN4UHhIUUVROXNuS1FDWVpnZkdkNDRaRVE4ZVdUZFFFWnN6dDVXU3ZkbExSbnBoeDJB?oc=5",
+      "published_at": "2026-10-22T16:15:50.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "faea986e16127214",
+      "title": "The inside story behind OpenAI’s million-dollar math proof",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Scientific American",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcjQybzRKdnQtSC1zRUdBUFhKaDczdDE1T0tGX1VyZl9WaVJJUGN5RHY5Y3NSWUJlUUJ3VkplaC1KRGE3ZDV1NzVzbHl0MnpDTFBSdWhjaEtlbU5aYm1QZVdVclFsX0M5d0IweXpFeHRJQVFraEU3UGRFeGFpUG1TZGVJMko3aHpwc3RiYVdOVFVsaF9DbHpENXdaM05hcU1QWksw?oc=5",
+      "published_at": "2026-10-22T16:12:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "9d72639f5e003f5a",
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "published_at": "2026-10-22T16:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "540e896edf86465f",
+      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+      "published_at": "2026-10-22T15:50:30.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "4333a9e6dafa6c9d",
+      "title": "OpenAI urges Newsom to strengthen California’s AI safety law with additional safeguards",
+      "company": "OpenAI",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "StateScoop",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOekYxQzAtenA3SFBNODVpelA4dENGdEdBbUJHNVNOd0xRR3NOdnZLbWotYmFMdGZrd0I1TVdfS2l3X0gyOTk5aXJrcHNxSlZSRHdMM2g5Q1VhaXZ2a2NFM1kwN1E3X3pieHFhckhnMnRYMlMyZjlEdmpXR3BTZm93a1paZks1QlhOdGxuY1Rkb0hNYkRZZDZlQXIzeFlfSmdQSFotdTRuUTdnTXhuYU9n?oc=5",
+      "published_at": "2026-10-22T15:43:54.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "6eb9c32154407f7c",
+      "title": "Ex-OpenAI Science Head Launches Startup With $215 Million",
+      "company": "OpenAI",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Bloomberg.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQlBnRkU4WWw3WE5qTHZscFNxUm44a0RNSVpTUHdfOVo3N0xLWE8tbFMyZlN3Nk1NZ0tvd1JZODFNX2tIY1ZMeElGX1FwdUR4X28zckVZSjNNdExNM3RITEdVdi1ybkx0R05rdmFLZk81V20xOHBuZldndm80YnZxb0NjcUYyWkotdXdCUWhyTUJNcXNvemRQNV9hLVNpRmIzZkxiaThqM3QxWmVxblU3R1hlRlpiQ0hrS2c?oc=5",
+      "published_at": "2026-10-22T15:30:10.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "7faddebfff09c3d3",
+      "title": "PHP: The three little letters wreaking havoc across the web",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
+      "published_at": "2026-10-22T15:12:27.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "f21c828d1002f857",
+      "title": "OpenAI Models Land on Google Cloud: Frontier Distribution Goes Multi-Cloud While the Watts Stay Exclusive",
+      "company": "OpenAI",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY0NHcHR3MkktTGZXbVhKWWlkSHdzUzBNV1h0NXRBS0gyZllfZlExTkJTOFJPd0pDUjM4aDRtVVY5X2Y0ZzF4cVBGSkpRQUliOEcxYXA4cGtwRHhTY0tGY2VuWGIwMmdVSnFjZlA5dTY4cmFVa0p5OFpMYi1TTEh6TThfYlBCdU9oMWo4VUJQSVh2dnlVeGlhaFpCNA?oc=5",
+      "published_at": "2026-10-22T15:10:18.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "0bffbef0359b5df6",
+      "title": "Spotify’s current AI bet is about being the music service that agents choose",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "published_at": "2026-10-22T15:03:58.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "217328bd947c8cf0",
+      "title": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xeTgxRlUydl9jNmMwMzZTOUl5MVJpRGpFSGw1eGVSQ0hNR2FhM0tReGlOb2cydUZGNHpWUEVqTktjWWh2c0RYTk5IUGVUWG1ab2VYT3RBRnB4RVgzT3p6RXoxRzhrckFmeFc0RjF6TlVyWkJsZ0pXMVpTa9IBgAFBVV95cUxPbVFRUDR4dTZpcFBRZ0RNYV94blNUVmhZalBCdlpMc0t6S01CbWRkQXE5eEozTXFwOHZrZWNBcmpLMVd5OTVUNWUyNGlnZlp0T1dURGQzZDRrMVppODQ4Z1lMQkhSUk4wY2FHNVJLNElDUWpUX1RVZWRPc0xleG5Sag?oc=5",
+      "published_at": "2026-10-22T15:00:25.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "7327305c5288fb1c",
+      "title": "NYダウは反落して始まる AI関連銘柄に売り、メタ一時7%安",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoQVpZTi1BMF9kajU4X0gxSG1LZG9iNjNmeEpleC1lb3B1MzlWZExwUGlPODBpel9oU1dHVkJRS1hfaGtjREJMSDRPRjlveF9sbVpzWlJ1R0VFSzkycWFXRTRES2pERGd5Q0RxSw?oc=5",
+      "published_at": "2026-10-22T14:57:21.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "5292216b632a8c9a",
+      "title": "‘Paralyzed’ US IPO Market Asks If There’s Life After Anthropic",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Bloomberg.com",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVkI1bGw1M2NIaWcxOW1na0stMnlmcTVHazZkeHZySjhWaGM1MENDaVVEZW55aVZJVjJRTFdPUDNhNFhOZTBQWnB6a2p3REhqMV9hUmtEVHVYRzhSOFc2dVdqR0cyN3UxazlGT0NLVzJGUFdYZ3pFZ3Rmd19GT2pOU21iXzZyMVBBZllHVlhjQlhoRkwtdGVENEloUUNtSDZRVDZZNkkyS3pjWU9rYU9SX2pB?oc=5",
+      "published_at": "2026-10-22T14:52:25.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "9153aa23ec140d83",
+      "title": "Ukraine’s strikes on Russian data centers disrupt key services and derail AI research",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "AP News",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYWpTNEFPQ2s1OU5QRS1HMzBDVExXeFRlOWUxRzNWamxYTjREcENTMmw1VWlrNkRpdnFNRUFXLVZTUjI3SkZqRlhIZVVXc2hhampybC1pbHVkT2Nhd290ZVlOWEt1TDA4YzgwUUxOM2k1OEE2UFZGWi1DRkU2ckwxVHNZR3pQb2tVN3I2MjFfQlhMZjhqSDdXTTFyRUJCUlFueGlF?oc=5",
+      "published_at": "2026-10-22T14:44:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "c7ea6124bea77f9d",
+      "title": "India's Tech Mahindra partners with SpaceXSI for AI-powered software development",
+      "company": "その他",
+      "type": "提携",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZlJWQnZvNjJES1NYSDBSeGdrbDR3ellObzFNV0dqVHFwT2YyNXhMVzlEdUFXVGFnUnBaVmZVMnRmNUNQWkxkcEh1Z3dCZWw1MnFuWVpla0QwQXRYY3lCUVV6ZUhid0N2U09HYUdDcVNSRHFERGw0eVplNVJJNHJKY0x1ZFFzZWctTlVfOWwySl9vWV9ENllCanBicDBlNDE4a1RveEQ0NG01bVBMMVhQbEtELWRDRzBTelJSSUZxaHZzdTAyclRIdTNnMFZ2MGc?oc=5",
+      "published_at": "2026-10-22T14:32:37.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "6f57ef008d42fd6c",
+      "title": "Not All Forests Are Equal: Mapping the World’s Forests",
+      "company": "Google",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Google DeepMind",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWVZsbGt2Smt3d1JOcG01RkYzMzR2RjF3RDVWWFBvQWtmVXZHVlVNRnBRV3pwakZZdHl5VVp6bzIyVTRrZGtCT2JtTW9OSjVwRGlXNjhDU1JDRkMtbzVrYUxnTlUyamI5YU0xalRLYVNSOVR3YUhsWmdjNHdkX3ZhNGN0ZG5kdw?oc=5",
+      "published_at": "2026-10-22T14:31:27.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "5f52187345862719",
       "title": "DHS Orders Agencies to Remove DeepSeek AI from Government Systems",
@@ -184,6 +587,19 @@
       "source": "Reuters",
       "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
       "published_at": "2026-10-22T13:36:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "cf2e2788c1494eb9",
+      "title": "PODCAST: Meta's AI bill",
+      "company": "Meta",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGRhb1JsblJwRVhJcVc0TkJFMXVLZ1JqUWRtVHNDR2RTR2ZCenZCZWkwNG4wUExUVVZYSHB1NEZkUU9wTm04ZFlpdzV0ZzI2Y3YxWGFWT3QxLXE2TEhyNHFtV3ZYWW5rLTZYcGtOcDlwM2wtSjhpTjdyVDhzYlIxUDA5a3Q?oc=5",
+      "published_at": "2026-10-22T13:33:16.000Z",
       "analysis": "rule"
     },
     {
@@ -889,6 +1305,19 @@
       "analysis": "rule"
     },
     {
+      "id": "ba6fa07d677a8221",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "published_at": "2026-10-22T00:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
       "id": "a8ca577f97ae06fe",
       "title": "OpenAI's Dots Are Here!",
       "company": "OpenAI",
@@ -925,6 +1354,19 @@
       "source": "TechCrunch AI",
       "source_url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
       "published_at": "2026-10-21T22:51:22.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "c1d080de5b4338cf",
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "company": "Meta",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "published_at": "2026-10-21T22:45:34.000Z",
       "analysis": "rule"
     },
     {
@@ -2147,19 +2589,6 @@
       "source": "OpenAI News",
       "source_url": "https://openai.com/index/benefit-street-partners",
       "published_at": "2026-10-16T00:00:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "a72d1e4da6b0e106",
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "company": "OpenAI",
-      "type": "新モデル",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "OpenAI News",
-      "source_url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "published_at": "2026-10-15T19:00:00.000Z",
       "analysis": "rule"
     }
   ]
