@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T04:53:55.712Z",
+  "updated_at": "2026-10-22T09:18:52.761Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -24,10 +24,10 @@
   "matrix": {
     "OpenAI": {
       "新モデル": 11,
-      "資金調達": 3,
+      "資金調達": 4,
       "提携": 3,
       "規制": 6,
-      "その他": 19
+      "その他": 22
     },
     "Google": {
       "新モデル": 1,
@@ -40,8 +40,8 @@
       "新モデル": 2,
       "資金調達": 2,
       "提携": 1,
-      "規制": 2,
-      "その他": 9
+      "規制": 3,
+      "その他": 10
     },
     "Meta": {
       "新モデル": 1,
@@ -103,11 +103,193 @@
       "新モデル": 3,
       "資金調達": 3,
       "提携": 0,
-      "規制": 5,
-      "その他": 24
+      "規制": 7,
+      "その他": 33
     }
   },
   "items": [
+    {
+      "id": "8e46acd6421f2adf",
+      "title": "Anthropic finds 94 cases where open-source projects drop security controls without warning",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Help Net Security",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYmpXdjBTUFNXMktmVldPYUM3dFdnZXRXbVJScjNka192dHpmeUNHUTE2NEF2cU8wbC0xTlo3anpPNHJNTkZNWmxBb3o2YnMxYUh3aks4bUNvYzdFSTI5Y29DTVAySmFTTk1XMXFuel9nTDBodVNTWEVZTUdTd2ZIMFFSc0d3Z2FyblVkOHNWX1FNcjVv?oc=5",
+      "published_at": "2026-10-22T09:10:55.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "2379a1d81a369f3a",
+      "title": "Why Anthropic Is Racing to IPO While OpenAI Waits Until 2027",
+      "company": "OpenAI",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Motley Fool",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOTAyUEhpNV9xZUtuLXhvZlRobW83eXhoMXc1TkJRU2FoaC1aZzdTVVdDcDgtZGV0Si1QVEhUZG9mZGhHVkVEWlFlcGhFVUR2bkZoSDUzM2hvcVA4NXlzT200aVY2NDRCS2RBYUh3d2VMdy1ROWZQQ2xXVnV0aThvbTRJcER6bWlRdHhYREhIc2tveHR3bEJV?oc=5",
+      "published_at": "2026-10-22T09:06:18.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "47ce16c7608b93aa",
+      "title": "Anthropic’s Ambitions in Legal Technology Get a Reality Check",
+      "company": "Anthropic",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Bloomberg Law News",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUDlBRzg1WmpzWGRzT2NFdnR3RzF1OGJtOXZfbk1tMDhEQXlMSXZKY0dzTDRaOTNMdndXNDFnV0ZfQ0dJa3M3TzRZT3VkeURoa2Nzd0VJUUViV3NMUjJZTXRReU9GX0J5d2RMdlhJZjhJaHRDc2Zzc2xLeG9nTWI1Qk55Ymd3ZURmS2luN2tWbm83cnRzTmxQckJsZS1ZYk5HRHl5ajJPczViNm91aFE?oc=5",
+      "published_at": "2026-10-22T09:01:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "52e8775d890cc5f9",
+      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "company": "その他",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo",
+      "published_at": "2026-10-22T08:58:08.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "46f4dc360a154a5b",
+      "title": "Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances",
+      "company": "その他",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Guardian World",
+      "source_url": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
+      "published_at": "2026-10-22T08:40:42.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "24575c6e521a9d0d",
+      "title": "On Main Street, Goldman Sachs makes a big bet on AI",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "NBC News",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOERqdTZkVDBjdlRfQ0JFV3NpLURsZmtoUGhLMnJtck9PNTgteG9CclotdTMtYm9tYnJORU9HR01uWmFIU3EzS2xEZmJTcDRwQ3Z0RjVXUGlVS1hoZzBsY3R5TFdteGliUF9leFA2d0I5NElnNlQzNkdOekdzcll1cnhGM0JBMC1JZklkN2lqazBROG1lcm40aGtPX0otcmIzTnc?oc=5",
+      "published_at": "2026-10-22T08:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "ba7df6a4d6ebce68",
+      "title": "AI-found bugs are expected to rise, and OpenAI has a five-stage response plan",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Help Net Security",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdk1zbnRJX2tUdXJmdXJhRVJGTDRJR2dvM19vRzFlLTRQWDRKbHVOSTNNemhmWTlmYzJXMzBMS0xlRnZhUTZabHNrREJEUTdNakdnRmZoVUxMVTFUWnBvRFNYRkNNWUMxdGdWOFpYWWJlNXhGOURNWWdzZVRtWjVtRzhzUnJmM1U?oc=5",
+      "published_at": "2026-10-22T07:35:52.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "db2c308642ad9bca",
+      "title": "JX金属株4%安、「AIサーバー向け増産」材料視限定（22日の株式市場）",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xWEhKbG95ek9ILXdDU3dKN2VLdVpmb1hCRkJYOXp3UmtPT1J4UC1DaG5DSWlWSC1VMndlWTBZQzBpTDZsb0JWT3RkRUpUSGpscWFLLTBtRENacmtTTVMxWkZOcDRKVDBUN0dObg?oc=5",
+      "published_at": "2026-10-22T07:30:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "b0a853ac666cb935",
+      "title": "Palantir says it cannot shut off NATO AI system as Europeans fear US tech dependence",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdDFzczJud3pHcEZobURrNEhua1BVYm43Q2FSbFF5N2Jzc2gta1FnTm1wcVRseGVvSHhUSEZ0SnlHSXlsR0VKRW9rRGszYzRwLW5mQWdLZk9FVnMxVU12ZjBKZ21yT0lYNXZVTW1lRlBWWWV5d0g2U2F6MDRwajYtbXdOMDBXNjducVgtbWMwZmpBT3cyb1VqRTVPbjNsMk9OTnpqOTJUUFZMRkJWMW40V3lCLWpuOUREWU5sejd5UGdraHJGWWM4Nw?oc=5",
+      "published_at": "2026-10-22T06:04:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "dc259438ba941f8e",
+      "title": "9月の工作機械受注60%増、AI需要で過去最高額 過剰投資に懸念も",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJUUtrbEpoUEJLc0xBUEhwYmg0NUs3UWxPMGJhM0pYLXNETGVVcWpzRGhVU0diY3d4a3VoMnpMazJ0aVpQMlBjS1JqY1poUTVjVUZrMWZvd3VRMzE2SjVicDZVdFg1eHd0QWxlQg?oc=5",
+      "published_at": "2026-10-22T06:02:49.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "8c917fa1d8b8ca84",
+      "title": "ソニーG株価が年初来高値 AI脅威論から見直し買い",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qOVRqbDNpYlQ3ajZWR19IVkZTOFlveWMzcGNSWjdnTVd0eHUxWGgzU2FYSjRNdGw0UFJuUktYaVI4cjQ4SXZYWFZ4U05YWlRVQms1RFliTkZsQVNIQnJJMmpYUEhaUDVKTnhGZg?oc=5",
+      "published_at": "2026-10-22T05:17:13.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "a031b73e4ce228aa",
+      "title": "Nokia's third-quarter profit beats expectations amid booming AI sales",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeVJKZzR0bmhsQlBZTnVkcjV6VmVjU1lXeTFGQUl0NzkwLVNJbWN5NF9iOG54ODJhSlhaTUg3cU9vZUxscGk5RjhEMUV5NHhwZXBVVXZfc3RBelNtSWg2R1dYZW5iSDB2U2VOT1hXMk5EbXpzTHdTNEdIeGlUbXR0eG9wREdBbUJCTUZBM2V3b0VoUnJt?oc=5",
+      "published_at": "2026-10-22T05:05:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "c907a956fe089286",
+      "title": "Is an 'AI war' complicating your job search?",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no",
+      "published_at": "2026-10-22T05:01:31.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "39efd63ba7519f02",
+      "title": "Morning Bid: France's debt strains, AI in focus",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iY1JOSkkwSHo0X2pQdzhWZFJuX2JIdGZEaWxKQy1oWlFJcHFuMXFhOFBoVHk4MHdRWTN6V09XOHVQZWw5d2tWMHIyRHVYcURiZmEzY1BGaFliTlJNcTJkUlZJZ0M0U19HbVJfX3BYakVkZExGNUZPYTRzOFBKT1U?oc=5",
+      "published_at": "2026-10-22T04:33:00.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "5846f05e390afaac",
       "title": "日経平均、一時1300円安 「AIツルハシ銘柄」売り招いた米メタの財務不安",
@@ -158,6 +340,32 @@
       "source": "日本経済新聞",
       "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DVUs0SjVFYkdkVEp0NVl0Ukx6Vm1rT24wLWJSTEc5a2J1Y2F1UHg4NVNSaHIxcWV0UmZ6XzRZdEpLRmlvUldxWExKbjhLZlViUmNxeDM3SUV2dV9SN0I3WVRsZER2WmVXX1F3TA?oc=5",
       "published_at": "2026-10-22T03:27:03.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "6f93dbaf2d2949a9",
+      "title": "An Interview with OpenAI’s Richard Ho on Why Jalapeño Is a Groundbreaking AI Chip",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Key Context by Tae Kim",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlZVJ6b0RyX3ZpVFFlWlN1N3R1dWt4dnFEb3hGQVItNUNlVUdTblN2Z2Y0WE1vRC1icHhqOHBKazdnTEN6RW5ISmxUWVhJclNfaHhCOGhBMUlOM1lhdlpTOFJKMFFNTGJxX3U3SnVwNGM?oc=5",
+      "published_at": "2026-10-22T03:22:46.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "55459c2a6e63ee5c",
+      "title": "東証前引け 日経平均反落、700円安 AI半導体が下押し",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FdTM4Y2VpTEczc096d3g1S3o5OHl4cDZqZXVfY1U0Z0c5OG5EaWpKblFoTUZQcVFod212MWltWmd1dzY2ZXB0dmNVeUxJV3FUTm5faXhfMk83NU9zamRrQTlMdU4xMjY2RGx4dA?oc=5",
+      "published_at": "2026-10-22T03:02:06.000Z",
       "analysis": "rule"
     },
     {
@@ -561,6 +769,19 @@
       "source": "MacRumors",
       "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pYzdSRjZBUnJFZ1Utalp5YkQwUmVIS0piUmxUZnlieHpObW1VVFk2NER4V2hObnNhRlBvdkJ4alZNUFpHZjE4dXR2STRFeXJweTYtbU5lRXF3N0RsamxFMXpzNTRpY3MzNGdr?oc=5",
       "published_at": "2026-10-21T20:52:59.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "0393a9739fde4a2c",
+      "title": "Claude Duet is Anthropic’s proactive AI agent answer to Muse and OpenAI’s Dots [Video]",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "9to5Google",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pNlJMaGhHU2xUZmVfeUdSNTlSSXB5VnVNV2lZRmJRX3FGR1gzdXpYSlVFcFNIQ0htOTVvcVNQbjNPOERmb3Y0RENncGJWS2M5S1ZEYTBsSmd4WE91SG1PbU53c3pxVWpSc2poVnkxZVN4aWtTVkN0ampJZEZYdVE?oc=5",
+      "published_at": "2026-10-21T20:45:00.000Z",
       "analysis": "rule"
     },
     {
