@@ -1,0 +1,39 @@
+/* ===== 危機度7以上: 赤いパルス ===== */
+@keyframes pulse-ring {
+  0% { box-shadow: 0 0 0 0 color-mix(in srgb, var(--danger) 55%, transparent); }
+  70% { box-shadow: 0 0 0 12px color-mix(in srgb, var(--danger) 0%, transparent); }
+  100% { box-shadow: 0 0 0 0 color-mix(in srgb, var(--danger) 0%, transparent); }
+}
+@keyframes pulse-border {
+  0%, 100% { border-color: color-mix(in srgb, var(--danger) 35%, var(--border)); }
+  50% { border-color: var(--danger); }
+}
+.card.is-severe { animation: pulse-border 2.4s ease-in-out infinite; }
+.card.is-severe .score { animation: pulse-ring 1.8s ease-out infinite; }
+.dot { animation: pulse-ring 2.4s ease-out infinite; }
+
+/* ===== 速報ティッカー（横スクロール） ===== */
+@keyframes ticker-scroll {
+  from { transform: translate3d(0, 0, 0); }
+  to { transform: translate3d(-50%, 0, 0); }
+}
+.ticker-track.is-running { animation: ticker-scroll var(--ticker-duration, 60s) linear infinite; }
+.ticker:hover .ticker-track, .ticker:focus-within .ticker-track { animation-play-state: paused; }
+
+/* ===== スクロール時のフェードイン ===== */
+.reveal { opacity: 0; transform: translateY(18px); transition: opacity 0.6s ease, transform 0.6s cubic-bezier(0.2, 0.7, 0.2, 1); }
+.reveal.is-visible { opacity: 1; transform: none; }
+
+/* ===== 更新時のフラッシュ ===== */
+@keyframes flash { from { background-color: color-mix(in srgb, var(--accent) 30%, transparent); } to { background-color: transparent; } }
+.flash { animation: flash 1.2s ease-out; border-radius: 6px; }
+
+/* ===== prefers-reduced-motion: 動きを止める ===== */
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+  .reveal { opacity: 1; transform: none; }
+  .ticker-viewport { overflow-x: auto; }
+  .ticker-track { white-space: nowrap; }
+  .card.is-severe { border-color: var(--danger); }
+}

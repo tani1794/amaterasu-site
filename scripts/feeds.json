@@ -1,0 +1,22 @@
+{
+  "_note": "取得できないフィードは自動でスキップされ data/fetch-log.json に記録されます。Reuters / AP / 日経は公式RSSが無いため Google News の site: 検索RSSで見出しとリンクのみ取得します。hint はルールベース分類の初期カテゴリです。",
+  "feeds": [
+    { "id": "nhk-intl", "name": "NHK 国際", "url": "https://www3.nhk.or.jp/rss/news/cat6.xml", "lang": "ja", "hint": "国際政治" },
+    { "id": "nhk-politics", "name": "NHK 政治", "url": "https://www3.nhk.or.jp/rss/news/cat4.xml", "lang": "ja", "hint": "日本政治" },
+    { "id": "nhk-economy", "name": "NHK 経済", "url": "https://www3.nhk.or.jp/rss/news/cat5.xml", "lang": "ja", "hint": "経済" },
+    { "id": "nhk-main", "name": "NHK 主要", "url": "https://www3.nhk.or.jp/rss/news/cat0.xml", "lang": "ja", "hint": null },
+    { "id": "bbc-world", "name": "BBC World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml", "lang": "en", "hint": "国際政治" },
+    { "id": "bbc-business", "name": "BBC Business", "url": "https://feeds.bbci.co.uk/news/business/rss.xml", "lang": "en", "hint": "経済" },
+    { "id": "aljazeera", "name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "lang": "en", "hint": "国際政治" },
+    { "id": "guardian-world", "name": "The Guardian World", "url": "https://www.theguardian.com/world/rss", "lang": "en", "hint": "国際政治" },
+    { "id": "reuters", "name": "Reuters", "url": "https://news.google.com/rss/search?q=site:reuters.com+when:2d&hl=en-US&gl=US&ceid=US:en", "lang": "en", "hint": "国際政治" },
+    { "id": "ap", "name": "AP", "url": "https://news.google.com/rss/search?q=site:apnews.com+when:2d&hl=en-US&gl=US&ceid=US:en", "lang": "en", "hint": "国際政治" },
+    { "id": "nikkei", "name": "日本経済新聞", "url": "https://news.google.com/rss/search?q=site:nikkei.com+when:2d&hl=ja&gl=JP&ceid=JP:ja", "lang": "ja", "hint": "経済" },
+    { "id": "jp-politics", "name": "日本政治（Google News）", "url": "https://news.google.com/rss/search?q=%E9%A6%96%E7%9B%B8+OR+%E5%9B%BD%E4%BC%9A+OR+%E8%87%AA%E6%B0%91%E5%85%9A+when:2d&hl=ja&gl=JP&ceid=JP:ja", "lang": "ja", "hint": "日本政治" },
+    { "id": "techcrunch-ai", "name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "lang": "en", "hint": "AI" },
+    { "id": "verge-ai", "name": "The Verge AI", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "lang": "en", "hint": "AI" },
+    { "id": "openai-news", "name": "OpenAI News", "url": "https://openai.com/news/rss.xml", "lang": "en", "hint": "AI" },
+    { "id": "google-ai", "name": "Google AI Blog", "url": "https://blog.google/technology/ai/rss/", "lang": "en", "hint": "AI" },
+    { "id": "ai-companies", "name": "AI企業ニュース（Google News）", "url": "https://news.google.com/rss/search?q=OpenAI+OR+Anthropic+OR+%22Google+DeepMind%22+OR+%22Meta+AI%22+OR+xAI+OR+DeepSeek+OR+%22Mistral+AI%22+when:3d&hl=en-US&gl=US&ceid=US:en", "lang": "en", "hint": "AI" }
+  ]
+}

@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="ja" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AMATERASU｜国際情勢・危機分析ダッシュボード（毎時更新）</title>
+  <meta name="description" content="国際政治・戦争・日本政治・経済・AI競合の1週間分のニュースを毎時収集し、AIが危機度スコアと5段階分析で要約。危機アラート、日経平均・ドル円などの市場グラフ、今後の行動指針を掲載。">
+  <meta name="theme-color" content="#0b0f17">
+  <link rel="canonical" href="https://tani1794.github.io/Amaterasu/">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+
+  <!-- OGP / Twitter -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="AMATERASU">
+  <meta property="og:title" content="AMATERASU｜国際情勢・危機分析ダッシュボード">
+  <meta property="og:description" content="1週間分の国際ニュースをAIが毎時分析。危機度の高いニュースを最優先で要約します。">
+  <meta property="og:url" content="https://tani1794.github.io/Amaterasu/">
+  <meta property="og:image" content="https://tani1794.github.io/Amaterasu/assets/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:locale" content="ja_JP">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="AMATERASU｜国際情勢・危機分析ダッシュボード">
+  <meta name="twitter:description" content="1週間分の国際ニュースをAIが毎時分析。危機度の高いニュースを最優先で要約します。">
+  <meta name="twitter:image" content="https://tani1794.github.io/Amaterasu/assets/og-image.png">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "AMATERASU 国際情勢・危機分析ダッシュボード",
+    "url": "https://tani1794.github.io/Amaterasu/",
+    "inLanguage": "ja",
+    "description": "国際政治・戦争・日本政治・経済・AI競合のニュースを毎時収集し、危機度スコアと5段階分析で要約するダッシュボード。"
+  }
+  </script>
+
+  <script>
+    // 保存済みテーマを描画前に適用（ちらつき防止）
+    try { var t = localStorage.getItem('amaterasu-theme'); if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/chart.js@4.5.1/dist/chart.umd.min.js"></script>
+  <script type="module" src="js/main.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#alerts">本文へスキップ</a>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="./" aria-label="AMATERASU トップ">
+        <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="7" fill="currentColor"/><g stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M16 2v4M16 26v4M2 16h4M26 16h4M6.1 6.1l2.8 2.8M23.1 23.1l2.8 2.8M6.1 25.9l2.8-2.8M23.1 8.9l2.8-2.8"/></g></svg>
+        <span class="brand-text"><strong>AMATERASU</strong><small>国際情勢・危機分析</small></span>
+      </a>
+      <div class="status" aria-live="polite">
+        <span class="status-item"><span class="dot" id="status-dot"></span>最終更新: <time id="last-updated">--:--</time></span>
+        <span class="status-item">次回更新まで <span class="mono" id="countdown">--:--</span></span>
+        <button class="icon-btn" id="theme-toggle" type="button" aria-label="ライト/ダーク切り替え">
+          <svg class="icon-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.5" fill="currentColor"/><g stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 2v2M12 20v2M2 12h2M20 12h2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></g></svg>
+          <svg class="icon-moon" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M20.5 14.6A8.5 8.5 0 0 1 9.4 3.5a8.5 8.5 0 1 0 11.1 11.1z"/></svg>
+        </button>
+      </div>
+    </div>
+    <nav class="container section-nav" aria-label="セクション">
+      <a href="#alerts">🚨 危機アラート</a>
+      <a href="#world">🌏 国際政治・紛争</a>
+      <a href="#japan">🇯🇵 日本政治</a>
+      <a href="#economy">💹 経済・市場</a>
+      <a href="#ai">🤖 AI競合</a>
+      <a href="#outlook">🧭 今後の指針</a>
+    </nav>
+  </header>
+
+  <div class="ticker" role="region" aria-label="速報">
+    <span class="ticker-label">速報</span>
+    <div class="ticker-viewport"><div class="ticker-track" id="ticker-track"><span class="ticker-item">データを読み込んでいます…</span></div></div>
+  </div>
+
+  <main>
+    <section class="hero container">
+      <h1>1週間の国際ニュースを、危機度順に。</h1>
+      <p class="lead">国際政治・戦争・日本政治・経済・AIのニュースを毎時収集し、AIが「事実 → 背景 → 影響 → シナリオ → 結論」の5段階で分析します。見出しと独自の要約、元記事へのリンクのみを掲載しています。</p>
+      <div class="kpis" id="kpis">
+        <div class="kpi"><span class="kpi-num" data-kpi="total">0</span><span class="kpi-label">分析対象ニュース（7日間）</span></div>
+        <div class="kpi kpi-danger"><span class="kpi-num" data-kpi="severe">0</span><span class="kpi-label">危機度7以上</span></div>
+        <div class="kpi"><span class="kpi-num" data-kpi="ai">0</span><span class="kpi-label">AI分析済み</span></div>
+        <div class="kpi"><span class="kpi-num" data-kpi="feeds">0</span><span class="kpi-label">取得できた情報源</span></div>
+      </div>
+      <p class="notice" id="mode-notice" hidden></p>
+    </section>
+
+    <section id="alerts" class="section container" aria-labelledby="h-alerts">
+      <div class="section-head">
+        <h2 id="h-alerts"><span aria-hidden="true">🚨</span> 危機アラート <small>危機度TOP5</small></h2>
+        <p class="section-desc">危機度スコア（1〜10）の高い順。7以上は赤く点滅表示します。</p>
+      </div>
+      <div class="cards cards-alert" id="alert-list"></div>
+    </section>
+
+    <section id="world" class="section container" aria-labelledby="h-world">
+      <div class="section-head">
+        <h2 id="h-world"><span aria-hidden="true">🌏</span> 国際政治・戦争／紛争</h2>
+        <div class="chips" role="group" aria-label="絞り込み" data-filter-for="world">
+          <button class="chip is-active" type="button" data-value="">すべて</button>
+          <button class="chip" type="button" data-value="戦争">戦争・紛争</button>
+          <button class="chip" type="button" data-value="国際政治">国際政治</button>
+        </div>
+      </div>
+      <div class="cards" id="world-list"></div>
+      <button class="more-btn" type="button" data-more="world" hidden>もっと見る</button>
+    </section>
+
+    <section id="japan" class="section container" aria-labelledby="h-japan">
+      <div class="section-head">
+        <h2 id="h-japan"><span aria-hidden="true">🇯🇵</span> 日本政治</h2>
+      </div>
+      <div class="cards" id="japan-list"></div>
+      <button class="more-btn" type="button" data-more="japan" hidden>もっと見る</button>
+    </section>
+
+    <section id="economy" class="section container" aria-labelledby="h-economy">
+      <div class="section-head">
+        <h2 id="h-economy"><span aria-hidden="true">💹</span> 経済・日本の金融と株価</h2>
+        <p class="section-desc">市場データは日足終値ベース。取得に失敗した銘柄は前回値を表示し、その最終更新時刻を示します。</p>
+      </div>
+      <div class="market-grid" id="market-grid"></div>
+      <div class="chart-panel">
+        <div class="chart-tabs" id="chart-tabs" role="tablist" aria-label="グラフの銘柄"></div>
+        <div class="chart-box"><canvas id="market-chart" aria-label="市場データの推移グラフ" role="img"></canvas><p class="chart-fallback" id="chart-fallback" hidden>グラフを表示できませんでした（Chart.js の読み込みに失敗）。</p></div>
+      </div>
+      <h3 class="sub-head">経済ニュース</h3>
+      <div class="cards" id="economy-list"></div>
+      <button class="more-btn" type="button" data-more="economy" hidden>もっと見る</button>
+    </section>
+
+    <section id="ai" class="section container" aria-labelledby="h-ai">
+      <div class="section-head">
+        <h2 id="h-ai"><span aria-hidden="true">🤖</span> AI競合動向</h2>
+        <p class="section-desc">OpenAI・Google・Anthropic・Meta・xAI・DeepSeek・Mistral などのニュースを「新モデル／資金調達／提携／規制」に分類。マスをクリックすると絞り込めます。</p>
+      </div>
+      <div class="matrix-wrap"><table class="matrix" id="ai-matrix"></table></div>
+      <div class="chips" id="ai-filter-label" hidden></div>
+      <div class="ai-list" id="ai-list"></div>
+      <button class="more-btn" type="button" data-more="ai" hidden>もっと見る</button>
+    </section>
+
+    <section id="outlook" class="section container" aria-labelledby="h-outlook">
+      <div class="section-head">
+        <h2 id="h-outlook"><span aria-hidden="true">🧭</span> 今後どうすべきか</h2>
+        <p class="section-desc">各分析の結論を統合した行動指針です。</p>
+      </div>
+      <div id="outlook-body" class="outlook"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p class="disclaimer"><strong>本サイトは情報提供を目的としており、投資助言ではありません。</strong>投資・行動の判断はご自身の責任で行ってください。</p>
+      <p>掲載しているのは各報道機関の見出し・AIによる独自の要約・元記事へのリンクのみで、記事本文は転載していません。記事の著作権は各報道機関に帰属します。AI分析は誤りを含む可能性があるため、必ず元記事をご確認ください。</p>
+      <p>市場データ: Stooq / FRED / 財務省 ほか（取得状況により異なる）。データは GitHub Actions により毎時自動更新されます。</p>
+      <p class="footer-links"><a href="https://github.com/tani1794/Amaterasu" rel="noopener">GitHub</a> ・ <a href="data/news.json">news.json</a> ・ <a href="data/markets.json">markets.json</a> ・ <a href="data/ai-competitors.json">ai-competitors.json</a></p>
+    </div>
+  </footer>
+
+  <noscript><p class="container">このページの表示には JavaScript を有効にしてください。</p></noscript>
+</body>
+</html>

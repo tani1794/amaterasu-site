@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tani1794.github.io/Amaterasu/sitemap.xml

@@ -1,0 +1,21 @@
+{
+  "name": "amaterasu",
+  "version": "1.0.0",
+  "private": true,
+  "description": "国際情勢・危機分析ダッシュボード（GitHub Pages + GitHub Actions 毎時自動更新）",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "fetch:news": "node scripts/fetch-news.mjs",
+    "fetch:markets": "node scripts/fetch-markets.mjs",
+    "analyze": "node scripts/analyze.mjs",
+    "validate": "node scripts/validate-data.mjs",
+    "update": "npm run fetch:news && npm run fetch:markets && npm run analyze && npm run validate",
+    "update:fixtures": "node scripts/fixtures/generate.mjs && node scripts/fetch-news.mjs --fixtures && node scripts/fetch-markets.mjs --fixtures && node scripts/analyze.mjs && node scripts/validate-data.mjs",
+    "serve": "npx --yes serve -l 3000 ."
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.1.0",
+    "fast-xml-parser": "^5.2.5"
+  }
+}

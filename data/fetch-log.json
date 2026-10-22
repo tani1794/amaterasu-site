@@ -1,0 +1,191 @@
+{
+  "news": {
+    "updated_at": "2026-10-22T02:51:06.088Z",
+    "fixtures": false,
+    "feeds": [
+      {
+        "id": "nhk-intl",
+        "name": "NHK 国際",
+        "ok": true,
+        "count": 40,
+        "ms": 517
+      },
+      {
+        "id": "nhk-politics",
+        "name": "NHK 政治",
+        "ok": true,
+        "count": 40,
+        "ms": 487
+      },
+      {
+        "id": "nhk-economy",
+        "name": "NHK 経済",
+        "ok": true,
+        "count": 40,
+        "ms": 415
+      },
+      {
+        "id": "nhk-main",
+        "name": "NHK 主要",
+        "ok": true,
+        "count": 7,
+        "ms": 254
+      },
+      {
+        "id": "bbc-world",
+        "name": "BBC World",
+        "ok": true,
+        "count": 38,
+        "ms": 269
+      },
+      {
+        "id": "bbc-business",
+        "name": "BBC Business",
+        "ok": true,
+        "count": 40,
+        "ms": 306
+      },
+      {
+        "id": "aljazeera",
+        "name": "Al Jazeera",
+        "ok": true,
+        "count": 25,
+        "ms": 313
+      },
+      {
+        "id": "guardian-world",
+        "name": "The Guardian World",
+        "ok": true,
+        "count": 40,
+        "ms": 562
+      },
+      {
+        "id": "reuters",
+        "name": "Reuters",
+        "ok": true,
+        "count": 40,
+        "ms": 1063
+      },
+      {
+        "id": "ap",
+        "name": "AP",
+        "ok": true,
+        "count": 40,
+        "ms": 1140
+      },
+      {
+        "id": "nikkei",
+        "name": "日本経済新聞",
+        "ok": true,
+        "count": 40,
+        "ms": 517
+      },
+      {
+        "id": "jp-politics",
+        "name": "日本政治（Google News）",
+        "ok": true,
+        "count": 40,
+        "ms": 744
+      },
+      {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "ok": true,
+        "count": 20,
+        "ms": 449
+      },
+      {
+        "id": "verge-ai",
+        "name": "The Verge AI",
+        "ok": true,
+        "count": 10,
+        "ms": 435
+      },
+      {
+        "id": "openai-news",
+        "name": "OpenAI News",
+        "ok": true,
+        "count": 40,
+        "ms": 689
+      },
+      {
+        "id": "google-ai",
+        "name": "Google AI Blog",
+        "ok": true,
+        "count": 20,
+        "ms": 1241
+      },
+      {
+        "id": "ai-companies",
+        "name": "AI企業ニュース（Google News）",
+        "ok": true,
+        "count": 40,
+        "ms": 1363
+      }
+    ]
+  },
+  "markets": {
+    "updated_at": "2026-10-22T02:51:08.037Z",
+    "fixtures": false,
+    "instruments": [
+      {
+        "id": "nikkei",
+        "ok": true,
+        "source": "yahoo",
+        "errors": [
+          "stooq(^nkx): HTTP 403"
+        ]
+      },
+      {
+        "id": "topix",
+        "ok": false,
+        "source": null,
+        "errors": [
+          "stooq(^tpx): HTTP 403",
+          "yahoo(^TOPX): HTTP 404"
+        ]
+      },
+      {
+        "id": "usdjpy",
+        "ok": true,
+        "source": "yahoo",
+        "errors": [
+          "stooq(usdjpy): HTTP 403"
+        ]
+      },
+      {
+        "id": "us10y",
+        "ok": true,
+        "source": "yahoo",
+        "errors": [
+          "stooq(10usy.b): HTTP 403",
+          "fred(DGS10): fred: データ点不足 (1)"
+        ]
+      },
+      {
+        "id": "jp10y",
+        "ok": true,
+        "source": "mof",
+        "errors": [
+          "stooq(10jpy.b): HTTP 403"
+        ]
+      },
+      {
+        "id": "wti",
+        "ok": true,
+        "source": "yahoo",
+        "errors": [
+          "stooq(cl.f): HTTP 403"
+        ]
+      },
+      {
+        "id": "gold",
+        "ok": true,
+        "source": "yahoo",
+        "errors": [
+          "stooq(xauusd): HTTP 403"
+        ]
+      }
+    ]
+  }
+}
