@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T03:00:27.086Z",
+  "updated_at": "2026-10-22T04:53:55.712Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -23,7 +23,7 @@
   ],
   "matrix": {
     "OpenAI": {
-      "新モデル": 10,
+      "新モデル": 11,
       "資金調達": 3,
       "提携": 3,
       "規制": 6,
@@ -37,7 +37,7 @@
       "その他": 2
     },
     "Anthropic": {
-      "新モデル": 1,
+      "新モデル": 2,
       "資金調達": 2,
       "提携": 1,
       "規制": 2,
@@ -54,15 +54,15 @@
       "新モデル": 0,
       "資金調達": 0,
       "提携": 1,
-      "規制": 0,
+      "規制": 1,
       "その他": 0
     },
     "DeepSeek": {
       "新モデル": 0,
-      "資金調達": 0,
+      "資金調達": 1,
       "提携": 0,
       "規制": 0,
-      "その他": 2
+      "その他": 4
     },
     "Mistral": {
       "新モデル": 0,
@@ -103,11 +103,89 @@
       "新モデル": 3,
       "資金調達": 3,
       "提携": 0,
-      "規制": 3,
-      "その他": 22
+      "規制": 5,
+      "その他": 24
     }
   },
   "items": [
+    {
+      "id": "5846f05e390afaac",
+      "title": "日経平均、一時1300円安 「AIツルハシ銘柄」売り招いた米メタの財務不安",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYbGU2dW9lRzNIa2UxT2JoZkRWOW1JdTlkMXpGZ3hfVkowYXRYUTdhS2lvajd1TnpySVZCclVXMHVPOTk0ZGN3bWVqOFBDZ0prbWpoRmppOGJpY2Y2NnUycjdUVExlYk52T2ZwUg?oc=5",
+      "published_at": "2026-10-22T04:11:03.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "b2917dd007e79a8e",
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "company": "その他",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
+      "published_at": "2026-10-22T03:48:50.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "9df5befda143b2e5",
+      "title": "Elon Musk's ex-girlfriend must face xAI forum countersuit",
+      "company": "xAI",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Courthouse News",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ0tlLS1mSWcyVnJNb25seEdYQTYteVhLLThDaFpEaGtJN0ExZFI0YTdtelVnQ0hRVGlGYzhOVDA3c0lSSk9iNEdiMi1JQ29telgyMnlFeWF2ODZFdFdINVJRRTRQdHNNUGZGSHB1dWdlRUx6TW9qQXgtU24yU1Y2RUZVRFJ6eExmank5QlAxR25oZw?oc=5",
+      "published_at": "2026-10-22T03:32:48.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "191d8b03d9f2d566",
+      "title": "メタ、AI「ミューズ」無料モデルに賭け 23兆円投資の成否を左右",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DVUs0SjVFYkdkVEp0NVl0Ukx6Vm1rT24wLWJSTEc5a2J1Y2F1UHg4NVNSaHIxcWV0UmZ6XzRZdEpLRmlvUldxWExKbjhLZlViUmNxeDM3SUV2dV9SN0I3WVRsZER2WmVXX1F3TA?oc=5",
+      "published_at": "2026-10-22T03:27:03.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "5c1c4cb473642584",
+      "title": "DeepSeek wrapping up $15 billion fundraising to fuel AI race",
+      "company": "DeepSeek",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQkI4b1B0WkYzUnhGdTF6b0VTRnBCWjRxelF3Q2g4VlRjTzNUOFFTZUhrM3VHSWs2M1VpWkZqN0FleF9JREgzdXpEWFNHM0VvSXhhNm5pdHRXZkRrNUR0UGFJVUMzRjNDWWRwZ0ZtOEsyMm93VU82Rno1R3FxQTNxMllyeWh2YnJRY19hUjZMbExjank3YUg5anFYdjRHRUdnSlN3cFMwMU9TLVBDSldIYUpUdy1vYTdtS3RHTnphNU1KYTdtYWVzNFFR?oc=5",
+      "published_at": "2026-10-22T02:46:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "6091ea8a6675fed9",
+      "title": "China’s DeepSeek Raises $15 Billion to Challenge Top US AI Labs",
+      "company": "DeepSeek",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Bloomberg.com",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbV8yRlI5QUgtclQ1Y25PbklMNW5ITlNyUm9udEYwQkFaRmoxZ3R4bVdKOEItVVpLX3lXejBfSzllSVZUTFZuRDVSckkzcHJrUnZwRVhCamxrMzh6cjVPYk04N0thbjRlenFlLXZpT0E3TUtsSzFlS1VBY2NHRTh2Rk5NNDhXRVVoYnJHMWFPbFVPbzZoQm5VMzBpREs5b183eE9PQTZ1SGgySkVxTFE?oc=5",
+      "published_at": "2026-10-22T02:17:00.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "d495d55132abf154",
       "title": "JX金属、株価反落 「AIサーバー向け増産」報道に材料視限定",
@@ -148,6 +226,19 @@
       "analysis": "rule"
     },
     {
+      "id": "a9b9625f475a6629",
+      "title": "AI uncovers massive flaw in web's foundational code",
+      "company": "その他",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Axios",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yWTJaTHNWSEthd09VenZuMVhjNjBjb1ZjS2haLUZXb2xvNDhBWXQwUzY2YkJTbkplTHk4ektpVno5NFpJME04alZvaVJ3SjhCNXRURlJmQ0dreGd2RVdUbzBPUVVuY2F6cDdJd0xQVG51Y0s0eDN2V1lmMA?oc=5",
+      "published_at": "2026-10-22T00:52:56.000Z",
+      "analysis": "rule"
+    },
+    {
       "id": "3814a674280483ec",
       "title": "OpenAI says GPT-5.6-Sol helped find the PHP flaws now shaking the internet",
       "company": "OpenAI",
@@ -158,6 +249,19 @@
       "source": "Mashable",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ib2dGYkx5WWZSeE5fRDZFcWtrTTZqRlFfUXhlbDR4M0RfckQyUnMzbmZndWV4UFA2eTRsMlZ6bnlBUi0xTENPbkVmRjlKVVVTZGZKMi12aFVhbzJnRDNvaE9pZ1ozdl9taUU5U2tUbTRVdmVLRUE?oc=5",
       "published_at": "2026-10-22T00:37:36.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "fad0c1df1032099b",
+      "title": "FASCSA Orders Require Exclusion and Removal of DeepSeek AI",
+      "company": "DeepSeek",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Crowell & Moring LLP",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSzJSLWRySTRlazdTeWJINjlIUWRTRXM4X0d6UFgzYy1vcmNxQWJyRjUxUVlQRGxvY2dFS1JHandNdDVPWDdTSUdXMFh6Q0FpS2FnYjd1bko0T3ZyQmJRcWgxak9MRVBhU09BUU1tZFlQNFB6N19XNHhPbUJrVThCUkRGTTRJOV9DNFpDVGhFWjVNOWpKTEpMQkFDMTB3UlY3WERsVFdHMW83cXQz?oc=5",
+      "published_at": "2026-10-22T00:30:41.000Z",
       "analysis": "rule"
     },
     {
@@ -197,6 +301,19 @@
       "source": "The Motley Fool",
       "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QWEFoVWFNbUFaUC1sWWk3NmJ6SzJkZVFUY3BWRV8wMk0tQVNkQk93UFNkUWJNZ29wVDFQS0FFdmhpMlRyVDJZZzdHa3FZRWhuSl9CemJ5QzZsRWNmcTlUMkR1ZDZfV3JnanY3cHNmX0VrOTA?oc=5",
       "published_at": "2026-10-21T23:53:27.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "c4981f62285593d7",
+      "title": "OpenAI’s models are deliberately breaking their misalignment monitoring systems",
+      "company": "OpenAI",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "CSO Online",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNUZ5VnBRNXhrbFVmRVExZVFQVnNfbnI4OTg0ejNNbUVqUElnNS02UTVhSm8zZVVNNXhzc28yRjFHdFloSHR4bU5mNkhPQmtTNG9YcXQwV243akJEN2RRRm1odTlURGtqWTdOMGVCTnhYZTNUQTJqT29HcHJSQzRqQm0ydlVEZlJULUxqeXI1SUdCMnVHTm9yV1dYUTdUQklvNG9XTXpnSHd4NXFkc3FfcGJ4eFR0UDY3eU1qQXU3R0U0Tmc?oc=5",
+      "published_at": "2026-10-21T23:48:42.000Z",
       "analysis": "rule"
     },
     {
@@ -431,6 +548,19 @@
       "source": "日本経済新聞",
       "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hLXpnSVgzTVhGOURIbmhGZDQtR0F5M3FSZnk1M1ZSRGdJVDBlTHRXTk9FdWhPVEhYYUQ2Y3h6S3pLUFVEWVNQdjRTMkJCcVdyZ3VXalI4dXhBN1ozc3ZyS0I0aDUxaU1PanNlSg?oc=5",
       "published_at": "2026-10-21T20:55:23.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "54e5f68f17d6e38f",
+      "title": "Anthropic Launches Claude Duet, a Proactive AI Agent",
+      "company": "Anthropic",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "MacRumors",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pYzdSRjZBUnJFZ1Utalp5YkQwUmVIS0piUmxUZnlieHpObW1VVFk2NER4V2hObnNhRlBvdkJ4alZNUFpHZjE4dXR2STRFeXJweTYtbU5lRXF3N0RsamxFMXpzNTRpY3MzNGdr?oc=5",
+      "published_at": "2026-10-21T20:52:59.000Z",
       "analysis": "rule"
     },
     {

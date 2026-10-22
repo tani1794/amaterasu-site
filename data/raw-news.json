@@ -1,8 +1,320 @@
 {
-  "updated_at": "2026-10-22T03:00:22.961Z",
+  "updated_at": "2026-10-22T04:53:51.437Z",
   "window_days": 7,
-  "count": 370,
+  "count": 422,
   "items": [
+    {
+      "id": "a10f5f872bb5320a",
+      "title": "North Korea to resume propaganda broadcasts, South Korea urges dialogue",
+      "description": "Pyongyang plans to resume broadcasting anti-South Korea propaganda along the armed border.",
+      "url": "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-22T04:45:41.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
+      "id": "0f0bed3136e15cba",
+      "title": "Brazil’s Bolsonaro challenges Lula to expand release of personal records",
+      "description": "Right-wing presidential candidate says he will release personal records if his opponent Lula meets his conditions.",
+      "url": "https://www.aljazeera.com/news/2026/10/22/brazils-bolsonaro-challenges-lula-to-expand-release-of-personal-records?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-22T04:36:04.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
+      "id": "6945e28b8e398601",
+      "title": "高市首相のホームページが一時停止 PHP欠陥の対策講じて復旧",
+      "description": "高市首相のホームページが一時停止 PHP欠陥の対策講じて復旧 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zWDNpUzJ1UWlZdm90SG5Mc212NU5UZjZWZzFRaEhadzVqcllTVjhPWFpBdl8tYWo3QkxpdnhoQXRGNXRYWGJKbFkyX3R1TURiYVRJemdpYTF1eU9XV3Y0MktvUWpuU3BO?oc=5",
+      "source": "毎日新聞",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-22T04:23:27.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
+      "id": "1b29431fd9c81dbf",
+      "title": "Australian TV reporter rescues man from sinking car",
+      "description": "",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-22T04:19:33.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
+      "id": "5846f05e390afaac",
+      "title": "日経平均、一時1300円安 「AIツルハシ銘柄」売り招いた米メタの財務不安",
+      "description": "日経平均、一時1300円安 「AIツルハシ銘柄」売り招いた米メタの財務不安 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYbGU2dW9lRzNIa2UxT2JoZkRWOW1JdTlkMXpGZ3hfVkowYXRYUTdhS2lvajd1TnpySVZCclVXMHVPOTk0ZGN3bWVqOFBDZ0prbWpoRmppOGJpY2Y2NnUycjdUVExlYk52T2ZwUg?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-22T04:11:03.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
+      "id": "c2cb46e858b4a0cc",
+      "title": "画像・写真：高市首相・自民幹部がＨＰ停止：時事ドットコム",
+      "description": "画像・写真：高市首相・自民幹部がＨＰ停止：時事ドットコム 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UUGRfcGhJLXJxSTFyTlNGSEl1U0tZM1RSdXRxdURRbGYxaHNFUFFVbU83Y2RpRHdUM0RSdkhUYlVZUWdQMlRJTVotQTdjQS1iaHpmNW9rZ3FtbUhhUExiUVJOZzU?oc=5",
+      "source": "時事ドットコム",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-22T04:03:14.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
+      "id": "e891ee3bd43815a2",
+      "title": "No purchase, no seats: Starbucks China rolls out new policy",
+      "description": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo",
+      "source": "BBC World",
+      "feed_id": "bbc-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-22T04:02:29.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
+      "id": "c01efc6b3ec87153",
+      "title": "Waitrose opens first new supermarket in eight years in north London",
+      "description": "Grocer launches Cricklewood store as part of £1bn investment plan, with Hale Barns, Greater Manchester, to follow next month As part of a £1bn investment plan , Waitrose has chosen Cricklewood in nor…",
+      "url": "https://www.theguardian.com/business/2026/oct/22/waitrose-new-supermarket-london-cricklewood-hale-barns-greater-manchester",
+      "source": "The Guardian World",
+      "feed_id": "guardian-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-22T04:00:06.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
+      "id": "a0eb33a029f0973a",
+      "title": "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
+      "description": "Kim Yo-jong, sister of Kim Jong-un, issues warning after inspecting border fortifications against backdrop of rising tensions Propaganda loudspeakers aimed at South Korea will be ready to restart wit…",
+      "url": "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea",
+      "source": "The Guardian World",
+      "feed_id": "guardian-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-22T03:56:46.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
+      "id": "02b9f6020b52e29b",
+      "title": "イランのモジタバ最高指導者、国会議長と面会 米イスラエル情勢協議",
+      "description": "イランのモジタバ最高指導者、国会議長と面会 米イスラエル情勢協議 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vLTZNdjBJMlI1c29VVmdVOHdtZlRzeDdlVDZlZzZ1cThnUGNVU3diOWdCaGFBQkNDSjlXQTQtSjlaX2tkLU1DS2hTNjNMSkQyODFCdlhjMng3NU9vQkpnQm90VGdxSFhaQk9Zdg?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-22T03:55:43.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
+      "id": "b2917dd007e79a8e",
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "description": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
+      "source": "BBC World",
+      "feed_id": "bbc-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-22T03:48:50.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
+      "id": "8c66f5fc30197cf1",
+      "title": "ispace、JAXAの月面太陽電池タワーで契約 開発計画の全体像示す",
+      "description": "ispace、JAXAの月面太陽電池タワーで契約 開発計画の全体像示す 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xNllULVFFMldxbWVjclBhV3lxUlZUV1ktclByRWtsSjdreGR1QmR2aHIxWV9Xa0JCUUN4eDhnSGlRNVRGNUE0RjJXWGxJaFR2ZkIyLTVvcm9rV1Q3UXFUNWJ3RXRhVXVzSDVFUQ?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-22T03:40:10.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
+      "id": "9df5befda143b2e5",
+      "title": "Elon Musk's ex-girlfriend must face xAI forum countersuit",
+      "description": "Elon Musk's ex-girlfriend must face xAI forum countersuit Courthouse News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ0tlLS1mSWcyVnJNb25seEdYQTYteVhLLThDaFpEaGtJN0ExZFI0YTdtelVnQ0hRVGlGYzhOVDA3c0lSSk9iNEdiMi1JQ29telgyMnlFeWF2ODZFdFdINVJRRTRQdHNNUGZGSHB1dWdlRUx6TW9qQXgtU24yU1Y2RUZVRFJ6eExmank5QlAxR25oZw?oc=5",
+      "source": "Courthouse News",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-22T03:32:48.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
+      "id": "191d8b03d9f2d566",
+      "title": "メタ、AI「ミューズ」無料モデルに賭け 23兆円投資の成否を左右",
+      "description": "メタ、AI「ミューズ」無料モデルに賭け 23兆円投資の成否を左右 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DVUs0SjVFYkdkVEp0NVl0Ukx6Vm1rT24wLWJSTEc5a2J1Y2F1UHg4NVNSaHIxcWV0UmZ6XzRZdEpLRmlvUldxWExKbjhLZlViUmNxeDM3SUV2dV9SN0I3WVRsZER2WmVXX1F3TA?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-22T03:27:03.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
+      "id": "8012eb110cc3005f",
+      "title": "PHP脆弱性問題、政府は分析急ぐ 官房長官「重要インフラに注意喚起」",
+      "description": "PHP脆弱性問題、政府は分析急ぐ 官房長官「重要インフラに注意喚起」 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WM2xmdVpiNVNRRlN4RGtTblY3QVR3WDRSS3B2YmhrMWo5alJoWlhjMGIzWDFUREpVWTdrTkNZUHdKcEV4cndmS3FlZ09lOHZlSjc2cjRkQ3I2Vld3bTl0MmdGX3plMVlCSUJNQQ?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-22T03:21:44.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
+      "id": "a9b04ec202f929cb",
+      "title": "Trump administration seeks Supreme Court approval to build Big Bend wall",
+      "description": "US federal judge blocked wall's construction on Texas-Mexico border amid an ongoing legal battle.",
+      "url": "https://www.aljazeera.com/news/2026/10/22/trump-administration-seeks-supreme-court-approval-to-build-big-bend-wall?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-22T03:19:38.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
+      "id": "f4e9918f5012a9df",
+      "title": "首相、自身のHP一時停止 PHP問題へ対策（共同通信）",
+      "description": "首相、自身のHP一時停止 PHP問題へ対策（共同通信） Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GclhfSUx0bGhDU1QyVUhRcThzTzBkUHFsN2RQZFd1UlhCQUdJM2F5dlZxYnU3bFIzemh0M1JRRVk1VlRCUDRFWGQ4UkZxdVdPYnNRd3pRMEFwdmRIb0I5ZjBPc1JISlZ4T0NOdy1IcGpwOEZDVHUtdjgzak5Oak0?oc=5",
+      "source": "Yahoo!ニュース",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-22T03:14:23.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
+      "id": "932b76322c941123",
+      "title": "US embassy accuses Canada of election meddling ahead of midterms",
+      "description": "Prime Minister Mark Carney dismissed the claim, noting that it was the that US initiated trade actions against Canada.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo",
+      "source": "BBC World",
+      "feed_id": "bbc-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-22T03:05:28.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
+      "id": "4c17fc0e6f470aa2",
+      "title": "PHP欠陥、銀行や通信でもサービス停止広がる みずほ銀など一部再開",
+      "description": "PHP欠陥、銀行や通信でもサービス停止広がる みずほ銀など一部再開 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MQlBqTmFWVzhtSGI0RERsS3kzOEZJV0F5d2VaWVA3VTl3Y3FDX29MSjVOenE3RC1XQ2lRRHpXWTBKR2VZLTdPa1ZxVzVRd0hLejV6LWIzRmsyMU43Z25vVjQyODNtZTJ1WlctbQ?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-22T03:04:19.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
+      "id": "fba134a012c0c14c",
+      "title": "マクロスコープ：防衛費増額、「対象予算を拡大」と関係者 実効性と日米関係に課題",
+      "description": "マクロスコープ：防衛費増額、「対象予算を拡大」と関係者 実効性と日米関係に課題 Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTmluTEFhTGpLTVdNNm1MNGRNZzY5ZE1hQUhacEhqNzM5RGo1YjlnZ0Z6YWpaenFUa3RDNnIybWpzMkNoWnVwOGhtYlZSY2ViZ2N6MW41djdGWlR1S1VWVlRmck5rSW4yZTNzTnhKSWU5d0NxS21fc0EzU1NXZUZmYXp0VQ?oc=5",
+      "source": "Reuters",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-22T03:03:00.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
+      "id": "6579b2d8955ce960",
+      "title": "高市首相「大至急のお願い」に騒然 30秒で早わかりPHP欠陥の影響",
+      "description": "高市首相「大至急のお願い」に騒然 30秒で早わかりPHP欠陥の影響 zakⅡ",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xT1A2LUpzcFNrSmRtSEd4bW9ONGIzZ2RGNnl4cWR1YzdONTBTdDRqUW5KTzA0X1ZfUS1YcWVZT3pJNi1HRFhobWxWdm1Vc3NqNV9taFhxcHB5alhzYnJEaDV6U3FQY0x4NElDNHJhVnZHSzRfMG1UadIBjAFBVV95cUxPTW4zSDRLUEo2SHFZRU1mSnhlTVVJLTViWWh5d2NGbkFQdVREaUJ3OEZ6c21PSFJxMTVoUTZsRmRmMmd4cDhjQkxibnNaUWJOMjlvSU5DUkNuTnktdTBNc1hUWE05Mlp0dGVTOGN2OUxSaGgxRDdqRmc1Q2VaVjhVZVpjYlJ5alZFRnhUZw?oc=5",
+      "source": "zakⅡ",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-22T02:56:19.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
+      "id": "66fe151555ea8bb9",
+      "title": "政府、ＰＨＰ被害報告なし 「サイト停止も有効」：時事ドットコム",
+      "description": "政府、ＰＨＰ被害報告なし 「サイト停止も有効」：時事ドットコム 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxQ0ZIcFB4NWZJSHRvc3U5MXRYaENqU01DYmdSWjV6SEt4UVZvTW1XNXlUaWhFM1YzLUpHdXNKRmVVY1FTQTVnUGFxN2tLZTBXOWdjWmVZV2d0eVAtd210TU5DOA?oc=5",
+      "source": "時事ドットコム",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-22T02:55:00.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
+      "id": "e79783345047c83e",
+      "title": "韓国サッカー代表の不仲説が国会で議論に…ソン・フンミンら選手間の対立疑惑に懸念（KOREA WAVE）",
+      "description": "韓国サッカー代表の不仲説が国会で議論に…ソン・フンミンら選手間の対立疑惑に懸念（KOREA WAVE） Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CUmpram9vTGlTdGFjR1BjYV9JRWdNNzhoNWsxMW0tcWF6b2plVXFQMWF3enpqNGxXcW1KMzFlSC1NcnQtdkVQQ2praHNjNGRXdExhR0MzcG0zZDNSbEFPcmNYd0RWcWtpV3dNc1BTRkJ1eGhldGRJTnlELUdxNjA?oc=5",
+      "source": "Yahoo!ニュース",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-22T02:51:18.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
+      "id": "5c1c4cb473642584",
+      "title": "DeepSeek wrapping up $15 billion fundraising to fuel AI race",
+      "description": "DeepSeek wrapping up $15 billion fundraising to fuel AI race Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQkI4b1B0WkYzUnhGdTF6b0VTRnBCWjRxelF3Q2g4VlRjTzNUOFFTZUhrM3VHSWs2M1VpWkZqN0FleF9JREgzdXpEWFNHM0VvSXhhNm5pdHRXZkRrNUR0UGFJVUMzRjNDWWRwZ0ZtOEsyMm93VU82Rno1R3FxQTNxMllyeWh2YnJRY19hUjZMbExjank3YUg5anFYdjRHRUdnSlN3cFMwMU9TLVBDSldIYUpUdy1vYTdtS3RHTnphNU1KYTdtYWVzNFFR?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-22T02:46:00.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
+      "id": "8601d18dfa64ebe2",
+      "title": "トレンドマイクロ株価が一時7.8%高 「PHP」欠陥で物色",
+      "description": "トレンドマイクロ株価が一時7.8%高 「PHP」欠陥で物色 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45bGdaSXE0eS1LTHI3WmtheW9hOFJYRm5oSzhKV2xXTXg0WVBrV0hGQmk4b1hDU2Fsc092UDBDaUh2WmItRXpHZXJnVDBpS1J3RW9BYlo3Nm5YcWVBbUlRTVlHc180UVNyeWx1MQ?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-22T02:44:16.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
+      "id": "a056c776c3398462",
+      "title": "日経平均前引け 反落 703円安の6万3917円",
+      "description": "日経平均前引け 反落 703円安の6万3917円 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwdWFqLTFiRGRGYTh2TjczNGJsV1hhQTQtWW5DVHJrMmJ2ZEdKTWJfdVR0dUVrUGY1aUxiek9mOU5GU216TmdBdXRlbzI1Tl9BeUJSd01aSWpxT1pheWlVeWl6WW4tcm9TOE5rQg?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-22T02:40:43.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
     {
       "id": "91a927f149bbdbfe",
       "title": "高市政権１年、自民党内から早くも「再選支持」発言相次ぐ…非主流派は様子見の構え（読売新聞オンライン）",
@@ -14,6 +326,18 @@
       "hint": "日本政治",
       "published_at": "2026-10-22T02:38:19.000Z",
       "first_seen_at": "2026-10-22T02:51:06.088Z"
+    },
+    {
+      "id": "df58d4b1bafdfa19",
+      "title": "Australian TV reporter rescues man from sinking car during floods",
+      "description": "Australian TV reporter rescues man from sinking car during floods Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWGdzeDZIcFF6aEN0cy1xTWo4T0tXWkI2RHg4UFFDQlM4WFFyMGJSVXpiazI2aklQdjd0OTVDVVVZUFp1bjlnSGZaY0EzMk5WYkthRWdsU3RUdW80dHZHUzV0VDBVck1zTE9remduZTMyV1M2NHZZZ0N0M3VjV0lTNm1TYXczMU1FcUd2ZnBXZnFhTTNjZkFDTExWQUNhMkdYeEFLamxHbWNQWTU3anFwc1pLV2FLclhw?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-22T02:36:00.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
     },
     {
       "id": "0c2dd3670075ed11",
@@ -38,6 +362,18 @@
       "hint": "日本政治",
       "published_at": "2026-10-22T02:32:39.000Z",
       "first_seen_at": "2026-10-22T03:00:22.961Z"
+    },
+    {
+      "id": "da3c7b5845e1bb28",
+      "title": "維新秘書が関与の陳情書が波紋 都構想、住民投票の用紙にも影響？ [大阪府] [法定協議会 区割り][日本維新の会]",
+      "description": "維新秘書が関与の陳情書が波紋 都構想、住民投票の用紙にも影響？ [大阪府] [法定協議会 区割り][日本維新の会] 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ralFWYTFKc0RyNVc4cTBQRW1wYmYtWExKVjNEb3VRUjhGbGh6MEZxdHBZQlNNSGlweXpUbXZKdU80YldMOTVUUF9NVklyS0p2Ul9JZlZJMkV0U0JENms3dXJnU0Uxcjg?oc=5",
+      "source": "朝日新聞",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-22T02:30:00.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
     },
     {
       "id": "5d79bcc61ec34f45",
@@ -76,6 +412,18 @@
       "first_seen_at": "2026-10-22T02:51:06.088Z"
     },
     {
+      "id": "6091ea8a6675fed9",
+      "title": "China’s DeepSeek Raises $15 Billion to Challenge Top US AI Labs",
+      "description": "China’s DeepSeek Raises $15 Billion to Challenge Top US AI Labs Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbV8yRlI5QUgtclQ1Y25PbklMNW5ITlNyUm9udEYwQkFaRmoxZ3R4bVdKOEItVVpLX3lXejBfSzllSVZUTFZuRDVSckkzcHJrUnZwRVhCamxrMzh6cjVPYk04N0thbjRlenFlLXZpT0E3TUtsSzFlS1VBY2NHRTh2Rk5NNDhXRVVoYnJHMWFPbFVPbzZoQm5VMzBpREs5b183eE9PQTZ1SGgySkVxTFE?oc=5",
+      "source": "Bloomberg.com",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-22T02:17:00.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
       "id": "6bb1c849e664ea1c",
       "title": "Russia frees American Stephen Hubbard after 4 years behind bars",
       "description": "",
@@ -86,6 +434,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-22T02:16:25.000Z",
       "first_seen_at": "2026-10-22T02:51:06.088Z"
+    },
+    {
+      "id": "00a65c52d510b49d",
+      "title": "Asian markets dip as investors weigh tech earnings, Gulf tensions",
+      "description": "Asian markets dip as investors weigh tech earnings, Gulf tensions Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNmlzbXFUNWNXc3U3RHRac2lYVEhXNjZmZGw0Q19yNVRORUEtak91QlJnTEVqcGhWT2xuT2RmOHdTVHlyN1JmSHRVZEpfMzgtNEVMT1RCWk1VNGswaVFYTXI4WlFpUE95aEJid1NxNVNBdzBGX0pzOUQwMnZnQ25kOVNXQQ?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-22T02:15:00.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
     },
     {
       "id": "dadf6187b70a5d44",
@@ -100,6 +460,18 @@
       "first_seen_at": "2026-10-22T02:51:06.088Z"
     },
     {
+      "id": "9d2ddc5f02ada842",
+      "title": "Dip in the dollar takes a breather with Fed in focus",
+      "description": "Dip in the dollar takes a breather with Fed in focus Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeE9SaFExZHZyS2plVTA2NHNkbDFpcGpBSVVhc3J2NmZrRmtMRW1uY0FUU0JDMGtFQncxcnB3bUlFY21oa3V2VTZtOWsxcEVrWFhfOWZOd2oxY09XaWtpQ2ltWnE2NFFTYmg0OVNhaHJLVFdocG9NdGh1N3hjVzRPZUJlVW8wRFU3N24zR0tZbjk2bkNGVFhXaE1qbw?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-22T02:10:00.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
       "id": "40bf5748c53b01f0",
       "title": "Tigray resumes daily life amid fears of wider war",
       "description": "Mekelle’s reopening offers little relief as instability and economic hardship persist.",
@@ -112,6 +484,18 @@
       "first_seen_at": "2026-10-22T02:51:06.088Z"
     },
     {
+      "id": "165c98116f878e97",
+      "title": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns",
+      "description": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcjRzbWZvU2s3cXVzUkR0Y2o1Q2picDNXb1dvRVZJSTQ0Z3hoMmYtUjlRa3RUU3hlY1AzN1BTYjdqVUFkRFJhaW9HSGpSLU1BdDA0cHk3RXZBUHhLaFRULWJCMTJZcTlKaE82ZGlxbko0blQwVjJycU9kNHN6dDllQ0ZYTl9ZdWQycHZSVHZKcHNaUFZSby1pN3RGdHR5bXNOeEI3R1JzUHlDa0hhbU5Vdndpb0FyZw?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-22T02:03:00.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
       "id": "fcade75d5251d24e",
       "title": "What is the FDLR, and why does its anti-Tutsi ideology endure?",
       "description": "Four former FDLR officers reveal how its anti-Tutsi ideology took root and endured in Africa.",
@@ -122,6 +506,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-22T02:02:55.000Z",
       "first_seen_at": "2026-10-22T02:51:06.088Z"
+    },
+    {
+      "id": "2bf03144b91601c4",
+      "title": "東京都心の中古マンション価格、1億7000万円台に下落 調整色強まる",
+      "description": "東京都心の中古マンション価格、1億7000万円台に下落 調整色強まる 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TMDM3akQwQW5yelcwSlpxR1RCc21pVEhib3cySVlmdjdLS0JZMWpOZ1lULWV2Qkw5MW1IYWNOSGdldHNBMXlkczh3Mkx0ZkJuaUFUdGJuRmJuTlA3OFBzMDNwQVlPNm9lMTZ5Mg?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-22T02:00:00.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
     },
     {
       "id": "707216beb7ead497",
@@ -244,6 +640,18 @@
       "first_seen_at": "2026-10-22T02:51:06.088Z"
     },
     {
+      "id": "b0d8e1058f313f3a",
+      "title": "Indonesia issues record fines to companies over stock market violations",
+      "description": "Indonesia issues record fines to companies over stock market violations Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY3MzeE9TNmZPQTI1dUhlSW9PZktuNzdWOUFsdnFkbkcxT01LMjZwRHJEU0xVVU84eERjYjhmcGd4X3FjVnM2NXJKWVptM2RfaE9MeXpraE5oT1BFenV3NTZxR2ptOWFmYkJUYmJmRVpieGhEX0VHRmxYQ2NMTzdwYmRuTUZ4OWxmLVpLZTJNS040TVJjOUIwcDdrbDlXZUh6RU1wNGhSWVV5WGtpWnIzVERpVEt2MWtub2h2Q3JId18?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-22T01:23:00.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
       "id": "58fea97a0d5e6d19",
       "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
       "description": "Russia frees Stephen Hubbard after US request while Steve Witkoff praises Putin, wanted by ICC as war criminal, as a ‘humanitarian’ Vladimir Putin ordered the release of an American man from a Russia…",
@@ -302,6 +710,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-22T01:09:40.000Z",
       "first_seen_at": "2026-10-22T02:51:06.088Z"
+    },
+    {
+      "id": "ec18822e5a6301d4",
+      "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+      "description": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o",
+      "source": "BBC World",
+      "feed_id": "bbc-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-22T01:07:34.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
     },
     {
       "id": "107ba39b2354805b",
@@ -388,6 +808,18 @@
       "first_seen_at": "2026-10-22T02:51:06.088Z"
     },
     {
+      "id": "a9b9625f475a6629",
+      "title": "AI uncovers massive flaw in web's foundational code",
+      "description": "AI uncovers massive flaw in web's foundational code Axios",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yWTJaTHNWSEthd09VenZuMVhjNjBjb1ZjS2haLUZXb2xvNDhBWXQwUzY2YkJTbkplTHk4ektpVno5NFpJME04alZvaVJ3SjhCNXRURlJmQ0dreGd2RVdUbzBPUVVuY2F6cDdJd0xQVG51Y0s0eDN2V1lmMA?oc=5",
+      "source": "Axios",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-22T00:52:56.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
       "id": "192115f9e5d94c8f",
       "title": "Russia frees American Stephen Hubbard after over 4 years behind bars",
       "description": "Russia frees American Stephen Hubbard after over 4 years behind bars AP News",
@@ -398,6 +830,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-22T00:52:00.000Z",
       "first_seen_at": "2026-10-22T02:51:06.088Z"
+    },
+    {
+      "id": "66b883ed93accc31",
+      "title": "商品9時30分 原油が反落 ロシア産輸出拡大の思惑で 金は反発",
+      "description": "商品9時30分 原油が反落 ロシア産輸出拡大の思惑で 金は反発 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42aDdRMVF5UXNsVVE0M0VGOGRpQVpFWFFMX0VNT1o0R1ljckRITkszNjBFUExRejg3ZDJzTGJ5bnhRSUhqVWpZaG9vUVgwd18taWdiLWFaZU1ZcTVKY2toUWRFSExjbWgxX2ZDcw?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-22T00:51:54.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
     },
     {
       "id": "ee6b3f648d5c00ef",
@@ -434,6 +878,18 @@
       "hint": "日本政治",
       "published_at": "2026-10-22T00:32:00.000Z",
       "first_seen_at": "2026-10-22T02:51:06.088Z"
+    },
+    {
+      "id": "fad0c1df1032099b",
+      "title": "FASCSA Orders Require Exclusion and Removal of DeepSeek AI",
+      "description": "FASCSA Orders Require Exclusion and Removal of DeepSeek AI Crowell & Moring LLP",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSzJSLWRySTRlazdTeWJINjlIUWRTRXM4X0d6UFgzYy1vcmNxQWJyRjUxUVlQRGxvY2dFS1JHandNdDVPWDdTSUdXMFh6Q0FpS2FnYjd1bko0T3ZyQmJRcWgxak9MRVBhU09BUU1tZFlQNFB6N19XNHhPbUJrVThCUkRGTTRJOV9DNFpDVGhFWjVNOWpKTEpMQkFDMTB3UlY3WERsVFdHMW83cXQz?oc=5",
+      "source": "Crowell & Moring LLP",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-22T00:30:41.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
     },
     {
       "id": "286892780cea69df",
@@ -496,6 +952,18 @@
       "first_seen_at": "2026-10-22T02:51:06.088Z"
     },
     {
+      "id": "a843e439245afb1a",
+      "title": "三菱UFJ、ネットサービス一時停止 投信口座開設や住宅ローン事前審査",
+      "description": "三菱UFJ、ネットサービス一時停止 投信口座開設や住宅ローン事前審査 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zT25zZUNRYW5jdktqRi1fVTR0ZzBUOFZzSDNBNTVBS20tY1AxMXBLQmIxWDdWZDVWNU1Ib2NDTzFoVTkwSE9USnU3bWZmUG4tSnZqbkF4NGp2WUVtMkRkUUNSc0s4NVdOR0c4YQ?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-22T00:13:24.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
       "id": "897d5ba131d8ed39",
       "title": "World leaders warn of security flaws found in PHP programming language",
       "description": "AI was used to pinpoint two vulnerabilities in the PHP language, used by about 70 percent of websites.",
@@ -518,6 +986,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-22T00:00:00.000Z",
       "first_seen_at": "2026-10-22T02:51:06.088Z"
+    },
+    {
+      "id": "d39413651715ae7a",
+      "title": "China, Djibouti say all countries should enjoy freedom of navigation in Red Sea",
+      "description": "China, Djibouti say all countries should enjoy freedom of navigation in Red Sea Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS3l2ZmtzUVhITGFNRFEzdmNhN3NLUkZJcTdoZHpXYklPc2NYYU4zN1lTandfbnFqZllHR2FnamxwbTBpd1k5R0xnSG0tYktwWDJMbGZqMl9fbHlnN3Vjb1oxQWJBYjJNdHFrSEJ5Mm1iU1R4MV9VSG80UHZEWG1uMzRrckxUVDE2SlJpdU5nSmktaVJpdkhrN2VIb1hHSlpxQ1RMSFd5Tk8xNFVOUEhqdTJtbWYzYU9MNnV0Sg?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-21T23:58:50.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
     },
     {
       "id": "5aba02af73c4862f",
@@ -592,6 +1072,18 @@
       "first_seen_at": "2026-10-22T02:51:06.088Z"
     },
     {
+      "id": "c4981f62285593d7",
+      "title": "OpenAI’s models are deliberately breaking their misalignment monitoring systems",
+      "description": "OpenAI’s models are deliberately breaking their misalignment monitoring systems CSO Online",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNUZ5VnBRNXhrbFVmRVExZVFQVnNfbnI4OTg0ejNNbUVqUElnNS02UTVhSm8zZVVNNXhzc28yRjFHdFloSHR4bU5mNkhPQmtTNG9YcXQwV243akJEN2RRRm1odTlURGtqWTdOMGVCTnhYZTNUQTJqT29HcHJSQzRqQm0ydlVEZlJULUxqeXI1SUdCMnVHTm9yV1dYUTdUQklvNG9XTXpnSHd4NXFkc3FfcGJ4eFR0UDY3eU1qQXU3R0U0Tmc?oc=5",
+      "source": "CSO Online",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-21T23:48:42.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
       "id": "3c9f9c0f8526b049",
       "title": "Rice rescues Arsenal at Bayern as Real Madrid hit four",
       "description": "Rice rescues Arsenal at Bayern as Real Madrid hit four Reuters",
@@ -614,6 +1106,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-21T23:30:00.000Z",
       "first_seen_at": "2026-10-22T02:51:06.088Z"
+    },
+    {
+      "id": "3968456fac7a64be",
+      "title": "Ohio State University disputes DOJ finding that medical school discriminates in admissions",
+      "description": "Ohio State University disputes DOJ finding that medical school discriminates in admissions Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQzJTZy1ySkluU015LWQxS193ZEM2NDdxa2xJVUN5eV9MMmRjZGNld05LTXN0djBGWXpLMUJ1al9XUXpPakdwcHZac01MdHVmbmtJWHpOOGNZY3BiV1YzazYtWkFVUjNid3BwSzNseGh0LXEzNkV6YnJVUlFSYUlNOUlFQU01a3hKVU5IYXZWNUpzVEdSaDhwa05YZGZjel9EclpGM05HMmJTSUNHRS1FZDVrOGdFVTk0UmZ6U2VMRkFmM2pnb3FyYQ?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-21T23:29:34.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
     },
     {
       "id": "871671182ad8cea7",
@@ -892,6 +1396,18 @@
       "first_seen_at": "2026-10-22T02:51:06.088Z"
     },
     {
+      "id": "3acf591da5347eae",
+      "title": "Kinder Morgan to invest $4.7 billion in two gas pipeline projects as demand surges",
+      "description": "Kinder Morgan to invest $4.7 billion in two gas pipeline projects as demand surges Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdUl3bWtsdWdwdG1wRGxadS0xN2pvc3JzdFNJUmhOdVVUamJMQXdLMWtyaEhQRVQ5bTJSSXZqclphNlhzbW56MGdDUXJMUEtja0dhYUR6X0RkcEZUV2ZTU1BjWWgyeGJyUk1yY0NHU295YzRHcW1PSEJGN3lJVkNMbVZHaDhwb0xFYjUydTRzcGZoSDI5SFlRMkJ6ZnNfbVdDOHVINmVvQzBxY09hUFAwUlNaRkVDMkhWbkdjYlpLanYzUQ?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-21T22:51:44.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
       "id": "25443172439e4af4",
       "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
       "description": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
@@ -988,6 +1504,18 @@
       "first_seen_at": "2026-10-22T02:51:06.088Z"
     },
     {
+      "id": "dcbe63a42fa85390",
+      "title": "Retired NYPD detective arrested in road rage killing on George Washington Bridge",
+      "description": "Retired NYPD detective arrested in road rage killing on George Washington Bridge AP News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVERvU054QlZZQ1FzcnkzZzNiTkxjSjg0TjY3VFdnR3Y4cVlQV3dCNThjVWpCYUFBMTQ4dm50R0tuM2I5cFRhXzFORFJSRkhPTEVFYl9wdXhZejgwVlhwZlJ0VGhDZmJBa2ZqM1JfcDRTRXhkOGxIOENuQXVoRTZzY1F4d1Z5SVhWQnppbTZFb09pXzNIWlZUUzNVOW4?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-21T22:23:00.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
       "id": "5c528379a38fcc9a",
       "title": "Saudi civil aviation says one killed, eight injured in attack on King Fahd airport",
       "description": "Saudi civil aviation says one killed, eight injured in attack on King Fahd airport Reuters",
@@ -998,6 +1526,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-21T22:21:44.000Z",
       "first_seen_at": "2026-10-22T02:51:06.088Z"
+    },
+    {
+      "id": "e1a102a7232d3f34",
+      "title": "New Mexico sues Epstein lawyer and accountant, accusing them of hiding his sex crimes",
+      "description": "Both men have denied having any knowledge of Epstein's crimes and their attorney rejected the lawsuit as \"categorically false\".",
+      "url": "https://www.bbc.co.uk/news/articles/cqx287g8714lo",
+      "source": "BBC World",
+      "feed_id": "bbc-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-21T22:20:22.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
     },
     {
       "id": "fb423e237f47ce53",
@@ -1360,6 +1900,18 @@
       "first_seen_at": "2026-10-22T02:51:06.088Z"
     },
     {
+      "id": "819c1ce59324a7f4",
+      "title": "日本株ADR21日、高安まちまち みずほFG上昇、トヨタは下落",
+      "description": "日本株ADR21日、高安まちまち みずほFG上昇、トヨタは下落 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jLWFVQUVzdThSVkU3ejItREFmLVBDcDZyLVd4aXVEUnduVm1zWWtBbjB4WkJpYnFoTEtYb2R6MjQ4UWxBLWZOTkxPZlFzdlVJOVp0Q2hlNGhCbmdfMlp6YnRDemF2NjdoQU5DNQ?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-21T21:13:36.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
       "id": "21c17265ad189a07",
       "title": "Vance defends Ramaswamy's explosive attack ad in Ohio governor race",
       "description": "Vance defends Ramaswamy's explosive attack ad in Ohio governor race Reuters",
@@ -1394,6 +1946,18 @@
       "hint": "経済",
       "published_at": "2026-10-21T21:06:10.000Z",
       "first_seen_at": "2026-10-22T02:51:06.088Z"
+    },
+    {
+      "id": "7a5fffe3497aaa05",
+      "title": "A strong profit report from SpaceX helps lift tech stocks and Wall Street",
+      "description": "A strong profit report from SpaceX helps lift tech stocks and Wall Street AP News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUGV1X1dKd0F3eTZSZ0F5ellKQVJuc3B1cEFzVGl4dFlSbVU3eFRJZm9lOXJjNDFHN1g4VGpZZlczQUdVR3ZRQ2h0VlpqaW0zU05LelZEb0I4eGJoVC1oZ0M5WktyVGJUZTZrbVBtdnRuNmpud1Y3WkF4bUI4R2xXQ3lTZnZMX09zOVZHOFhndWh0dWtyQ0VDakh0X24?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-21T21:04:00.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
     },
     {
       "id": "72fe1e2ef885e25f",
@@ -1502,6 +2066,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-21T20:54:27.000Z",
       "first_seen_at": "2026-10-22T02:51:06.088Z"
+    },
+    {
+      "id": "54e5f68f17d6e38f",
+      "title": "Anthropic Launches Claude Duet, a Proactive AI Agent",
+      "description": "Anthropic Launches Claude Duet, a Proactive AI Agent MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pYzdSRjZBUnJFZ1Utalp5YkQwUmVIS0piUmxUZnlieHpObW1VVFk2NER4V2hObnNhRlBvdkJ4alZNUFpHZjE4dXR2STRFeXJweTYtbU5lRXF3N0RsamxFMXpzNTRpY3MzNGdr?oc=5",
+      "source": "MacRumors",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-21T20:52:59.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
     },
     {
       "id": "a9531dd1053a524a",
@@ -1886,6 +2462,30 @@
       "hint": "日本政治",
       "published_at": "2026-10-21T20:00:00.000Z",
       "first_seen_at": "2026-10-22T03:00:22.961Z"
+    },
+    {
+      "id": "2c292c2db64f0471",
+      "title": "高市政権、戦略17分野を順序づけ 半導体・水素など事業段階で3分類",
+      "description": "高市政権、戦略17分野を順序づけ 半導体・水素など事業段階で3分類 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XSW9wVjhuN1RfS0E0enJIdmN0RWJ5Vmt4N1ZnTm1SYUtYMFp0T2g0ME55WFUybWVaQ2lITnYxRzVVWmQ5Y0VpRVd5anpINVlPRnNZTlB6dUpIb05MNnkyU0ViTU1Kd3NqZ0ZKUg?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-21T20:00:00.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
+      "id": "fc127dab90b246d2",
+      "title": "JR九州のローカル線、インフレの逆風 鉄道改革で収支改善",
+      "description": "JR九州のローカル線、インフレの逆風 鉄道改革で収支改善 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RWG5GUVFBaDFNMlZHVDkxVlB0UUVCV1owNFFuYnMtT0k2TjJUU2NHbXV1eVI4SURqeVBHbTJ2OHVMQV9IdXFPYTdiVjJ1eWp5ejM4SGVCNEZRa2xWckJhYkdzUy1BS0gteUVFXw?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-21T20:00:00.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
     },
     {
       "id": "0fef6036545a25f7",
@@ -2452,6 +3052,18 @@
       "first_seen_at": "2026-10-22T02:51:06.088Z"
     },
     {
+      "id": "d51df4a5b9f24b0d",
+      "title": "大学院1年で教員免許、実習中心で給与支払い 社会人の転身後押し",
+      "description": "大学院1年で教員免許、実習中心で給与支払い 社会人の転身後押し 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KTExvUk53TUpiNkhLZEFzT25JMmVlS0REVkI2MENidkszY3p0TWpwVkdKaGVsd1JKcHZsbzdEY09uQTJqa3ptNURJTG9uYmpyU0NYVUxIcG5FV2tIUmdmSWxDa0FaTVZ0eU9jLQ?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-21T17:00:00.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
+    },
+    {
       "id": "ada92ca08eb3ec59",
       "title": "Family of prison officer killed by IRA receives state apology",
       "description": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
@@ -2546,6 +3158,18 @@
       "hint": "経済",
       "published_at": "2026-10-21T15:58:05.000Z",
       "first_seen_at": "2026-10-22T02:51:06.088Z"
+    },
+    {
+      "id": "f6660d7e893cd080",
+      "title": "FACT FOCUS: Trump and Republicans blame France's immigrants for riots without evidence",
+      "description": "FACT FOCUS: Trump and Republicans blame France's immigrants for riots without evidence AP News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOckdWX2JkZWpxZFMyak5XSnVpeGN2VUlPMldvNkFJaWUycFI4RlljLU5ZazNRNy1DYWFpdHYxRUlndU1PQ3RCRFRwUnlEdms1ZVc3dW9pWjMxQVNfTm9JbzE3V0M2SnJDV29yZ1p3UUlGVVlZajV3T0xwVExxX2hLRzZ0VXFaczlVdExkaERPZHlDQWswUUFhd0t5NDBuQQ?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-21T15:51:00.000Z",
+      "first_seen_at": "2026-10-22T04:53:51.437Z"
     },
     {
       "id": "868142a7beebdcd9",
