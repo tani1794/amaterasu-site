@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-22T02:51:06.088Z",
+  "updated_at": "2026-10-22T03:00:22.961Z",
   "window_days": 7,
-  "count": 362,
+  "count": 370,
   "items": [
     {
       "id": "91a927f149bbdbfe",
@@ -14,6 +14,30 @@
       "hint": "日本政治",
       "published_at": "2026-10-22T02:38:19.000Z",
       "first_seen_at": "2026-10-22T02:51:06.088Z"
+    },
+    {
+      "id": "0c2dd3670075ed11",
+      "title": "Can Trump deport Congresswoman Ilhan Omar?",
+      "description": "",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/can-trump-deport-congresswoman-ilhan-omar?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-22T02:34:46.000Z",
+      "first_seen_at": "2026-10-22T03:00:22.961Z"
+    },
+    {
+      "id": "ffa9263d682da2c3",
+      "title": "政治の動きを写真で：政治の動きを写真で「10月22日」 [写真特集1/6]",
+      "description": "政治の動きを写真で：政治の動きを写真で「10月22日」 [写真特集1/6] 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5adnpEU3pBb2lDVWttUUNzeUJLbXVJQXItRnhvVGJDeWtLbkp1TmdCUXZxdXVKSGJnMW5xTG9uQ09iYUxfU19XbUdURHhQX0dpakdGTm5vdUxCUnM5dlVmRjNzUXQzZw?oc=5",
+      "source": "毎日新聞",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-22T02:32:39.000Z",
+      "first_seen_at": "2026-10-22T03:00:22.961Z"
     },
     {
       "id": "5d79bcc61ec34f45",
@@ -134,6 +158,18 @@
       "hint": "日本政治",
       "published_at": "2026-10-22T01:53:32.000Z",
       "first_seen_at": "2026-10-22T02:51:06.088Z"
+    },
+    {
+      "id": "3f772c28d9df1a7c",
+      "title": "MLB:大谷翔平の手術「選択肢にない」 ドジャース幹部、来季も二刀流",
+      "description": "MLB:大谷翔平の手術「選択肢にない」 ドジャース幹部、来季も二刀流 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkRUJ1V2o0LUkwSl9Ja1NjV1BQMjJqN1o0b09RSU9LQzJFaWRZUE9XRU9reHp1Nm5JM2NhNmpZY0ZRTG5sYlVremZpUjdiMVNqemx1Tkx0SGxaNW54TG0yOVhVbWxFVDRQVFljZQ?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-22T01:51:00.000Z",
+      "first_seen_at": "2026-10-22T03:00:22.961Z"
     },
     {
       "id": "9744cb2574cb62b8",
@@ -1840,6 +1876,18 @@
       "first_seen_at": "2026-10-22T02:51:06.088Z"
     },
     {
+      "id": "ea3fc1a9da0b5cd6",
+      "title": "政権発足１年「走り続けてきた」 物価高対策「実感できない方も多く」",
+      "description": "政権発足１年「走り続けてきた」 物価高対策「実感できない方も多く」 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0weWo0OGY5UmNTTks1bEE0Q3JnZEVXRmNIRTB6NDVpelI2OXhuSVJWZG9EY01ORS1zc19NMVBrYklFQTJMTk5Sc1hYOHZxcFFTZlZKMDlZUXpQZHBt?oc=5",
+      "source": "朝日新聞",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-21T20:00:00.000Z",
+      "first_seen_at": "2026-10-22T03:00:22.961Z"
+    },
+    {
       "id": "0fef6036545a25f7",
       "title": "Former Harvard AI Adviser Joins Anthropic Oversight Trust Weeks After Stepping Down",
       "description": "Former Harvard AI Adviser Joins Anthropic Oversight Trust Weeks After Stepping Down The Harvard Crimson",
@@ -1934,6 +1982,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-21T19:35:45.000Z",
       "first_seen_at": "2026-10-22T02:51:06.088Z"
+    },
+    {
+      "id": "47c6e5c872e25b83",
+      "title": "Just the Docs: DHS Discloses July Order Stripping DeepSeek AI from Federal Civilian IT Systems",
+      "description": "Just the Docs: DHS Discloses July Order Stripping DeepSeek AI from Federal Civilian IT Systems Just Security",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GRFRJTEl4VUhJMW1EbVR1Nzk0YVZ3SjJlbS1ib3JIQzJhaWJ0a21ORlBUMFBlVk1hLUwzczY3QXZFWlB5TTAtc0YwaVhCRzlLbGNqSTJ5Z0JPcVRXb3c1OUxON0VTSmlVWEJoekVuS3JSSExnbmM5RlRiU0dpZw?oc=5",
+      "source": "Just Security",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-21T19:34:33.000Z",
+      "first_seen_at": "2026-10-22T03:00:22.961Z"
     },
     {
       "id": "23a9b3ae4fbd36b6",
@@ -2224,6 +2284,18 @@
       "first_seen_at": "2026-10-22T02:51:06.088Z"
     },
     {
+      "id": "d4d27c1fdd128f5c",
+      "title": "The Huawei-DeepSeek Symbiosis",
+      "description": "The Huawei-DeepSeek Symbiosis SemiAnalysis",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wZER2cWEyekhiQ3c5MWI1NzRlWW5QM3RfcVFfdF81bXhReHh5a0x3a2l4WlFtbWlNbkZFal9YMkR1SkYwQUc4OHpVZzl4MXVIOHR6Ql9OTHlMcm11MUhSeWRGOA?oc=5",
+      "source": "SemiAnalysis",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-21T17:34:38.000Z",
+      "first_seen_at": "2026-10-22T03:00:22.961Z"
+    },
+    {
       "id": "42a280f536bbe1fc",
       "title": "Meta ordered to pay $25 billion penalty to New Mexico in data privacy case",
       "description": "Meta ordered to pay $25 billion penalty to New Mexico in data privacy case Reuters",
@@ -2438,6 +2510,18 @@
       "hint": "日本政治",
       "published_at": "2026-10-21T16:33:00.000Z",
       "first_seen_at": "2026-10-22T02:51:06.088Z"
+    },
+    {
+      "id": "754d2753ec25de56",
+      "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
+      "description": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QdTVJU0xmSkhMaGJHUGVMRmF4N3I5QVl4UDVOd2d4QzBsN0t4bXNoamFudWVpZTJCNmF6b2ExVTB6OE9WZ1dZTzdSNXZqbThhUEhBNkJIUmRwdkxIQjcyREFLV1o4UkZDZXVxWVZBeFpJTW4xUDV1ZUJLWkk2UQ?oc=5",
+      "source": "The Hacker News",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-21T16:33:00.000Z",
+      "first_seen_at": "2026-10-22T03:00:22.961Z"
     },
     {
       "id": "84c4e2c7cdf1a614",
@@ -3230,6 +3314,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-21T03:58:16.000Z",
       "first_seen_at": "2026-10-22T02:51:06.088Z"
+    },
+    {
+      "id": "39ec5298164e568e",
+      "title": "Albanian police clash with anti-government protesters for an 8th day",
+      "description": "Albanian police clash with anti-government protesters for an 8th day AP News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQekVnaXRnX256TDRkb2NINE5LY21OU0xiWTlNVUJtR0t6aVI0QUhIYjZaREowdVJMeWxyQ2xCRDBXMVN0SGZtNjdMQ0Q1RFpETmRTTU9GM3B5U0ZBLUxMOS1uckx0dlM4ZktkaTVDWmdvOXdTT3c4MEhsTjJzSU9aeTIwbXJOR01RY3VLX21WT05xUmRfZXpnQUd4Z3ZtLTdmMGdMXw?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-21T03:30:00.000Z",
+      "first_seen_at": "2026-10-22T03:00:22.961Z"
     },
     {
       "id": "b3e31110db5a1f94",
