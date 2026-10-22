@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T19:11:00.118Z",
+  "updated_at": "2026-10-22T23:09:01.003Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -23,11 +23,11 @@
   ],
   "matrix": {
     "OpenAI": {
-      "新モデル": 13,
-      "資金調達": 5,
+      "新モデル": 15,
+      "資金調達": 7,
       "提携": 3,
       "規制": 8,
-      "その他": 31
+      "その他": 36
     },
     "Google": {
       "新モデル": 1,
@@ -38,17 +38,17 @@
     },
     "Anthropic": {
       "新モデル": 2,
-      "資金調達": 8,
+      "資金調達": 10,
       "提携": 1,
       "規制": 4,
-      "その他": 16
+      "その他": 17
     },
     "Meta": {
-      "新モデル": 1,
+      "新モデル": 2,
       "資金調達": 3,
       "提携": 0,
       "規制": 0,
-      "その他": 5
+      "その他": 6
     },
     "xAI": {
       "新モデル": 0,
@@ -97,17 +97,225 @@
       "資金調達": 0,
       "提携": 0,
       "規制": 0,
-      "その他": 2
+      "その他": 3
     },
     "その他": {
       "新モデル": 7,
-      "資金調達": 5,
+      "資金調達": 6,
       "提携": 1,
       "規制": 9,
-      "その他": 45
+      "その他": 50
     }
   },
   "items": [
+    {
+      "id": "d73c3fbf5a8b67dc",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "company": "OpenAI",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "published_at": "2026-10-22T22:08:24.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "883cd2f36aa4bd7d",
+      "title": "Open call for guest investigators in the life sciences",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93eS1EdWp1NUVXZG1jYXF5OHRWZjgtakZ2WXh6WmY3OHRfWndmTEZlVmRaZGJjSExGdGZvZDZjSEgwbDVKNmZ4WlZxVUliWGdRdE82VzdzVFF6OE0xNEtDeXdaaFJlUXNzdDRNNzJic2lSeHhKWHhKZ3l5MkVGaWc?oc=5",
+      "published_at": "2026-10-22T22:03:06.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "23886969ff468f9f",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ba1lXTGVFWUJQTVA5UUJMdDJfRVNyU0E1cmlUMXJLSkV2X3RaUnFtbmhpT1IzOUxsNlh1LTA3SGxXd2E5MEM0TnFxZ1B1T1drRUNvQXhodk9nVkFSbUlORXRNNXQ?oc=5",
+      "published_at": "2026-10-22T21:58:06.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "5239cf6f7f5ede3c",
+      "title": "OpenAI to grant Effingham County $2 million for park trail development",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "WTOC",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ0NwZGZONmN4TVZWN2pfeWo2bGNZX0x0U2lnNjhLVy1Rb0JpLXF2cXZkT2tySFh2TEUxTElZZnc3MGcxU2xOWVdTSENPQWlJd0pTLXU2dTlNU0E5bXNBU0VqV2VjN01vSEt5c2NmZWRkeWlIblEyYXEzVDYzSDFrZTZCLWhUdVZLMHlYSXBiUjY0amtseWFFY3Z6QQ?oc=5",
+      "published_at": "2026-10-22T21:42:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "2943b882eb7a1ea1",
+      "title": "米ナスダック急落2.6%安 メタは一時8%安、AI巨額投資に警戒再燃",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 7,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrNWJZZjhaX2pEeDZUVGxDNFR2MmZzeTNnTi1fVG1pQ3lCQ2JnWERfUXlLQUhRWUdqUFBrc3czRjkwMVBaYVExWl9MUGt1OFBzMDctb2tHck85aE9JVUpoRTQ4S2o5emZmTzdPdQ?oc=5",
+      "published_at": "2026-10-22T21:35:40.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "cd4c2d121a4dadbd",
+      "title": "Burnham to reveal plans for AI unit to tackle wildfires after scorching summer",
+      "company": "その他",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Guardian World",
+      "source_url": "https://www.theguardian.com/world/2026/oct/22/burnham-plans-ai-unit-spot-fight-fires-faster-record-breaking-summer-heat",
+      "published_at": "2026-10-22T21:30:50.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "af202e4baa3f4c28",
+      "title": "Steep bill for AI buildout punishes Meta, other tech favorites",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaG4yYUM1ZzJnZmtpWnhIUVEzU01PRmxZM1BDRDJLazA1dkdaX3k0Z2pPMHJJUi1HUEM2OF9oV1JzSFh3d1dEU0dzc3JMQWRCeDhRa2JvNGVBbVluUlY4UGY3REoyWVZkTFBZT3BGa0swX2s1RzY3MDM5ZWlBTm1wYVBYNEt5M2VlTFoyRVNTTXJUaUVVYzVNcUtQQ2hfUW9nalZGbQ?oc=5",
+      "published_at": "2026-10-22T20:35:11.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "29a87826b845358b",
+      "title": "Meta’s AI could still scrape news sites, legal experts say",
+      "company": "Meta",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "published_at": "2026-10-22T20:32:05.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "afeec198fbf511f7",
+      "title": "Meta turns Muse sharing back on",
+      "company": "Meta",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "published_at": "2026-10-22T20:24:04.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "adb397617d69697a",
+      "title": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
+      "company": "OpenAI",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yWm1VRnpOb00tR0ZfUDVmaVh2S1dyNVhia0J4OWJ5anpxRUUtbjhHX19IbHZDUEdlVEc4OEE3aHQxNGw0ajhwR0ZDTFdPcC01YzZ6My1HVW84bzFzRHpnNGdkNnRCSnVrYTZMcnBGMjZVd0tIVUI5cWkxQdIBgAFBVV95cUxPeVdKRHhVdHUwa3ZfVkMxQm1od1YycVNSZURFaU1yeS1jUGhUNVF6MTh1aDdObmNuUks4d2k3empTZFNGUnFmZjYzNWR2VTJNbnlhNzI0dmpZZ0ctR3NwT05yTGdqRU5yaGFzX0FWVFpNY1BnbmVMaldMU3NZXzh1OA?oc=5",
+      "published_at": "2026-10-22T20:15:19.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "db50b3d62c1afe92",
+      "title": "Anthropic, OpenAI, Musk Pledge Donations Amid AI Backlash",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Bloomberg.com",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMzR0d0JKUjJLRXVjN1cyRUwwV254RTV4RUNYQWN2NEtqd2Y3UzlrSnRqTmtKd0xfVFRhWHZBZFJDOVhOMFJ1TTI5N1diTEJoS0xId2ZoRlc2TktSN2JiUjRxak15cjhyWC03TnFwV2dkRHgzOWthTEZXekdhRmRJTDhkdUR1U0ozVFA2UUJWUW1tcVhuSmtKWG5aQV9NQjRXQUxNQmtRTER1RjJRbFE?oc=5",
+      "published_at": "2026-10-22T20:01:25.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "fd67dd7815176932",
+      "title": "Evaluators say 'vulnerabilities' found with OpenAI monitoring system",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "upi",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaXplNlRKMmJoMDNvYzRPbFJzb2R4M2RuODBNOEVqUGNIeXZvX0ZvbEFhNFVRbXJsd2U0bGoxajBnaGRfT0U0My1LeFZOQXl4OVFlOVJfMzlYYkdaODdXeVJvWjF0cWxJQmFHSVlVelZMWFVnX0ZIRVYxcEVrU0tlTWU2SdIBiAFBVV95cUxPWkgxSzJBVF9MdTJRWjlqYUdROXFKVlpCX3hpWF9wdy16VUlsdlZ4Wnp3Smg1T0lrZmcxM3pqSDBaZUdubEdVa05NWXNRZnNUaVJkRnBOVk02MmRzSjJOQ1g1QU9wWHNZY2NFbHIwdzh6d2NPanJ5V3V5MWdkanNYc3pIN1ZvMm1E?oc=5",
+      "published_at": "2026-10-22T20:01:22.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "3992fc4ed3eb0dfa",
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+      "company": "NVIDIA",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "published_at": "2026-10-22T19:45:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "b7c1f29002000bf7",
+      "title": "Anthropic IPO to Drive Blockbuster Gains for Iconiq, Spark, GIC",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Bloomberg.com",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWU0S2RSc3UweGd3OGdmMlF0VVNnQ3paTmp3SjhrT0hxMUU2eXdDRGp2cXl6S043dFJ0Z0Z6RnhQb3g0NjJTRWtDYWx1YzJJTFdkemRIbkFHY2Yybi1WUjc0Sk5aX1NEblZBUURoakwxUEFCdUVmRFRlbnF3blhpczNwLVlzZERvVnpZaVIxa2hCdk1za0VJTnFoQjZxc1BvZ1NWSElxWVlJUlpnalFrc1lB?oc=5",
+      "published_at": "2026-10-22T19:34:03.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "4a7e6e51e261332d",
+      "title": "Alex Kantrowitz: Google, Anthropic, OpenAI will be looking for ways to fund the backbone of AI",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWDI1bllvaXE2aGtTUzhvQ1padTVhbF9hVlFVNHQtdUh4M05CdnJDeDdYYko5WXlIZHotNjhtanRPLXlwekNQckdPczVTU3RCaDgyV1hHZlNIOTQzY1g3cl9VLUNKZ1I4MzJVNXNJSWR6TzJ0d0RuMkZmUHpudGFncWNhRUdNRkZUbUV2N001ZXRSLWNYVU9leks4RmJRZ2cxNUQzaTJNM0JNNm54NlZpWHE3NVAwcnNWNTBJRElwSTdpSlRRWGJCMC1DakxQRWc?oc=5",
+      "published_at": "2026-10-22T19:14:27.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "4ceb4a06d883ceea",
+      "title": "The Myth of Safe AI",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Atlantic",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbUpsa1B0Mng2UXl0cTBTMlc1TzRROVRGV2F4d0dPRVVwZWNmdDlDNmFfcjRPLXc4LW94bzBNWTBsNzAwN3d2aXJiandWVDk2ZlNDay1fS29odE9qckxaVmJad0JOQjAzSndqNU1RbHVrZjlXeXNzMDZQMDltdXFTUjZzcnVPdw?oc=5",
+      "published_at": "2026-10-22T19:12:03.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "ee7ecab289596410",
       "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
@@ -135,6 +343,32 @@
       "analysis": "rule"
     },
     {
+      "id": "1d8d266cc065f7b3",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "company": "OpenAI",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "published_at": "2026-10-22T19:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "27825e3003584012",
+      "title": "Build more responsive apps with the Decisions API",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/decisions-api",
+      "published_at": "2026-10-22T19:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
       "id": "6dc97b2e6ae28cfe",
       "title": "Discord now formats Markdown previews right",
       "company": "その他",
@@ -158,6 +392,19 @@
       "source": "TechCrunch AI",
       "source_url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
       "published_at": "2026-10-22T18:43:53.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "e8d756f16a87e04a",
+      "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+      "company": "OpenAI",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONjRvdTJzNlM4cGVHQlNveER5dGpJWFA0ck01WEpPVHlxUEptVThsNnY3U1Y2dHIxZm8xMm4ydzZ6ekNoallxWU5vZXlFVjcwRmt3cGMySW9DTDMxM3pOYTYwQkJRRnNqTUI0Wk5MVVNKa000ME51OFItZ0JwbDYzUHBGUEhEeXoyTGt2TGliQ3RadjdNbzNndUJLR21TMngxMkZKTFF6MlVXOWtaTTFrRlZvT1ZFUms?oc=5",
+      "published_at": "2026-10-22T18:38:47.000Z",
       "analysis": "rule"
     },
     {
@@ -291,6 +538,19 @@
       "analysis": "rule"
     },
     {
+      "id": "3de255f816bd5bfe",
+      "title": "OpenAI CEO Sam Altman says mathematicians have already gone from 'we're cooked' to accepting AI",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Business Insider",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzJiYzBMVmxxN21YUzR5SXJQLWF2SzVGTWdncU0zalRsR3dwcG9aLVZpSWdpTTdneW0zbU1Kalh0bHp0dDdwbWFYb0tIMnZ5N3pCblNnMTh6Z0FsWkFiWWc0d1Y2THMyTFJOYU1VdUl5a0dmNVhqSGlZSVp3VlVHbUFReHdUWXB5ajNJVHpld3V1ZXBSM3BQTGlCMGhqNGVybWU3Nw?oc=5",
+      "published_at": "2026-10-22T16:38:00.000Z",
+      "analysis": "rule"
+    },
+    {
       "id": "09f692c897143bd6",
       "title": "Could Anthropic's Compute Spend Outpace Its Revenue Growth?",
       "company": "Anthropic",
@@ -352,6 +612,19 @@
       "crisis_score": 2,
       "source": "TechCrunch AI",
       "source_url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "published_at": "2026-10-22T16:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "4cd48522c8fa490e",
+      "title": "The biggest wealth giveaway in modern history aims to transform the world",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Washington Post",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTjdJeGY2WFh6cFJhaHZvRUNDVHlaSV9MNEFqVDdMeW9La2xVRldWaE1UcWVadkNaVVcyTmp6b0tIaDEwVm9NN1p1dVU3SzdMNHVzdThHbkg4a0Q5YU5yZmZ2SVY5QkxOUW03bjQ1VEhMdmVsdC02S0d1RjRBQ0Q4b3oxNlZ3VV9Pc01Vb1hrQ0VKUmRLMWF0MEZKeERFbnVXWXMzV1VrUGtwVTY2WW92Mmdn?oc=5",
       "published_at": "2026-10-22T16:00:00.000Z",
       "analysis": "rule"
     },
