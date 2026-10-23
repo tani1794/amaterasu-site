@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T19:00:37.151Z",
+  "updated_at": "2026-10-23T22:59:25.926Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -23,11 +23,11 @@
   ],
   "matrix": {
     "OpenAI": {
-      "新モデル": 18,
+      "新モデル": 21,
       "資金調達": 15,
       "提携": 5,
-      "規制": 9,
-      "その他": 48
+      "規制": 11,
+      "その他": 52
     },
     "Google": {
       "新モデル": 1,
@@ -38,10 +38,10 @@
     },
     "Anthropic": {
       "新モデル": 4,
-      "資金調達": 14,
+      "資金調達": 17,
       "提携": 2,
       "規制": 4,
-      "その他": 26
+      "その他": 28
     },
     "Meta": {
       "新モデル": 2,
@@ -97,17 +97,290 @@
       "資金調達": 0,
       "提携": 0,
       "規制": 0,
-      "その他": 4
+      "その他": 5
     },
     "その他": {
-      "新モデル": 8,
+      "新モデル": 9,
       "資金調達": 6,
-      "提携": 1,
+      "提携": 2,
       "規制": 9,
-      "その他": 65
+      "その他": 70
     }
   },
   "items": [
+    {
+      "id": "7cc8f253e96ca0f7",
+      "title": "Texas attorney general accuses OpenAI of lying about ChatGPT safety and safeguards",
+      "company": "OpenAI",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Courthouse News",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObXNWNG44YUkyTGJaZGlFeTh5ekpzb3lxTWljUTh0R1B6bVpDQW9iRzctSHFEajhqTVlHWVV5UlZoYkZZdkJ4N0VaN3JzME9fUjFnU3B5T3BYU1ZYOHBIRnBPcEpMZy14dkU3NThBLVJoRlRxa0dLOG10cmNJODZRb24wNUEwclQtV1hpNG4wY1A2M3VreWppT19HNEdEY1FBRVVGRFZhZlpQS3BHdGlmbjNEOUk?oc=5",
+      "published_at": "2026-10-23T22:18:38.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "1ad5ff3ae23e586f",
+      "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "MarketWatch",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTFJNeGlNaWk2VGtvUkxlb243b1oxaWhVRXdnQjhHRVhrWmJjM1R5Vnpia1E4ZFlEQmtMY1ZVeTg4SzZ6YXFPOXNLdFU2cWd0UGZidFJnRGQ0TDBwOW9kVEUydUpmcGFKU3BhTFB3eTFmb1loLTlHLUhxU041ZXZVMEtPMTF4TnNrNHY4MEJlSzdTczQtUWh2aEF1c25fSDVCLWlKSVU5cEoxNXVoOGo3OU5wVmFlX0dmV3NfemVIXzM?oc=5",
+      "published_at": "2026-10-23T22:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "f782f2bc9618a504",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "company": "NVIDIA",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "published_at": "2026-10-23T21:59:19.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "a4f505ec6857eed2",
+      "title": "HHS sole-source award to Anthropic continues to raise questions",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "FedScoop",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNlNIVnRhdTczX3NrLTU1SjdMRl9wbGRjYWpyZUN5SW5MeU9aRGYydDZCdE05RUpBTjE1M3lQSDFSM2J6SnpFWXFpdmptUzR0N3lXdEM0MTBQLWNqaExGVEMxWnVPTFJ3Z3B3cHFyTnVMZU5PRk5INVhQNGFBS1RvRnVvY2JQQUUwdzI5dW5B?oc=5",
+      "published_at": "2026-10-23T21:42:44.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "b6e1c22391302df7",
+      "title": "Fired OpenAI researchers say independent safety audits aren't going well",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "NPR",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOblRmeEVocVBaWWMxQWp0Vm9LbnV6eHhTY3hrWFBHaFMtTGhjekZBVk9jaGg2ZWxqa09kU3dBek0xODdMZzYwbVc2eWU1SVFYQ29pR2ZZZTRLNndHb1piaS02UXROc0dzczdJODlYaVdLaGFjbV9ZSEdrUHpibEcwUTVsSHV3Rmp4WmwtQXBFX3R0NVlpZkRsWXIxeEJiQW9nSmhSRUtwTW5zUEM0ZlVxVUgtZXRFX1k?oc=5",
+      "published_at": "2026-10-23T21:33:31.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "cc61e9be4acf13ba",
+      "title": "3 Things To Know As A Potential Anthropic IPO Nears",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Forbes",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRWE3NTNacUp0ZW1XV3ZHZElTblBEWjB3TUVEMndYSEpvU1NuMUFrVXBDOGIyRGNjdV9RM3U1LS1qdE1ZcXpfVTBWSHN5Y1pBbEh2bGpvMkNfcEVKc2JfVzBWYV9DTHVyOVhKMkNNTFVXc1ZVcEJTUUNMMk5DY0VoZU1HbENYdw?oc=5",
+      "published_at": "2026-10-23T21:31:34.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "59a60201720ab4fd",
+      "title": "Wall Street is awaiting Anthropic's IPO — and more AI news",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORnFZUU4yUVFhNVRTTDZZZFFaOWl4Ny14VFB1eU9DT0F5RGNiQ0x5azloUkw5ZjF4ZTV3NFNKMzhaRGVCUFB3TWJhZGNzcDk4Z0loTWkzOU9kNS1CVkd4OFlFY0NpcXBRYWdEQm1hYVZFZTlvaUQyN29uQmw2YlljTmJIM19iNXhYckMtY2JzUXVSVFRhd2V4ZlJCaE1HTXc?oc=5",
+      "published_at": "2026-10-23T21:18:42.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "f9113fa394af665d",
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "company": "OpenAI",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "published_at": "2026-10-23T21:11:07.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "7081febb32395c67",
+      "title": "高市首相のサイバー対策方針とAI大量攻撃への備え―情報分析・注意喚起と攻撃用設備の無害化、脆弱性修正 #エキスパートトピ（佐藤仁） - エキスパート",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNnpaT00zNUF5YVhtc280Ymd4c3ZKNGRVNkIzNWd3NjlzckJEQ3ZzX1RnR2RuOEFzbWlmNDE3S3VpZGItcHluNm5rWV9mUWFrc3UwempyMzRSUE0yYXJmNENPRDBMZ19Fek1YTkdRMHdOZ3dfb2l4RWNEbEI3dzRRNFR2X3pqRDBj?oc=5",
+      "published_at": "2026-10-23T21:01:27.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "75f28b8f04610d95",
+      "title": "Why is the UK at the forefront of AI-driven job cuts?",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/inside-story/2026/10/23/why-is-the-uk-at-the-forefront-of-ai-driven-job-cuts?traffic_source=rss",
+      "published_at": "2026-10-23T20:43:47.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "69a81bfc9e716eee",
+      "title": "Texas sues OpenAI, Sam Altman over product safety",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Politico",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcm00d0JOd3dfc2ROWW5vaklsUk9MWDZXN1hLNWNwMWllNmZ1N2p5WGQ2VVUtOTlzQUdlUDZOcFB1WUpVcWE3WVcxZk16b09BNHZlcHJjWkVYZVNIdE1lbWFJWHRNOGIxbWR2cHFUazdsakh4NnBMcmhyUVdGbzVKNk1Mc001NjhzT09pNFdGanA?oc=5",
+      "published_at": "2026-10-23T20:39:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "2ca822a2063c3a30",
+      "title": "How an OpenAI model exposed a flaw in 70% of the internet’s websites",
+      "company": "OpenAI",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Fortune",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUGp1VEJkTWJXaGlnc00xUW9tdjBBQWcyT0N0STVuazEwRWFMeG1RMDFqM0NIVllta3RoTThZdkdkV0pXcTFQMUlDTFJpWDFHdi12djFXWjBUZF9LMlhRRFBvOG1rc3owMEl1eVdSeEJYYmRxOWJ0UmVnZmdGcUxSMGtvRFd5OXJYc1N3?oc=5",
+      "published_at": "2026-10-23T20:36:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "2d841654b8343843",
+      "title": "OpenAI to Train AI Models Without Internet After Cyber Incidents",
+      "company": "OpenAI",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Bloomberg",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcTNobXdjbFlXYi0tUHc4QVhnOXY3aDB4bTZ5amJDTm5LTDFlaUJ4UDdYdUFwOHpURk05ZE5Ycm1rMWZDUENSVHh5X3pWZHJEOFlpcUhSa3N6OTZueDlEME1GenV2SllMWkZpZVpSNGhGNWQ0R2V3am1FYnFCU1pDdkVVWm9HMU44a1JiZDhGNjhqTzctZlZyZnZYSTFlMXdjV2xNazdHUmtDS3NwLTktNW5rX0twQQ?oc=5",
+      "published_at": "2026-10-23T20:30:17.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "8b10fd581aea27b2",
+      "title": "Texas Attorney General Ken Paxton sues ChatGPT-maker OpenAI",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "KBTX News 3",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbk93a0U3cFBsbHNHWnA0a0FENmtaQkFCWmZkdEZncGt6elpnbjZOVFRRdV9wblVtWjl1N0dGMDhSYzh2MlFGX3MxVFlVTDQ3S2YzMGJ6YXRKY0NOcUx0M1dRbm5OUVNUdDJ4b1MwbmhSdTFDTzhMSmItbnpuWWJSQ2FOU3NvbGtpZnVyeldiWm9vSXJTUm000gGrAUFVX3lxTE9Udk04S2VhSTY5bFQwN182UjFmelRrVVZmb2FSVkNVcHlocnY1UmlheWhZVnB2dDNxS3BqaTlycDlDVXlTRmdMS01XWWt5Nk9rckdTOHBxWTk2Z3lUY1pnbkRLamZsbHJreHp6YXNoSGNHSG5YLTBmTzNObEVsVEVkaFdaU3ZSeVd5Y0lvRmo4T1Y2bGVzZUtRbFdzYVFwbTE2UGVvZENKeVpqUQ?oc=5",
+      "published_at": "2026-10-23T20:30:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "f0e7c1d8ecdbbb8d",
+      "title": "Former National Security Officials Warn Anthropic Ruling Threatens Federal AI Procurement",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "MeriTalk",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbjgzb09Cc3Bmb3VHdEJpNGkyZzZKSjJYTlI5bnd3RU0zS0tEZUdoWkRnTHpOZkU0M3FzbnZRVEZ2dV9rMmVJaXltY2JBMENkbUVVNHZjT2JPMEJ3ZzZrX1BiMXo3cU9sQTBUc0Z2QWVlZjJNLUZ2clNrc05aUDlHcGhUTWVnZl8tZGxpN21mMnY4Sk9MSGVoaFBsazlFVWI5Z2NIV1BkOUJNZ0V3Tjk0eEkyVWtIb2lJNG15b1BId1FQUQ?oc=5",
+      "published_at": "2026-10-23T20:26:34.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "3a6a6c05f784cd45",
+      "title": "OpenAI resumes frontier AI training with enhanced security, no internet access",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOS01OUZRS1hEaFFMU0pJSkEwdEVKQThtcVJITXJ6elVKbFVHV0QwQVFyc1VUb1NVZExxQ2J4YkN0MTVxS094bUFqdmZYa3QwSUprRjlVX3YwSkZfcEF5U1JEV0h0aWVjUldENHFIaEtZR0RPU3Y0WHpjQXFmRUw2SVROYXQ2NWwzZmNGWG9lcTdwYkhFd0NvY3poSG1YVHRfclVsMmZ0OXRDV245cmx3ckRFVENhZUJydkVXYjVrOA?oc=5",
+      "published_at": "2026-10-23T20:23:25.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "798c4441d8b2f1b0",
+      "title": "Should AI have the same rights as humans?",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "WBUR",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMzV1XzNuYUg2cTBjdVYwYm8zajcxc25faEp3UW1sdnZZNEZBdGYydXN5NGlfVXRKLTBKTFUwbmE1OU5HbHhJNmM3dVMtbGVDNEhHTkJfSGlJOHFSTzJOR3RqRUJwQWNaNVk1MlFWTDNSQmFHZXJtM1YzZTNidHE0RUdVeldCMHM?oc=5",
+      "published_at": "2026-10-23T20:06:16.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "1219a3fa330d4dda",
+      "title": "OpenAI says it will train frontier models models in closed system with no internet access (OPENAI:Private)",
+      "company": "OpenAI",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Seeking Alpha",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRHhxd012NXE2N1RoSFZXY1g0VUx3WUpOdTIxbTVpRHdKTkhjb3NzLTZYWWhPLU96dl9qdWwzWUlfa0lzdXhWazVWdkxGZVRWdnJyQ0JhZ0RDUW13c3FLcTNqaDFPVFFmV01Sc1BDTWpjMkhKSFhQQUQ4ZE1xV2h5Y3BTUDlRMU9GWFBhYXpjODRxRVRBQmdOQkwtemUtUkk5dFF1TW5tcW5XcEtzTk9sZC1GV3NXZTFEb0ZlaElKck04TUlVY2c?oc=5",
+      "published_at": "2026-10-23T19:33:35.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "f490e9c8ed30cee3",
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "company": "その他",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 5,
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "published_at": "2026-10-23T19:32:39.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "0931d3afc7b71d97",
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "company": "その他",
+      "type": "提携",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 5,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "published_at": "2026-10-23T19:06:23.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "f828e655e658292f",
+      "title": "東京応化工業の高瀬執行役員「AI需要拡大、半導体材料は後工程含め成長へ」",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5RWJfWXQ3OERJVmk1UHFGa21FcXVCRjFMdFA3M2t6N0gtcWVyMm9TWE9XSlRfYU9SdFhsbWwzXzVRS0xRNXJ5T2FKMjhpMENQMkk0eGhfX2VXVnVBTXlaV3hkajJoV3BySi05Tw?oc=5",
+      "published_at": "2026-10-23T19:00:00.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "4952e80f7fb91752",
       "title": "Securing our frontier model training environment",
@@ -262,6 +535,19 @@
       "source": "New York Post",
       "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcWJ2bWgyRjlUSGh1YmN0TnVyZVRhZ0FpVWl0NHBNRWYwWGFta0lpN3VGZVFhSFhVY3RPWTJmaEtQMTQ2QU5CLWhBR182OTI0T2VrMHZ4ZG81by1nQWpGSkxrU0FSRUpkTjFqSWVzYWVtQlBLN25vWG5sajZBUl8zMktWNGNWaG8zdUVSTW8yZGVUUFpoQjh6cnIweVI0TExFQkRWaHBvZ08?oc=5",
       "published_at": "2026-10-23T16:16:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "47ac37dbcaa3e9fb",
+      "title": "Barclays is latest to redirect spending toward AI as it trims its workforce",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "AP News",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaVZPaVdaeVc1c04yS290VXp5R1FMRXpNWDFIdUJQS1RVdWxfeExlUGFQaHBXX0VKZWNXWmJlcWZtaVowWE0ydUdtb1Q1RmJnTU1sSFNaWFRzMkozUXVvcmp3SU4xYmdHakpELUJJLXNGaGUtYTBodW1lSHcxM3diSEFRN0tqc1BFSGdibFBhRG5pVVNKRXlKbUpB?oc=5",
+      "published_at": "2026-10-23T16:09:00.000Z",
       "analysis": "rule"
     },
     {
