@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T04:19:53.947Z",
+  "updated_at": "2026-10-23T09:52:35.352Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -23,11 +23,11 @@
   ],
   "matrix": {
     "OpenAI": {
-      "新モデル": 16,
+      "新モデル": 17,
       "資金調達": 10,
-      "提携": 3,
+      "提携": 4,
       "規制": 9,
-      "その他": 39
+      "その他": 41
     },
     "Google": {
       "新モデル": 1,
@@ -38,10 +38,10 @@
     },
     "Anthropic": {
       "新モデル": 2,
-      "資金調達": 11,
-      "提携": 1,
+      "資金調達": 12,
+      "提携": 2,
       "規制": 4,
-      "その他": 17
+      "その他": 18
     },
     "Meta": {
       "新モデル": 2,
@@ -62,7 +62,7 @@
       "資金調達": 5,
       "提携": 0,
       "規制": 0,
-      "その他": 6
+      "その他": 7
     },
     "Mistral": {
       "新モデル": 0,
@@ -97,17 +97,108 @@
       "資金調達": 0,
       "提携": 0,
       "規制": 0,
-      "その他": 3
+      "その他": 4
     },
     "その他": {
       "新モデル": 7,
       "資金調達": 6,
       "提携": 1,
       "規制": 10,
-      "その他": 53
+      "その他": 54
     }
   },
   "items": [
+    {
+      "id": "badda17ad8966952",
+      "title": "Anthropic strikes deal to launch European consultancy",
+      "company": "Anthropic",
+      "type": "提携",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Financial Times",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdnZydGY4cEdLMHdFVVJ2R2kwaG1yOVZuQi1XNzk2SEw5T3lWQkZHZl9UYXhfazU2bFRQU0VabnlCdTBDMDhyQ2ZfUGNSODkxOWc4ZFBQOUVndEs5QmxtREZJQVlVY0RjLUVoUVh5ZWZIcWpuY3ExeUZGcGNuNzF5TGNBUy0?oc=5",
+      "published_at": "2026-10-23T09:04:09.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "dabc0cc8f50adf89",
+      "title": "The Indian workers filming their work to train AI",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o",
+      "published_at": "2026-10-23T08:04:17.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "60a34e8dc5fd301b",
+      "title": "Anthropic’s Pitch to Investors Starts With Taking Their Jobs",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Bloomberg.com",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN1ZHY0Z3dkdON2dSODRJUFZHMHVNcHFZVjgtRUZ3YldQemdvSmcxMHpfVWhWUFNIamZhd1JySF9WYVIzZFJOVjJuZTY4dGFaNUZLVTVkdEdFSnk4NmFiQTUzY3JiQ2Q5SWxnbEdIenBwa2ZrRHU0RVhESFh0OG10dkthaExqZ0p0QmFkWVhmQ1pFdjBKYzg0cXhWQ1A4b090UHJwd2pJLVdRWGpCSEE?oc=5",
+      "published_at": "2026-10-23T08:00:10.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "c6c0eaed20aa3cc9",
+      "title": "Watch OpenAI Trims Target Value & Volvo Cars Cuts 2,500 Jobs",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Bloomberg.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbnpqMDZ3ZXdTMWpIQnhGdGJsdEJqNVJ2blZxaGtiUEpvNmJodEs2Rm0zYUh1NE00STN2Y2VpRkF1NFlYRlg0azNGVFloVXpQN2t6Z0FLSGdOSjNnXzNoWWpacS1FS2I3NzlSeTN0cjR6bFpubUp2QUVkX3pvNkpaczVUckcybGVv?oc=5",
+      "published_at": "2026-10-23T07:15:38.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "e680e828c291b42b",
+      "title": "China's DeepSeek, MiniMax win approval for AI global use, state media-affiliated entity says",
+      "company": "DeepSeek",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUDVGa0hCU3ppVlo3amtaT1l4T18zcHNWWlFkV3Nveks4TDI5RGxkMzE1TFpEZjIxWFBZNl9ILU9SRVdzMEtCX2JKai1FbXlYTTFFX1Y0U3NfRGZuRGttQ0ZKYVhRS3NaUTlEWldxNzVIQUdzamNVMTE1cVg0N1VpLUlweVZlU3lpOGFRajJ6eHItM3NHTGlLVldsVWxnbTcwQncxekJITDJfWUxWUGt1OWx1Zm4zLXdEdm5ja0VPbXNlNmFxWWstT0lfVkZOQXNTNlRYcktB?oc=5",
+      "published_at": "2026-10-23T06:59:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "8e4c181bd3ae86cc",
+      "title": "OpenAI and Poland’s NASK collaborate on AI safety research",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeXlMRjNfSEdNVUNrX29ZdW16eE9Ra1ZIbFZhTDFGSXNfSTlNSHZFc3k5MW5FbFdiVHU3Y0NzYkhrSTY0SDFKWXBaT1FXY1pXeDQ1SXZZTUFLMnRxbDhJWFJQWUlHOE1QWXRRei1QM19ySm9udl9FR2ZIQTJVZ014RHd5eDVDYjhnWDFQdDVrQ3pCSXllRmZURzU0UTZfSmJzZTVtM0Vn?oc=5",
+      "published_at": "2026-10-23T06:25:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "8dffd79b79d154da",
+      "title": "Google opens its cloud to rival OpenAI, promises business data won’t train models",
+      "company": "OpenAI",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Help Net Security",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTU5XY25BOGxqMnlnTnluOHRxcVdONjQxXzBsNUVxWHVRdTlKZzJIREVsdnp2d2JRMlNlQlJoSXZjSHJCWnBuM0ViWmZQNEkwWmFwXzhVRDU3aVprLVVkczc3QTE3dDhHWlFvZFROY0NPbEhGczRMQXJrQTFWYnplU1Q3TG8yVFFUaHR5YnIzNA?oc=5",
+      "published_at": "2026-10-23T06:00:31.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "b6f9c515d991b004",
       "title": "Anthropic, Please Get on With Your IPO to Soothe the AI Trade",
@@ -118,6 +209,19 @@
       "crisis_score": 2,
       "source": "Bloomberg.com",
       "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUIxX2phbXhMZG53ekFDa3JvUVhDbUVxT3FQRVdjUUoxTUlwSXNsV0xVLTVDUU5pVWYxM0RETzhyMVhORjVlOXVJZXo2Z0pjZEgxbzNBYjVTazNnV0RfczZOSEp5dkNxdHhKZ2dUR0Fmdm8ydDc2WDJlWmNpeGhCZm1LazhUOW5FUjVoZXlaRWlTYkhjTnd4UXhuQVAwdVRjb05naTdqNk9kX0ZSaUFGa2JBZ2Q?oc=5",
+      "published_at": "2026-10-23T04:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "94cd4ca5fb66dd5d",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "company": "NVIDIA",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
       "published_at": "2026-10-23T04:00:00.000Z",
       "analysis": "rule"
     },
@@ -158,6 +262,19 @@
       "source": "Bloomberg.com",
       "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbjhEQkNIQVp4Zi1Xc0g5RG53cGVsSzRWdE16QTNvN2llT1k1cEpiSklQZHhXM25HWDJNcnhLVlpJTFlvMDV3TVl1SlM3cnhLTy1KYW40aDFvOXR2NzlZQnl3RnNWODV5NmV0WkR5bzkwSGxnZ28zMUNjbFZpalU1X2FXekE1STJ0ajZmc1hfV0lmcFFXdjBVZURmVGl5WXY1YXl2SkFZWldHZ1Z6SFdvNWJn?oc=5",
       "published_at": "2026-10-23T02:58:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "412fca56d8851ad9",
+      "title": "Anthropic security official warns of worsening cyber threats, risks to critical infrastructure",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Anadolu Ajansı",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZEpidTlJWm1sN1E4X3dnMnZUS2VPcGVYRG00c3R2ZnVuZ2w5eml6RDZUczZzN0d2Ykp1NDUzY0hTZHAyN1JjQlZxLUpmcGw0WGdJVWdyLWRINlVzcnNfWW00VnQ3dWFjZkVCT1l2c3VuQXFNWlU0VWY2TE5WeElmWXphYlE2R0R3LVdTTU1ZcWRkWmRTYThKWm42b1piQUJMX08tZmFYc3g0bWlSellvSkZBQjQ0TlI4M2FibGlfNVRyZjdlRXZ6RGxVdw?oc=5",
+      "published_at": "2026-10-23T02:44:17.000Z",
       "analysis": "rule"
     },
     {
@@ -275,6 +392,19 @@
       "source": "Reuters",
       "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYWJuX2ZuZl9pQm10SHpOeEZTZ0xuWWJEZklvZ0xsMndvNEFEYXlZVUUtQVBGS0hMX1E4UEVncDl4VW1QUUFOdnUtbF91VkdqeDBzOU4yVDctQWFzRE5EczcxaGI2OV8zWlpUUTVodjlCNmtwOUh6TW43eFZ0RFhsazRhWmdVRUtKd1g2ZG5HV2l6X0s4aXBiSmljRVYtNy1hV3lqTHJPbnRlMmpkaERxZHhfaUh5N0NJNVBoUElGQmoxLUxRN3ZaNVVYX2ZvZTY5M1pJazFwaUM?oc=5",
       "published_at": "2026-10-23T00:34:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "15c1f8ef7a582594",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "company": "OpenAI",
+      "type": "提携",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "published_at": "2026-10-23T00:00:00.000Z",
       "analysis": "rule"
     },
     {
