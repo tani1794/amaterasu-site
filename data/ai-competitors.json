@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T23:09:01.003Z",
+  "updated_at": "2026-10-23T04:19:53.947Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -23,11 +23,11 @@
   ],
   "matrix": {
     "OpenAI": {
-      "新モデル": 15,
-      "資金調達": 7,
+      "新モデル": 16,
+      "資金調達": 10,
       "提携": 3,
-      "規制": 8,
-      "その他": 36
+      "規制": 9,
+      "その他": 39
     },
     "Google": {
       "新モデル": 1,
@@ -38,7 +38,7 @@
     },
     "Anthropic": {
       "新モデル": 2,
-      "資金調達": 10,
+      "資金調達": 11,
       "提携": 1,
       "規制": 4,
       "その他": 17
@@ -55,14 +55,14 @@
       "資金調達": 1,
       "提携": 1,
       "規制": 1,
-      "その他": 0
+      "その他": 1
     },
     "DeepSeek": {
       "新モデル": 0,
       "資金調達": 5,
       "提携": 0,
       "規制": 0,
-      "その他": 5
+      "その他": 6
     },
     "Mistral": {
       "新モデル": 0,
@@ -76,7 +76,7 @@
       "資金調達": 0,
       "提携": 0,
       "規制": 0,
-      "その他": 3
+      "その他": 4
     },
     "Apple": {
       "新モデル": 0,
@@ -103,11 +103,219 @@
       "新モデル": 7,
       "資金調達": 6,
       "提携": 1,
-      "規制": 9,
-      "その他": 50
+      "規制": 10,
+      "その他": 53
     }
   },
   "items": [
+    {
+      "id": "b6f9c515d991b004",
+      "title": "Anthropic, Please Get on With Your IPO to Soothe the AI Trade",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Bloomberg.com",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUIxX2phbXhMZG53ekFDa3JvUVhDbUVxT3FQRVdjUUoxTUlwSXNsV0xVLTVDUU5pVWYxM0RETzhyMVhORjVlOXVJZXo2Z0pjZEgxbzNBYjVTazNnV0RfczZOSEp5dkNxdHhKZ2dUR0Fmdm8ydDc2WDJlWmNpeGhCZm1LazhUOW5FUjVoZXlaRWlTYkhjTnd4UXhuQVAwdVRjb05naTdqNk9kX0ZSaUFGa2JBZ2Q?oc=5",
+      "published_at": "2026-10-23T04:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "bb1db212c7a99229",
+      "title": "Stateline road businesses fear new xAI truck route could worsen Southaven traffic",
+      "company": "xAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "FOX13 Memphis",
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNYlF6eTVqemlSWFFaX21KclhRUGFCR3ZKU3hJb1hCWjQzWENMZHc5V3E1WUJreEJQSUt5LU5oT19qYzhxTUJjT0hBd0VwcHZTWnpNdmM5bWJTTlA5OFUxd0VhZ3hGVnNTcnkxMDI4R2lrUk8xR0psbXRMeV9TQlhrVEVSSE1PdXpHbU8tV0YwenRLblRabkczQzRaczUtYkE5Sk43V0lUWV9YT0R0VlN0akxYVjBROTVtTEpwWUJuWFdHSU5WMmtaa2hLdlRBcS1ocUZaSWNkSFdQdTZ0TDFNQUYwOXZEVHMtVXVPNmZYNkJsOVA1QXd4bg?oc=5",
+      "published_at": "2026-10-23T03:15:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "377ad1e255bcf620",
+      "title": "US tech stocks tumble as investors fret over AI spending",
+      "company": "その他",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending?traffic_source=rss",
+      "published_at": "2026-10-23T03:13:13.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "53900b85e51bf3ac",
+      "title": "DeepSeek, MiniMax Win Approval for Global Use, State Media Says",
+      "company": "DeepSeek",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Bloomberg.com",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbjhEQkNIQVp4Zi1Xc0g5RG53cGVsSzRWdE16QTNvN2llT1k1cEpiSklQZHhXM25HWDJNcnhLVlpJTFlvMDV3TVl1SlM3cnhLTy1KYW40aDFvOXR2NzlZQnl3RnNWODV5NmV0WkR5bzkwSGxnZ28zMUNjbFZpalU1X2FXekE1STJ0ajZmc1hfV0lmcFFXdjBVZURmVGl5WXY1YXl2SkFZWldHZ1Z6SFdvNWJn?oc=5",
+      "published_at": "2026-10-23T02:58:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "436a621d73a83afe",
+      "title": "From Spying at OpenAI to AI Agents That Never Sleep | Generation AI",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "AZ Family",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT0xRZGlSVE1xRG13OXk5Y0ZUbU1pTDZkU2dfeXBlV01aT0hEdE9YZVo4ZVh5RXZlanhDVEZfQmVWTG55emR1NXRyWUFzYnUzVjFOb09ZQURuNmNScW5NbTJDNWNMLUVNMHRyVURRNHBqNU10YWhhNlhZT3NKUFYyZ3VHWHo4WXpyRHdOa1ZIRnZkMWNPY3hsU0VER0VDdw?oc=5",
+      "published_at": "2026-10-23T02:09:52.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "066cf3432e1a21d1",
+      "title": "OpenAI works to build support for $20 billion Project Camellia amid some community opposition",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "WJCL",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMUxIZGd0NHNURWl5VlN4U3M3dkxCbndKYlltM0RZU05FVThhVkRTMnlfbmV4Q1JVVDRvd0c0eXF5dlY1ZFlGUmx5Y0hoLUEwWmU2Y2drZEtxdXZweFEzb0RtVV95RjMtbzg0WXozNUltaWdsazZmNF9MMndGTkNvM1lLWndjbTlDYVV6bVZLd3VLdUFBcVdveTZFR0I5V3NZbEg3WmNjVGpXX0Y3THFJRm43NVd6NUtvLWV0RXkyRTJldHVwN3NvcHdR?oc=5",
+      "published_at": "2026-10-23T02:03:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "c40c8a1055b0744e",
+      "title": "OpenAI bugging case raises questions about AI lab security",
+      "company": "OpenAI",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "AZ Family",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX0pZTHZSMU1JWXBLSHI2QzFWNDc5QWhJQTJtUDBkTDk2d002cmM1dkJIckt3bVRIbnB4S1oxNlRWVW9WZ1Z5RUQtcFBtcmVaMXpkNUNyM1pQZkZBTlQydjdwQm03WWwwamNNcTRxQktiYWFsNEFScmJPSExXU0xidkp2V3JMbjd5eXVRUmo5R1pjcTZWbEJ3OGppaw?oc=5",
+      "published_at": "2026-10-23T01:55:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "4c39b55761fa2147",
+      "title": "Local business owners trained by OpenAI share thoughts on $20 billion data center",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "WTOC",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUkZscXNtZHFZUmZzXzdlc04wRE8tX09jWlZJZTBsdnlwc1dvQWRjY1RoWEdKSmtqNnMtZmdwQlBkVm1NRm04R1E1T2lGbUVnWDloVXY4RHlsbGtmLWt5VHIwWTZrTlZUSXFiRWZ6UHhmQk5rbkhSSXYwQ3VKcGM0Mm92WFNJclJMSXdsWUtqcG4xRFltNUFETlU0aVdaRmR0Qm9DY2p6VzBBZWVPejUw0gHDAUFVX3lxTE1zZG9yQUxFWUVXMGJYeFZlNERad1RYZ211TVN5UkhFMWpta0t3V2FicndDd21CQmwzUjRqelJYaTNfTERpR3B2VXhHejNDdTFGMDVGZ3ltbkd5UWkyN1N1Q1o4akdCSkdEOUtpbXU1NE42Y0Z2SXRUMU5XOWdMY1ktLTB1MzJPbEk0bUUyQldYbGdpSjBlRXYxZU5OVmFSRlRQdUc0MFg4dVpUNmpTRGZfaDV1cUd0ZnhsVWExSlduaW9CQQ?oc=5",
+      "published_at": "2026-10-23T01:42:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "6a92f0927e6e0c9f",
+      "title": "OpenAI Aims to Lock In $30 Billion Funding Round by Next Week",
+      "company": "OpenAI",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "PYMNTS.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmQ3OE5ZbG9HbmlOVEQ1aHlLd1d6Nml3ZXV6TlVVZUxWQVVzYXQyc1Etbi1MQWFhc05ZMjc3bmRNVDMyRks1c2E3bXRGZDJiSlBZZEhvbHp0YW9ySzB2RC1uQnUxSldMaDVFTGVmV2xMOUZ4Ynl1WW9XZFNqSTI3M3RBcDY4eHN5WXE1SnlLeGxmR0dOVGZfazdBT1lCUWs5U25ucFkyc2twMlFBRnpzLTQ4d3YwYmZQeUE?oc=5",
+      "published_at": "2026-10-23T01:26:06.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "1d555b3b10d43873",
+      "title": "メタのAIエージェント「Muse」、日本で開始 メルカリなどと連携",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfMnR1WWJsMm9NWFhuQlBWaFJjaGNBSGFaM3FpekoySGlFeDUwQlVROTdQX2Zuc1RFNWtGWUFQRC02R1R0RVV0YTdGaERFUlAxMXFySmEzOHl1NTNoR0o5WjdObDRNU1lpUFU5dg?oc=5",
+      "published_at": "2026-10-23T01:18:54.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "be339bff4b90b498",
+      "title": "The Signal Chats That Cost OpenAI Researchers Their Jobs",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVV6Y3hHVDlVbm1oZkFJNWJBV3hVS2ROYWJPX1cyTjhxMVNvbkRkWmFXb2RWTlpJU2gwdTBLRmpsYmFhMmFRdUZhNlJGdm96YWxIWVB0OHpzR0JrN0RuRFd5bXptVlE2T1FaV1JKY1prQUlZX1dBMkJqVi1OWGp6SjI4UUJISHN1bkVIZi1CNXB1U1gtYmFSdA?oc=5",
+      "published_at": "2026-10-23T01:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "085ba153da3bfb79",
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "published_at": "2026-10-23T00:45:37.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "7134e41fb8306e95",
+      "title": "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor",
+      "company": "Microsoft",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYWJuX2ZuZl9pQm10SHpOeEZTZ0xuWWJEZklvZ0xsMndvNEFEYXlZVUUtQVBGS0hMX1E4UEVncDl4VW1QUUFOdnUtbF91VkdqeDBzOU4yVDctQWFzRE5EczcxaGI2OV8zWlpUUTVodjlCNmtwOUh6TW43eFZ0RFhsazRhWmdVRUtKd1g2ZG5HV2l6X0s4aXBiSmljRVYtNy1hV3lqTHJPbnRlMmpkaERxZHhfaUh5N0NJNVBoUElGQmoxLUxRN3ZaNVVYX2ZvZTY5M1pJazFwaUM?oc=5",
+      "published_at": "2026-10-23T00:34:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "228ec228ed0dca34",
+      "title": "Appeals court lifts block on Mississippi's DEI ban, ejects judge over AI errors",
+      "company": "その他",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTXU4UEVFNmN1Z1hTZW5oWUhXVXRSWDMyM2JVa1FPUEN2OGFqWEdydi1zbElVb3ZsNGo3Z0RZLUU0bG94emsxTzl3RTV3bG1zUEVmckd1aTZ2MmVjY3V3dWdtR1lWSWxlT2NwR3ROTFFnNlFianNZMS1GdHUxR3BCYTJSQlBnUk9KcEVJNXlOSF9iWjZrR0RvU1lkOWNVa3RjWUREZ1lMTkFsMUFkVmJuN3JEWFRwcE1zbHNqX3BEZU9GQkF1elE?oc=5",
+      "published_at": "2026-10-22T23:17:04.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "ff0dc18a3d64cedb",
+      "title": "Lawsuit alleges OpenAI 'stole' children's user data",
+      "company": "OpenAI",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 5,
+      "source": "Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NRFpvc2tkZzhkUl9ZSmwxZlVsdERqSWQ4cUI0UjV6bU5FR2IzTWZCdXNVeDFNYkE2Yy1VWEx6aEdpMndRTWVtWGZLLVNnNmlvMXpmX3cyWDlhSG9rZk0tYmhzbjdwZw?oc=5",
+      "published_at": "2026-10-22T22:52:23.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "7b297eca3d9c927b",
+      "title": "Five ways to keep safe online in the wake of AI-supercharged hacking",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSHRlcmF2d1RiRG56QzU3azZ0QnNaU0twQ3luRE90U0hsMUhfbGd1N1B2Y29INEt4SHR4NTltNW5EeHQzUHAwUU93YzhMTEt5Ym1VYl9sR1N3SzFiX3htQkFmMkZrTEx5ZTd6b1ZvZkZOQy1OUDYzenhzaktzVHBsWElFRzZIMlY4MEhubUhHemoxdnN2LVpiQ2ltU0dRSVJfd2hRTw?oc=5",
+      "published_at": "2026-10-22T22:14:19.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "d73c3fbf5a8b67dc",
       "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
@@ -145,6 +353,32 @@
       "source": "Anthropic",
       "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ba1lXTGVFWUJQTVA5UUJMdDJfRVNyU0E1cmlUMXJLSkV2X3RaUnFtbmhpT1IzOUxsNlh1LTA3SGxXd2E5MEM0TnFxZ1B1T1drRUNvQXhodk9nVkFSbUlORXRNNXQ?oc=5",
       "published_at": "2026-10-22T21:58:06.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "1437b0ebe886b61e",
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "company": "OpenAI",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "published_at": "2026-10-22T21:51:25.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "2b247f07a041f116",
+      "title": "OpenAI trims valuation target to $1.25tn after pitching higher price",
+      "company": "OpenAI",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Financial Times",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWQtQ2RQaXBRUWc1UlRnSVpKbkJnVzRPZnNCNHJrZUczU25qcE1oWHh2Ri1HVzl5OUJtS2lHeHkyenRYTnlpeURPZjNsN3dhUlVxdGZvSnZmQjZtOGFrZFg1OFhOcEs3Y0VMRFg3M2tpNWlEQ1Y5c3Q4ejBwX2dsSWk3eXE?oc=5",
+      "published_at": "2026-10-22T21:50:16.000Z",
       "analysis": "rule"
     },
     {
@@ -2836,32 +3070,6 @@
       "source": "OpenAI News",
       "source_url": "https://openai.com/index/itau-generative-ai",
       "published_at": "2026-10-16T19:00:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "9db4940a53f86840",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "company": "OpenAI",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "OpenAI News",
-      "source_url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "published_at": "2026-10-16T00:00:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "4a2f3ca18eb9cee6",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "company": "その他",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "OpenAI News",
-      "source_url": "https://openai.com/index/benefit-street-partners",
-      "published_at": "2026-10-16T00:00:00.000Z",
       "analysis": "rule"
     }
   ]
