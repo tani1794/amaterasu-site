@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T01:30:20.832Z",
+  "updated_at": "2026-10-24T07:06:02.442Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -26,8 +26,8 @@
       "新モデル": 23,
       "資金調達": 15,
       "提携": 5,
-      "規制": 11,
-      "その他": 54
+      "規制": 12,
+      "その他": 57
     },
     "Google": {
       "新モデル": 1,
@@ -41,7 +41,7 @@
       "資金調達": 18,
       "提携": 2,
       "規制": 4,
-      "その他": 29
+      "その他": 30
     },
     "Meta": {
       "新モデル": 2,
@@ -100,14 +100,92 @@
       "その他": 5
     },
     "その他": {
-      "新モデル": 9,
+      "新モデル": 11,
       "資金調達": 8,
       "提携": 2,
       "規制": 9,
-      "その他": 73
+      "その他": 76
     }
   },
   "items": [
+    {
+      "id": "6498ebc2feade44e",
+      "title": "UK Government Establishes National AI Biosecurity Lab With £100m Budget, OpenAI And Anthropic Credits",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "NewsCord",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ0puWnJyaW5qRVpTYmZBdUU0dGI1Q1lUR0lMN2dOVnZrS0VOYlkzN0k0dmVxOXR5YlJBTUFMcnlpV1JnQzM0TEUwSUZDUnQwRlhadkU2Vm84a1FSQjNaNWl4UkZDaUZXWDhZRVFITW8zT0U4UU5RRkdSYklGMHNfYU5EMVZVVjBqbEJ3MmdJLTlaVTc4aXhNSEN3dVZBV0hHSTdPX2xRTUU1RngxR01qZkxKQllCZjUydE5OamhYcC02UTdrRm1hZ1hOTEJ3eDlTRUlXODNVTzVRMV8tSGN2cmNsbml1OUxnN0E?oc=5",
+      "published_at": "2026-10-24T05:19:36.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "e5ea854cf613cf5e",
+      "title": "The rise of AI election ads in US midterms campaign",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 5,
+      "source": "BBC World",
+      "source_url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko",
+      "published_at": "2026-10-24T05:03:44.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "bf6279ad02f6cae9",
+      "title": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Guardian World",
+      "source_url": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
+      "published_at": "2026-10-24T05:00:24.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "c57f2a633fb1542c",
+      "title": "Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks",
+      "company": "その他",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWlpZNXVZQXBxZ1hCTzA4X0VZYUh0QkhJb281X3VmMUt0VVZRY0N2N1Fja1dyZlB4cGlsTGktdjRaRzEzSDgtR01QS1F4V0ZsN0lsbzdTRjhRbG1MMlhfMkluTkxwTXFhOG1XZVVpRlRJX29ULXBEcUdTQUpoa2NkUmRMZFhDbkF3a0N3SDlqbTg1QnR3aFkwSW9LS181X0hsbXM1bXF2a0ZTWldQdlBMSlJRSzFoOGI2aFRF?oc=5",
+      "published_at": "2026-10-24T04:25:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "2289ee865e2db62a",
+      "title": "中国系AIのARTEX、悪質改造が横行 公開停止後もサイバー攻撃に悪用か",
+      "company": "その他",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nV0JybUN0Y09lMUIxa0tKTXdBOWUxb3E0NGRMdUxJWEk3SVVUMm5iRzlQLUdKZ0ZqRU51Q1lSY2dpaGtrT3dQWVZlT3Nwbk0wRFlrRWdNU09jT2hDWkFVRnJhdk9lNmdhTWwzSw?oc=5",
+      "published_at": "2026-10-24T02:49:16.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "0e2fcce1d844f5d7",
+      "title": "Palo Alto Networks Brings Continuous AI Defense and Prisma AIRS to the OpenAI Marketplace",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Palo Alto Networks",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQklPWjdZbXE1X0Y1U282aDVEU3N4VF9HLS1rb0pTZmZQOXdrbkZLSDVSQVpfYzd3XzIzdFBNVmV3bGR0Z0xZWEJLdjFzMHN3Y2UyeWVhcjJ0MGtxeUtfbnZVT0JGeXRTMk9MRlRYek5wemNkMkpTa29rRjlwNlQ3SEZmSlE0VjBjeENSd0tVVV93Nk04eEFaTTRsYWluV0d2b1ZHbmdlVGctcjRmd2lWVllWdTFZN3lEbXBEQlJaLUtEUXNJU3F4YVNSQkJWN2FrYkE?oc=5",
+      "published_at": "2026-10-24T02:01:08.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "b0a9bad81a50e0d6",
       "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
@@ -249,6 +327,32 @@
       "source": "TechCrunch AI",
       "source_url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
       "published_at": "2026-10-23T21:59:19.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "39ad8cdfe8f9eb44",
+      "title": "Attorney General Paxton Sues OpenAI for Alleged Harms Caused by ChatGPT",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Texan",
+      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOVElSM2sxLWJtTTY4TDRHRzk1ck9XcnB3eWpTSG4wN016Q2RBQmx0TldCa3FhWDRqYWpNa1drSFBLRXptNEpkSnZ3dHg4VFdsbUxScHlRcTBPempTTld3QXROSWtESEJWbXlCU25TQldmZm9ReFJHb256NVFBNXZSc1FYRjc4aGg0NkQ3a3F4ZG5qSE1QRkRPREI2U1h4a3Faa2h1dDh3OXVGMWczRElTM2dVX1BKZk5fRHA4N3o4Tl9JNjZNaHhpbDhDT2JQZDNlVmN0ZHVfUVozVlRCWDk0V1dQTkRFdHN6dnNhM0F6czlENGp2MUF5WjM3Vjk5MmU0ZlU1UFB2UQ?oc=5",
+      "published_at": "2026-10-23T21:56:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "de22ed2593e22105",
+      "title": "OpenAI Tightens Rules to Block Rival Model Distillation",
+      "company": "OpenAI",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "BankInfoSecurity",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcUgzM0hXQ0NreVdiT2VsbWJ4VDREOE1xMUZ1WUtMU3NqZTQ0emx4RkJBT2xQZUhuWFVPU1FlLUpmRDRVSlYteHVQa3dmaU4wWHN6RzBxaFpKSnpwX0NlSE9URlR1Z2tTMk5CV2twRDVYTi1MdE5SRy1FckRNVjA5WVlyYXVwQzhpTDBwU2Z3eTBlUkxKRU42WG5ELVU?oc=5",
+      "published_at": "2026-10-23T21:47:58.000Z",
       "analysis": "rule"
     },
     {
@@ -457,6 +561,19 @@
       "source": "WBUR",
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMzV1XzNuYUg2cTBjdVYwYm8zajcxc25faEp3UW1sdnZZNEZBdGYydXN5NGlfVXRKLTBKTFUwbmE1OU5HbHhJNmM3dVMtbGVDNEhHTkJfSGlJOHFSTzJOR3RqRUJwQWNaNVk1MlFWTDNSQmFHZXJtM1YzZTNidHE0RUdVeldCMHM?oc=5",
       "published_at": "2026-10-23T20:06:16.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "2295948777a99411",
+      "title": "After previous day's slump, trading is quieter among AI shares",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM0M0UTBfYWZ4MlVRd2x0SHBLZjVTMGRfMkk2YkM0V2M5aTEwS0lqRUpuamp2YzVOakt5ek5lZTkyR2V5TTA1MUE5VHd1N05RMW9rQWZmZ1AwVWhld2c4a1VjRFpGcGpyNHh2N1BxSnU4cWhyR2NSajZ3MEtBWGxYbDlRbzVqdXJCTXYtdEF2ZTA3SGlqR0xiOFBobGVlTXFLbmFoTDVqOFI?oc=5",
+      "published_at": "2026-10-23T19:54:14.000Z",
       "analysis": "rule"
     },
     {
@@ -808,6 +925,19 @@
       "source": "Anthropic",
       "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hcjNRbVFacnhzLWNNYnRkSTlVM2FkMnotYTd0MEpwTmlsQ2N1NlVPdjJjdXJhNG9FbC14d3FIR3pVaEh0SEdIamRWWmNTazRXVGNxbFg3dEFZN0RQT0tVcWpWZlpGTlZYb29uTW9PQQ?oc=5",
       "published_at": "2026-10-23T13:29:39.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "6feeb01a7b96a1a4",
+      "title": "Anthropic and Hg reportedly plan AI consultancy for European firms",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Next Web",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TOEtTX3h3bmV3VnpPQmp0eGJWbmF0NGhCY2RycVkxLXNlQUFnRDUyNEw4cFNibkRwY3JqUXgtdGF4WUhVakRtY1VFTFg1cjgycGVZNjJnTXdyX3hucUhiZ2lVOEFQSkxFaVZZR25jcjhMdw?oc=5",
+      "published_at": "2026-10-23T13:21:44.000Z",
       "analysis": "rule"
     },
     {
