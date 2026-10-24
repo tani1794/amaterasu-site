@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T16:31:26.608Z",
+  "updated_at": "2026-10-24T19:21:55.206Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -27,7 +27,7 @@
       "資金調達": 16,
       "提携": 6,
       "規制": 12,
-      "その他": 63
+      "その他": 68
     },
     "Google": {
       "新モデル": 1,
@@ -37,18 +37,18 @@
       "その他": 3
     },
     "Anthropic": {
-      "新モデル": 4,
-      "資金調達": 18,
+      "新モデル": 5,
+      "資金調達": 19,
       "提携": 2,
       "規制": 5,
-      "その他": 33
+      "その他": 36
     },
     "Meta": {
       "新モデル": 2,
       "資金調達": 3,
       "提携": 0,
       "規制": 0,
-      "その他": 7
+      "その他": 8
     },
     "xAI": {
       "新モデル": 0,
@@ -103,11 +103,102 @@
       "新モデル": 12,
       "資金調達": 8,
       "提携": 2,
-      "規制": 9,
+      "規制": 10,
       "その他": 82
     }
   },
   "items": [
+    {
+      "id": "4c2c39aba893e0b2",
+      "title": "Elvis Presley Estate Sues Anthropic for Stealing His Music ‘At a Scale Never Seen Before’ To Train AI",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "VICE",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYkpHcG95OGt1cGU3Z3VWSmJHZkVzUVRlUko5S0xpLVM5REs2RUxkeHlENUQ3SzhYV3psUllVUE02YXM4bFVMbHlMbEgyaHIyM0ltNm9pdmJLTFY3aFpyNS1KTDFjRFo2enVVeVpjMUJXektqU21hbmRDZHVfQk81WlVVLWpmZEQ2dzRWcUI4TTd5M0dRbjFjM2RNWkc2eHQ2NEZOdTFETTVHdHV1OE9TOXVOSGdvYWNMQlJ4azFGYU1pUmFTUExoeTB0bFY?oc=5",
+      "published_at": "2026-10-24T18:58:31.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "96f0d7782460cdeb",
+      "title": "Forget Anthropic: Biotech Is Quietly Dominating the IPO Sphere",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Barron's",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yVi1sdEgxYmx2THJJODdIVTVFLUVTbXN0ZGFKQzB5TW5BZHFRb29JTTJNZUtjR25Palc4Ymo3SnVSeWhvU0xHb0hyMllRNUQ0NFU0RlhfZ1BKODBvRXhWdzdZY3Q2UUU3bHFlQnRyamtnR19xR01mZTBR?oc=5",
+      "published_at": "2026-10-24T18:56:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "09a5dda451583962",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "company": "その他",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "published_at": "2026-10-24T18:32:21.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "4b605f4438bd9516",
+      "title": "Elvis Presley Rightsholders Sue Anthropic for Training on 274 Songs Without Permission",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Rolling Stone",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWTh5TVotQUREU29MT1BHc3JwV0p6X2FiUjlIbllhX3hkaWpxZnNMUzkyMHU0elBhRFBlUmJKWTE1X1k3VmhFQ056RFZ2cHV3ZS1jcW1hQXN6djRLcFNjNmdIeEFpY3FZU1RFVkZPM296WDNwOEM1S3R3WU9kSGhJeVFqRUhpVG1NWWZlczdYWW5veElSaG9SM1JGeGpRUUZ5bUNQMHpKOU9udVpISzdCUjFPNkRIWFk?oc=5",
+      "published_at": "2026-10-24T18:28:26.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "c1bd7bec4d3f042b",
+      "title": "Paxton sues OpenAI as Senate campaign nears end",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Washington Examiner",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQkhWYmZZWmpLSmdnN0cyTnk5TmVjczY0Y0pOVTVtdGJwRk5ObXY5LXRPTGh3VjFVX3dfRU53cF9wS2FJWWNNQ2hjQl8yQWgtN2piVnliYjVib1hKeDlnY21Qa2xPNjdFcUNrMG1aSUQwakFIRjI3MkxYclN1aGRLZHZMemtTZkdLaXF6VkxpZVBQRldVbGJ4OHFFNC1uVFY0MjFFUk1YMW43YVoxN3YyZXRFc0E?oc=5",
+      "published_at": "2026-10-24T18:18:36.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "9184795063340c55",
+      "title": "OpenAI Built a Giant Fake Internet for Its Agents to Use and Abuse Safely",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Gizmodo",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMUVtbjVJbzVlbURNcEQxdmRCSXFWRFFfS2JGeHdPSnRUM1UtODYtRC1fZlgyN0JGRnVDZ3czRklJQmFDWVR6NldGMjI2WkNnaG91UXRJcGoyS0NaTDhmRV85OEtEeXMwMUhyYTExdlkxYjJidWJ6aWRGTWpyQmJEdW82YnRncHRTelhrUmhPUTV0RHdib2QtVy1DUHBqZ1NhdXJNdnk2RQ?oc=5",
+      "published_at": "2026-10-24T17:30:05.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "644a60824c9db677",
+      "title": "Exclusive | FBI Explores Espionage Case Against Saudi OpenAI Suspect",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRTA2OWU1VV9mbXhWWWMxTVZ4QVA2UXEtamNNOFN0NmZpQXZSVUk1OHBGSXpBbkE2Vmo3Q1RDS3hMUWpFbm13VmF3SkplYWxqcnVrU3ZmV2xONWs4OGdKVjZSMnJUTjBfeWxmOUJkZDkzZ2NxQmZEZFpDZktuZEFxdEkzODFfdmlPaldWYzZXenFqTFhsUUw3OXBVTzNHZw?oc=5",
+      "published_at": "2026-10-24T17:07:00.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "35d668020c863316",
       "title": "Block’s new voice model sounds eerily human",
@@ -174,6 +265,19 @@
       "analysis": "rule"
     },
     {
+      "id": "feac10d24d953467",
+      "title": "Peter Ryan Ran 26.2 Miles in Meta AI Glasses [2026]",
+      "company": "Meta",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "tech-insider.org",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR29qSjA2Yms1MkNOS24zM0dacjlJOHVsWnNmQ0RMYVU0VzFxcTJPbXZJSW0xbFk0eEpMUmtDWjhfSjFZelJGLWRZZEhmWHVhMTNQeXJjcmJUWFJVczdLTnpUWF90V21DTW8zaUo5V3J6Z0Z6M1l2Wm9ianNDMVBXQ293?oc=5",
+      "published_at": "2026-10-24T14:15:40.000Z",
+      "analysis": "rule"
+    },
+    {
       "id": "0fcbf50b451f0fa3",
       "title": "OpenAI Arrives on Google Cloud, and Businesses Gain a New Way to Buy AI",
       "company": "OpenAI",
@@ -223,6 +327,19 @@
       "source": "電波新聞デジタル",
       "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53aWpUc0dJMGQ4aS1UcndveVpwTmdYUUlJQXF2b2dZM0FldzdzS0dXejdOVTU5dlZjbDRFck14QVVLZlFBNmlHMnpaaDVycHRJLWc?oc=5",
       "published_at": "2026-10-24T13:43:06.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "1b938f68da594500",
+      "title": "Anthropic’s AI Hid a Secret Message in the Stars. OpenAI’s Bot Found It.",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Gizmodo",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZTVmY3RjbFEzeDNnb2xOa0FDUm9Ga2VRMXM4ODZlOEd5YkdWMUhoRU4xTnJaTWF0MzRjZ0E3SWpCRGV2NXdaeDhKTTRlNEszMmk5cVdPR2RqdWl4YWlkd0Z6cE9sQWNkMVdOTHBVYlJhbkVhRW1LOE5VMUpBdUdKbm9JYWlwdEk4ZWQ4c2FZZ0lJTVlaTzRZZEE4MmVLc2s?oc=5",
+      "published_at": "2026-10-24T13:31:26.000Z",
       "analysis": "rule"
     },
     {
@@ -447,6 +564,19 @@
       "analysis": "rule"
     },
     {
+      "id": "b74366f2dfbf72e6",
+      "title": "OpenAI CEO Sam Altman's home struck by gunfire, days after Molotov cocktail attack: Police",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYlk3cFJkWnNMMHloVFZSQ2pIelpHUWxJbndOeWdiUVcxdXBncjcxdmU3cEUtczJBSV82MUc0LTFRdkJ4NmZpZmZUMUdmU1NJc3hMSlRUSU43RW5VN1pjVzJqSm83OWZiakt4TTQ0bHgwR0hYVkJUaTB1QUlnRUxFQzB1YngzOVoxS0pOYkFzUHpHQVFvcHN1SjFVONIBoAFBVV95cUxOSmg3TE42d3BRemlRWXU4al9ZU0p5eEtCeE4yNzNiaE1oTDB5MHZBMDVDNTUxUjl0dzdma2VWcDkyTUNMRnJoNlJobXNLU0t6NUdXbXNkMWdUa2NDUk4xZ2loSjY2TURtTXkxMTNtd3ptU1VUemYyVG93QWt1ZkNvdEp1aDQ4UVY5RDRwUXRSRGZsdmNJalpyeHVBRkxpbW1v?oc=5",
+      "published_at": "2026-10-24T02:23:50.000Z",
+      "analysis": "rule"
+    },
+    {
       "id": "0e2fcce1d844f5d7",
       "title": "Palo Alto Networks Brings Continuous AI Defense and Prisma AIRS to the OpenAI Marketplace",
       "company": "OpenAI",
@@ -470,6 +600,32 @@
       "source": "日本経済新聞",
       "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NSkZiLVJpUFF3TFRMSnlCLTJ4dHd5d1A5amFLaGZSeWw1REZ1YzNkeXVTYmF1NEcxZjVfdmVwb0tHREpLTldHNzVQN280TkVYNXVEM0dIV2JVOFNiT1pJcUh0ZXBGUnIwWFYwTg?oc=5",
       "published_at": "2026-10-24T02:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "9f283278fce48b92",
+      "title": "Pentagon gives Anthropic ultimatum on AI technology: Sources",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWmk1c3RRZUVnenpEV3lQRUtudTdTV05mVXo4MWxRVW91UkJCVTB0dmo1dDRfQy13Z2hRSkJ5UXN4NlRscjhaTk5uOEhLcElBckVjd0F4Z0hkUHFYejYwWi1tUjM0Vm9DeE9JdjYxWldSbGVOWjhzcEFTNzMxUDNKNG1ic2VhM2ZDVDVsZE15M0JzNzByUTUzZU1yMEppbWvSAaQBQVVfeXFMUFp0N0lQZWF3MHlhZUlzQXl0Wnp1VWxkMnlHZnh1dUM2RENlSll1QU5MVE9keFNUbzJoczlLT1Z3Z09tdHRyT044MVNwTF90YlNXYkNlVGFsWHdNMmdjSkMxOVNpQ3ZZSTBIWU5KUk5YOXBmcElYdmVHWUhqQXlSX0RWaWdrUV82NmRDN1pYU19GckhjOERTb1FHWkJJalk3ODRDM08?oc=5",
+      "published_at": "2026-10-24T01:43:31.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "1bde5b4044983052",
+      "title": "Anthropic says its AI models hacked 3 organizations on their own during tests",
+      "company": "Anthropic",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5",
+      "published_at": "2026-10-24T00:55:18.000Z",
       "analysis": "rule"
     },
     {
