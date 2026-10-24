@@ -1,8 +1,272 @@
 {
-  "updated_at": "2026-10-24T19:21:50.472Z",
+  "updated_at": "2026-10-24T22:22:21.268Z",
   "window_days": 7,
-  "count": 1801,
+  "count": 1834,
   "items": [
+    {
+      "id": "bbb9870faf48a762",
+      "title": "Who are the candidates in Brazil's presidential election?",
+      "description": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
+      "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo",
+      "source": "BBC World",
+      "feed_id": "bbc-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T22:08:47.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
+      "id": "c8440c270925d676",
+      "title": "Iran has ramped up efforts to target US personnel, intelligence memo warns",
+      "description": "Iran has ramped up efforts to target US personnel, intelligence memo warns Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSnBGckdpTkdaSnNZeFIyenI0MVVDMHd6R2ZDcTlUX3I4OWNNMlRjd0FTXzhCY09zakU1MWx2RzBpRW1QYTRxY2M3UWpBZHR3S1JlNjQ0WlIyRlh3ZnhNaVZ0OVcwU21YMjUyVVF0RXB0VXFLMWpGdEVtak1DUktTdUdLWmQyWGRFQ0xmb2Z3WG1nSHdfVUxlbUlsc2RJRmNmWVRHS1Qtd0RCVU92d2t1S19HbjlFVzdoREJONTRNYk1iZw?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T22:06:52.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
+      "id": "08e405ddd9d7d529",
+      "title": "Trump administration demands county election officials identify noncitizen voters in California",
+      "description": "Trump administration demands county election officials identify noncitizen voters in California Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMmlFSUIxOVVNeTdTRWJLSGVWYUQzS3FGNEk4SVU2dmM5aS1MZThUYUc5cG85WXFnd2V6bDBFOF9zd09EREduV2lGbWJTTUhURER2R3RISWxWT3pvSWhRTVNHcFRtTUFRX0E2OU1QQjdHS2hBZ1ZnZzRYLXFLdTZTX2w2dUFQRGRZVDh1aHJuSkxSQzliZ2pqaWQ2blpEdXp5b0sxUlQyTHpPZVFGOVpQdkRmMHhtS1BiUDhYei14V04zX2s2OHc?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T21:57:51.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
+      "id": "75f599f360ac5a4f",
+      "title": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
+      "description": "The pivotal run-off will determine whether Brazilians stick with their left-wing leader or shift towards the right.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T21:39:29.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
+      "id": "4b98dfed139f6d81",
+      "title": "Brazil’s candidates hold final rallies before knife-edge run off",
+      "description": "",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/brazils-candidates-hold-final-rallies-before-knife-edge-run-off?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T21:36:23.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
+      "id": "b74c30856b74efd3",
+      "title": "Healey’s first budget to include big devolution package to boost growth",
+      "description": "Chancellor will build on Burnham’s promise that local leaders in England will no longer have to ‘come cap in hand to Westminster’ Andy Burnham has promised that local leaders in England will no longe…",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package",
+      "source": "The Guardian World",
+      "feed_id": "guardian-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T21:30:43.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
+      "id": "42d3f00a8fa6aec2",
+      "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+      "description": "Tehran warns that even limited strikes would trigger a response 'several times greater'.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T21:30:11.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
+      "id": "4e9d0837b2293928",
+      "title": "An OpenAI Model Spent Ethereum Without Permission. Here's What That Means For Crypto Investors.",
+      "description": "An OpenAI Model Spent Ethereum Without Permission. Here's What That Means For Crypto Investors. The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVFRjb3dHLTBpMXpRajBGZnY1dEN5QzNhdjlwc3FDUnZnRTl1cU12dWpkWUFWaFZuMHpvcG1uSXIwZC00NlZGM1BUYjQ2aXVqcmFMVmJPRmN5VV9ObzJMcm1LYm43VzhwTjdDRWtMbndFbzN2TDVYVmV1bUo3QXN3SF9LVVdSVElBRjBOa283cGxpTVQ2dmpV?oc=5",
+      "source": "The Motley Fool",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-24T21:12:15.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
+      "id": "243bd4ec36812282",
+      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "description": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo",
+      "source": "BBC World",
+      "feed_id": "bbc-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T21:09:27.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
+      "id": "250c5583ffcd8d5f",
+      "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+      "description": "Houthi missiles reportedly struck a number of targets in Yemen, including Aden's airport and a coastguard base.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T21:08:51.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
+      "id": "7e4e59f21ecb7727",
+      "title": "Train slams into crane that collapsed onto railway line in Brazil",
+      "description": "Video shows the moment a train collided with a crane that had fallen onto railway tracks in Brazil.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/train-slams-into-crane-that-collapsed-onto-railway-line-in-brazil?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T21:02:55.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
+      "id": "8a04593ef9231eff",
+      "title": "威勢のよかった維新はどこへ？高市首相からの「異例の厚遇」「副首都構想」…連立入り１年、漂流する＜立ち位置＞",
+      "description": "威勢のよかった維新はどこへ？高市首相からの「異例の厚遇」「副首都構想」…連立入り１年、漂流する＜立ち位置＞ 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iSEFnazRKNHRacTRVZHhWa0FMOHJqaFZnVWo4ajBKbXdBLWNOd3kyN3hqNk8xb2ItQzl5RnA2ZjJQSWd4b2NwOU1BT2NjWmtrbUprLTV0SmQtWlJDeTZ2UzlDQ0k1RnpQdEwzOEVQeU9kZw?oc=5",
+      "source": "読売新聞",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-24T21:00:00.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
+      "id": "a61ba7086368d3ca",
+      "title": "Severe hunger stalks people in Gaza as bakeries close down",
+      "description": "Bakeries across Gaza are struggling to find flour to make bread for people desperate for food.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/severe-hunger-stalks-people-in-gaza-as-bakeries-close-down?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T20:52:55.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
+      "id": "fa76e78e76ed88cc",
+      "title": "Violent clashes as Albanian government cracks down on protests",
+      "description": "Protesters in Albania have fought running battles with police, on a 12th day of anti-government protests.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T20:39:08.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
+      "id": "67d46dfd6733ce3d",
+      "title": "Could Israel’s military crackdown influence Tuesday’s election?",
+      "description": "Israel preparing a full lockdown of occupied West Bank after Hebron gunfight.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T20:37:02.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
+      "id": "9c846da2f6e58d98",
+      "title": "Who Is Dario Amodei? The Anthropic CEO Behind Claude",
+      "description": "Who Is Dario Amodei? The Anthropic CEO Behind Claude The Profile | Polina Pompliano",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nNVRycmlWXzJTdWtVSVZMbkN2SlVsVEhpUTktdFVuX1g0RmNGNjV4WUhaTjlCMTZmVEg1dWVlSkRWUjJuWGd4bXNvU2dqOXFScG9QMnNrUmJNMmZKNXJtMmp3?oc=5",
+      "source": "The Profile | Polina Pompliano",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-24T20:35:29.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
+      "id": "dfd0805ad04b4a2b",
+      "title": "首相動静（10月24日）（時事通信）",
+      "description": "首相動静（10月24日）（時事通信） Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53ckctSUFnWTBpUXlycFA1Q2pfUlRZWS16bUQ3S1ZaNEgyaDZOUDFGeWtrMXJ2TnN6dE1IZHRrOTN4dnpJSXlnVGRrZmtPTTlpaTZjeTFTYk8tNGNiLW16WktRMXh4UFZnVEU2SnVvY2tfYVNBWFF5Y2VFVHl5MUk?oc=5",
+      "source": "Yahoo!ニュース",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-24T20:30:54.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
+      "id": "4ec77be00c15c403",
+      "title": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
+      "description": "Gunners capitalise on City's first loss of the season, while Spurs get second league win at Stamford Bridge in 36 years.",
+      "url": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T20:03:29.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
+      "id": "e27d390e35251507",
+      "title": "米スペースX、倉庫から2兆ドル企業へ 製造革新貫く5つのアルゴリズム",
+      "description": "米スペースX、倉庫から2兆ドル企業へ 製造革新貫く5つのアルゴリズム 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GdVRQaUtPZ1U0MDJKZnoxX2gyOWlLSUdoVF85ZV9QdmszSGluZWpMcVZrM2pQdnEtc3c3cE1lZmRwQTBxZTZ0OG9CVVlwckxmLU5FcGpWMDFVWGUyeU5FSnE4Vnk3OUlfakNSNw?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-24T20:00:00.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
+      "id": "b40078a935b4d98e",
+      "title": "高市首相の一日（２４日）",
+      "description": "高市首相の一日（２４日） 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nTE5CS3ZqVXJ3bU5PNk5GTTNLYWRSbW5rblAzaDRPd2xKeDQyOFh0VjI0NU05YVBYa3ViUkgtRjdGYXJWckk0a0N2RWZrTUZ1VWRfRmxmM3A3ZkNiZ0ViODB1U3lnQQ?oc=5",
+      "source": "読売新聞",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-24T20:00:00.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
+      "id": "ed7b97c384f850ec",
+      "title": "国会議員動静 10月25日 | 行政・社会 | 佐賀県のニュース",
+      "description": "国会議員動静 10月25日 | 行政・社会 | 佐賀県のニュース 佐賀新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PZ3J3SlJkYlAzZUd3eHNQYkEyajh4SEhwdWx1eEx5cjloLTQ1T1c3TDNDZ2VkU3dHUURyYWJ2a2ZlSVZOTXZPcXFQTmE5UDFlUWV0eDBR?oc=5",
+      "source": "佐賀新聞",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-24T20:00:00.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
+      "id": "1497d6290dcd8356",
+      "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
+      "description": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+      "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do",
+      "source": "BBC World",
+      "feed_id": "bbc-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T19:37:35.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
     {
       "id": "e13f657c6aa557c0",
       "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
@@ -16,6 +280,30 @@
       "first_seen_at": "2026-10-24T19:21:50.472Z"
     },
     {
+      "id": "88ce2c9ba99c11fb",
+      "title": "Nigeria's Tinubu launches re-election campaign as economic pain tests support",
+      "description": "Nigeria's Tinubu launches re-election campaign as economic pain tests support Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb2pnT1VmVHRrU1I2MHl3cGFQQk51cUx2S0NhUHBydDBnQWtpbndGWm54NDl0OGhhRUVIUlJCN0hLcWNvVmROQjJ5VGYyekhPNEVTTU5oMVRiM2VQbFBmaWwwTkhSUjFUQ3N3d016YlZZdFdfaGx4WmwtVjNlZkNqOGhPNVpLRFVCRmZITU10X3hhOHJ0bU5NUUN1aU5TLW8tOFNxRnloS3ZDM2xxQU9qaWJWVmowRkJRQjV1d3Viaw?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T19:08:10.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
+      "id": "a063fbccd36584af",
+      "title": "Gunmen kill at least 40 people in northeastern Nigeria, Amnesty International says",
+      "description": "Gunmen kill at least 40 people in northeastern Nigeria, Amnesty International says Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb1J4ZnFKQkVEMmNqNnhnQ1hzU290Wm5VWVI1ajhVUmpDbkpqLUlrNEVuckpONnNoN0hlZGJVTnhGY0V3dUh4UXFKUzN2ZFZSbk1fYWtEeUtMNDJRSVlfVDNjX1dWVWd2UzhlZFplZXA3d1l3dkdWLVRUMEhzd1RBcC1GRnRTQk8tNGNjc3B5RHZPcy1DOTlJeHp0Y3ZkdHhaX0xlTktJSWJlVDQ5b1hWQkpmb1ZrRC12RlNpTG5YekQ1Zw?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T19:03:57.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
       "id": "8c2dce852bc677f6",
       "title": "Thousands join Paris protests as authorities clamp down on disorder",
       "description": "Thousands of protesters are on the streets of Paris for a second weekend.",
@@ -26,6 +314,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-24T19:01:52.000Z",
       "first_seen_at": "2026-10-24T19:21:50.472Z"
+    },
+    {
+      "id": "b0af889ad05fbb7f",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch AI",
+      "feed_id": "techcrunch-ai",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-24T19:00:00.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
     },
     {
       "id": "4c2c39aba893e0b2",
@@ -74,6 +374,18 @@
       "hint": "AI",
       "published_at": "2026-10-24T18:32:21.000Z",
       "first_seen_at": "2026-10-24T19:21:50.472Z"
+    },
+    {
+      "id": "f90c834b5188c476",
+      "title": "Anthropic is pitching Congress its own AI safety bill, report says",
+      "description": "Anthropic is pitching Congress its own AI safety bill, report says Mashable",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15NjVPYUtCV2RwQTJVZ0MtcDFJdV9INE9mOUpFdmUxQXg0bXI3WkJhVHNyN2ExOGFJRXAyZmpwWjY5SnMxYW05R2UtVVJzRHJGdldDcEdaU3RlcE1DdGFqT19CXzgwZnNUdk4zNEY1cUJXSWpsVVFn?oc=5",
+      "source": "Mashable",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-24T18:32:16.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
     },
     {
       "id": "506b03091307327a",
@@ -244,6 +556,18 @@
       "first_seen_at": "2026-10-24T19:21:50.472Z"
     },
     {
+      "id": "b52bf171350d0a5f",
+      "title": "首相日々：首相日々 24日",
+      "description": "首相日々：首相日々 24日 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fajdvN0c4ekRJNUtfQU0tS0g2XzRMUTFBODV3TDloTDFZZXAtby01YzFjYWlvVmduWVVtQVpKc0t4a2haU0I4M1dYTFVuLXNDdENnYTMtbWI4dkRpUWp3VkZRR01Ga05S?oc=5",
+      "source": "毎日新聞",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-24T17:05:38.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
       "id": "2983fc8d603bc8ce",
       "title": "Trump says he may move White House press corps to new location",
       "description": "Trump’s remarks come amid a fractious moment between the US president and the journalists who cover him.",
@@ -254,6 +578,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-24T17:01:34.000Z",
       "first_seen_at": "2026-10-24T19:21:50.472Z"
+    },
+    {
+      "id": "e85b5fc655dc4bb8",
+      "title": "能動的サイバー防御、GMOが政府に要請 識者「ハードル高い」",
+      "description": "能動的サイバー防御、GMOが政府に要請 識者「ハードル高い」 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKRENSN0hxZGxjOEdNTGZrMlhzMUk3bnBKR05FRXVmZ3VDU1hXTEhUckplSW9SaXhIeTlWdHRJRzhCbHpBYnV1V2FhNndnYlFvTkxXSlhIQ0Y5WC1WZXpwRTZVQ3F1U1JJbExZNg?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-24T17:00:00.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
     },
     {
       "id": "9a064cc8046d7cef",
@@ -1576,6 +1912,18 @@
       "first_seen_at": "2026-10-24T12:34:40.867Z"
     },
     {
+      "id": "722c7484bb6d4582",
+      "title": "Ukraine and Russia eye new peace talks — and Melania Trump's mission — but steep obstacles remain",
+      "description": "Ukraine and Russia eye new peace talks — and Melania Trump's mission — but steep obstacles remain AP News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUw3V0JLTVMtaXQ1bm9sVC0yU1VITmZSTW9OVkVZM2JEbUpwaWlCcThLQ1JXUURGSC1IamlEakx1Mm5Ld3QxVlZvaTBJUTJHcHBqSDk3S3B2dmY1cUNFNzZUeFNhZkdhaFU5bVBkS2l1ajFBdnRubERJQ0NrWlVmWGtXLU9ZeFVBTEVFYjl2T0NaWDlpNEJQdGRJVDdYSmQzUFNaVFpJSUhRS3ZL?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T09:50:40.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
       "id": "7244dbc30e9894c2",
       "title": "2 Philippine air force planes collide during a training flight, killing all 4 pilots",
       "description": "2 Philippine air force planes collide during a training flight, killing all 4 pilots AP News",
@@ -2536,6 +2884,18 @@
       "first_seen_at": "2026-10-24T12:34:40.867Z"
     },
     {
+      "id": "9d086c857c0d847c",
+      "title": "Lula, Bolsonaro reach out to undecided voters in last debate of Brazil’s presidential race",
+      "description": "Lula, Bolsonaro reach out to undecided voters in last debate of Brazil’s presidential race AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaVNWZUxkVXd6dUp2ZThxVU1GTHdhd205VXQ1ZjJaWV9mR2FhSG0wc3RsM1pfRzZDUE1ZWWhVbnJ5SlpsOHNKU0t1c01xRFZCUlRjWHd0QTZSWDlITmptWllIcURnTzdCR25sTTVsZTc2OTF2T2xiWEJaMW1UUWowWVlibnZUUXlodXFfZktzUF9wWno1OXpaajMwamoxeDdabk1iWlVyeEk?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T04:55:00.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
       "id": "4c3ee0327ce4ded5",
       "title": "Massive oil slick seen weeks after tanker struck off UAE’s coast",
       "description": "An oil spill off the UAE coast has prompted beach closures after a vessel reportedly hit a naval mine in early October.",
@@ -2594,6 +2954,18 @@
       "hint": "日本政治",
       "published_at": "2026-10-24T04:30:00.000Z",
       "first_seen_at": "2026-10-24T07:05:57.727Z"
+    },
+    {
+      "id": "caf615d2c5f937f2",
+      "title": "Exclusive: Anthropic CEO calls for stronger regulation of AI",
+      "description": "Exclusive: Anthropic CEO calls for stronger regulation of AI ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTnFDeXdUaGRRY3FzRWFMbVpRbFBrVXVhOHNDWDRMaFQ1T1kzclBENEtWa3R5UDBDQktzb3Z3N0FYUjJsejBwZUY5eURuejdvaFg4eXJrSndRLWdvTGtDcVdwOFdXeHZlVWo4eXJDc3ZGWlg0aTZwak1ySWwtS3hkSzNmdVR3MEhGXzdGRDRjV3dpMzVTOFhDX0o1Z3FBSDBqamfSAacBQVVfeXFMTzVVZEpXZk9NbHhzV241am1weGozclJlMUV6WFd1VFFQSnhoLXhibFlnVnNQaGRsUm5QNjFtT2F4ZXdQUk9BN0VCbHgweEUySVhkMjRHZDROSmRoem1FUGwzTXVVd2wxZWkycDdWZld1RW5JaFJJd0tQMkx2VlkwNG9wS3Z6blByVkFpLV9lbEhjMjNSTDdoQzROTDhPbnlGbTdlRHJIUE0?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-24T04:29:24.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
     },
     {
       "id": "c57f2a633fb1542c",
@@ -2918,6 +3290,18 @@
       "hint": "経済",
       "published_at": "2026-10-24T01:35:20.000Z",
       "first_seen_at": "2026-10-24T12:34:40.867Z"
+    },
+    {
+      "id": "2a4d510442674291",
+      "title": "DOJ orders some California counties to verify ballots in 48 hours",
+      "description": "DOJ orders some California counties to verify ballots in 48 hours AP News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRlc0YW1zZ2RBWXBYeXQwT2sxdlYxc3RCWk1BZ1ROZmktaFEtNFFqaVBicWZMcjI3aUhQVDhSNzRzUzJCeXEtYnhFX1ZQRnZnM3Y2SnZ3Q2JlM0p3amVVM2xOSlpUS211QXh4NWRoNlIydGF1anYzd1RpZUtCY1A4R1ltYVV5RFJLbHpGZDJldVNWTFVPb3BLaFFGNkxJVGdIRzk3eUFxQjNVNDB3cUpFaXJwOW5WREFmZzZn?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T01:29:00.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
     },
     {
       "id": "a79d4fc65bb53591",
@@ -6878,6 +7262,18 @@
       "hint": "経済",
       "published_at": "2026-10-23T11:20:07.000Z",
       "first_seen_at": "2026-10-23T14:50:47.550Z"
+    },
+    {
+      "id": "d2f47f92631123de",
+      "title": "European leaders gather in Budapest for anniversary of Hungarian revolution as Magyar resets EU ties",
+      "description": "European leaders gather in Budapest for anniversary of Hungarian revolution as Magyar resets EU ties AP News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ2tRUnVTcXd6SXNuQ2poVE1Oa0pkVVh1MkwteW55M1F6UDFyZjhQYTg3QUNPOGRzMG9OdFQwVlFfNmJKTTQ3eW9MVjJ0Ri1qN2ZFd21td0R0em1CU0sxRHMyNmJpRmtfRmhMRXlLZFZ6bFg5VXBvbXU4TWowTUtyUlFMemt2dmN3ZFZPNkpQRXZJTjhTOUM5NUstaTU2cmdYX3Q0UnVURHVZZUhxcjdvcURyYmw5Zw?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-23T11:12:54.000Z",
+      "first_seen_at": "2026-10-24T22:22:21.268Z"
     },
     {
       "id": "71da440a607e9a13",

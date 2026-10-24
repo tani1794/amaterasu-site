@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T19:21:55.206Z",
+  "updated_at": "2026-10-24T22:22:28.222Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -23,8 +23,8 @@
   ],
   "matrix": {
     "OpenAI": {
-      "新モデル": 26,
-      "資金調達": 16,
+      "新モデル": 27,
+      "資金調達": 17,
       "提携": 6,
       "規制": 12,
       "その他": 68
@@ -40,8 +40,8 @@
       "新モデル": 5,
       "資金調達": 19,
       "提携": 2,
-      "規制": 5,
-      "その他": 36
+      "規制": 6,
+      "その他": 38
     },
     "Meta": {
       "新モデル": 2,
@@ -109,6 +109,45 @@
   },
   "items": [
     {
+      "id": "4e9d0837b2293928",
+      "title": "An OpenAI Model Spent Ethereum Without Permission. Here's What That Means For Crypto Investors.",
+      "company": "OpenAI",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Motley Fool",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVFRjb3dHLTBpMXpRajBGZnY1dEN5QzNhdjlwc3FDUnZnRTl1cU12dWpkWUFWaFZuMHpvcG1uSXIwZC00NlZGM1BUYjQ2aXVqcmFMVmJPRmN5VV9ObzJMcm1LYm43VzhwTjdDRWtMbndFbzN2TDVYVmV1bUo3QXN3SF9LVVdSVElBRjBOa283cGxpTVQ2dmpV?oc=5",
+      "published_at": "2026-10-24T21:12:15.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "9c846da2f6e58d98",
+      "title": "Who Is Dario Amodei? The Anthropic CEO Behind Claude",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Profile | Polina Pompliano",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nNVRycmlWXzJTdWtVSVZMbkN2SlVsVEhpUTktdFVuX1g0RmNGNjV4WUhaTjlCMTZmVEg1dWVlSkRWUjJuWGd4bXNvU2dqOXFScG9QMnNrUmJNMmZKNXJtMmp3?oc=5",
+      "published_at": "2026-10-24T20:35:29.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "b0af889ad05fbb7f",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "company": "OpenAI",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "published_at": "2026-10-24T19:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
       "id": "4c2c39aba893e0b2",
       "title": "Elvis Presley Estate Sues Anthropic for Stealing His Music ‘At a Scale Never Seen Before’ To Train AI",
       "company": "Anthropic",
@@ -145,6 +184,19 @@
       "source": "The Verge AI",
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
       "published_at": "2026-10-24T18:32:21.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "f90c834b5188c476",
+      "title": "Anthropic is pitching Congress its own AI safety bill, report says",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15NjVPYUtCV2RwQTJVZ0MtcDFJdV9INE9mOUpFdmUxQXg0bXI3WkJhVHNyN2ExOGFJRXAyZmpwWjY5SnMxYW05R2UtVVJzRHJGdldDcEdaU3RlcE1DdGFqT19CXzgwZnNUdk4zNEY1cUJXSWpsVVFn?oc=5",
+      "published_at": "2026-10-24T18:32:16.000Z",
       "analysis": "rule"
     },
     {
@@ -535,6 +587,19 @@
       "source": "The Guardian World",
       "source_url": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
       "published_at": "2026-10-24T05:00:24.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "caf615d2c5f937f2",
+      "title": "Exclusive: Anthropic CEO calls for stronger regulation of AI",
+      "company": "Anthropic",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 5,
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTnFDeXdUaGRRY3FzRWFMbVpRbFBrVXVhOHNDWDRMaFQ1T1kzclBENEtWa3R5UDBDQktzb3Z3N0FYUjJsejBwZUY5eURuejdvaFg4eXJrSndRLWdvTGtDcVdwOFdXeHZlVWo4eXJDc3ZGWlg0aTZwak1ySWwtS3hkSzNmdVR3MEhGXzdGRDRjV3dpMzVTOFhDX0o1Z3FBSDBqamfSAacBQVVfeXFMTzVVZEpXZk9NbHhzV241am1weGozclJlMUV6WFd1VFFQSnhoLXhibFlnVnNQaGRsUm5QNjFtT2F4ZXdQUk9BN0VCbHgweEUySVhkMjRHZDROSmRoem1FUGwzTXVVd2wxZWkycDdWZld1RW5JaFJJd0tQMkx2VlkwNG9wS3Z6blByVkFpLV9lbEhjMjNSTDdoQzROTDhPbnlGbTdlRHJIUE0?oc=5",
+      "published_at": "2026-10-24T04:29:24.000Z",
       "analysis": "rule"
     },
     {
