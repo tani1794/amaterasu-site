@@ -1,8 +1,296 @@
 {
-  "updated_at": "2026-10-23T22:59:21.036Z",
+  "updated_at": "2026-10-24T01:30:10.325Z",
   "window_days": 7,
-  "count": 1459,
+  "count": 1511,
   "items": [
+    {
+      "id": "9686b15cacf41fe0",
+      "title": "Embattled Greens senator Jordon Steele-John confirms leave from parliament after allegations against him made public",
+      "description": "WA politician says he considered attending Senate estimates virtually but was told it would be ‘unacceptable’ Get our new political email , free app or daily news podcast Jordon Steele-John has confi…",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/24/greens-senator-jordon-steele-john-confirms-leave-from-parliament-ntwnfb",
+      "source": "The Guardian World",
+      "feed_id": "guardian-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T00:52:33.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
+      "id": "3effd0a96b102be0",
+      "title": "Syrians protest Israel’s incursions near occupied Golan Heights",
+      "description": "Syrians are protesting Israel’s occupation of parts of the country’s south, near the occupied Golan Heights.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-reported-heidi-pett-syria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T00:50:05.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
+      "id": "90a29d3e035aa77a",
+      "title": "Helen Haines’s condition improves days after losing both legs from alleged attack",
+      "description": "Independent MP now serious but stable, according to update from Melbourne’s Alfred hospital Get our breaking news email , free app or daily news podcast Independent MP Helen Haines’s condition has be…",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb",
+      "source": "The Guardian World",
+      "feed_id": "guardian-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T00:41:29.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
+      "id": "ed7adddd60cf5c94",
+      "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
+      "description": "US secretary of state makes comments after Trump tells US rally warships could intervene on return from Iran Marco Rubio urged Cubans seeking political change in their country to act, saying “now is …",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
+      "source": "The Guardian World",
+      "feed_id": "guardian-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T00:30:02.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
+      "id": "ce847dae23ba5a97",
+      "title": "WHO announces start of Ebola vaccine clinical trial in DR Congo",
+      "description": "A clinical trial begins to test the safety, efficacy and immunogenicity of multiple vaccines.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T00:27:21.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
+      "id": "6ce9d833dbe2cc4a",
+      "title": "How does the UK state pension compare with other countries?",
+      "description": "Do British pensioners have it better or worse than those in other countries?",
+      "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo",
+      "source": "BBC Business",
+      "feed_id": "bbc-business",
+      "lang": "en",
+      "hint": "経済",
+      "published_at": "2026-10-24T00:09:12.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
+      "id": "b0a9bad81a50e0d6",
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "description": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+      "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo",
+      "source": "BBC Business",
+      "feed_id": "bbc-business",
+      "lang": "en",
+      "hint": "経済",
+      "published_at": "2026-10-24T00:05:45.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
+      "id": "20aa1b7b78e3972e",
+      "title": "「牛歩」「フィリバスター」――国会運営をお膳立てする各党の裏方集団「国対」、そこで使われる業界用語「国対ワード」とは何か",
+      "description": "「牛歩」「フィリバスター」――国会運営をお膳立てする各党の裏方集団「国対」、そこで使われる業界用語「国対ワード」とは何か Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CVlQzYWt3TlVqZ1hGRm1QODgxTUNjRm9fSVExalpQNF83U0NzUFYxTTZSS29XbURIeXo0dTkxdTFvMUVNUW9iNWRNcFoyY0xhdUZ4UlNqeVhwVEZhblZuVndDcHR3Q0twb1hZcUhCeFJuT2plVGhBcFpQcXdPeEU?oc=5",
+      "source": "Yahoo!ニュース",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-24T00:00:52.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
+      "id": "1bbc15ef5df10e3b",
+      "title": "Iran war live: Israel launches ‘targeted’ Hebron operation after attack",
+      "description": "Israeli army launches a 'targeted' operation in Hebron after a shooting killed two soldiers.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T00:00:00.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
+      "id": "0ee0d61f8c923b8d",
+      "title": "スターリンク利用の重要性強調 バーナム英首相、トランプ氏と電話",
+      "description": "スターリンク利用の重要性強調 バーナム英首相、トランプ氏と電話 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TdlNlczNGNUlZb0o5OVZ4SFNWZUlLRTVWVTlJeEhDbTMwSUxpbmc1NllHWU00enQ5Z2N1Y3h0ZFlzVHh1NHE3Z2lha0JNZkhWVDQ4b0JPRUhEcDk4X2Raa3hBeTUwVlM5Z3UtOQ?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-23T23:58:29.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
+      "id": "f6fc736f81298cbf",
+      "title": "首相Ｘ返信のワードクラウド（時事通信）",
+      "description": "首相Ｘ返信のワードクラウド（時事通信） Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KWFZrWi1JVVBzWFV4Y0tCU29aVlA2NmNqVXFjY3ZCTG5BRXVoWk5FcDVoUjluYVk0cFNzUDB6bjdIMlE0Z2hFX2RRVHByRWlIOEZ1MmF0dWtWdjYyMGVMX0E3amZfdWJvMFpqODEtTnpRZ2lGWTV2RTl6dFI2NEE?oc=5",
+      "source": "Yahoo!ニュース",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-23T23:58:13.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
+      "id": "d87bffe87a2b7d93",
+      "title": "画像・写真：首相Ｘ返信のワードクラウド：時事ドットコム",
+      "description": "画像・写真：首相Ｘ返信のワードクラウド：時事ドットコム 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2UjZzeGFqbHRhUWpyTTdOUFJTdUVCTHlfMFBSSlhBUHlyZmFjMjJmV2ZaX3JyZWlkZmFOV3RLRTktYVVRdWtyRUJaT2JMZTk3bTdnT3ZsYjNraEttYVo0bVhNaXk?oc=5",
+      "source": "時事ドットコム",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-23T23:57:40.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
+      "id": "c6754ed3814db37c",
+      "title": "In Florida, Trump vows to deal with Cuba after Iran gets settled",
+      "description": "In Florida, Trump vows to deal with Cuba after Iran gets settled Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaW1UZUdScXEwTWVUNUJxcDkyWmV1TDREckM1RnRCTFR4VjBuVmk2Vm9OVF83d2FLdTdnSGN2N0FGNURpVXJKbzR4bWI3b05TY3pPWGgzRnZvX2N4SEQ4cmw3blpTZktVMXd4UDlFeWpFcG9jX1FJcTN3OW1WVW5UTnFfQ3BqdHRwNFAzOGRsc1Nyc0N6TENyVDJaeW9ZSExlSl9adExjYmQ?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-23T23:52:55.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
+      "id": "350eabbd3b553072",
+      "title": "Anthropic reveals Mythos 5 tried submitting malicious code to an open-source project",
+      "description": "Anthropic reveals Mythos 5 tried submitting malicious code to an open-source project SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV3dqUk5faExZdzlTVHlwNVg1WHF1N3l4M3ZpTUJ1VDNCMll2TnA0NUxTQjJsYmVacF95Ui1mbk4yMXMzTFNTQVRNVnI4NW5VX3ZOZ1pfQVljR0Rvd2t0c0pIMVhSb0pnV3pGX3NJODNWUmRicUkySVlQMTlObUdrV19XbXBPS2trZGxTVXFjUnRhRjV0UXFHYm1yNGdGWEVZcE56VE45V1FVSV9JOHBTLXZGR3poWGF5d3I4c05B?oc=5",
+      "source": "SiliconANGLE",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-23T23:28:00.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
+      "id": "c2ef0309d085d59e",
+      "title": "Thunderstorms, heavy rain and flash flooding predicted for much of Australia",
+      "description": "Parts of Queensland, Victoria and South Australia can expect severe storms on Saturday, moving into NSW and Tasmania by Sunday Get our breaking news email , free app or daily news podcast Severe thun…",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/24/thunderstorms-heavy-rain-and-flash-flooding-predicted-for-much-of-australia",
+      "source": "The Guardian World",
+      "feed_id": "guardian-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-23T23:26:05.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
+      "id": "210456cfdaec6aba",
+      "title": "Macklemore: ‘I say free Palestine’ as he kicks off a new tour",
+      "description": "Macklemore says ‘being human is not complicated’ as he kicked off his Free Palestine tour on Thursday night.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-23T23:25:11.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
+      "id": "55f2a932bbfc53c8",
+      "title": "第222回臨時国会が本格スタート",
+      "description": "第222回臨時国会が本格スタート 選挙ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0c1QzRGNwc1I5bjU1R1c2Xzd0aGltRFVHS2E5TG52YVlCMkRocGI3TnQ2bWNGX0FZaEJnQzNfR3ZnV1BlNGducWpoUnFHc3BOLXhaVTdPZ1NMU2t4ajg4?oc=5",
+      "source": "選挙ドットコム",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-23T23:16:47.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
+      "id": "a96c56d99c0f8573",
+      "title": "高市首相、日米同盟「平和と繁栄支える礎」 富士山会合にメッセージ",
+      "description": "高市首相、日米同盟「平和と繁栄支える礎」 富士山会合にメッセージ 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YTDdFRzJraU5HWnBhRjVwa0JxaHdxMjZjcEZXaUNZQURaYVBIMzJGdkl1QmNsb2ZNRjljRVFveDFESjhaTkNXdjZpcGxMX0NGeWVUbnhJZ3RNdEpLbngzZ2VZTXI1UmoxeC1ycQ?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-23T23:15:00.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
+      "id": "0258491472d04436",
+      "title": "Typhoon Champi hits Taiwan, killing one and injuring 350",
+      "description": "Authorities warn of 'destructive winds' and urge residents to shelter as the storm passes the island's northeast.",
+      "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-23T23:10:54.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
+      "id": "0048d970d8f61ee9",
+      "title": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
+      "description": "Amazon cloud capacity sold out through 2027, CEO Jassy says Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeDBNbTdvV2F5U2tSX1NQWmZ2bnRGUXJMRE4xT1V3V0dIcnlFd3g0WkZ6aWdYNmNzNWxIQXNOcWxMdFlqbFNmN3lWekFUOGJVQzN5aElzeVlveVh4RzZ5aC03b3pSLUNQQ21lQ29jNVkwdmF4V2YwYUlkd0dPdkJQT1VwWF9lZUdhZnBrNWppME81Y2Q2ZzFYOWcwWFozajYyME9BQkpSZHNOTTdQX3hTcXF3RkVSS2s3OU1F?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-23T23:07:43.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
+      "id": "b15a6fb9671b3fea",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "source": "TechCrunch AI",
+      "feed_id": "techcrunch-ai",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-23T23:05:49.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
+      "id": "519f593f60ec2fac",
+      "title": "UK government sets out $800 million of AI security funding",
+      "description": "UK government sets out $800 million of AI security funding Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDJseUNYVnJGcWZWUjlPR0RUSXJHTVItRmh1dkdnNTFiZ2tmTFhUM1p3YnI1T2RGdlpFZ1JWN3BGR2dCajk3Y1pBMlBCYjNFX2dnbjJzZnNJb1BONkNGREFYamNWT1FLRFJXdjdVeEdMUFZnM3FQRXE2VFBIbFdWUVItWEJwd3F4dmFRbHpKTzE4RWpXSGRnTzY4QVdISFJj?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-23T23:03:43.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
+      "id": "cafbc3aa04ad28b9",
+      "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+      "description": "BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not AI-generated, producers say The David Attenborough -narrated series Blue Planet III deliberately includes cloudier,…",
+      "url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
+      "source": "The Guardian World",
+      "feed_id": "guardian-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-23T23:01:16.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
+      "id": "8235e0b1f5702a3d",
+      "title": "UK Vows £100 Million for Biosecurity Lab With OpenAI, Anthropic",
+      "description": "UK Vows £100 Million for Biosecurity Lab With OpenAI, Anthropic Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObEgtSy0yTlpneW1Oa2l0NkVTV29zRjdpNXZ5eXBiSmt1dWRwMWV2bU90UE0xZU84T0NLUF9UNFNyRl9GaUZvS0xVRVhxNkgyT0hUSEFmeDJ1eXNIeHFzZnkyeVR3WjJCRDdKZ3lyNFV0eFAwSndyNlljNnQ4NzZpYnJybzZlUVF2Yzhqdm9EV0didDBLZ3B2RWVKczRuY05QY2ZaRUhPQ2praDFGeGNUTWx3?oc=5",
+      "source": "Bloomberg",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-23T23:01:00.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
     {
       "id": "a732864d1bbe80e9",
       "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
@@ -16,6 +304,18 @@
       "first_seen_at": "2026-10-23T22:59:21.036Z"
     },
     {
+      "id": "9fa4398da1e64d10",
+      "title": "OpenAI Says It's Cutting Off Internet Access For Frontier Model Training",
+      "description": "OpenAI Says It's Cutting Off Internet Access For Frontier Model Training Engadget",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZVlVU2N1R05Jc0YxRjVGMFlBeTlGQVhUWnFzWXRWWVBneXl1YWl6YXFHdVlzUGNHcFdnMDJ3UFpJal9rcElReU15TkR2Q0RTT3dxNjBDeG9hazczZ18xeWgyRzM4ZlpWaTBvWENad2l1ZEZaOEpaNUQyY0kxMUF0V21BYkxLckVOaU5YU3JwNmxrNkM3UFFzaFBDT3BxejVCTktXNEd4eW4?oc=5",
+      "source": "Engadget",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-23T22:37:02.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
       "id": "cb6bdf02f8d6ec85",
       "title": "Kenya announces second Ebola death, says ‘no evidence’ of community spread",
       "description": "The Ebola outbreak has now spread to four countries across eastern, central ⁠⁠and western Africa.",
@@ -26,6 +326,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-23T22:33:48.000Z",
       "first_seen_at": "2026-10-23T22:59:21.036Z"
+    },
+    {
+      "id": "309139004af15f31",
+      "title": "反ネタニヤフ首相陣営優勢 イスラエル選挙、世論調査",
+      "description": "反ネタニヤフ首相陣営優勢 イスラエル選挙、世論調査 産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lUXVSMENuU3duYXloY3FCQVhwXzlucS1KMDNmb1hvbXpINjUyamxPRGJTcDdobV9JZVo4dUhsX3dOR05rT01iVjAtcGhjd2xfdHVnZTN3ZDR6ZmpoYi1zcEFkSDgtc25kUU5vNUpRNTlhNEcyUHc?oc=5",
+      "source": "産経ニュース",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-23T22:28:00.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
     },
     {
       "id": "1b89d7acb88a2990",
@@ -52,6 +364,18 @@
       "first_seen_at": "2026-10-23T22:59:21.036Z"
     },
     {
+      "id": "0dd9355597bef08a",
+      "title": "Pentagon designates Confucius Institutes in US a national security threat",
+      "description": "Pentagon designates Confucius Institutes in US a national security threat Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTjlqd2hYQ2RCbHlUamZVR3B6YXNIckZLTldSbGZQbGdLeXd2b0RINDhOUVdfZm9TU3BFSGdWcmNKV093WXEwQ3BLSmtOWk5uc05fSnYySnV1VmdJdVhNOHZIU2hQSHRZeEFWWTd6dVJ6N280akV1TkNmZGwxaXBWOTVBNktfbHFRYVhXRm82YXI0QVdxMzdfVk1fZUdKUi1jSlp4X1h4TjRwNzNaTGs2THlkdw?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-23T22:20:28.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
       "id": "7cc8f253e96ca0f7",
       "title": "Texas attorney general accuses OpenAI of lying about ChatGPT safety and safeguards",
       "description": "Texas attorney general accuses OpenAI of lying about ChatGPT safety and safeguards Courthouse News",
@@ -64,6 +388,42 @@
       "first_seen_at": "2026-10-23T22:59:21.036Z"
     },
     {
+      "id": "c1cab391a9c1a8d1",
+      "title": "ムーディーズ、仏国債格付けを据え置き「財政赤字削減の予算を前提」",
+      "description": "ムーディーズ、仏国債格付けを据え置き「財政赤字削減の予算を前提」 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fdXk2Ql9nSl9yY1dKd2FlT2s3SlNIcnhpaG1VLXI4allBR2hxRG4tMVBQM3NWWU1hOUtMYVh6Uk5yY2RfdVp6SnFLa0VHR3c3Nk0yczVZX3kydHBncDdwX3IxVU5OZHE4Y3ZLVg?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-23T22:15:51.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
+      "id": "3c3b234d245e8834",
+      "title": "Trump at South Florida rally revives the idea of military intervention in Cuba after Iran",
+      "description": "Trump at South Florida rally revives the idea of military intervention in Cuba after Iran AP News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWFM2WGlGZ2t1U3U3M3JjOWs4UGV5VXhDeUstU1ZuUTVFMFJ0WDgyeEtTc2dTeXp0OUpVS01rVlk2WG1Sekt4X043Y3lpb3liQlhORlNyTGxZQUI5cWpHRWJWUTNReFFZUzkyWFFWS2lwSnpqbjc3eXJUc3VuY3dsWnN1R01qWWNnRHVkLTlOdG0zWU44YVhFeFB4TQ?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-23T22:10:00.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
+      "id": "afd421e45ce30114",
+      "title": "野党首相候補もタカ派 対ガザ戦略を提唱 アイゼンコット元参謀総長・イスラエル総選挙（時事通信）",
+      "description": "野党首相候補もタカ派 対ガザ戦略を提唱 アイゼンコット元参謀総長・イスラエル総選挙（時事通信） Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtaUpqOERicFdvaDRPWkxYTE5zb3ZUMkN6TjlSNFlMZFlaMjg1ZGpHQ3IzNGJESzhSMVpDcHJZMmtLWHpsbjNLMGVkWHotbjV3Ykd4ZE1JLVl6NnJMMmVRNFpKYkdja1E1VERBQWlZMkp4TUU1TWszZnV6cnl6TFU?oc=5",
+      "source": "Yahoo!ニュース",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-23T22:09:39.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
       "id": "903f585e285cb4e3",
       "title": "Trump ends tariffs on some Canadian products, aiming to help Senator Collins",
       "description": "Trump ends tariffs on some Canadian products, aiming to help Senator Collins Reuters",
@@ -74,6 +434,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-23T22:07:23.000Z",
       "first_seen_at": "2026-10-23T22:59:21.036Z"
+    },
+    {
+      "id": "0fc036ef9b2e2522",
+      "title": "Anthropic IPO is biggest question mark for entire market: Vital Knowledge's Crisafulli",
+      "description": "Anthropic IPO is biggest question mark for entire market: Vital Knowledge's Crisafulli CNBC",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcENaNDR3dGQ2VVB0Q3RLMS11MEJaOTdORXpvOGdWRUowYk9xdHFxSzRfQVRSOTNqM1RKeXlFT0lVZjhwWUJXcEtyYmxQSi1RYl9pNDJUYkFudWJnelFXeWUzUGE1RUVvbk1xeGZ0UHF1M2pkdmlibXJsTS1PWmxmQ0pGVndGWnhSaF9HYVpRMUFEanZpNVJReDhVME1Ec2UzWVJwUGYybENhS1pRSTlibUxwSXlsbHkxUXBlTnJJS2FMdHFZUGc?oc=5",
+      "source": "CNBC",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-23T22:06:56.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
     },
     {
       "id": "bc9335cc7630aa5e",
@@ -148,6 +520,18 @@
       "first_seen_at": "2026-10-23T22:59:21.036Z"
     },
     {
+      "id": "f9c59c1a376d265f",
+      "title": "North Korea's Kim calls for 'military revolution' as he urges stronger army units",
+      "description": "North Korea's Kim calls for 'military revolution' as he urges stronger army units Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTnRieGVUdFpZVEJlb0hWSjk0eFZYOWt3OVZZN2hOZXJSTXkzd01UczRIQldNY1BYYVpvYTdfNW9ydnZ3b1oyR1BUVDBUdUJHN1F3MjdIWW9mU29GVTBadjV4X1FLZ0pfUmFuMlRHOGM2TlVUTW14VUZycHhSQzZEbl9IQWJsWFJnUDdnLWlrS2R3QVlfZGJNWkg2bUtDUlo0QlNQbnBTOGIyU29SRUtGZTE1elZHX0FUZ2tvdVh1QlhyN0lDcVRwdHdpTnQycnc?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-23T21:48:33.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
       "id": "cd6870995c82d034",
       "title": "Senator says planned Meta commercial terms update could harm US businesses",
       "description": "Senator says planned Meta commercial terms update could harm US businesses Reuters",
@@ -196,6 +580,18 @@
       "first_seen_at": "2026-10-23T22:59:21.036Z"
     },
     {
+      "id": "c042e684e72a3c58",
+      "title": "PHP脆弱性への攻撃「1分で100万回」 米クラウドフレアCEO",
+      "description": "PHP脆弱性への攻撃「1分で100万回」 米クラウドフレアCEO 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SN1FYQUlOTnd0eUtxdnRRQUhPNHF6cWp2VVRZTm5ZbDNiM0xfd0VqeWlTX0pLYkhSRGozNU11aFRtM0tOZ0ZTVTJpaGxYRFdvSXhmUnFHQ2E5M3JYeVg5dXFpbDBlRXdLR1NwRA?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-23T21:33:02.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
       "id": "cc61e9be4acf13ba",
       "title": "3 Things To Know As A Potential Anthropic IPO Nears",
       "description": "3 Things To Know As A Potential Anthropic IPO Nears Forbes",
@@ -232,6 +628,18 @@
       "first_seen_at": "2026-10-23T22:59:21.036Z"
     },
     {
+      "id": "fe514b2c81a88af6",
+      "title": "トランプ政権、対カナダ関税で一部除外 中間選挙激戦州の候補が要請",
+      "description": "トランプ政権、対カナダ関税で一部除外 中間選挙激戦州の候補が要請 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iRGZjZnpjM2F2ck11aEdlRWVZWlk4NzBlbEt2WUltR2tVeTZTbDlXaUs3TDJuVkRpcTdDVTFhVVdVWm9SS3hsVGNlTFl0bHh1WldHaEptb0hPc2p4aUpiUTBIZzF3blNBbHFVbg?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-23T21:19:09.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
       "id": "59a60201720ab4fd",
       "title": "Wall Street is awaiting Anthropic's IPO — and more AI news",
       "description": "Wall Street is awaiting Anthropic's IPO — and more AI news CNBC",
@@ -254,6 +662,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-23T21:15:02.000Z",
       "first_seen_at": "2026-10-23T22:59:21.036Z"
+    },
+    {
+      "id": "8efa1a1368a187dd",
+      "title": "米国債は本当に「安全資産」に戻ったか 供給ショック長期化が壁",
+      "description": "米国債は本当に「安全資産」に戻ったか 供給ショック長期化が壁 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmVnRDV0JlTUhEUlBzdGRhX2RIeDB5QmZoYjlCd05fWGdTLW9xX1Z3ZDBYUUNTS0VFazg1X3EtYXhCZnBFMHNpYTVKaUhDVUVsSW1fcWlaejdDbFdjMS1sOVhIX0VHQjV0bUk4ZA?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-23T21:13:37.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
     },
     {
       "id": "f9113fa394af665d",
@@ -328,6 +748,18 @@
       "first_seen_at": "2026-10-23T22:59:21.036Z"
     },
     {
+      "id": "20a3157ca06daff0",
+      "title": "決算:米航空大手、運賃2割値上げでも燃料高吸収できず アメリカンは赤字",
+      "description": "決算:米航空大手、運賃2割値上げでも燃料高吸収できず アメリカンは赤字 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIZDJKVUhlbnhIWW1EMlhfcDQxbTZPMVpJVDdfMU40dGJReVhROTA2RXpWUXExNG85YTk0TExmQ3FJalVfa3VtOXhpbjV6Ui1ZV01RYnQ3aThBbG1GcS1Jelp0bGp4Rmh3d1FWaQ?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-23T20:52:09.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
       "id": "146bcd971e2e410b",
       "title": "FCC Democrat warns broadcasters to resist Trump’s media pressure tactics",
       "description": "Democrat Anna Gomez warns broadcasters against yielding to the Trump-era FCC's claims of fake polls and news distortions.",
@@ -400,6 +832,18 @@
       "first_seen_at": "2026-10-23T22:59:21.036Z"
     },
     {
+      "id": "a521510f7479e9e8",
+      "title": "NYダウ反落、652ドル安 原油高で景気敏感・消費銘柄に売り",
+      "description": "NYダウ反落、652ドル安 原油高で景気敏感・消費銘柄に売り 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zT21VZ1I3ZGVSX2huXzZ5WHdLdy05cFc2bUYxNERpdGQyUjhfWG84RlRzMGNmNVVpVEJvcndWN0R4N2xaLTlwMi1JQXg0aWstdHByVkNMR21xRE0zaXBXZ0FDWW5TR0E4MEJVMQ?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-23T20:34:43.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
       "id": "2d841654b8343843",
       "title": "OpenAI to Train AI Models Without Internet After Cyber Incidents",
       "description": "OpenAI to Train AI Models Without Internet After Cyber Incidents Bloomberg",
@@ -422,6 +866,18 @@
       "hint": "AI",
       "published_at": "2026-10-23T20:30:00.000Z",
       "first_seen_at": "2026-10-23T22:59:21.036Z"
+    },
+    {
+      "id": "ffb4f45715fe4726",
+      "title": "Kenya reports second death from Ebola",
+      "description": "Kenya reports second death from Ebola Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMG9iMUs3d0FBYXoxdkJ4VkhuNEJ0cjRhWFcteHczay1DSnZqclVwSmJ3NFZOMGYyWlBSX3RLd3FXVG1uV3ZjaEw0b1JpTzNTaVpOdlBQeS15bHhJeC1Od2FVSXRDY3MzTVhpSEhGSUFkVXBnQWVNMzBaUDlvSzQwS2dCM1dmUktKMXRmR3VOQ0NBUUJMVXZKemsxNk50YWpjQmtxaUx5UQ?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-23T20:27:43.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
     },
     {
       "id": "f0e7c1d8ecdbbb8d",
@@ -460,6 +916,18 @@
       "first_seen_at": "2026-10-23T22:59:21.036Z"
     },
     {
+      "id": "5e3ca21df1ac4ff7",
+      "title": "米アメックス、従業員3500人削減 AI活用加速へ「人員スリム化」",
+      "description": "米アメックス、従業員3500人削減 AI活用加速へ「人員スリム化」 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DZW8wR1lMekRSNzhtMTBzNDB0U0R5UVl2ejczZGJxRE4wVWc1VVc1ak03bFFCYlVGRXVXd0M1R0RHX09udzVVcUFoWmlSdmJHdWp1SnZiWmRoRTBnd1poWHdKOW9SV2duRW5nSg?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-23T20:19:32.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
       "id": "9c7f8885b558b3d4",
       "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
       "description": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
@@ -482,6 +950,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-23T20:15:36.000Z",
       "first_seen_at": "2026-10-23T22:59:21.036Z"
+    },
+    {
+      "id": "ea1d0c183fb4136c",
+      "title": "Paxton Sues OpenAI, CEO Sam Altman Over ChatGPT Safety",
+      "description": "Paxton Sues OpenAI, CEO Sam Altman Over ChatGPT Safety Texas Scorecard",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWmdPZjdIZHg2eTZKcmFvbnZmQ1A1TXNpUEtpR2RoV0xLcE1mNDhUWlY2MWVlcGhTV2MzSnI5TTFHWWUtWlpBNk5MOFcwVFJ2MWtIUzRXbnVGNXFpZ0hPdHMyQXB1RkYxdHp2MGM1WThvOXNJV0VtNjh2LVlNY01KOXhSVzFBdk9xT09RODY2X0U?oc=5",
+      "source": "Texas Scorecard",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-23T20:15:26.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
     },
     {
       "id": "fefc76392b25b6c8",
@@ -652,6 +1132,42 @@
       "first_seen_at": "2026-10-23T22:59:21.036Z"
     },
     {
+      "id": "09321752507bcf10",
+      "title": "滋賀銀行と池田泉州HD、スピード婚に「京都」の影 経営統合検討",
+      "description": "滋賀銀行と池田泉州HD、スピード婚に「京都」の影 経営統合検討 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rU3ZLR1JkaWUta2YwYkhKcksxdk1sWWwtSGFNeldBUUliaUZ5SGlWQ211VWVFTmliemVOVU5FNHViYVJweTQ2S2wzZlllMGRsd2V5T2dVSzgwT29reFVwSjh3TzJ5MVF4SjB3Qw?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-23T20:00:00.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
+      "id": "4389cb78edb997be",
+      "title": "大腸がんに実は「原因菌」、日本人患者の半数に関与 駆除で予防なるか",
+      "description": "大腸がんに実は「原因菌」、日本人患者の半数に関与 駆除で予防なるか 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9haWJnUkZZMXlpaVlSemRtck1VN2szUXZSUFpla05sWTh1RWlfb0R2WEVpbUdHQzlfNW9lSnlBWHhHVEpLTmVkeG5EOEtEc0FxWTg0WVQ5SUFXUDFLQkNsWDlzRXFoTEd2OHd4TA?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-23T20:00:00.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
+      "id": "49fec6f145308535",
+      "title": "イオン株、営業最高益でも下げ止まらず 本業の稼ぐ力低迷",
+      "description": "イオン株、営業最高益でも下げ止まらず 本業の稼ぐ力低迷 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNdi1faE9JMnBJeURzZGFINm1yR3ZBNDRJUzhZR3l3U29nazdZRjFTdVB5aTlKZmstVnp4ZGRzNjJHUzV4Sjh3NlhKdE5wQVNrM0dCRHhOaHBZNTVSSTVXUWFuNzVLSTYtVDRuYw?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-23T20:00:00.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
       "id": "e5219638d4ca07cb",
       "title": "Tigray rebels urged to disarm as commander vows to fight Ethiopia’s gov’t",
       "description": "Rebel commander pledged to continue fighting government-allied forces who seized Ethiopia's Tigray capital.",
@@ -724,6 +1240,18 @@
       "first_seen_at": "2026-10-23T22:59:21.036Z"
     },
     {
+      "id": "5fdfe65ba3b4880b",
+      "title": "日経平均は反転上昇､円は弱含む展開 キオクシアなど半導体関連決算",
+      "description": "日経平均は反転上昇､円は弱含む展開 キオクシアなど半導体関連決算 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LWWpPVmJZMC11ajVhLVc0cnBVQUFIdmNtcV9PcXNfV0FuM2hRY2pnWWtNajFibV9Gd2dyOTR5ZVM5QmpndHJWZFZZdUItUmlacTkycElHdjZYVEhGQVhMTERuTVVrSWN5ZzdrWQ?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-23T19:00:00.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
       "id": "fa1baccd00067265",
       "title": "UAE diplomat running for UN chief faces questions over her country's support for Sudan rebels",
       "description": "UAE diplomat running for UN chief faces questions over her country's support for Sudan rebels AP News",
@@ -758,6 +1286,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-23T18:54:00.000Z",
       "first_seen_at": "2026-10-23T19:00:33.207Z"
+    },
+    {
+      "id": "e835556ff7aad251",
+      "title": "将来の大統領狙う新星、米中間選挙が登竜門に 4年前はバンス氏脚光",
+      "description": "将来の大統領狙う新星、米中間選挙が登竜門に 4年前はバンス氏脚光 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TNDFtVjN5RXIxTWttVUVyUHNoM1BKZ1ZqWUtqMW9jS1hpWVZZS0RXNUZXNGlCY21fcjlVcjRqUFZUWUdQdXVKZ0hBa040dV9SbHppSjhJQ3BJZGJESENEa2hGSUhvc19fNWNKNg?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-23T18:43:27.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
     },
     {
       "id": "b7a5b65204a1256f",
@@ -844,6 +1384,18 @@
       "first_seen_at": "2026-10-23T19:00:33.207Z"
     },
     {
+      "id": "aa8fd8b08c5c3782",
+      "title": "米司法省、アラスカ上院選の結果承認差し止め要求 僅差で共和党敗北なら",
+      "description": "米司法省、アラスカ上院選の結果承認差し止め要求 僅差で共和党敗北なら 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rSjhZbjU3Vng1WG1iT1BSdTQ1MWlVOGV0WGRmWUxlYko3RDNxbnV3OU9rS2g0eWRBSXIxMGtUbmYyZzIxWGczYVhpMmVVZmNNUW90d2RBTWM3bUV6WE5mb0xHbU85d0ZyTlZwNA?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-23T18:10:51.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
       "id": "38c5aa79f73c1fda",
       "title": "Watch OpenAI Moves Toward a $1.25 Trillion Value",
       "description": "Watch OpenAI Moves Toward a $1.25 Trillion Value Bloomberg.com",
@@ -854,6 +1406,18 @@
       "hint": "AI",
       "published_at": "2026-10-23T18:09:02.000Z",
       "first_seen_at": "2026-10-23T19:00:33.207Z"
+    },
+    {
+      "id": "a45ae460d117b4ed",
+      "title": "Trump says he told DOJ to sue to block possible Alaska election of Democrat to Senate",
+      "description": "Trump says he told DOJ to sue to block possible Alaska election of Democrat to Senate Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTFpLV8yemFMX2VMeGNuVWJuUWhMWlhfOURmTG1XdDVhN1c0V2R0OTQxR0FaMjFEYWtpRUJ2N2V5aE0tWU1EVmg0SFRfUThaMjF0MVB2ZnZpX1ZteldLN2VIdUVPZlJNaktWRmJaZGZpMFQ4NWs5MEIxTGp1ODVaSUktdk9ESDFpX3FYc3BZVWdqSUFaZDhad28zbTZsTkplU0hkbEI4WVlrbjNpMzkzMlh4LVBJdw?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-23T18:06:06.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
     },
     {
       "id": "831253561d8058cf",
@@ -1250,6 +1814,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-23T16:45:14.000Z",
       "first_seen_at": "2026-10-23T19:00:33.207Z"
+    },
+    {
+      "id": "c70bce71c7da6334",
+      "title": "英国政府、国民に3日分の備蓄要請 サイバー攻撃や気象災害に備え",
+      "description": "英国政府、国民に3日分の備蓄要請 サイバー攻撃や気象災害に備え 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjQ1ppMW5SR0dCRlJscmNJX2RSY3hWV1dUUDdsbzFVT0RwV0dLWU9CSHVxMmN4WklIV3E1a1lSR1BhS1h3SmdMeU9wamJIQmJwM3MteDZWWEtTVlBmLTJhejlOSWRBR2RYaDlYcw?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-23T16:44:48.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
     },
     {
       "id": "c90c6c24cb9d6c8f",
@@ -1934,6 +2510,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-23T14:15:23.000Z",
       "first_seen_at": "2026-10-23T14:50:47.550Z"
+    },
+    {
+      "id": "336438f7447eef90",
+      "title": "Austria expels 4 Russian diplomats linked to espionage, official says",
+      "description": "Austria expels 4 Russian diplomats linked to espionage, official says AP News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTkN6SkpCZXhBOEs1M1pVek9wTEhscXVSZnVzMExMU2ZBNEk3UnR5d2s1ZWtiT1lOdnczSlpTSDR1bW91eWxaeE15bnZMZ0dqbFdKdmpGbHlHVGltSjByTWE4eXJUWFI3YlFfQjVRQmxRdlNvai1zN212SjZLY1o2X3NvdXVseVdmQnJFRUJCR09IbmFhdGRlN0UzTGVGSzBpTmQzVHl3?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-23T14:12:00.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
     },
     {
       "id": "946af608bdba03d1",
@@ -3184,6 +3772,18 @@
       "first_seen_at": "2026-10-23T14:50:47.550Z"
     },
     {
+      "id": "4f11cad85b17cedd",
+      "title": "世界AI株安メタが拍車、信用不安の波が大手に マネー逃避で金利は低下",
+      "description": "世界AI株安メタが拍車、信用不安の波が大手に マネー逃避で金利は低下 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GUGwtZzhQY2liMnhMNW9kMF82T1RPQmFmOXE0RmxiTG1lMFBoZTZJcDZqeERxSjJLeXY1d01KOVNwbFVhem9XWFFXekMwYXYwMko1RUVUOEpsa3ZmS2hPY3QwY1ltY0dPTy1zUw?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-23T10:05:27.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
+    },
+    {
       "id": "4aa0f479b58c5abd",
       "title": "The Leak Suspicions That Got Three OpenAI Staffers Fired",
       "description": "The Leak Suspicions That Got Three OpenAI Staffers Fired WSJ",
@@ -3890,6 +4490,18 @@
       "hint": "経済",
       "published_at": "2026-10-23T08:12:03.000Z",
       "first_seen_at": "2026-10-23T09:52:30.570Z"
+    },
+    {
+      "id": "fce92a08ab529f03",
+      "title": "UN climate fund promises $20 million for Nepal flood recovery, far short of billions needed",
+      "description": "UN climate fund promises $20 million for Nepal flood recovery, far short of billions needed AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYmNLREtTRHBEem4wNm13eUJRd2h3T1haWGx2cUp0emRud1UwNkFZNzVneDJzdjk1MUE4S0R4eU1UcFk2Z1N0emxWdnY5dUQ5dm03UTVtVG5JWTVvMDhnbUUxWjdJUkJtUjAtRWZqdmYzY2J3SERWU2dDdEhaamhJRG5JZzl1dWRYVjFEamo4N3MzdTFaMTRJYjQ3ZUE2cm1CbWE5Sk1wWUcwbkE?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-23T08:05:00.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
     },
     {
       "id": "dabc0cc8f50adf89",
@@ -5774,6 +6386,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-23T00:22:56.000Z",
       "first_seen_at": "2026-10-23T04:19:50.355Z"
+    },
+    {
+      "id": "fe30c348087b96da",
+      "title": "Calley Means, a key MAHA advocate, resigns as a top RFK Jr. adviser",
+      "description": "Calley Means, a key MAHA advocate, resigns as a top RFK Jr. adviser AP News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMFQ2d1A4WE5xcGdreGIwUzlhN3VNcU9pNk5UcmFqdVlwcV9qeEw0WlBBbkZrUGxEMnFMVU9RQWZJUTZRTk9KXzJSWVZMRnpuWDdKclhBUWNnTVMyQlVDcUV1NE45MzJabW5EV1NVSkJUWWwzUTZrZWVkRnFJa0tqaEEzaExST2lGVEVFdXRIUHNIUQ?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-23T00:21:00.000Z",
+      "first_seen_at": "2026-10-24T01:30:10.325Z"
     },
     {
       "id": "d44bc155c06c36fd",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T22:59:25.926Z",
+  "updated_at": "2026-10-24T01:30:20.832Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -23,11 +23,11 @@
   ],
   "matrix": {
     "OpenAI": {
-      "新モデル": 21,
+      "新モデル": 23,
       "資金調達": 15,
       "提携": 5,
       "規制": 11,
-      "その他": 52
+      "その他": 54
     },
     "Google": {
       "新モデル": 1,
@@ -38,10 +38,10 @@
     },
     "Anthropic": {
       "新モデル": 4,
-      "資金調達": 17,
+      "資金調達": 18,
       "提携": 2,
       "規制": 4,
-      "その他": 28
+      "その他": 29
     },
     "Meta": {
       "新モデル": 2,
@@ -101,13 +101,104 @@
     },
     "その他": {
       "新モデル": 9,
-      "資金調達": 6,
+      "資金調達": 8,
       "提携": 2,
       "規制": 9,
-      "その他": 70
+      "その他": 73
     }
   },
   "items": [
+    {
+      "id": "b0a9bad81a50e0d6",
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "company": "その他",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo",
+      "published_at": "2026-10-24T00:05:45.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "350eabbd3b553072",
+      "title": "Anthropic reveals Mythos 5 tried submitting malicious code to an open-source project",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "SiliconANGLE",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV3dqUk5faExZdzlTVHlwNVg1WHF1N3l4M3ZpTUJ1VDNCMll2TnA0NUxTQjJsYmVacF95Ui1mbk4yMXMzTFNTQVRNVnI4NW5VX3ZOZ1pfQVljR0Rvd2t0c0pIMVhSb0pnV3pGX3NJODNWUmRicUkySVlQMTlObUdrV19XbXBPS2trZGxTVXFjUnRhRjV0UXFHYm1yNGdGWEVZcE56VE45V1FVSV9JOHBTLXZGR3poWGF5d3I4c05B?oc=5",
+      "published_at": "2026-10-23T23:28:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "b15a6fb9671b3fea",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "company": "OpenAI",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "published_at": "2026-10-23T23:05:49.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "519f593f60ec2fac",
+      "title": "UK government sets out $800 million of AI security funding",
+      "company": "その他",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDJseUNYVnJGcWZWUjlPR0RUSXJHTVItRmh1dkdnNTFiZ2tmTFhUM1p3YnI1T2RGdlpFZ1JWN3BGR2dCajk3Y1pBMlBCYjNFX2dnbjJzZnNJb1BONkNGREFYamNWT1FLRFJXdjdVeEdMUFZnM3FQRXE2VFBIbFdWUVItWEJwd3F4dmFRbHpKTzE4RWpXSGRnTzY4QVdISFJj?oc=5",
+      "published_at": "2026-10-23T23:03:43.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "cafbc3aa04ad28b9",
+      "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Guardian World",
+      "source_url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
+      "published_at": "2026-10-23T23:01:16.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "8235e0b1f5702a3d",
+      "title": "UK Vows £100 Million for Biosecurity Lab With OpenAI, Anthropic",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Bloomberg",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObEgtSy0yTlpneW1Oa2l0NkVTV29zRjdpNXZ5eXBiSmt1dWRwMWV2bU90UE0xZU84T0NLUF9UNFNyRl9GaUZvS0xVRVhxNkgyT0hUSEFmeDJ1eXNIeHFzZnkyeVR3WjJCRDdKZ3lyNFV0eFAwSndyNlljNnQ4NzZpYnJybzZlUVF2Yzhqdm9EV0didDBLZ3B2RWVKczRuY05QY2ZaRUhPQ2praDFGeGNUTWx3?oc=5",
+      "published_at": "2026-10-23T23:01:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "9fa4398da1e64d10",
+      "title": "OpenAI Says It's Cutting Off Internet Access For Frontier Model Training",
+      "company": "OpenAI",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Engadget",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZVlVU2N1R05Jc0YxRjVGMFlBeTlGQVhUWnFzWXRWWVBneXl1YWl6YXFHdVlzUGNHcFdnMDJ3UFpJal9rcElReU15TkR2Q0RTT3dxNjBDeG9hazczZ18xeWgyRzM4ZlpWaTBvWENad2l1ZEZaOEpaNUQyY0kxMUF0V21BYkxLckVOaU5YU3JwNmxrNkM3UFFzaFBDT3BxejVCTktXNEd4eW4?oc=5",
+      "published_at": "2026-10-23T22:37:02.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "7cc8f253e96ca0f7",
       "title": "Texas attorney general accuses OpenAI of lying about ChatGPT safety and safeguards",
@@ -119,6 +210,19 @@
       "source": "Courthouse News",
       "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObXNWNG44YUkyTGJaZGlFeTh5ekpzb3lxTWljUTh0R1B6bVpDQW9iRzctSHFEajhqTVlHWVV5UlZoYkZZdkJ4N0VaN3JzME9fUjFnU3B5T3BYU1ZYOHBIRnBPcEpMZy14dkU3NThBLVJoRlRxa0dLOG10cmNJODZRb24wNUEwclQtV1hpNG4wY1A2M3VreWppT19HNEdEY1FBRVVGRFZhZlpQS3BHdGlmbjNEOUk?oc=5",
       "published_at": "2026-10-23T22:18:38.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "0fc036ef9b2e2522",
+      "title": "Anthropic IPO is biggest question mark for entire market: Vital Knowledge's Crisafulli",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcENaNDR3dGQ2VVB0Q3RLMS11MEJaOTdORXpvOGdWRUowYk9xdHFxSzRfQVRSOTNqM1RKeXlFT0lVZjhwWUJXcEtyYmxQSi1RYl9pNDJUYkFudWJnelFXeWUzUGE1RUVvbk1xeGZ0UHF1M2pkdmlibXJsTS1PWmxmQ0pGVndGWnhSaF9HYVpRMUFEanZpNVJReDhVME1Ec2UzWVJwUGYybENhS1pRSTlibUxwSXlsbHkxUXBlTnJJS2FMdHFZUGc?oc=5",
+      "published_at": "2026-10-23T22:06:56.000Z",
       "analysis": "rule"
     },
     {
@@ -314,6 +418,32 @@
       "source": "Reuters",
       "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOS01OUZRS1hEaFFMU0pJSkEwdEVKQThtcVJITXJ6elVKbFVHV0QwQVFyc1VUb1NVZExxQ2J4YkN0MTVxS094bUFqdmZYa3QwSUprRjlVX3YwSkZfcEF5U1JEV0h0aWVjUldENHFIaEtZR0RPU3Y0WHpjQXFmRUw2SVROYXQ2NWwzZmNGWG9lcTdwYkhFd0NvY3poSG1YVHRfclVsMmZ0OXRDV245cmx3ckRFVENhZUJydkVXYjVrOA?oc=5",
       "published_at": "2026-10-23T20:23:25.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "5e3ca21df1ac4ff7",
+      "title": "米アメックス、従業員3500人削減 AI活用加速へ「人員スリム化」",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DZW8wR1lMekRSNzhtMTBzNDB0U0R5UVl2ejczZGJxRE4wVWc1VVc1ak03bFFCYlVGRXVXd0M1R0RHX09udzVVcUFoWmlSdmJHdWp1SnZiWmRoRTBnd1poWHdKOW9SV2duRW5nSg?oc=5",
+      "published_at": "2026-10-23T20:19:32.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "ea1d0c183fb4136c",
+      "title": "Paxton Sues OpenAI, CEO Sam Altman Over ChatGPT Safety",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Texas Scorecard",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWmdPZjdIZHg2eTZKcmFvbnZmQ1A1TXNpUEtpR2RoV0xLcE1mNDhUWlY2MWVlcGhTV2MzSnI5TTFHWWUtWlpBNk5MOFcwVFJ2MWtIUzRXbnVGNXFpZ0hPdHMyQXB1RkYxdHp2MGM1WThvOXNJV0VtNjh2LVlNY01KOXhSVzFBdk9xT09RODY2X0U?oc=5",
+      "published_at": "2026-10-23T20:15:26.000Z",
       "analysis": "rule"
     },
     {
@@ -808,6 +938,19 @@
       "source": "Bloomberg.com",
       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZHZOVEJwQWdVWXBTSHBqMUpVUGhXNmxaUzM4Y2hwRG9tdmhsS29icG8tZUFtbnFSNjg2Wjdfekt5bTY0N21MY2JNV0x5cVJwZmJSSTFocXdQM3pCYXZJLXJvT0J6TmZZNm91N0h6ZXVkU3Z1U2pjY2szZGJoQmhGTFloOHFlQmJfS1lEbHRpVTRvR3Ztak55VWRNUU05T0s2WU1NVm9sTk1tRkx3UmJZUHNkSkxhVHBmQ2dQYlhUazI?oc=5",
       "published_at": "2026-10-23T10:28:01.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "4f11cad85b17cedd",
+      "title": "世界AI株安メタが拍車、信用不安の波が大手に マネー逃避で金利は低下",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GUGwtZzhQY2liMnhMNW9kMF82T1RPQmFmOXE0RmxiTG1lMFBoZTZJcDZqeERxSjJLeXY1d01KOVNwbFVhem9XWFFXekMwYXYwMko1RUVUOEpsa3ZmS2hPY3QwY1ltY0dPTy1zUw?oc=5",
+      "published_at": "2026-10-23T10:05:27.000Z",
       "analysis": "rule"
     },
     {
