@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T07:06:02.442Z",
+  "updated_at": "2026-10-24T12:34:44.601Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -23,11 +23,11 @@
   ],
   "matrix": {
     "OpenAI": {
-      "新モデル": 23,
+      "新モデル": 25,
       "資金調達": 15,
       "提携": 5,
       "規制": 12,
-      "その他": 57
+      "その他": 59
     },
     "Google": {
       "新モデル": 1,
@@ -41,7 +41,7 @@
       "資金調達": 18,
       "提携": 2,
       "規制": 4,
-      "その他": 30
+      "その他": 31
     },
     "Meta": {
       "新モデル": 2,
@@ -104,10 +104,101 @@
       "資金調達": 8,
       "提携": 2,
       "規制": 9,
-      "その他": 76
+      "その他": 78
     }
   },
   "items": [
+    {
+      "id": "eab4bb13f32e5942",
+      "title": "DeepSeek vs Claude: $0.15 vs $4 Per 1M Tokens [2026]",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "https://tech-insider.org/",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OR0ZCaUJpcC1kV3dNWHJjSG00Q2toN2V2R1pFaW1hLUk5WExMSlBhNWcxd3c0eXJkZy00bjdCWWlVV2h2MWlEYnFnc1I1OUlzc1NiWTQ4QWtLMDU3Tnc?oc=5",
+      "published_at": "2026-10-24T12:14:24.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "99c9ad9786a084bf",
+      "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Decoder",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTWJhNW92T3F2WmQ4ajFOZGFBTnNkckxMenAtWXU3S21wN0lyeXBJMmxmOGdCT3dobDdqclV1SkpjcFZDdGM3V2ZNNWk1d21veTNGT0dqN2JNU3VLWEpybVYwbFdfOTkxcHdtUXdwMmhpS2t6T09sUWttZXpsYkMyOWY0RnJoRHNGYXBseUdNeHBGZHhDTTB6ZmdHVExaX0tiYTd3aw?oc=5",
+      "published_at": "2026-10-24T11:18:17.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "24dbc4bfc354ca57",
+      "title": "UK funds £100m AI biosecurity lab with OpenAI and Anthropic",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Next Web",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNlNlWWdNdU5Iei03OXdmVFdMb3VfS0Q1ZDZqSHRvY1pNcGppNnNadlhjdFM1Nnpta3djVjliOHltdjZwVkh0RlNhNTdSS0tlMzhJMjFFcDhPeWU1TlFWWmxuRW10SkxLdklLRnVzVll1RTZYMzZIZVR0TElFMks1UnRIcURRd3lNeElFNnlJRQ?oc=5",
+      "published_at": "2026-10-24T11:11:08.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "2ffdfa3291a2b90b",
+      "title": "OpenAI is locking its most advanced AI models offline after a string of security scares",
+      "company": "OpenAI",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Digital Trends",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWFJrMlYtQVR1MThfY1F6QUFndkJQdVhsQll3T04wRmVZazNFUHVTUGdFaHF1aF9TbnFFRkdEVTlFU2hUNXdORUpaaGNRNDNxQllVMUpxMVFkcC10N0Y2SW1MTFd2MVlmVWFzdkJDR0ZRMmZnbFhGcG4tQlFqTUd3aHA0WEZXakhJODk4aWtTRFJpbnJNWFVqSWdnZVNWOWJQZmx1aEpPWnhjV2VOUTRRa01SYURpc0VLc0puZzhYbjRMaGU5anlJ?oc=5",
+      "published_at": "2026-10-24T10:40:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "7baee3c163705a90",
+      "title": "OpenAI will no longer train its AI models on the open internet — media reports",
+      "company": "OpenAI",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Українські Національні Новини (УНН)",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMENHVDhwU254eWVpbVBXRnlMaVpfQ0w1RkVVZkFCR2hpek5OeFBvd1Zfb0swVk5DM0MyYW4tM3o1ei1RQlJKLWxnMTBySVpLWUx6MkJicHVRektENnNGMHNZeV9IUmxOT2VHcGJFZnY0NW1DR25abmV5UXhVNjRMNG5SV0F6dUtNUlF0a3IybFBmSGhyZmVpWW5KT3pZVDjSAZ8BQVVfeXFMTTBDR1Q4cFNueHllaW1QV0Z5TGlaX0NMNUZFVWZBQkdoaXpOTnhQb3dWX29LMFZOQzNDMmFuLTN6NXotUUJSSi1sZzEwcklaS1lMejJCYnB1UXpLRDZzRjBzWXlfSFJsTk9lR3BiRWZ2NDVtQ0duWm5leVF4VTY0TDRuUldBenVLTVJRdGtyMmxQZkhocmZlaVluSk96WVQ4?oc=5",
+      "published_at": "2026-10-24T09:57:43.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "f5ff9840ba1cdb63",
+      "title": "Just Eat apologises after AI-generated images blunder",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/just-eat-apologises-after-ai-generated-images-blunder?traffic_source=rss",
+      "published_at": "2026-10-24T09:29:37.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "5a20ecc2d15e0cfa",
+      "title": "Keeping the world safe when no one is in charge",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/opinions/2026/10/24/keeping-the-world-safe-when-no-one-is-in-charge?traffic_source=rss",
+      "published_at": "2026-10-24T06:45:18.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "6498ebc2feade44e",
       "title": "UK Government Establishes National AI Biosecurity Lab With £100m Budget, OpenAI And Anthropic Credits",
