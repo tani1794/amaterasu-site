@@ -1,8 +1,656 @@
 {
-  "updated_at": "2026-10-24T12:34:40.867Z",
+  "updated_at": "2026-10-24T16:30:11.543Z",
   "window_days": 7,
-  "count": 1684,
+  "count": 1755,
   "items": [
+    {
+      "id": "0586e1342460067c",
+      "title": "自民党新座支部「党員の集い」を開催。雨の土曜日 新開小学校運動会は延期 島田くによ活動報告nNews",
+      "description": "自民党新座支部「党員の集い」を開催。雨の土曜日 新開小学校運動会は延期 島田くによ活動報告nNews 選挙ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82QTh1cmk0RVNqQ09yc1lhd1hEejdOejA0Y19DRUZvdDh5MFYxRGZ0cTZZdUV4OG9LaDRYaG9oNTY4VHVXMk05Z0oyYXpqWnJ4cTNGRnhzODlTTksyQkc0?oc=5",
+      "source": "選挙ドットコム",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-24T16:07:30.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "35d668020c863316",
+      "title": "Block’s new voice model sounds eerily human",
+      "description": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "source": "TechCrunch AI",
+      "feed_id": "techcrunch-ai",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-24T16:00:00.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "7e12a0d5fcb199c5",
+      "title": "Suno and Anthropic Face Nearly $340 Million in Copyright Claims Over Songs by Madonna, Johnny Cash",
+      "description": "Suno and Anthropic Face Nearly $340 Million in Copyright Claims Over Songs by Madonna, Johnny Cash Law Commentary",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd2paX0g0Y1J6RkhDcDNfaVMzQnI3aTJXdHY2eWpCekpXbnlYT296bWF0Um5leklEZTh1UzdBeWg1WElOVkZMamVtVkhmbTNCQlAwcUxLX2l1WmxuaGtiWDZieEhwZzc2aFVhOGpGZEQ4SThxWXFWRGdGOGZoVUM1dWMwVktQQjZXa0daSkJB?oc=5",
+      "source": "Law Commentary",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-24T15:56:55.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "1b257d72b17875b1",
+      "title": "Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+      "description": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
+      "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o",
+      "source": "BBC World",
+      "feed_id": "bbc-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T15:56:48.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "25ece8c982717956",
+      "title": "More than 2,000 forced from homes in Hebron amid Israel’s West Bank raids",
+      "description": "Palestinians in Hebron are 'living in fear' with the city closed, while Israeli forces arrest dozens across the West Bank.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T15:50:49.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "67efb573cd485ba5",
+      "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
+      "description": "Volodymyr Zelenskyy offers thanks to US allies for restoring system key to air defence and ‘frontline logistics’ Ukraine’s military has a “stable connection to Starlink”, the Ukrainian government has…",
+      "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
+      "source": "The Guardian World",
+      "feed_id": "guardian-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T15:47:20.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "0f939cf8205a6a84",
+      "title": "Brazil’s Lula and Bolsonaro about even ahead of election run-off: Poll",
+      "description": "The race between Brazil's president and the right-wing senator has tightened in recent days.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T15:36:38.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "8b8ed81956023e93",
+      "title": "Sam Fender tells fans high ticket prices for Proper Massive tour are ‘getting changed’",
+      "description": "Fender criticises stadium pricing, calling it ‘bollocks’ and says it ‘won’t be happening’ on his tour Sam Fender has responded to criticism by fans about ticket prices for his 2027 stadium tour by pr…",
+      "url": "https://www.theguardian.com/music/2026/oct/24/sam-fender-fans-high-ticket-prices-proper-massive-tour-getting-changed",
+      "source": "The Guardian World",
+      "feed_id": "guardian-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T15:29:29.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "3b94bf901c7f8f70",
+      "title": "Three fired OpenAI safety researchers say they were never told what they actually leaked",
+      "description": "Three fired OpenAI safety researchers say they were never told what they actually leaked The Decoder",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdmpLbFM2SldrRUZ4VWNXVkZmZHpyZlVVNC1mS2ozTXotY3gyWkpac1Y0S2d6OE5laTVQNVJCVHFid2hoQlFTM0RnRi1kSFlxZ1JyekFrcjhvZF9SWGVLU04zN25aTnFrVlAzQlV5OTVuNDNEbzUtSkJnUW5SMlNGYVVyaFlZZXk2bHdKMlhzd3NHNkFfOV9VODNWNEFkcHp6UjZkN05oRVNNZk1YbUVYX1ZVdw?oc=5",
+      "source": "The Decoder",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-24T15:23:19.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "85d373bb9d669dbc",
+      "title": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
+      "description": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0lFZzBBODd6NDh2OUEyNmMwbFUyalpDRFpwVkVRVkR2VzlOLWdTU1N1ZmhEaFBzaUFmWUVEMFBrdDFDMVF3WVlQWHh5VVFVd2R6LVM5b3VxakFlNVhwQlNwcHVhaHV0dDZuYjgzSU5qUTdtalpZd2tmQlFxN3ZtcmNpaTdvM3hCUlhMck5ubkphU25lT2dFU0ZvSDVXNEE0amJ1X3IwLU82a2M3TWROaU1SYWhhdHJuQmpLTzZtckhsaVdwODdaOTNaNkk?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T15:14:33.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "cd4dcbb52d319ab0",
+      "title": "Security forces deploy as Milan braces for another day of protests",
+      "description": "The Italian government has sent hundreds of soldiers to the country's financial hub ahead of anticipated unrest.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T15:05:58.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "99b7eefd019a9dcc",
+      "title": "Northern Olympics campaign to get £7m in Healey’s budget",
+      "description": "Fund will support feasibility study for potential bid to host Games in 2040s, backed by northern mayors and top athletes John Healey is to announce a £7m fund to examine a potential future bid to hos…",
+      "url": "https://www.theguardian.com/sport/2026/oct/24/northern-olympics-campaign-funds-john-healey-budget",
+      "source": "The Guardian World",
+      "feed_id": "guardian-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T15:03:24.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "110fd09f65f25a52",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "description": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "source": "TechCrunch AI",
+      "feed_id": "techcrunch-ai",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-24T15:00:00.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "77f1879b605760ca",
+      "title": "Why Israeli tourists and investors are unsettling Cypriots",
+      "description": "Cypriots say the influx of Israelis is threatening local businesses and pushing communities out of their neighbourhoods.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_why-israeli-investors-are-unsettling-cypriots-241026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T14:56:47.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "b766b0b380cee465",
+      "title": "ネタニヤフ首相を打倒するため、アラブ系政党が反対連合の準備を整える",
+      "description": "ネタニヤフ首相を打倒するため、アラブ系政党が反対連合の準備を整える アラブニュース",
+      "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxPSzRFanJHV1BSTGhDZml6MDI0dWhSNk1PRHBtdlFLeTNkVGNZNDk5LUN1VXl0RWNSMHZmYkFfMDZmclFZYlhlYkYxWmdKMkFDZVNzN3otS1lobU1oTXlMcE9JNFY2QkpUQkFYYzloLTRTdWd5NFE4cDdsWGNwbzZYVmtPVkNlN21lVU1sTy03dVJVa3l4cHlIbVZEcmh4Q19ZVVdhSVo4Q3lSVUdiZ1VQOUxCc21fMnlQWG9iclQ1bGNoelllUkVfOU9iTzFLcUF4ZU9fQWRqUkZQaVNXemFENWpIekJhcDB2eU5EamxfMzFscmtkZ0NvLWpCY0FBZVpZVFFFLU03aGI0ajFGYTd4RHJEM3FTZS15cldPUFFmT293cW9wODdnT1lSUDZNMzc2ZTBKQ1hZelBxY1AyeVpwNWdWS2wxUGFQZnY2QzdGN1BZSEdBdzJRQzNsdFVfNUZGWWtpV1FSc1RCMEFkdnc2akJBV2lrWU5ZZHN5b1FUMTdoRTdnS3R2MFhIbzN6eE5HX1ZBTENSQlhCb1VNWmc3NjB5cUFad2hTNmd3azk1bXB6NHhfVUd3WXR3Sld2dHdMRVVONU5vdE9XdHJGVllNMFgzMEFJaWM?oc=5",
+      "source": "アラブニュース",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-24T14:51:53.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "66712e78ebeeaca7",
+      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+      "description": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o",
+      "source": "BBC World",
+      "feed_id": "bbc-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T14:45:30.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "24291d971ed810ee",
+      "title": "Anthropic Sued For Stealing Elvis Presley Music to Train AI: ‘Deeply Protective of These Iconic Songs’",
+      "description": "Anthropic Sued For Stealing Elvis Presley Music to Train AI: ‘Deeply Protective of These Iconic Songs’ Billboard",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tQUZPNFFsYXJZcnJydGJWWldtMmJLZEF4QlpiVWtQeHVZY1UwdjJHOFRLMHEyS0FvR0pjZ0ZXZHdQQURfNDNuWXNMaHlnZUdjUUYzeHF1T2pscmtVUFhXYTdwUkE2NmdWaEY4RkdneUhHNXFUdzZVbG5kOA?oc=5",
+      "source": "Billboard",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-24T14:36:12.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "2861c27cad41da6f",
+      "title": "Full lockdown of occupied West Bank begins",
+      "description": "The Israeli army begins its lockdown and military operations across the West Bank.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T14:24:19.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "9b5397f83bd460bd",
+      "title": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
+      "description": "Negotiators from Ukraine, Russia and the US are expected to meet in Abu Dhabi next month.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T14:23:40.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "ff0d74a08864bc15",
+      "title": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
+      "description": "Despite not winning silverware last season, Mbappe has been clear his goal to clinch the Ballon d'Or.",
+      "url": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T14:21:34.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "43c5c5ec4320e5a8",
+      "title": "Flavio Bolsonaro, Lula about even ahead of Brazil election runoff, CNT/MDA poll shows",
+      "description": "Flavio Bolsonaro, Lula about even ahead of Brazil election runoff, CNT/MDA poll shows Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOW9aaS1WT2hUWE5VTjd3U19BR0VxZ0xtUXd5QjQ5V3EzMkxsYWs2X0lHYm11TzU5YTY3RDQ2dGlnblllZklkV1AySElHOVF6a0RKZmNZZHpJMlVCaE82QjBXN1lHeFNFSGE4VlBjUGVwWlBSWkRQOTE0dzNRZ2NMQm9tWWRzN1FBaHhfbWVqcDl5Qkw5OW5wNlNDMEJjZXVmUkQ3NE5CSmdfci1IMkVVQktUdElSSEd2ZEs2VjRBQktYM3dXc2pvMmFR?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T14:18:12.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "8eb54384a69e41c2",
+      "title": "With his first smartphone, Lula seeks to catch up to Brazil's online generation",
+      "description": "With his first smartphone, Lula seeks to catch up to Brazil's online generation Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQTR2TkpZcDQzTkVTUGxOTlJDZFJReU9TaGpsZ2p4N1VneEVPbm51aHY2cUJLbjhORTU2NnVxMTFoWFUyVVNCQmRRcmpGVW54ZHpPZFBSZ0JfWFY1QnZ3SklldVlqYVZfczF2T2lEcU5BMlBEZFdSQ0J0aWFrX2owS053eEloM3RUTGNhbFZLd2hSQkVoaTVGUUN1U1dSRVhaM0Z2c2FZUGltLWU2ZFJLOWY2S0lhMW9qX2Z2Z1Zicw?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T14:06:35.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "3141bb0942137275",
+      "title": "What to know as Brazilians choose between Lula and Flávio Bolsonaro on Sunday",
+      "description": "What to know as Brazilians choose between Lula and Flávio Bolsonaro on Sunday AP News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMXJEbXYtVm45V3lUY3NuMmNFSUxHcjNYdzhENFJ1SXhCRjJyU0dGYnROb3BWVjA0S0NFa1FHSHkwOVJZODRsalpSSXFGQk9vNDE4NDkxTDFOaDFDX3ZrSmtFbjJOUnBPMU1ZN0RHV0o4UWxpUE0yZjBodDFWMWZ6c3FBWVpZSFhheDViTDJ6MkRaei1R?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T14:06:00.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "307a06b202f6c184",
+      "title": "Man City beaten at Aston Villa as perfect Premier League start ends",
+      "description": "Nicolas Jackson scores twice - either side of an Erling Haaland header - as Aston Villa beat Man City 2-1 at Villa Park.",
+      "url": "https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T14:04:27.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "0fcbf50b451f0fa3",
+      "title": "OpenAI Arrives on Google Cloud, and Businesses Gain a New Way to Buy AI",
+      "description": "OpenAI Arrives on Google Cloud, and Businesses Gain a New Way to Buy AI Times Square Chronicles",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOblVxeHZDcHU4UnlZc3RSbTBJVklOVkZER3NmbXZGYXJDWHhvb09HM05ld1d4NjI1ZWFrMldlU3QtbFJTRTRFRkhvb3E5ZXhaUnltb0JYcTZKc2NTUE8xZ0N5YjNCNGpXb293STNnenhJenVYT0h6RDAtQm9LVjhzcE5jSVc1SmNXTTFpZE56c1V0X3BfWUFwVA?oc=5",
+      "source": "Times Square Chronicles",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-24T14:03:30.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "0d4ae8a7dd392962",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "feed_id": "techcrunch-ai",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-24T14:00:00.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "e0bc2f950e09132d",
+      "title": "Anthropic’s Margin is OpenAI’s Opportunity",
+      "description": "Anthropic’s Margin is OpenAI’s Opportunity The Information",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX0N0ZWVJZjFXUjdmLTdoRVdJbzkwVDBYaXM1eHN3aEdPbm4zTXNhdjJrbTdHdkQyQTJ5ZWRBMGdheFRKeUFjMFNGbWRZdHhnZWh2YXdDZDV2R2JTazNmaU5kTk9oVmQ2a0hnUzl3V2dtSWE0U2ZOZjB5TElicGVxOE1sSQ?oc=5",
+      "source": "The Information",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-24T14:00:00.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "668003b2c6625b48",
+      "title": "Do abstaining voters hold the key to Brazil’s 2026 presidential election?",
+      "description": "Some 21 percent of Brazilian adults did not cast a ballot in the first round of voting. Will they affect the run-off?",
+      "url": "https://www.aljazeera.com/news/longform/2026/10/24/do-abstaining-voters-hold-the-key-to-brazils-2026-presidential-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T13:58:14.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "cccf0887b1b370e6",
+      "title": "Met says it shared allegations about Meghan’s father with her but not other forces",
+      "description": "Scotland Yard says it shared letter about Thomas Markle Sr allegations in 2019 but did not pass claims to other agencies The Metropolitan police have confirmed they gave a letter to the Duchess of Su…",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/24/met-admits-it-did-not-pass-on-2019-letter-about-meghan-markle-father-thomas-markle-allegations-",
+      "source": "The Guardian World",
+      "feed_id": "guardian-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T13:52:58.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "e4fa44b58022cf5d",
+      "title": "Rybakina readies for title defence at Ningbo Open in final with Fernandez",
+      "description": "The world number one will face Leylah Fernandez in the final after the unseeded Canadian beat Czech Marie Bouzkova.",
+      "url": "https://www.aljazeera.com/sports/2026/10/24/rybakina-readies-for-title-defence-at-ningbo-open-in-final-with-fernandez?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T13:52:08.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "f429e9c1af44c5c1",
+      "title": "China urges US to halt proposed expansion of outbound investment curbs",
+      "description": "China urges US to halt proposed expansion of outbound investment curbs Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3V2bWpZckhlWExlaDZRLTR0NG1MY3l4NmpfZzJCUkVpSkJGblR1S0RScmxSa2tWWVhtZFdBNzkyc0ZaUnlDU2lVNEh3WUpUTkw3d0tIdGlzeTNrRnpWNFhiUk9xTEw4bENXWmxuRlRYTXQtU2N4MXRLVURsUkVxYUpGMks3R0hUaXA4eUZHSXNBWXRLRUN4VVkyVW5WQlBVUFo1dnRSVGxPYmxqMXRXUnVn?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T13:51:55.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "2231135c6700a032",
+      "title": "Sudan’s soaring fuel prices make getting by harder for workers",
+      "description": "Sudan is suffering from a cost-of-living crisis affecting millions across the country.",
+      "url": "https://www.aljazeera.com/economy/2026/10/24/sudans-soaring-fuel-prices-makes-getting-by-harder-for-workers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T13:51:08.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "04fee7158c29fa48",
+      "title": "自民党、AI攻撃への備え強化を提言 古川サイバー安保担当相らに申し入れ",
+      "description": "自民党、AI攻撃への備え強化を提言 古川サイバー安保担当相らに申し入れ 電波新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53aWpUc0dJMGQ4aS1UcndveVpwTmdYUUlJQXF2b2dZM0FldzdzS0dXejdOVTU5dlZjbDRFck14QVVLZlFBNmlHMnpaaDVycHRJLWc?oc=5",
+      "source": "電波新聞デジタル",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-24T13:43:06.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "22f134b462296b33",
+      "title": "Who was behind the deadly church shooting in Jordan?",
+      "description": "Authorities are investigating the rare attack on a Christian church; the assailants remain unidentified and at large.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/who-was-behind-the-deadly-church-shooting-in-jordan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T13:39:26.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "de2d2672001cbfdb",
+      "title": "Iran's Pezeshkian blames US for interim deal failure, urges new try",
+      "description": "Iran's Pezeshkian blames US for interim deal failure, urges new try Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd0xVa2UzLXppdXQ4c2xJaWNFcUlFWWswS3NYT0ZwQkZ3by1HNGJTakpQTDdUYzhSTUpwUHMzRnMtRzNEWmhieTJqTjZOdTlUN3c3YlNFMHVGd2V5RUZUcXNnbXFMMTlQLVBsRXNUT0ZndHM5SmswcFE5U0dCRlBnMndsNnRIQk00OXhIMnFzVDlSTWVVUjJGNkdnUFprRXBhY01RdnJFcnUzb1pzMDd4Ri1nUUdJdw?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T13:27:12.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "e1399cf88b6234c5",
+      "title": "Netanyahu floats Crypto to bypass sanctions",
+      "description": "",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T13:27:11.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "9226f4221c7a8879",
+      "title": "米国防総省、中国の孔子学院を「安全保障上の脅威」に認定",
+      "description": "米国防総省、中国の孔子学院を「安全保障上の脅威」に認定 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfTGExZzhySlpaMFNKeDNQVm51Y1FndldsOHE4UW9Jd1I5Mi13bFpNUmxIWjNYUjdKZFpGckxwWUxCY3QteWc2VUJsNUJuSFdSRHhzS0d2Um1XOVRqLUNPZ3BoOWJEclEzRW4xdQ?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-24T13:24:51.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "77413990dbdacd01",
+      "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
+      "description": "PM Benjamin Netanyahu vows ‘to destroy this place’ in retaliation for militant attack on army checkpoint Israeli troops have levelled a neighbourhood in Hebron, driving out hundreds of families in co…",
+      "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
+      "source": "The Guardian World",
+      "feed_id": "guardian-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T13:17:13.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "c19a3b2667eff249",
+      "title": "Armed Israeli settlers try to break into Palestinian grandfather’s home",
+      "description": "A Palestinian man is facing Israeli settler attacks and a demolition order from Israeli forces in Umm Safa village.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/armed-israeli-settlers-try-to-break-into-palestinian-grandfathers-home?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T13:16:23.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "15701da227b03e5c",
+      "title": "24日の高市首相の動静",
+      "description": "24日の高市首相の動静 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81U2JBVktQNkFMUkhDenNPbmVEMmtTLXlwb3YwNThNdzVPV3BGeDRqRGZvUDNkemhpQmFPTXM4NHpSYmMzRVhTaHphVkg4SlBJZm80cXQwdFJhSS1VUUNrR3VlOVV0amE1SkdiMQ?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-24T13:15:00.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "5030c9a1a4bee3b6",
+      "title": "FIFA’s Infantino touts global re-election support amid resignation questions",
+      "description": "Support from Asian federation bolsters FIFA's Gianni Infantino as he seeks re-election as president for a fourth term.",
+      "url": "https://www.aljazeera.com/sports/2026/10/24/fifas-infantino-touts-global-re-election-support-amid-resignation-questions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T13:12:03.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "139e807626ba1adc",
+      "title": "Schwab trumpeted Anthropic's Claude for all 16,000 of its RIAs, but a 20-seat enterprise minimum suddenly sidelines 11,000-plus small firms -- right before IMP…",
+      "description": "Schwab trumpeted Anthropic's Claude for all 16,000 of its RIAs, but a 20-seat enterprise minimum suddenly sidelines 11,000-plus small firms -- right before IMPACT 2026 RIABiz",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPT0R4ZTBtQWtQMTBJWGx2NGV2TVNxRl9aa2liNDQ2SGJFVFEta0I2M2lhaEkwR2hWMmxDMlZXamdQYkpFRkU1Wl9PN3JOLXljb3JuTFJ1Z0wwTFp6ZVlqQkRnVHpZOW1uMkpnR0hUYzkzZm9BXzNXSEQ1cnBic2M2cHpqM0FSempQUGNoQzVhWmdyQksxcVN4QVJGZ2NSaEZ3N0pZMno3SFFIQm9ORVBaWWhkM25DQm1pRkIzd1dyOEZvSmxtMnRBTkxYSXp5dW1IZmhNTC1CczY2T0ZDVlBPT1NvZnZ2YXRxLXZxbklsVnQtSVoxQWlsd0hlbVBEUkxpbTNlNUlBRUJmUXdpQ3BCaUVEQTR0SjRVQTdxQw?oc=5",
+      "source": "RIABiz",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-24T13:07:30.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "3451c6a9097de651",
+      "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
+      "description": "Iranian officials, media and analysts sense war is closer, but signal there will be no backing down.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T13:06:03.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "9660a4d975909ac3",
+      "title": "Jordan’s King Abdullah orders firm response after deadly church attack",
+      "description": "Authorities searching for attackers say too early to determine if they had ties to known groups, as death toll now nine.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/jordans-king-abdullah-orders-firm-response-after-deadly-church-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T13:02:51.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "a3978b03e0787386",
+      "title": "OpenAI fired researchers for using disappearing messages on Signal",
+      "description": "OpenAI fired researchers for using disappearing messages on Signal The San Francisco Standard",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oeWxQMmtPTmlqclc2V19FN0tRdTdOSVB5VWdLaE1janUzbUJ0ajdBM05RenlYclpFdjJGdnBibGZqajF1OWliYmVVcTVqTl9rMVFBNmU5dnEwYTVVRElFdXBhUWlleDF2MlZ1aFdBTnVkRnhadDJKcQ?oc=5",
+      "source": "The San Francisco Standard",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-24T13:00:00.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "4041d9ed80e3cf32",
+      "title": "Trump says he may move White House press corps",
+      "description": "Trump says he may move White House press corps Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSk1kdkRlZlJWcUhpbzJzSW1OS2RSRG4zVXd1Y0Vsci1UQjR3ZGZiX2xyU2w4TG1YRUZ6VVhfajRiVmt1MTZxdm5rOXF4MUlEbEN0VjJxb2EyR2VCOGUtRzY3MkprdHZlMVBPckJoOVJFcEtkUVZ0cjNlYzNnSVRXM2t3YnZFM0FkLWRUdWRabDlONk1qeVNQa0JNMndwU1lRcG9GUUZtWG0?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T12:59:43.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "423568baefcb9d1b",
+      "title": "France protests live: 135 arrested as marches held under tight security",
+      "description": "Authorities say they are determined to prevent another weekend of looting, burned cars and attacks on public buildings.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/france-protests-live-135-arrested-as-marches-held-under-tight-security?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T12:55:37.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "947c5af9b863a77d",
+      "title": "Is Iran planning attacks on Americans; why is the US on alert?",
+      "description": "US intelligence memo warns that Iranian plots against US citizens in the Middle East 'have reached advanced stages'.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T12:51:21.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "ee4e10e2fc52f205",
+      "title": "UAE's Ras Al Khaimah shuts all beaches as neighbours grapple with oil spill",
+      "description": "UAE's Ras Al Khaimah shuts all beaches as neighbours grapple with oil spill Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeDMwaHJxZFNJTlFkYnB5UDY2SEdRcnRvdGRMSUNDR0I3cmhHT0xkTHQ4QjR5d241bnMtTm44UFIzdTZJYUJwcXZTcVFwN2FSVm80aTBWNmpXQVhrSTdtMnZHbWJiZTV1WFl1cGVyOHlJSmZ2d3gxZ0ZpTkpVOW0xTWFrNEFlTDczUGY1TVl0SmVKSVQ5cnN3S2NhU2dwZGZuYldJZDB3WWpaQTYzQ1RQeUdqNS1acnNqY002emRQMHV0TFU?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T12:45:43.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "58db4ecd14d0e0f1",
+      "title": "大規模火災、モンゴル政府が賠償請求検討 KDDI子会社活動時に発生",
+      "description": "大規模火災、モンゴル政府が賠償請求検討 KDDI子会社活動時に発生 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05bl92T19JN3N1OFVkNkxSczF6Mnozbk9SZ19iZGd3QVJJdXJvckw0MHIzcWdHU1F0VWxWRjRnSzVqVlJIck5pYjlOUVYweF9HR1U4cC15c0c5ZGZQamVEU0VKYWFCRWl6dnZLSQ?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-24T12:37:35.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "b5a048937d4f3172",
+      "title": "Mona Lisa off limits as Paris shuts museums over protest fears",
+      "description": "Mona Lisa off limits as Paris shuts museums over protest fears Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd3FhcVl2aEg5V3RIY2g0b0NzRERobHc4YnM2NlVPQWdPNUp0VDc5dEVEbTBOUVBKZ1FUZXpyaVplZ05YZ2RxV2ZnUm8xN3NGVWVoQ0pBVGxOVWhtSV9jNi0wYldpaFJ5Ml92TlVPcHduTHRZY3pva3FrV3NXQXJNWWZnbHBpNTlBcjZOaU04Y21pZkRfUXVLX2tXTFBaMnJkcUtwcnNkbm91eTJS?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T12:32:42.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "7e9d3ad79b4a3d7c",
+      "title": "Malaysia considers complete ban on Israel-based navigation app Waze",
+      "description": "Malaysia has barred civil servants from using Waze for official duties over its links to Israel.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/malaysia-waze-israel-ban?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T12:30:42.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "0fbd2f047ba3960e",
+      "title": "Merz calls for unity as he warns of threats facing Germany",
+      "description": "Merz calls for unity as he warns of threats facing Germany Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOemdaUDVBWVFrZFk3aHI5S0tNdHFIeDdocS0yVmw1bXJPMzR0d0s4XzdnWWpSM1hQVFowd1NOS1RZLVB0YzdHRVhCRU1Uc0JLSHJRekJCelphbnRXYWJaNGw4R19OUnhVRjFvTkNIRUFQUi1LTFNsOWM2SXpNZXNkYmR1WlFBZTdQU0RFT0NINUhtQnhB?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T12:22:10.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "f7e1ab0d6b8449c1",
+      "title": "Serbia elections test student movement demanding justice for 16 victims",
+      "description": "",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T12:18:06.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
     {
       "id": "85a48481e4d46bd1",
       "title": "French police make 135 arrests as protests take place across Europe – Europe live",
@@ -28,6 +676,18 @@
       "first_seen_at": "2026-10-24T12:34:40.867Z"
     },
     {
+      "id": "de61a69b888792b1",
+      "title": "Barcelona housing activists evicted by police from residential building",
+      "description": "Housing activists in Barcelona seized a mostly empty building to house vulnerable families and create a community hub.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/barcelona-housing-activists-evicted-by-police-from-residential-building?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T12:14:00.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
       "id": "dfe2a38c3123b495",
       "title": "Ukraine says Starlink connection 'now stable' after network limits",
       "description": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
@@ -38,6 +698,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-24T12:12:40.000Z",
       "first_seen_at": "2026-10-24T12:34:40.867Z"
+    },
+    {
+      "id": "4bf380af5c5351a6",
+      "title": "Varma leads India fightback in four-wicket victory over New Zealand",
+      "description": "Varma leads India fightback in four-wicket victory over New Zealand Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeHRCVDdiSWdLY054YzhnT2t2NHhNd1dQdHFpaW1PdGJ3VUZBSWIzV0ExdmlEQ0tfcDI4eW90MlU3Y1ZwSXIxSFk1WWxXWWZaY1ZMdGJzQzA3NElPZFR6Z0FGX2x5OUZlRV9JRHlucWJsREdUMDZGa09YTE1BTXJzRVFuazVfRmRlVGN2c2RkbFM2cEJQeU5ZUGJoRWlZd3B0S3VXLTY2cGQyTUY3Si10cjFkT09Bdw?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T12:11:47.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
     },
     {
       "id": "ec82c7d6d7e3fa94",
@@ -64,6 +736,18 @@
       "first_seen_at": "2026-10-24T12:34:40.867Z"
     },
     {
+      "id": "0f9e254e2b08f45a",
+      "title": "OpenAI and Poland’s NASK partner on AI safety research",
+      "description": "OpenAI and Poland’s NASK partner on AI safety research AI News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0FVWUZSemxtY2JtWURCSTA1RklkdkZRbFdwb1RESXUxZ2pTN05ZTEpaV0VDMVhCYnk1NF8wWGFxN3AtRFI1SVByaVhhLUFvMWhMQnNOdW1qZkRmUXFNVmo1b3ZjN3JLQk1sb29UcWNUZ2RWenFxSlQwVEU3R2w2Q2pBdFhTVTNENGtocGxPSVFXQzQwMEVKajJGWlFOclZadGpaS3JB?oc=5",
+      "source": "AI News",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-24T12:04:13.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
       "id": "663dd79d47bbaea0",
       "title": "Ukraine says Starlink back to normal after week of throttling",
       "description": "Ukraine says Starlink back to normal after week of throttling Reuters",
@@ -74,6 +758,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-24T12:03:42.000Z",
       "first_seen_at": "2026-10-24T12:34:40.867Z"
+    },
+    {
+      "id": "4e026bfada92523f",
+      "title": "金正恩氏、中国を電撃訪問 李強首相と会談か",
+      "description": "金正恩氏、中国を電撃訪問 李強首相と会談か AFPBB News",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yRkFvZFpBNFNMTXZjODZGQ25paFpZSDQyNGJNcmdVZ0NQX1FybkRHd2VWRGRDSGdMam9rUVRaMDQzenVVSFZ1X1FQUHZjY1lNRGQ4eNIBVEFVX3lxTE9JaTdybnEzSmRkd08wWU1CVDVvS24tQ1AxLU9XZFVsN0htZGlzWm9Bb1NGMUZyTkFfcHZlM1Y4MWMwLW9mdF9ucTFuLWkxakg4Q1pJYg?oc=5",
+      "source": "AFPBB News",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-24T11:53:00.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
     },
     {
       "id": "c48ae075790e178f",
@@ -158,6 +854,18 @@
       "hint": "日本政治",
       "published_at": "2026-10-24T11:15:45.000Z",
       "first_seen_at": "2026-10-24T12:34:40.867Z"
+    },
+    {
+      "id": "6cee4d6263d2efe8",
+      "title": "簗前農水相発言が露呈させた自民党の「箇所付け」政治は生きていた／三田妃路佳氏（宇都宮大学地域デザイン科学部准教授）",
+      "description": "簗前農水相発言が露呈させた自民党の「箇所付け」政治は生きていた／三田妃路佳氏（宇都宮大学地域デザイン科学部准教授） Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zV0NZSWUzUFhSZ1g2eFRfSDVkeVVrclFTaFNOcEU5aFpZdXZpVWpJV2w0b2ZGLVJoMVdGYnRSdGxxNTM5Q3FCaFJUeWhDWkxmOWF4WDRXaExYQlEzdGtoUjY4TXN1Y0dwZ0l2N2Ffa291ZlJFWXg4Vnh5UGh3a0k?oc=5",
+      "source": "Yahoo!ニュース",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-24T11:13:03.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
     },
     {
       "id": "24dbc4bfc354ca57",
@@ -340,6 +1048,18 @@
       "first_seen_at": "2026-10-24T12:34:40.867Z"
     },
     {
+      "id": "68a72f56ced0a340",
+      "title": "Five takeaways from Trump's midterm campaign rallies",
+      "description": "Five takeaways from Trump's midterm campaign rallies Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOWRrT1lOLWc2TVVFRWZhbENyYUE4ZVlBWHBLLXFHNHhjczlTellOcG9GdUpCaVNZNk9mMFdkSzJqMjdXcFhOSGJGWDJ5Njd6NDhOYkRzYzRzaF9UVE95X0IyR28xbHd2WW1VTXBCV1FrTDdwR092bm9jTHJlMm9acmEzQUJSQ1VaVFBiWW1SWWdwZ1Zna3c?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T10:07:44.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
       "id": "eef584ad565d853b",
       "title": "Fire devastates the Eagle’s Nest retreat built for Hitler in Germany. A person is detained",
       "description": "Fire devastates the Eagle’s Nest retreat built for Hitler in Germany. A person is detained AP News",
@@ -374,6 +1094,18 @@
       "hint": "日本政治",
       "published_at": "2026-10-24T10:00:00.000Z",
       "first_seen_at": "2026-10-24T12:34:40.867Z"
+    },
+    {
+      "id": "6fc7350bfa493b78",
+      "title": "高市首相のX発信への「反応」の傾向を分析…見えてきた、高支持率に潜む“リスク”（日テレNEWS NNN）",
+      "description": "高市首相のX発信への「反応」の傾向を分析…見えてきた、高支持率に潜む“リスク”（日テレNEWS NNN） Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0STdYbnFucEdJOEhqYjlGZ1lZNW05VHVaRW5mbzZoU2xBWFc1c2ZwTHpnd1pYY1kwTHpZeC15VURxMHpBLXBVellhVXY0SHMzQ2JlcUNmWnlEYmlZeE1pbW9wMzRJVHYwVjFWdVpsZ1dxZmhyOUlBel84NEE4aDQ?oc=5",
+      "source": "Yahoo!ニュース",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-24T10:00:00.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
     },
     {
       "id": "7baee3c163705a90",
@@ -448,6 +1180,18 @@
       "first_seen_at": "2026-10-24T12:34:40.867Z"
     },
     {
+      "id": "618d8ff6099fd7a3",
+      "title": "Three released without charge after fatal arson attack in Ireland",
+      "description": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
+      "url": "https://www.bbc.co.uk/news/articles/cv0ld9571511o",
+      "source": "BBC World",
+      "feed_id": "bbc-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T09:38:28.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
       "id": "58b5f195acda31ac",
       "title": "France mounts huge security operation as protesters prepare to march",
       "description": "France mounts huge security operation as protesters prepare to march Reuters",
@@ -482,6 +1226,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-24T09:32:22.000Z",
       "first_seen_at": "2026-10-24T12:34:40.867Z"
+    },
+    {
+      "id": "580d810df689666c",
+      "title": "フランス国債、格下げ回避も解けぬ警戒 市場は財政再建なお不信",
+      "description": "フランス国債、格下げ回避も解けぬ警戒 市場は財政再建なお不信 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xdEFUdDFlQkpJR0llLVRlSU44RWxGbDBhMUJ1SWczTXNOaEk5UnMwRy04aXZjZEJOSWVXaUFuVUFHakF5SGdhQmxYNDd4a0FvMXlnVXVhS3RqVHBqa3hwejVXNENJeTZHLUd2cA?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-24T09:30:00.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
     },
     {
       "id": "f5ff9840ba1cdb63",
@@ -652,6 +1408,18 @@
       "first_seen_at": "2026-10-24T12:34:40.867Z"
     },
     {
+      "id": "949ccb527250f4b9",
+      "title": "サカナAI伊藤社長「AI評価、日米共通の枠組みを」 富士山会合",
+      "description": "サカナAI伊藤社長「AI評価、日米共通の枠組みを」 富士山会合 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuY2h3aExwaUEwNzB4TEtSSkxfUU9WTlp6V0dIQU1XaUdKbUg3eEhoeUxkTWFsaGQ5LXVpS1N3LWh0amxsVkVVaERNTTBjLThOeTNoSEJYYmUwV2xYVkRrTlJ4a1ZpU2JodHdsYg?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-24T08:26:27.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
       "id": "dcaf7327e46cf691",
       "title": "Chicago Bulls storm back from early deficit to beat Milwaukee Bucks in NBA",
       "description": "Jayson Tatum puts up 36 as Boston Celtics send NY Knicks to second straight loss and Lakers surge past Clippers.",
@@ -710,6 +1478,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-24T08:11:17.000Z",
       "first_seen_at": "2026-10-24T12:34:40.867Z"
+    },
+    {
+      "id": "f619c3735434f09d",
+      "title": "SpaceX's satellite connection renewed at over 400 km/h, Ukraine's defence minister says",
+      "description": "SpaceX's satellite connection renewed at over 400 km/h, Ukraine's defence minister says Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSXVjYlFFT3ozOHNzcTB4bUsyc1l6OEM1MlVHMFB2MlB4T1NCMzF2bks4b2lvLTYtaXMyeXlMMDZFSXlfeGZaaVRqZWlQcUktWGdGZjVGWnZZdWY4T1lBMVZYdy1pc2RKdkh1eVpDeGZtTkIxbDRSZWxaQ25lMEdBZ2ZldFVHNUlzNzZTMC1DdDlkcXBsbkhCVnY2RHRhdkQ5cUk2Wlh5SzN0anR0OENzeWhxOWZwQXFwZXRKbE9kYXJHQQ?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T08:11:09.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
     },
     {
       "id": "4a77516a70fef113",
@@ -832,6 +1612,18 @@
       "first_seen_at": "2026-10-24T12:34:40.867Z"
     },
     {
+      "id": "86bac432a5e4a8d0",
+      "title": "金正恩氏、2年連続で中国訪問 李首相と会談、北朝鮮国境（共同通信）",
+      "description": "金正恩氏、2年連続で中国訪問 李首相と会談、北朝鮮国境（共同通信） Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1LUxKdnI5N2VlYUxxYnAyN1hCaWJCYWlOa2tGcDl6UlVyTnBVSGFfMF9qdlc5Q2x4MVBjN3pMSU0wMF92SFpnZUhPSER6bVJ6RHdmS203bWVLeThQOUxodXExc3h1NVJ1a1hhSGxUcS1MQ1Rwd0FXWm1UdTdKVkU?oc=5",
+      "source": "Yahoo!ニュース",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-24T06:47:33.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
       "id": "69314b9589da0bf2",
       "title": "“Culture is stagnant, so politics is stuck” – playwright James Graham | Radical Thinking – podcast",
       "description": "Are we doomscrolling our way into a democratic crisis? That’s what the playwright James Graham fears may be happening, as he suggests that our algorithms have led us into ‘a massive crisis of the new…",
@@ -854,6 +1646,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-24T06:45:18.000Z",
       "first_seen_at": "2026-10-24T12:34:40.867Z"
+    },
+    {
+      "id": "5c02e9639f4ae3d4",
+      "title": "OpenAI Nears $1.25 Trillion Valuation. What That Tells Investors Ahead of a Potential 2027 IPO.",
+      "description": "OpenAI Nears $1.25 Trillion Valuation. What That Tells Investors Ahead of a Potential 2027 IPO. The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRmxKd3dXUmU0Qmc3MnJRUjVxVHZVNHgzbGxGYV9GenE4TVNiVFFPOGlhVjd3blhSUHJlSEFVSEdPbC0wZi1fQjlwcDFxZTJUSDFPdkdUR0tMLVViNDNtRUJhOHgyV2dfMnJ1NFNzeXhMUzdTcjJ1b2tHTTVid1IwbWc4dHFURnRrSXZkaUs4MU5OMDh0YmMzT0FlSnlqd3VWeFBsTlJnZnNQZGY2SWtKOUpSU3Njei1ITGxKNjJWd2FDc2g1RXdMNFdDZXV2c00?oc=5",
+      "source": "The Motley Fool",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-24T06:38:00.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
     },
     {
       "id": "fd643e562dafb597",
@@ -1504,6 +2308,18 @@
       "first_seen_at": "2026-10-24T07:05:57.727Z"
     },
     {
+      "id": "ee3771133b729aaf",
+      "title": "吉田圭秀・防衛大校長、対中国で「3つのレッドライン」 富士山会合",
+      "description": "吉田圭秀・防衛大校長、対中国で「3つのレッドライン」 富士山会合 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IcWRkUzdLSnM4XzVPTmhyeUhYbWw2N2FPLVhiYmdfZVF5cVdlVGxubU15VUFZTTRuXzZvbm1nRjFFbXhLWXdRbW5STjVqaFpsZWNNMTA4cHVEdTNNa0lPTm5kM19pNmpGTjBRQw?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-24T02:01:27.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
       "id": "0e2fcce1d844f5d7",
       "title": "Palo Alto Networks Brings Continuous AI Defense and Prisma AIRS to the OpenAI Marketplace",
       "description": "Palo Alto Networks Brings Continuous AI Defense and Prisma AIRS to the OpenAI Marketplace Palo Alto Networks",
@@ -1538,6 +2354,18 @@
       "hint": "経済",
       "published_at": "2026-10-24T02:00:00.000Z",
       "first_seen_at": "2026-10-24T12:34:40.867Z"
+    },
+    {
+      "id": "b54eff3e7ad6ae3a",
+      "title": "東京海上が国内初フィジカルAI保険 ロボット修理費補償、大市場に先手",
+      "description": "東京海上が国内初フィジカルAI保険 ロボット修理費補償、大市場に先手 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NSkZiLVJpUFF3TFRMSnlCLTJ4dHd5d1A5amFLaGZSeWw1REZ1YzNkeXVTYmF1NEcxZjVfdmVwb0tHREpLTldHNzVQN280TkVYNXVEM0dIV2JVOFNiT1pJcUh0ZXBGUnIwWFYwTg?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-24T02:00:00.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
     },
     {
       "id": "4ebdb696244cb2ba",
@@ -2738,6 +3566,18 @@
       "hint": "AI",
       "published_at": "2026-10-23T20:23:25.000Z",
       "first_seen_at": "2026-10-23T22:59:21.036Z"
+    },
+    {
+      "id": "12413b2bb24a3034",
+      "title": "Dale Brown, who has the most wins of any LSU basketball coach, dies at age 90",
+      "description": "Dale Brown, who has the most wins of any LSU basketball coach, dies at age 90 AP News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdkxhaDh4YW11dG1jT0hZMWhKT0hMYU1Ma0hXYjdqRWJTRTB1MVRKNkZEbHEtUHVrNm1kUWNBWm1jSzBkcUpSekVFRW9DRWtCYkRyWlJhcG1sVjNGS0k3czg5cjdndDE1aTdWcUlDYVZQbGxSNnlXcDM1ZnNFekd1WXplRGZjdw?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-23T20:22:00.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
     },
     {
       "id": "0ba4820729d11653",
@@ -7646,6 +8486,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-23T03:12:12.000Z",
       "first_seen_at": "2026-10-23T04:19:50.355Z"
+    },
+    {
+      "id": "24e8cebaef871298",
+      "title": "Trump blasts 76ers star LeBron James as 'disgrace' for not standing still during national anthem",
+      "description": "Trump blasts 76ers star LeBron James as 'disgrace' for not standing still during national anthem AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNUgxR2FFOThLekhqb3BGZnVkRDJGVkxmcDNCN3VVM3M0YU1pYWhjMXJJc0FFZTFPc2thckdyenJGS2NuVkdOV0tSazM3blJTMFV0eXdOWWlWMjZGTUhBTUI3VFRHQ3ItSXRCWmlhY21GR1c4eXdScVExenAtU04teklRd05XbFRNbE9INVNKLUJ6dUxrYVR3?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-23T03:12:00.000Z",
+      "first_seen_at": "2026-10-24T16:30:11.543Z"
     },
     {
       "id": "cd3d14d60767da3b",

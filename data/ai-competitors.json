@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T12:34:44.601Z",
+  "updated_at": "2026-10-24T16:31:26.608Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -23,11 +23,11 @@
   ],
   "matrix": {
     "OpenAI": {
-      "新モデル": 25,
-      "資金調達": 15,
-      "提携": 5,
+      "新モデル": 26,
+      "資金調達": 16,
+      "提携": 6,
       "規制": 12,
-      "その他": 59
+      "その他": 63
     },
     "Google": {
       "新モデル": 1,
@@ -40,8 +40,8 @@
       "新モデル": 4,
       "資金調達": 18,
       "提携": 2,
-      "規制": 4,
-      "その他": 31
+      "規制": 5,
+      "その他": 33
     },
     "Meta": {
       "新モデル": 2,
@@ -100,14 +100,157 @@
       "その他": 5
     },
     "その他": {
-      "新モデル": 11,
+      "新モデル": 12,
       "資金調達": 8,
       "提携": 2,
       "規制": 9,
-      "その他": 78
+      "その他": 82
     }
   },
   "items": [
+    {
+      "id": "35d668020c863316",
+      "title": "Block’s new voice model sounds eerily human",
+      "company": "その他",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "published_at": "2026-10-24T16:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "7e12a0d5fcb199c5",
+      "title": "Suno and Anthropic Face Nearly $340 Million in Copyright Claims Over Songs by Madonna, Johnny Cash",
+      "company": "Anthropic",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Law Commentary",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd2paX0g0Y1J6RkhDcDNfaVMzQnI3aTJXdHY2eWpCekpXbnlYT296bWF0Um5leklEZTh1UzdBeWg1WElOVkZMamVtVkhmbTNCQlAwcUxLX2l1WmxuaGtiWDZieEhwZzc2aFVhOGpGZEQ4SThxWXFWRGdGOGZoVUM1dWMwVktQQjZXa0daSkJB?oc=5",
+      "published_at": "2026-10-24T15:56:55.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "3b94bf901c7f8f70",
+      "title": "Three fired OpenAI safety researchers say they were never told what they actually leaked",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Decoder",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdmpLbFM2SldrRUZ4VWNXVkZmZHpyZlVVNC1mS2ozTXotY3gyWkpac1Y0S2d6OE5laTVQNVJCVHFid2hoQlFTM0RnRi1kSFlxZ1JyekFrcjhvZF9SWGVLU04zN25aTnFrVlAzQlV5OTVuNDNEbzUtSkJnUW5SMlNGYVVyaFlZZXk2bHdKMlhzd3NHNkFfOV9VODNWNEFkcHp6UjZkN05oRVNNZk1YbUVYX1ZVdw?oc=5",
+      "published_at": "2026-10-24T15:23:19.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "110fd09f65f25a52",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "company": "OpenAI",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 5,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "published_at": "2026-10-24T15:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "24291d971ed810ee",
+      "title": "Anthropic Sued For Stealing Elvis Presley Music to Train AI: ‘Deeply Protective of These Iconic Songs’",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Billboard",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tQUZPNFFsYXJZcnJydGJWWldtMmJLZEF4QlpiVWtQeHVZY1UwdjJHOFRLMHEyS0FvR0pjZ0ZXZHdQQURfNDNuWXNMaHlnZUdjUUYzeHF1T2pscmtVUFhXYTdwUkE2NmdWaEY4RkdneUhHNXFUdzZVbG5kOA?oc=5",
+      "published_at": "2026-10-24T14:36:12.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "0fcbf50b451f0fa3",
+      "title": "OpenAI Arrives on Google Cloud, and Businesses Gain a New Way to Buy AI",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Times Square Chronicles",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOblVxeHZDcHU4UnlZc3RSbTBJVklOVkZER3NmbXZGYXJDWHhvb09HM05ld1d4NjI1ZWFrMldlU3QtbFJTRTRFRkhvb3E5ZXhaUnltb0JYcTZKc2NTUE8xZ0N5YjNCNGpXb293STNnenhJenVYT0h6RDAtQm9LVjhzcE5jSVc1SmNXTTFpZE56c1V0X3BfWUFwVA?oc=5",
+      "published_at": "2026-10-24T14:03:30.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "0d4ae8a7dd392962",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "published_at": "2026-10-24T14:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "e0bc2f950e09132d",
+      "title": "Anthropic’s Margin is OpenAI’s Opportunity",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Information",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX0N0ZWVJZjFXUjdmLTdoRVdJbzkwVDBYaXM1eHN3aEdPbm4zTXNhdjJrbTdHdkQyQTJ5ZWRBMGdheFRKeUFjMFNGbWRZdHhnZWh2YXdDZDV2R2JTazNmaU5kTk9oVmQ2a0hnUzl3V2dtSWE0U2ZOZjB5TElicGVxOE1sSQ?oc=5",
+      "published_at": "2026-10-24T14:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "04fee7158c29fa48",
+      "title": "自民党、AI攻撃への備え強化を提言 古川サイバー安保担当相らに申し入れ",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "電波新聞デジタル",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53aWpUc0dJMGQ4aS1UcndveVpwTmdYUUlJQXF2b2dZM0FldzdzS0dXejdOVTU5dlZjbDRFck14QVVLZlFBNmlHMnpaaDVycHRJLWc?oc=5",
+      "published_at": "2026-10-24T13:43:06.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "139e807626ba1adc",
+      "title": "Schwab trumpeted Anthropic's Claude for all 16,000 of its RIAs, but a 20-seat enterprise minimum suddenly sidelines 11,000-plus small firms -- right before IMP…",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "RIABiz",
+      "source_url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPT0R4ZTBtQWtQMTBJWGx2NGV2TVNxRl9aa2liNDQ2SGJFVFEta0I2M2lhaEkwR2hWMmxDMlZXamdQYkpFRkU1Wl9PN3JOLXljb3JuTFJ1Z0wwTFp6ZVlqQkRnVHpZOW1uMkpnR0hUYzkzZm9BXzNXSEQ1cnBic2M2cHpqM0FSempQUGNoQzVhWmdyQksxcVN4QVJGZ2NSaEZ3N0pZMno3SFFIQm9ORVBaWWhkM25DQm1pRkIzd1dyOEZvSmxtMnRBTkxYSXp5dW1IZmhNTC1CczY2T0ZDVlBPT1NvZnZ2YXRxLXZxbklsVnQtSVoxQWlsd0hlbVBEUkxpbTNlNUlBRUJmUXdpQ3BCaUVEQTR0SjRVQTdxQw?oc=5",
+      "published_at": "2026-10-24T13:07:30.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "a3978b03e0787386",
+      "title": "OpenAI fired researchers for using disappearing messages on Signal",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The San Francisco Standard",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oeWxQMmtPTmlqclc2V19FN0tRdTdOSVB5VWdLaE1janUzbUJ0ajdBM05RenlYclpFdjJGdnBibGZqajF1OWliYmVVcTVqTl9rMVFBNmU5dnEwYTVVRElFdXBhUWlleDF2MlZ1aFdBTnVkRnhadDJKcQ?oc=5",
+      "published_at": "2026-10-24T13:00:00.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "eab4bb13f32e5942",
       "title": "DeepSeek vs Claude: $0.15 vs $4 Per 1M Tokens [2026]",
@@ -119,6 +262,19 @@
       "source": "https://tech-insider.org/",
       "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OR0ZCaUJpcC1kV3dNWHJjSG00Q2toN2V2R1pFaW1hLUk5WExMSlBhNWcxd3c0eXJkZy00bjdCWWlVV2h2MWlEYnFnc1I1OUlzc1NiWTQ4QWtLMDU3Tnc?oc=5",
       "published_at": "2026-10-24T12:14:24.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "0f9e254e2b08f45a",
+      "title": "OpenAI and Poland’s NASK partner on AI safety research",
+      "company": "OpenAI",
+      "type": "提携",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "AI News",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0FVWUZSemxtY2JtWURCSTA1RklkdkZRbFdwb1RESXUxZ2pTN05ZTEpaV0VDMVhCYnk1NF8wWGFxN3AtRFI1SVByaVhhLUFvMWhMQnNOdW1qZkRmUXFNVmo1b3ZjN3JLQk1sb29UcWNUZ2RWenFxSlQwVEU3R2w2Q2pBdFhTVTNENGtocGxPSVFXQzQwMEVKajJGWlFOclZadGpaS3JB?oc=5",
+      "published_at": "2026-10-24T12:04:13.000Z",
       "analysis": "rule"
     },
     {
@@ -187,6 +343,19 @@
       "analysis": "rule"
     },
     {
+      "id": "949ccb527250f4b9",
+      "title": "サカナAI伊藤社長「AI評価、日米共通の枠組みを」 富士山会合",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuY2h3aExwaUEwNzB4TEtSSkxfUU9WTlp6V0dIQU1XaUdKbUg3eEhoeUxkTWFsaGQ5LXVpS1N3LWh0amxsVkVVaERNTTBjLThOeTNoSEJYYmUwV2xYVkRrTlJ4a1ZpU2JodHdsYg?oc=5",
+      "published_at": "2026-10-24T08:26:27.000Z",
+      "analysis": "rule"
+    },
+    {
       "id": "5a20ecc2d15e0cfa",
       "title": "Keeping the world safe when no one is in charge",
       "company": "その他",
@@ -197,6 +366,19 @@
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/opinions/2026/10/24/keeping-the-world-safe-when-no-one-is-in-charge?traffic_source=rss",
       "published_at": "2026-10-24T06:45:18.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "5c02e9639f4ae3d4",
+      "title": "OpenAI Nears $1.25 Trillion Valuation. What That Tells Investors Ahead of a Potential 2027 IPO.",
+      "company": "OpenAI",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Motley Fool",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRmxKd3dXUmU0Qmc3MnJRUjVxVHZVNHgzbGxGYV9GenE4TVNiVFFPOGlhVjd3blhSUHJlSEFVSEdPbC0wZi1fQjlwcDFxZTJUSDFPdkdUR0tMLVViNDNtRUJhOHgyV2dfMnJ1NFNzeXhMUzdTcjJ1b2tHTTVid1IwbWc4dHFURnRrSXZkaUs4MU5OMDh0YmMzT0FlSnlqd3VWeFBsTlJnZnNQZGY2SWtKOUpSU3Njei1ITGxKNjJWd2FDc2g1RXdMNFdDZXV2c00?oc=5",
+      "published_at": "2026-10-24T06:38:00.000Z",
       "analysis": "rule"
     },
     {
@@ -275,6 +457,19 @@
       "source": "Palo Alto Networks",
       "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQklPWjdZbXE1X0Y1U282aDVEU3N4VF9HLS1rb0pTZmZQOXdrbkZLSDVSQVpfYzd3XzIzdFBNVmV3bGR0Z0xZWEJLdjFzMHN3Y2UyeWVhcjJ0MGtxeUtfbnZVT0JGeXRTMk9MRlRYek5wemNkMkpTa29rRjlwNlQ3SEZmSlE0VjBjeENSd0tVVV93Nk04eEFaTTRsYWluV0d2b1ZHbmdlVGctcjRmd2lWVllWdTFZN3lEbXBEQlJaLUtEUXNJU3F4YVNSQkJWN2FrYkE?oc=5",
       "published_at": "2026-10-24T02:01:08.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "b54eff3e7ad6ae3a",
+      "title": "東京海上が国内初フィジカルAI保険 ロボット修理費補償、大市場に先手",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NSkZiLVJpUFF3TFRMSnlCLTJ4dHd5d1A5amFLaGZSeWw1REZ1YzNkeXVTYmF1NEcxZjVfdmVwb0tHREpLTldHNzVQN280TkVYNXVEM0dIV2JVOFNiT1pJcUh0ZXBGUnIwWFYwTg?oc=5",
+      "published_at": "2026-10-24T02:00:00.000Z",
       "analysis": "rule"
     },
     {
