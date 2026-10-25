@@ -1,8 +1,188 @@
 {
-  "updated_at": "2026-10-24T22:22:21.268Z",
+  "updated_at": "2026-10-25T00:57:30.257Z",
   "window_days": 7,
-  "count": 1834,
+  "count": 1859,
   "items": [
+    {
+      "id": "32ee042ed7499943",
+      "title": "Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats",
+      "description": "Former US president says Trump 'chose to make a series of bad decisions', highlighting the US-Israel war on Iran.",
+      "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T00:34:43.000Z",
+      "first_seen_at": "2026-10-25T00:57:30.257Z"
+    },
+    {
+      "id": "08c296e111653699",
+      "title": "A Timeline of Developments in AI Safety Since the Attack on Hugging Face",
+      "description": "A Timeline of Developments in AI Safety Since the Attack on Hugging Face Broadband Breakfast",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX0tFWDNzS2t4dVBTZWhyejFMVHNwb05vTEJlQmFkRHl5M1UwSS1SZmVOYWNIMVFYdm51VG5fVEZxaWhZZ3R6MFF6UEc5VTBOem81UkFJRTRlanpmZl9XQzJ1SmM3ZzZqTGs5LXFORmVEQlZwME5wdDZFNzBOT29JRGVQaDdEQ194dW5LdUctQ3E3Y3E3U0tFTXpNbTUtdlFGSmNObEQ3bw?oc=5",
+      "source": "Broadband Breakfast",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-25T00:33:06.000Z",
+      "first_seen_at": "2026-10-25T00:57:30.257Z"
+    },
+    {
+      "id": "b5a818332fc4859d",
+      "title": "Violence breaks out across Europe after another day of protests",
+      "description": "Police clashed with demonstrators in France, Italy and Spain over rising living costs and cuts to public services.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T00:23:48.000Z",
+      "first_seen_at": "2026-10-25T00:57:30.257Z"
+    },
+    {
+      "id": "dcab8310004285d5",
+      "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+      "description": "Trump says US is considering a possible attack on Iran as soon as Sunday, or it could reach a major deal with Tehran.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T00:00:00.000Z",
+      "first_seen_at": "2026-10-25T00:57:30.257Z"
+    },
+    {
+      "id": "8d4d2247c05ba7ca",
+      "title": "Trump set to announce Audi plan to build US factory in Georgia, source says",
+      "description": "Trump set to announce Audi plan to build US factory in Georgia, source says Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGx3Y2FFQnJqWm4xQzIyem5aQXhBRWU1UkwyblYyU1BTQmR5TllmeUF6aGpDYjNQZmJNZlRWZXRzTDg5dlZYUGNXalE1ajdLUzc4blptZWJVaWdqYUFWcjViR1gxazBrSXp6bHFScVBRV3hQNEpLbi1fRm1CTGlPNUMtMDJTS0gyN3lzU2lrTDZhQjFoaWZtMXQxUThHV19oNmxzTFFGNnRlMlEyb3JQeDF6dm16bE5odlEzcGZ6THBEUDVEelktZmhHV2ZSM28?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T23:44:46.000Z",
+      "first_seen_at": "2026-10-25T00:57:30.257Z"
+    },
+    {
+      "id": "5d7cfb46ae2faf82",
+      "title": "高市首相、官僚との面会は歴代首相より大幅に少ない傾向…資料熟読する「高市流」貫いた１年 (読売新聞オンライン)",
+      "description": "高市首相、官僚との面会は歴代首相より大幅に少ない傾向…資料熟読する「高市流」貫いた１年 (読売新聞オンライン) Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSHJVUGZRdWJJN2VjXzZuRl81b3REdEE4N3Bkel9MMjg1N25WNHhuMVFJNV8zQXJBX2p4Q045NWxqZ0dQTE5vVDFtaDg3QndzQ2c3Nm44dDNycUd3R3VReFNDOTgtVzdaRl9sYWl3TEtMYXJCb0FJZXJEWUtqNEdWdl9ndFN2WXFrSDVfTVNR?oc=5",
+      "source": "Yahoo!ニュース",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-24T23:18:19.000Z",
+      "first_seen_at": "2026-10-25T00:57:30.257Z"
+    },
+    {
+      "id": "f06838f075fde3da",
+      "title": "Rosebank: Life on the oil field at the centre of a political storm",
+      "description": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+      "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro",
+      "source": "BBC Business",
+      "feed_id": "bbc-business",
+      "lang": "en",
+      "hint": "経済",
+      "published_at": "2026-10-24T23:15:18.000Z",
+      "first_seen_at": "2026-10-25T00:57:30.257Z"
+    },
+    {
+      "id": "391f8599ec0f1762",
+      "title": "Four people injured after drive-by shooting outside boxing event south of Brisbane",
+      "description": "Offenders still at large after shots fired from vehicle outside licensed premises in Loganholme Get our breaking news email , free app or daily news podcast Four people have been injured after a driv…",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/25/drive-by-shooting-loganholme-four-injured-ntwnfb",
+      "source": "The Guardian World",
+      "feed_id": "guardian-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T23:13:32.000Z",
+      "first_seen_at": "2026-10-25T00:57:30.257Z"
+    },
+    {
+      "id": "21d813484d13fdce",
+      "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
+      "description": "Donald Trump praised First Lady as 'better than professionals' after a localised Russia-Ukraine ceasefire in Oleshky.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T23:08:16.000Z",
+      "first_seen_at": "2026-10-25T00:57:30.257Z"
+    },
+    {
+      "id": "8ee27145471478cd",
+      "title": "Andy Burnham says he wants ‘honest discussion’ about freedom of movement with EU",
+      "description": "Prime minister is considering different options for new relationship with Brussels ahead of summit in November Andy Burnham says he wants an “honest discussion” with the British public about the poss…",
+      "url": "https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu",
+      "source": "The Guardian World",
+      "feed_id": "guardian-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T23:07:12.000Z",
+      "first_seen_at": "2026-10-25T00:57:30.257Z"
+    },
+    {
+      "id": "65d78514c70d393e",
+      "title": "Storm Boelo: Travel disrupted and events cancelled as UK hit by wind and rain",
+      "description": "Fresh deluge of wet weather comes after Storm Austen brought strong winds to many regions on Friday Amber weather warnings have come into force as the worst of Storm Boelo could be set to hit parts o…",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/24/storm-boelo-travel-disrupted-events-cancelled-uk-hit-wind-and-rain",
+      "source": "The Guardian World",
+      "feed_id": "guardian-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T22:40:08.000Z",
+      "first_seen_at": "2026-10-25T00:57:30.257Z"
+    },
+    {
+      "id": "8586632337f331f0",
+      "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
+      "description": "Nigerian police say a large group carried out the attack on Binnari village in Taraba State.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T22:35:45.000Z",
+      "first_seen_at": "2026-10-25T00:57:30.257Z"
+    },
+    {
+      "id": "b5e8121a445ca35a",
+      "title": "How have Democrats’ policies shifted since the last major US election?",
+      "description": "From trans rights to Israel's war on Gaza, the party's candidates have responded to voter shifts on a slew of issues.",
+      "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T22:28:37.000Z",
+      "first_seen_at": "2026-10-25T00:57:30.257Z"
+    },
+    {
+      "id": "6d5caa247c591eec",
+      "title": "「自民党の体質の問題だと思う」細野豪志復興大臣の“ヤミ選挙事務所”問題「訂正だけで済むのか」とヤフコメで疑問の声相次ぐ",
+      "description": "「自民党の体質の問題だと思う」細野豪志復興大臣の“ヤミ選挙事務所”問題「訂正だけで済むのか」とヤフコメで疑問の声相次ぐ Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85U3Via0JRSGgtMmw2cF95bVh0UHd6R2REVTFwdXMzTnItUFA3dUZXckR0dHFqSDZtWmpoT2l6VEhYLWZmS1M2QjdjUnlMRTg4S3VxVlY4OEF4X01DN2trZjdjZE5ULTd2dFNaSjRrVkhWQkRINnRTWmR0TTFnaVk?oc=5",
+      "source": "Yahoo!ニュース",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-24T22:25:04.000Z",
+      "first_seen_at": "2026-10-25T00:57:30.257Z"
+    },
+    {
+      "id": "907588c005b8137b",
+      "title": "Arrests in Barcelona after 'anti-system' rioters loot shops, set fires",
+      "description": "Arrests in Barcelona after 'anti-system' rioters loot shops, set fires Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdkJsZklZVktpY0kyUTVuR29QdnVJMDVjODZLSFVPMjlRQV94czZ2YWZvdTlvQUp6N1N4Z19PNzA1OGdUWGhLNG1yY3lfTTZoMDl4VmVlSkF5bW5ZMHBJUHRJVVFscE41czlEOHhZZEYzZ1kwSlJJWVQxYm1TcGc1cjhmTXBYekVBQTVrWjNUdEFVZTJLTlhFSFRCbWdxa3FVdUYyU1ozTDdKQQ?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T22:15:27.000Z",
+      "first_seen_at": "2026-10-25T00:57:30.257Z"
+    },
     {
       "id": "bbb9870faf48a762",
       "title": "Who are the candidates in Brazil's presidential election?",
@@ -86,6 +266,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-24T21:30:11.000Z",
       "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
+      "id": "0509c80e85fbace7",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "description": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage …",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "source": "The Verge AI",
+      "feed_id": "verge-ai",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-24T21:29:12.000Z",
+      "first_seen_at": "2026-10-25T00:57:30.257Z"
     },
     {
       "id": "4e9d0837b2293928",
@@ -254,6 +446,54 @@
       "hint": "日本政治",
       "published_at": "2026-10-24T20:00:00.000Z",
       "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
+      "id": "66a078cbafc46eef",
+      "title": "東京ガス、福島県沖の洋上風力の開発断念 浮体式検討も建設費が高騰",
+      "description": "東京ガス、福島県沖の洋上風力の開発断念 浮体式検討も建設費が高騰 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OZUZSNGZJbHdBLW9NRmhkdUFfWGlWNWpkeGZvdy1oMDBWakd6ZngyMXN6U2tEazJmUndQTDBPREt5cE0xQURKSTZhWHU1Mmk2UDFBMy1OS3ljVWlkeV85eS1wNHJvM1JKZFZ4Qw?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-24T20:00:00.000Z",
+      "first_seen_at": "2026-10-25T00:57:30.257Z"
+    },
+    {
+      "id": "91cffb2e7f4e0dc7",
+      "title": "高市首相、官僚との面会は歴代首相より大幅に少ない傾向…資料熟読する「高市流」貫いた１年",
+      "description": "高市首相、官僚との面会は歴代首相より大幅に少ない傾向…資料熟読する「高市流」貫いた１年 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96QmVWdF9FdVZTckNEM0J6cURfYkRMQV9yUTlFZ1I0WGY1TjhEZHI2bkotUDNNR0JFam1pek5YRVlrM3pmaW03d0JqbFNPcEVPN2psdlZYODlMZ0F3ZlpjUmxUQWNDdw?oc=5",
+      "source": "読売新聞",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-24T20:00:00.000Z",
+      "first_seen_at": "2026-10-25T00:57:30.257Z"
+    },
+    {
+      "id": "99fa5dc171da4900",
+      "title": "高市首相シール国会土産で人気｜政治｜全国のニュース",
+      "description": "高市首相シール国会土産で人気｜政治｜全国のニュース 北國新聞",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qck5WbGwxWUU1ZTZNMm1JdS1uYW9WMFI1MFRjNFVzc2FvNk1xZW5NdmR0RDlMS0ZrMDlTQ1M5b00xQklsVFpnWUdCU2JNRF8xOU83OVBwbw?oc=5",
+      "source": "北國新聞",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-24T20:00:00.000Z",
+      "first_seen_at": "2026-10-25T00:57:30.257Z"
+    },
+    {
+      "id": "793ea6dadff4b8b2",
+      "title": "OpenAI Is Now Keeping Its Frontier Models off the Internet During Training",
+      "description": "OpenAI Is Now Keeping Its Frontier Models off the Internet During Training PCMag",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSnJhalF0RjVDSnpGOGFGNXdEemhRUFZhRG9WY0xnVy1senM0THlobVRlUnNlcDVHUVRNemd4VnI1UmhvWTN5SENlbzJJcWRRNVdTSVlvS0JnMV9UaURaTGNiU1dEVkhtMlFLTk05OFF6T2xETTdhSWdoeC1JQjJVWU5MZkVkdHo3Vkl3dGNrYm1FR1hZR3pES0hqVEVveEZ3elZj?oc=5",
+      "source": "PCMag",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-24T19:42:49.000Z",
+      "first_seen_at": "2026-10-25T00:57:30.257Z"
     },
     {
       "id": "1497d6290dcd8356",
@@ -590,6 +830,18 @@
       "hint": "経済",
       "published_at": "2026-10-24T17:00:00.000Z",
       "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
+      "id": "65c2918248668cc0",
+      "title": "日独首脳会談、日本がEV優遇策修正要求へ 独仏の日本製除外合意巡り",
+      "description": "日独首脳会談、日本がEV優遇策修正要求へ 独仏の日本製除外合意巡り 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FempEYWU3MVRITEdVbGpGc2FNLWFodGxPYkdwNXp4YnZIVUN3ZjBNSjZ5RmVyMm9WdjVBeDVjV1BFZXBGRndEWkFCeXJGbXBHZ1VMSjBtRkJ3M2dCS3NKcGRrUlptZExoX1FfeQ?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-24T17:00:00.000Z",
+      "first_seen_at": "2026-10-25T00:57:30.257Z"
     },
     {
       "id": "9a064cc8046d7cef",
@@ -1094,6 +1346,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-24T13:51:08.000Z",
       "first_seen_at": "2026-10-24T16:30:11.543Z"
+    },
+    {
+      "id": "8dc1722694b158a1",
+      "title": "スターリンクの通信制限解除 ゼレンスキー氏は謝意表明",
+      "description": "スターリンクの通信制限解除 ゼレンスキー氏は謝意表明 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRSXZ0cUVTemdWQVV6bEhJVTBUWE40Mi01Q1h4M1E4aWhmTy05WkU3S1ZyVWppaHk2Q3JPYmcwY2t6Mk9jVl9wN2ZmUzRTV1NuNlBIbFpESUxCWk9qcnFJMFZ6UWRBbnNGeHFlcg?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-24T13:51:07.000Z",
+      "first_seen_at": "2026-10-25T00:57:30.257Z"
     },
     {
       "id": "04fee7158c29fa48",
@@ -4240,6 +4504,18 @@
       "first_seen_at": "2026-10-24T01:30:10.325Z"
     },
     {
+      "id": "5630da3f1afa11d5",
+      "title": "Mississippi DEI ban can go into full effect after Fifth Circuit reversal",
+      "description": "Mississippi DEI ban can go into full effect after Fifth Circuit reversal AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZzRiYi02c1d5RzhWM01pcndHcUE2aWNnZlVlSEIteHRkZ0tnaFZ4dlh1UXpOWmhsVTBkMS1pZV9rVzRsSU5pbGN6Q2NsUmp2dzdwQWR0OHVhczZPTmtPTE5zMVJaM1ZsQTRhUzlWVzNpOEl1RnNmdUlBelRISlN5RVJ2UjBJUFBEeUoweVp4c3JFcW5nM01vUnhzcE5yS1lhRHNJSWNCWU13UQ?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-23T21:13:00.000Z",
+      "first_seen_at": "2026-10-25T00:57:30.257Z"
+    },
+    {
       "id": "f9113fa394af665d",
       "title": "OpenAI now trains its frontier AI models with no internet access",
       "description": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment…",
@@ -4250,6 +4526,18 @@
       "hint": "AI",
       "published_at": "2026-10-23T21:11:07.000Z",
       "first_seen_at": "2026-10-23T22:59:21.036Z"
+    },
+    {
+      "id": "3745b42fbf689448",
+      "title": "South African runners don cheeky attire for annual race to spotlight prostate cancer",
+      "description": "South African runners don cheeky attire for annual race to spotlight prostate cancer AP News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWQ2bl9pRGZET2c4ZHBQZFkzX1hpdjRuSm5OUzdVdHU4MkNBa1hfYTVoaVFjTkl6ZlpNTExoT0ctS0ZLbWVUUkRBTVFtQk9MMzY5SjlIdG83UHRlak9leXVqU0JEZk9XSEVvd2xzYlFEQnJkdHB3NVZjMEdiaGZiOWc0eUFXLTllel9HNmtXekk5ZTlqUHZzNnlYRXptWVdSa0E?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-23T21:04:00.000Z",
+      "first_seen_at": "2026-10-25T00:57:30.257Z"
     },
     {
       "id": "7081febb32395c67",
@@ -7334,6 +7622,18 @@
       "hint": "経済",
       "published_at": "2026-10-23T11:05:00.000Z",
       "first_seen_at": "2026-10-24T07:05:57.727Z"
+    },
+    {
+      "id": "57b96b24d1773985",
+      "title": "How close is the Amazon to a ‘tipping point?’ Brazil’s election could help shape its future",
+      "description": "How close is the Amazon to a ‘tipping point?’ Brazil’s election could help shape its future AP News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObnNmbDVOUUpBVl9wdXVkVnJiU2o0UDBWdmZIblpGN29fMFZlRVBMYVhrWDNrZ29EaVgyU2xySG1pVHZLbTVLbGFrTjFWbk04NmZYekJBMlBRYmF0b1BnWWQzRDlqemZxREhWVnhfNXdxS3Y3SVR6dUhrR0pfa1lQZ3RtVHhQRzYzXzZ0WnBmbEdLZVR1cHZXcGx5TEwxbHhhMmtzV0lWQnZRX0N5Q1E?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-23T11:04:00.000Z",
+      "first_seen_at": "2026-10-25T00:57:30.257Z"
     },
     {
       "id": "876f28462a5526ce",

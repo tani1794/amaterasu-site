@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T22:22:28.222Z",
+  "updated_at": "2026-10-25T00:57:34.584Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -23,7 +23,7 @@
   ],
   "matrix": {
     "OpenAI": {
-      "新モデル": 27,
+      "新モデル": 28,
       "資金調達": 17,
       "提携": 6,
       "規制": 12,
@@ -103,11 +103,37 @@
       "新モデル": 12,
       "資金調達": 8,
       "提携": 2,
-      "規制": 10,
-      "その他": 82
+      "規制": 11,
+      "その他": 83
     }
   },
   "items": [
+    {
+      "id": "08c296e111653699",
+      "title": "A Timeline of Developments in AI Safety Since the Attack on Hugging Face",
+      "company": "その他",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Broadband Breakfast",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX0tFWDNzS2t4dVBTZWhyejFMVHNwb05vTEJlQmFkRHl5M1UwSS1SZmVOYWNIMVFYdm51VG5fVEZxaWhZZ3R6MFF6UEc5VTBOem81UkFJRTRlanpmZl9XQzJ1SmM3ZzZqTGs5LXFORmVEQlZwME5wdDZFNzBOT29JRGVQaDdEQ194dW5LdUctQ3E3Y3E3U0tFTXpNbTUtdlFGSmNObEQ3bw?oc=5",
+      "published_at": "2026-10-25T00:33:06.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "0509c80e85fbace7",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "published_at": "2026-10-24T21:29:12.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "4e9d0837b2293928",
       "title": "An OpenAI Model Spent Ethereum Without Permission. Here's What That Means For Crypto Investors.",
@@ -132,6 +158,19 @@
       "source": "The Profile | Polina Pompliano",
       "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nNVRycmlWXzJTdWtVSVZMbkN2SlVsVEhpUTktdFVuX1g0RmNGNjV4WUhaTjlCMTZmVEg1dWVlSkRWUjJuWGd4bXNvU2dqOXFScG9QMnNrUmJNMmZKNXJtMmp3?oc=5",
       "published_at": "2026-10-24T20:35:29.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "793ea6dadff4b8b2",
+      "title": "OpenAI Is Now Keeping Its Frontier Models off the Internet During Training",
+      "company": "OpenAI",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "PCMag",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSnJhalF0RjVDSnpGOGFGNXdEemhRUFZhRG9WY0xnVy1senM0THlobVRlUnNlcDVHUVRNemd4VnI1UmhvWTN5SENlbzJJcWRRNVdTSVlvS0JnMV9UaURaTGNiU1dEVkhtMlFLTk05OFF6T2xETTdhSWdoeC1JQjJVWU5MZkVkdHo3Vkl3dGNrYm1FR1hZR3pES0hqVEVveEZ3elZj?oc=5",
+      "published_at": "2026-10-24T19:42:49.000Z",
       "analysis": "rule"
     },
     {
