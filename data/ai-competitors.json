@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T11:11:35.909Z",
+  "updated_at": "2026-10-25T15:54:58.442Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -23,32 +23,32 @@
   ],
   "matrix": {
     "OpenAI": {
-      "新モデル": 29,
+      "新モデル": 30,
       "資金調達": 17,
       "提携": 6,
-      "規制": 12,
-      "その他": 71
+      "規制": 13,
+      "その他": 74
     },
     "Google": {
       "新モデル": 1,
       "資金調達": 0,
       "提携": 0,
       "規制": 1,
-      "その他": 4
+      "その他": 5
     },
     "Anthropic": {
-      "新モデル": 6,
-      "資金調達": 19,
+      "新モデル": 7,
+      "資金調達": 20,
       "提携": 2,
       "規制": 7,
-      "その他": 44
+      "その他": 47
     },
     "Meta": {
       "新モデル": 2,
       "資金調達": 3,
       "提携": 0,
       "規制": 0,
-      "その他": 8
+      "その他": 9
     },
     "xAI": {
       "新モデル": 0,
@@ -62,7 +62,7 @@
       "資金調達": 5,
       "提携": 0,
       "規制": 0,
-      "その他": 9
+      "その他": 10
     },
     "Mistral": {
       "新モデル": 0,
@@ -103,11 +103,167 @@
       "新モデル": 12,
       "資金調達": 8,
       "提携": 2,
-      "規制": 11,
-      "その他": 87
+      "規制": 12,
+      "その他": 90
     }
   },
   "items": [
+    {
+      "id": "c3e719ce3473b6b0",
+      "title": "OpenAI paused frontier AI training for 11 days after a model reached the internet",
+      "company": "OpenAI",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "MIXED News",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbVhUQlhNTlBfcVV6Mk5Ta2xiZlMxSEJvOC12MkJfLVUydG5RdWUySUZ3aUpOcHBUaUowN1hvajdyaDQ5eDRXY2ppeUZfRzZxLUxDYTZrQTcyT21sRkxEQWZnaE43amVvUFRCRm9qUF9DaktqbVhoeU5RazZMaFYzS28zbw?oc=5",
+      "published_at": "2026-10-25T15:35:57.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "af2835af4030d123",
+      "title": "Meta’s Unending AI Spending",
+      "company": "Meta",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14Tmg2cXRWUzNFZEY0dzl1dzFkZElUOTIyNzhRUEh6SXRDMnJRYW5sVTVoY2pJS2VZNFVQMThXX2FvWXZpbjlYQ0xzQWhTSnRHUGZEd243c1VvVnM4WXNuMWRnTy1RSDNMSDBYV1ZkTlg?oc=5",
+      "published_at": "2026-10-25T14:55:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "9040f7683895a34b",
+      "title": "Anthropic Met 15+ Faith Groups on Claude’s Ethics [2026]",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "tech-insider.org",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbHNGeGplVk40dU5ubHFXRXMzbEpBOHpoY1lvaUhhMEFYQ0V2X0VzdUM4THJEalE0NGt3SXlCZEhRU2ZSVnZuVTlONnRUV0FBUDd3ZkkxZzRaQ3JKcDV0Ynk3eDZ2akgxeHdUdjNqM1B6aEFid1c5ajViLXUtQmRRVTMtcw?oc=5",
+      "published_at": "2026-10-25T14:54:32.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "4262d71f08be8cda",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "published_at": "2026-10-25T14:10:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "b366ba776fde8cd4",
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "company": "その他",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "published_at": "2026-10-25T13:25:32.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "99c99157c7fa1579",
+      "title": "Google’s AI search changes upended online publishing",
+      "company": "Google",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "published_at": "2026-10-25T12:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "169d9afd064e4302",
+      "title": "Ex-OpenAI worker accused of bugging room planned Saudi trip",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The North State Journal",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NbmhRdF9TUWpOdVFvdDg3VUE3RUVNLVVKUWxvWkE0dzJFMHFIRU43ZmVwZVhRRlRNUDNVZkt3R2xITUdndkotTVFRUmI5Q3owd3RfcVpkXzVsVnhSdmRtaHhITXNmRlVVeERjcVZPY2cyc3daQVM5Q0xVbU5sZGs?oc=5",
+      "published_at": "2026-10-25T11:55:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "03482bbe5174fb2c",
+      "title": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data; plus much more",
+      "company": "OpenAI",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 5,
+      "source": "IAM Media",
+      "source_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZUdqT3NBRDJlVGNqZVVvRkE1RGNqRFFETzF5LXJXVnhtWk1tMUpJWWY5bUp2U2ptN0hsZkxoUzNrN3JheDd0WWF2OUh4NDRXOGJpWHlVTU5iMTVrUkpOS1A2eFRZUU9ndDdvZ0lXaExtS1JYS1N0WVJiOXN3Q1lEbjRIb1RsRXRiZm1kNWUtUXdQRlEtT0hqS3poZGNnS2ZORFVLbG5jam9rSVNyQXFyTFQzY21BdDlEQ1pXT29MT0liWm5Va3F3Y2hpUlRIZjBHSzRVcnNFRlVLQ0tGeS1McXBMNTRZSmhkZl85bjZZT0gtVlVwR1hRZ3BISzZHMWhmSllDWFVhX0hfM2puSzZOSl93?oc=5",
+      "published_at": "2026-10-25T11:33:58.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "85238636142cdf8c",
+      "title": "OpenAI's isolated red-team AI agents built a hidden CPU cache channel to talk with no network or shared files — exploited CPU cache timing to bypass microVM sa…",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Tom's Hardware",
+      "source_url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQUzdBSXJpd083eUx4UlRyNnVSRC1kZjBhWUVuNjVmbkVvU3hGNlZjM3A2a0g1ZzRNVkJrdU82QmFabXVUMFhJMW1xeFJzUVJ3ZEEzRTFLZ0p6Q1E4SDRsRDhGaGUtSEhsNWxPRkdUNzJfQUxWS3FRSW45aHU0b0J2dzYwSE82QWRmS2h3Q3FUU2xQWEdaVDVURTFGdHVMRC0xclpPTE9aVnNLU0dycTN6SVltOVhEZU12YjRkQmhNN0FSd2ZaMGFXT2ozSExFXzJyaGZ6LVE1ZE5IZ0h4dHpJWmNPZGFhXy1LYl9JSVc5V1lLMFJ5RFJrTko0WXZFTldHR01jaHVfSWRsSk8xcUJ4Qmt5ZkhWUUJJTERSRmdCb0FEMEl4RDFhR3FjWlQ1Vi1kTGllQzhNYUFIcDFiM18zNkkyeHcwT0w5Qmh2dkNkQQ?oc=5",
+      "published_at": "2026-10-25T11:30:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "b8a3727afe2f79a0",
+      "title": "ソフトバンクG、マレーシアにAI投資7.8兆円 アンワル首相と協議",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 5,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SSU5uRzhqbUpqWkVFMzZUSDBnak9MS2tJeTVNS0tlMFI4QWxRY1h2R3U3X2RubG1UWTBFblFibTk3NVlNcTdzNzdTQWJySi1VV0dqVjRNNFAyQzdRLXZTLVp0cTNVVzJXZVJWVg?oc=5",
+      "published_at": "2026-10-25T11:18:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "98b861b1964e2ea9",
+      "title": "Anthropic Public Benefit Fund: 5% Pledge, Fine Print [2026]",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "shattered.io",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeWF4cV9ZS0wzU0ttOGlGUTBQaHM1dUwwVkl6ZGJNZXpqYzFJeV83cUVtbTE5aUg4RHJMcWQxYm5uZG01YzZOeWpjMlVmYXU0M3pZSjctU2RGV3VXRENBYlE0YkNJZEFNWkV6b3VVQjdpS2VYaXlPYzA4MFhUXzNidWRPMlgyZ1lodUlYVndRMDBURnNPdFRWcjd3?oc=5",
+      "published_at": "2026-10-25T11:15:21.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "7f1e2a64a009959e",
+      "title": "DeepSeek and MiniMax clear China AI export controls for overseas use",
+      "company": "DeepSeek",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Next Web",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZG9RWEx0RjF1YWhreWp3UnhFeWNLcGR0SHplMDJhVDdLN2dNYlJibWZpeUhLbi1NR0ppVnFOQUtKNkpvdGh0ZVprWGphaEt3WERDVkdVeWI3V0RkMEtXWVNFOWxNaTVLQVZkd04wWW40SXhVbm1DOGJIcUl1a0tmUWZ2TjI?oc=5",
+      "published_at": "2026-10-25T11:13:22.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "d3061aa4a5d55194",
       "title": "One of Google DeepMind's top execs says lifelong learners will have an edge in the AI workplace",
@@ -119,6 +275,32 @@
       "source": "Business Insider",
       "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON2tEcWk4TXRUN3NDNGl3TFZRd1RldklrN2hwUko3ckQtSFRyUEFKcDJkN1dycm4waVNBU0xnTU9MRTFsaGpTdXlJeXRmRGdReWlWVGYxMHRULUFaN3pKMFA3WWt3STRoazNUUGZyMEZFSFpLZjhhT2dNN0VRSzQ0Y21zcDVaajNzc3R4bE5mcldXQQ?oc=5",
       "published_at": "2026-10-25T11:10:56.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "349dae835d15dd0e",
+      "title": "Anthropic 5%, Musk $10B: AI Philanthropy Fine Print [2026]",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "https://tech-insider.org/",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQlFXUXJmTlk1b3p1ZVgybmF6cl9jbDRWUXZOejVGbVBEUzdxNjZjYzNXYU5tZXBmS05kb1l3WTMzRHA0a21ITzRDY0NyaGI1Z2pDdTVZcmwwMFZEWGhnU210X3YtNnV4SHNJS2VMczRzR2NYZlBTTjhENmpqX0E5Z2FrMU8tSm9HaE5EU2Jqd04zX1ZRbnU5UW0yNTg?oc=5",
+      "published_at": "2026-10-25T11:07:41.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "6286988ab0ae727b",
+      "title": "OpenAI Paused Frontier AI Training After a Security Incident",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Security Affairs",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa3hFeno4WVNLOExKWXQ4bjB3dlFBMjhLOXRzRU4xQmN2X2RLc0JaNzQ0YXY4TzZLU2trNVdtUGZvLW40aVZaazhPSWVDQWpKQWZ3MVBiTlNNQjdqY3hYaXc3MVJUM3M2MV9tM0Q4VFFrdDJQa1F4bGVBZlhXa21BYk5YUnpwNmhaUWhiM01NWUxyNmI4dko4dmhnbHdjb25wZFBoNXRB0gGrAUFVX3lxTE8xelFDQ25LN3JFYnZldE45SjlaZTRTWUdUb0w0YU53YW03Rno3QkdGSHMyc1A0YTJmeGlSR1pPUWxFbzIwUEZhenhxbWRsRjhhOC1ZQ0dTbTh6a0laeThRSXRPV3Y5U0h3dS1uSkxldnV0bnhUOTlyb3JmaWZSOFVTZkk1SDllNkFvVkQ2UHI3OElzNmJaZVZyc1JYUnl4OEZpdDdhYTgzY1pmUQ?oc=5",
+      "published_at": "2026-10-25T10:15:36.000Z",
       "analysis": "rule"
     },
     {
@@ -161,6 +343,32 @@
       "analysis": "rule"
     },
     {
+      "id": "e04ff4b38614d6f5",
+      "title": "What you Need to Know AboutClaude's Maker, Anthropic IPO",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TradingKey",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa28tTl93WVB4VlNSanNWbTJpaFFyVzFqV1poNkFtRkc2cG93ZDVmaTZkdDhNSTcxdzNTZml3NW9NLXNuc3ViZlZPTkZTc0tGZmFCRGkwOXpYb0g0aG1zVzRuRVJFYTFDWmROQm5LSmlfd0Zrd19kblFBczMySkJ3RFNNekRicWlDcXNZc1NvcVZvOFZ1Tk93clhBYVF4dw?oc=5",
+      "published_at": "2026-10-25T09:34:37.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "3574b8c3b75956b3",
+      "title": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
+      "company": "Anthropic",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Decoder",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNjI2ck9BdmpPVFZVby1WajQyQ0d5ZW5mTlBpRWcxRUJ3NjZTdFNHU2lOSVNPRU5iSGdrc05WdGpBTmtheDNHVlQ3R2MyVFY2ZnFrQXpGX0RZYWk1dDRDU2ZGUEFvSEduS1c0M3ppM01Ob3p2eTZrbWNQdkxSRVFtY1JUVjd0YWNhcWFTaFJCUV9XUGxyMHEtVURIWThrenlyY1VMR3hNY3Z0WTdBcWhzM2hHTDFzbHIy?oc=5",
+      "published_at": "2026-10-25T09:18:25.000Z",
+      "analysis": "rule"
+    },
+    {
       "id": "305f59a145fd0b56",
       "title": "OpenAI used AI agents to hack its own defenses before resuming model training",
       "company": "OpenAI",
@@ -171,6 +379,19 @@
       "source": "CTech",
       "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmeHNlQ2lqRGNTeDI2V3FjcTR2czdKOGdaajhGRzZ1MnhRRGhrMUVEYnRmTkdFZHJUS3lJUHl4NzlGcFN3LTFyZTh6TDVpcmZPWDlpbV9Sc284cW8zczVlSDhmTWpiX0E?oc=5",
       "published_at": "2026-10-25T09:14:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "4699f2a7e77361b4",
+      "title": "Put Your A.I. Agents to Work With These 5 Killer Tasks",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The New York Times",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaEJEeDdVWlV4QVNFelhJZjU0Q244SzdNbUZsQjNGaTc1dTNxLWNwZHVkS2dXdG8yazhvTFk4MGNNM255OXZrejA5MHpIWmVqMUxiRE5wS0JveWUzdjVOc1VjZGEtU3FFRlNGOHNadGJPaUJHVFUyUGZiamxubS1LZUZvMFZBQXlfclp6dGFoT3VDS2otVTc2YU5sMFVMd3FWOXc?oc=5",
+      "published_at": "2026-10-25T09:01:00.000Z",
       "analysis": "rule"
     },
     {
