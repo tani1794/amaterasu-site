@@ -1,8 +1,476 @@
 {
-  "updated_at": "2026-10-25T00:57:30.257Z",
+  "updated_at": "2026-10-25T05:55:56.413Z",
   "window_days": 7,
-  "count": 1859,
+  "count": 1917,
   "items": [
+    {
+      "id": "1a8896615315ed92",
+      "title": "Nigeria’s missing: Families in the northeast still wait for answers",
+      "description": "People across northeastern Nigeria continue searching for loved ones who went missing during years of violence.",
+      "url": "https://www.aljazeera.com/news/2026/10/25/nigerias-missing-families-in-the-northeast-still-wait-for-answers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T05:33:41.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "f1c6920c44bbc60b",
+      "title": "Election posters, mass tourism and property: Israel’s footprint in Cyprus",
+      "description": "Cypriots say Israeli money is moving fast and shutting them out as their government embraces Israel as a key ally.",
+      "url": "https://www.aljazeera.com/features/2026/10/25/election-posters-mass-tourism-and-property-israels-footprint-in-cyprus?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T05:33:10.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "52949a34b3db8d27",
+      "title": "Challenge! CROSSWORD -NIKKEI The STYLE-",
+      "description": "Challenge! CROSSWORD -NIKKEI The STYLE- 日経ビジュアルデータ",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84akxKTXFJdjNieXV0V2V5b3EyOTdyV2RqV0VnZ0NKa2taeXRzZ2F5bGkyME80TmhWX0xZbS1NbEZSNE5LZUlobnFqb1hBYVYwZmJKTm4wbno5MVljYW5GS1FLbXZkUFRGOWs1NkR1enBkVjcycTVIVQ?oc=5",
+      "source": "日経ビジュアルデータ",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-25T05:31:31.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "170a772b9fa539df",
+      "title": "‘Unusually large’ multi-state storm causing severe weather for Australia’s east – with more on the way",
+      "description": "BoM predicts hail, damaging winds, flash flooding and power outages across southern Queensland, western NSW, the ACT and eastern Victoria on Sunday afternoon Get our breaking news email , free app or…",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/25/unusual-multi-state-storm-causing-flood-warningd-and-severe-weather-for-australias-east",
+      "source": "The Guardian World",
+      "feed_id": "guardian-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T05:30:30.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "70324e134796fb27",
+      "title": "「メッキが剝がれてきている」 高市政権1年、消費税減税で慣例破り・党内不満が拡大（西日本新聞me）",
+      "description": "「メッキが剝がれてきている」 高市政権1年、消費税減税で慣例破り・党内不満が拡大（西日本新聞me） Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tZnNTVHY5VmdsUUoxeVV0MHZndHpzS1pncFNsZjEteEFYbUhHYi1sRXFWVEpXUEVObVFCUWxlNlJhM1V3dkRCMWxYWEJ4blFtbVZuZDkwMEtYczhmWmM3bGYwRTgtX3lzZnp1Q3NOdS16clpzRzBiNEJsVlBrWkE?oc=5",
+      "source": "Yahoo!ニュース",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T05:28:23.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "564b78d924ca964a",
+      "title": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
+      "description": "Netanyahu and his rivals are tied days from the vote, and both camps are fighting with bots, deepfakes and data.",
+      "url": "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T05:27:54.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "241fa4d9192b32c8",
+      "title": "衆院比例31減法案、自民幹部“今国会で成立させたい”（2026年10月24日掲載）｜日テレNEWS NNN",
+      "description": "衆院比例31減法案、自民幹部“今国会で成立させたい”（2026年10月24日掲載）｜日テレNEWS NNN 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kLW41Y3NRVmdOME9TRTRmbGlXa3NkQmRVdHFKcHhTcnBFcjEwcGlZRnp1N2lhandCeWZFU0JCRnhqSGs2cV83Qkp1TFN5anNGaFdmYTJBX2NkYU9VVGpHWmhJTlVXa0lFZnVKc0RncldQMmZERWgtYTI1ei1Mdw?oc=5",
+      "source": "日テレNEWS NNN",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T05:26:00.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "5150e3908215a70c",
+      "title": "Anthropic Held Back Mythos: 10,000+ Flaws Found [2026]",
+      "description": "Anthropic Held Back Mythos: 10,000+ Flaws Found [2026] https://tech-insider.org/",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HNXE0MTR6OGRhbnE3US1oX0owWU9BQ1BsaEhZZjhzdHZNSW0zZDNTVGRsZXNWVlVsZmY4Yms4a1VhQjRad2VWRl8zYTJ2NzdrNXhvN1ZIMlVmZkxxd3hZWERLbW1Sa09pUnUtTWtFRklDTW9XUHQzZVVPNlA?oc=5",
+      "source": "https://tech-insider.org/",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-25T05:04:26.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "4a6a078847589dc9",
+      "title": "Serbia votes in election pitting longtime leader against student movement",
+      "description": "Polls show populist leader Aleksandar Vucic in a tight race against the anticorruption and anti-authoritarian movement.",
+      "url": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T04:43:06.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "2e6f81b88d77bc36",
+      "title": "Obama joins El-Sayed in Michigan rally cry before key midterms",
+      "description": "Former US President Barack Obama joined Michigan Senate candidate Abdul El-Sayed at a Detroit rally ahead of midterms.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/obama-joins-el-sayed-in-michigan-rally-cry-before-key-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T04:06:28.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "e3a2b16e36846475",
+      "title": "高市首相は「名誉男性」ナミビア4位のジェンダー指数を有り難がるメディアとフェミニスト メディアウオッチ 皆川豪志",
+      "description": "高市首相は「名誉男性」ナミビア4位のジェンダー指数を有り難がるメディアとフェミニスト メディアウオッチ 皆川豪志 産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIamk3bmEwekdZaXdyVkZ6SlJFSEZyVmpTclF4LWplSW5ScmxtTmJHZERhRk5LWnhlUDQ0aWU0d0EzQ0VNV180bnhuOWlMVzBnSWVDMnZxbl84U2lSNlFsVXBwMFVnSklYU0ZWSU5Yc1dqWG9XbHc?oc=5",
+      "source": "産経ニュース",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T04:00:00.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "7e551548c43ae26b",
+      "title": "New York Archdiocese agrees to pay $800m to 1,300 sexual abuse survivors",
+      "description": "The settlement is the second-largest after an $880m ​deal reached by the Archdiocese of Los ​Angeles in 2024.",
+      "url": "https://www.aljazeera.com/news/2026/10/25/new-york-archdiocese-agrees-to-pay-800m-to-1300-sexual-abuse-survivors?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T03:57:13.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "771bd5e18c13cbd0",
+      "title": "AFP boss says politicians’ heated rhetoric is fuelling threats against MPs",
+      "description": "Commissioner Krissy Barrett says women are more often singled out, often with threats of sexual violence Get our breaking news email , free app or daily news podcast Australia’s top federal law enfor…",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/25/afp-commissioner-krissy-barrett-threats-mps-political-debate-ntwnfb",
+      "source": "The Guardian World",
+      "feed_id": "guardian-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T03:54:43.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "c1428068d52feae6",
+      "title": "Thousands rally in Turkiye over journalist arrests, media shutdowns",
+      "description": "Thousands have protested across Turkiye against the arrests of journalists and restrictions on independent media.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-turkiye-media-crackdown-sv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T03:47:56.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "935aa1adb0772b9a",
+      "title": "El Clasico awaits a Yamal vs Mbappe showdown on Mourinho’s return to La Liga",
+      "description": "Barcelona vs Real Madrid will mark the return of Spanish football's fiercest rivalry between two star-studded teams.",
+      "url": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T03:40:52.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "177ee20d981065d6",
+      "title": "Budget to include £1bn for social and affordable housing",
+      "description": "The move will take funding for the 10-year programme to more than £40bn.",
+      "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o",
+      "source": "BBC Business",
+      "feed_id": "bbc-business",
+      "lang": "en",
+      "hint": "経済",
+      "published_at": "2026-10-25T02:57:30.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "51ebdb193e6a4ea2",
+      "title": "私が顧問を務める自民党「海洋開発特別委員会」を開催しました。",
+      "description": "私が顧問を務める自民党「海洋開発特別委員会」を開催しました。 選挙ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVV3NQNkxGUFYwVHNaWDBTYThoa1FhY2dZR2xxWkZ0MGc4UlJONG9GdVBmVDhudUhzMlBPNjR6aUI4dEFNZ2tXVHd3NVluaVJUdFJZcjNCTjZMVlhqZzVr?oc=5",
+      "source": "選挙ドットコム",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T02:56:47.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "8ff3510ef1d1e96b",
+      "title": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
+      "description": "The two leading candidates condemn recent deadly Black Sea drone strikes, but differ on the Ukraine war more broadly.",
+      "url": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T02:45:43.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "f2f9af681b645ec1",
+      "title": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
+      "description": "Obama unloads on Trump while stumping for Democrats ahead of midterms Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUdEaVdfMFowR19ySTVVTVhyUkxlV2d0VDB5VFlxLS10TzJzRTV4ajZDV1F6UjVTUW5RYVVCTEhSVy0wdGdfRGdYWVpqMWxiTkd2NVhtV0lZRkpYTWhSMUY3aE5KTUcxN1VxNEJ2djlPbjFxY1ZhYVZpYmxRVUlya2tvUGdWLUhsMGlDakYwX3YzTnJNUlBrMlNZbng5WVhvRnZnMm05Sm45N3VuVUNqLU9n?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T02:40:00.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "a866924aebb0e522",
+      "title": "野党、支援金詳細巡り追及 消費減税審議、高市首相の出席要求",
+      "description": "野党、支援金詳細巡り追及 消費減税審議、高市首相の出席要求 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tY0NmaWd3blNZdFpJY0V2N3FXcjRLQVIyMWpFSExWa2Q3VTJ0Rmd0UmtmeGdNRjRLbzRpRzhxMU16NDljSXVNbm5lRkxqcGlabDl4U1NWODB5SDhFZVFyVExDWQ?oc=5",
+      "source": "時事ドットコム",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T02:35:00.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "a242b941d2704ca9",
+      "title": "自民党の村井英樹国対委員長 - 衆院31減、今国会成立意向 自民幹部「中小党に配慮」 - 写真・画像(1/1)",
+      "description": "自民党の村井英樹国対委員長 - 衆院31減、今国会成立意向 自民幹部「中小党に配慮」 - 写真・画像(1/1) 西日本新聞me",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ycGF1MUlJLTFRT01QUTRKMVhDcHlfcHZDM2F3UVVHMDNWaWRaZkloRS1BSzJXdmdHQy1hMWZya1VDZUVrTHNrb3lrbjYwNnZTWnVITEZMYw?oc=5",
+      "source": "西日本新聞me",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T02:34:46.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "975df205a398fca9",
+      "title": "Anthropic Sued for Using Elvis Presley Music to Train AI Models",
+      "description": "Anthropic Sued for Using Elvis Presley Music to Train AI Models The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX2w5MWpVOHBzaUxLMllrM0c1SDcxREV3WGt1VGdMNjM2STE3VHBlSEZwSnBDc1lKWnJ5c0pPNWJHMHlZcV9rVXRRVjNGYkxOcUpNZmRQVmVHTEZJZ1NYcUJhVzBCeW1hQ09mZTIzZm5JVDZ0emRMN3hSUXdhUnhodkF5NWJYTVBZNzNVejk4RjJQWTd0b0lROXNjWHpYM0NKc0hSb1ZtVmM0QQ?oc=5",
+      "source": "The Hollywood Reporter",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-25T02:22:54.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "ba8f0e3a06b5309a",
+      "title": "Trump announces at a Georgia campaign rally that Audi will build a new auto factory in the state",
+      "description": "Trump announces at a Georgia campaign rally that Audi will build a new auto factory in the state AP News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRTFJejhGVHpHM3RQVWQ4UzVmaWJfSUVsUkJJaENrN1h0bjA0aHhvaDVvREd0QllZQnU1Q3J4RnBKNmg3aVRWRWxBeDNuMmdQRVpKamNEWmQ4bnlxYzJGVTRMdGpjaU5kNGZ1Skt5VE5WNi1Sa1d5UENGVUo1dko1YVM4OGFMcENiTHVBU2RTV0psdks0ZkVzU0N4Nm5IM3BhY2R4ZEN3?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T02:22:00.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "c4f2f46bd0a980f3",
+      "title": "米政権のICC制裁 「法の支配」へ首相は行動を",
+      "description": "米政権のICC制裁 「法の支配」へ首相は行動を 北海道新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44NEV3T1AzSFY1WGR2SmxqeEZJX21Sc2NOQkhkTlBSWnM5TkVUZkhxSWU2bjg4X2FZSmpJR2VSaGdtQTJFV2ZLNjJZSHNrYV9vTF9qWVMybzhqQQ?oc=5",
+      "source": "北海道新聞デジタル",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T02:21:56.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "4eb38fd6f1bde117",
+      "title": "フィンランド前首相サンナ・マリン「ジェンダー平等の鍵はワーク・ライフ・バランスにあり」（クーリエ・ジャポン）",
+      "description": "フィンランド前首相サンナ・マリン「ジェンダー平等の鍵はワーク・ライフ・バランスにあり」（クーリエ・ジャポン） Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZRmcxTGhEU2xpd3Z6LWtlVUFia3dGdENoanpnMk9HNGx1ZVNDUk5vVi1iZTZHRDV5Y0themlRUjNiOExOeTNPYlVDc3RwODl5VkhzYkR1OUxXSi1YbFFydnRDNldaa2JwMGltLTU3TWRicS0yTjhPRWo1SXRLLXc?oc=5",
+      "source": "Yahoo!ニュース",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T02:13:00.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "c2f1350c5dd5ae13",
+      "title": "Mass rally against Netanyahu ahead of pivotal Israeli election",
+      "description": "Thousands of Israelis rallied against PM Benjamin Netanyahu ahead of elections on Tuesday.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T02:07:29.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "ad19948ea2995875",
+      "title": "Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says",
+      "description": "Kim Aris tells the Guardian chance to speak with detained Nobel laureate was ‘public relations’ move from military leaders Myanmar’s former democratic leader Aung San Suu Kyi appears to be in good ph…",
+      "url": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move",
+      "source": "The Guardian World",
+      "feed_id": "guardian-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T02:00:49.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "697bde9ca3a7b623",
+      "title": "フランス暴動、極右ルペン氏「追い風」 27年大統領選で治安争点に浮上",
+      "description": "フランス暴動、極右ルペン氏「追い風」 27年大統領選で治安争点に浮上 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yZ3JPc2tENFdQRUVQQWZlY0ZEQXBjMWYxZThpdGZkUmJkX2M5ekpDcThEbS0wWWFWZ3BNTHY2Y0FYb2wwWTE3TW1ELWxMLU5YSnJJVnlpci11UmFFbzNlSEtKM0NVb0JqVlJpSw?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-25T02:00:00.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "c5fafa75d8325abd",
+      "title": "円買い戻しの賞味期限は 脱・円安時代への長き道のり",
+      "description": "円買い戻しの賞味期限は 脱・円安時代への長き道のり 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RT2hPYWROQkJoMnFGckx0MHU5dFhSNlFNLU52R2x3clJVdkwwb3dQRU5BOW9kWHd2azB3aGJzTWg3TVdTOVhySFR1ZmVmNHFCUzVkVndzUndBb2swMjV2RGJ3OTVHQ3lxNHNfZA?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-25T02:00:00.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "1228ca0719d837c0",
+      "title": "英バーナム首相、EUとの移動自由化検討 復活に「議論必要」",
+      "description": "英バーナム首相、EUとの移動自由化検討 復活に「議論必要」 産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCOGNURzhUN3M0Q3hrSXE2YzRUMzRkRy1RUjlSWEUyRmJnOXczVGtueHhiSW5CSUpRcnMwT21aSnp4S3JfeC1DU0dmbGlqc3hBMkdha19hSG5mU2FXWTkzbFo0SEdVazlRTWhhTTdqTmlXaHhtcWc?oc=5",
+      "source": "産経ニュース",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T01:47:31.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "94500ea28c2e64ae",
+      "title": "衆院３１減、今国会成立意向 自民幹部「中小党に配慮」 | 全国のニュース",
+      "description": "衆院３１減、今国会成立意向 自民幹部「中小党に配慮」 | 全国のニュース 福井新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Jam8zN18ySVo5Rnd1dHQ1ajZjUzBqNkpHUXJHQ1dxS1RXODljZ1pSTTdHaEtSellUU09YUUNYOHg5ZlhGTkxRYWZkdm5kaEx5OUg1Y085RlphNzdrenc?oc=5",
+      "source": "福井新聞社",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T01:37:34.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "4f4889f5386f3e78",
+      "title": "衆院３１減、今国会成立意向",
+      "description": "衆院３１減、今国会成立意向 福島民報デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNQXhnRGNjWkRsdi1TR3ZMbUhUSXl1clRjMDQwc3R3blNJNGdhU0NUd29EY2hZTldKZllNTzdrbklZbDA2cVZMZkN3MzZoQk0?oc=5",
+      "source": "福島民報デジタル",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T01:37:34.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "3a6fc10c74608228",
+      "title": "衆院31減、今国会成立意向 自民幹部「中小党に配慮」",
+      "description": "衆院31減、今国会成立意向 自民幹部「中小党に配慮」 西日本新聞me",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vcXNodjhGNlpKZnhYUHl2elp5T0xLa0xlZ0YwWmFyVWMtRTZrQUZBb1I3Zi1fTjFYQW0wcWdqZW9jMFNycHhjOU5Xa1FzT0dMSDhXV193?oc=5",
+      "source": "西日本新聞me",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T01:37:34.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "97dec554afdd55b3",
+      "title": "英首相、EUとの移動自由化検討 復活に「議論必要」と英紙に",
+      "description": "英首相、EUとの移動自由化検討 復活に「議論必要」と英紙に 北海道新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tdkxhWHNGS1JkU0g2VkhQdzBNMDhKOU11ejEwbUVhVElSWDhUS2RrWi16SF81NE1OeFY0V1lIM3EwQTlYdE1OWl9fWUxwM3VDeE9YSmJZcVg3UQ?oc=5",
+      "source": "北海道新聞デジタル",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T01:36:43.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "36c01c26bce6eb43",
+      "title": "英首相、EUとの移動自由化検討 復活に「議論必要」と英紙に（共同通信）",
+      "description": "英首相、EUとの移動自由化検討 復活に「議論必要」と英紙に（共同通信） Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ROEsyeWhSX2FYR0dfcTR1ekhrc19PZkFpOS1wWTVIS0hsazVUTnZBTFdUZDBRcEEzY0VWTloxTzBPazJvTHhvZXRvMlpTbFhVS0t0NHl2R0xLRUN1RWV0RDZkVjAxR1ViamtINGFIbnZWTVFGTmZfSGhRWnpGTEk?oc=5",
+      "source": "Yahoo!ニュース",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T01:30:46.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "47aaae668d785ff7",
+      "title": "自民党政調会長の続投は決まったが 首相の警戒感残る小林鷹之氏〈政界探見〉",
+      "description": "自民党政調会長の続投は決まったが 首相の警戒感残る小林鷹之氏〈政界探見〉 信濃毎日新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjY1RCWHlwbUdYVzJzWUtNWFdjZnExeVdDYVc4ZUdyTkNLd2NXSFJuVWNZWUdVQkZ6VzRJVFFHUUtCMGtET2hvM3NnZUVhVklLNm10MERkNGZ0XzA4b1lERmc1c05fbndDMDFTYkZQSFo?oc=5",
+      "source": "信濃毎日新聞デジタル",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T01:30:00.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "b079a5f1df0f2850",
+      "title": "衆院31減の今国会法案成立目指すと村井氏",
+      "description": "衆院31減の今国会法案成立目指すと村井氏 nippon.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LSmlSM0hDeDE5MXJLaHB5TGxjcGhOdUZOQlhneW5OMEpoNl91dkgzWGdKZk5pb3NPV2lNb3dhZjZxcFJodGd5d3ZZLWhOR3F4Um9uZzBlR1N4MTJwNkZEbUNGVQ?oc=5",
+      "source": "nippon.com",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T01:20:56.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "abca07b79f5c618b",
+      "title": "衆院３１減の今国会法案成立目指すと村井氏",
+      "description": "衆院３１減の今国会法案成立目指すと村井氏 沖縄タイムス社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2ajNROTlnWHNVc3JSazcwT2Y4UC1CcU9qZXlzYVB1LTNjRTRCRUVnaGxRYU9XdmdtS2xaWWZ2aG9VY0tLanBWeWJQYjZERmc4bmJxNGh3ZkVUSUtyamc?oc=5",
+      "source": "沖縄タイムス社",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T01:20:04.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "81918d23b3926e5a",
+      "title": "【速報】衆院31減の今国会法案成立目指すと村井氏",
+      "description": "【速報】衆院31減の今国会法案成立目指すと村井氏 47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HLThuWnI1OURObTJ2TXhINU1KenlMQkVUSkNGOHpQMlZKVjlrYWYwcFppOWdMeTcwR1R0bVc3UmJEdC1ONy1GNEhBRQ?oc=5",
+      "source": "47NEWS",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T01:20:04.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
     {
       "id": "32ee042ed7499943",
       "title": "Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats",
@@ -40,6 +508,30 @@
       "first_seen_at": "2026-10-25T00:57:30.257Z"
     },
     {
+      "id": "6e841a5b9d76156c",
+      "title": "California election officials frustrated, rattled by DOJ demand to sequester 'noncitizen' ballots",
+      "description": "California election officials frustrated, rattled by DOJ demand to sequester 'noncitizen' ballots AP News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSFNBR3JwV0ZOVklQN25XVXZONENydmpNUDF3WHQtaUREcUUtUUtRZXJmeU5URXZ6MTZmWndTanRKWmltdzFoY2tNQXhKbWIzZEZQdnhvSU12ZmhGVkdhQy1kV2tRYl9LRTRBTDZZWVBpeGhKNmNJYlhWYmlzMV9qa1hTM191dGthREpGQlJDMGp4VHRGTDBubUVUYTN5aUdoQkkwRUp1OWRkSzc2eGtZVVd6ODA3VnM?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T00:22:00.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "e840bd294df45132",
+      "title": "3 Ways the Claude Mythos Delay Hurts Anthropic [2026]",
+      "description": "3 Ways the Claude Mythos Delay Hurts Anthropic [2026] shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KY0dNTVlGNWRFMHhEZXlUc2ZLMjZ4cWdYb2N1RGlvUk4xOFZnMm5VVmQ3cVJ6ekJfbHVhUlJwczV2RmdCQ0RKLXJWTTFSWDVqQlJLUU5TZWUzV3FxcGkwcWVONE52SGduYVptWkZXdWNzLXU2bXZzUzlOMA?oc=5",
+      "source": "shattered.io",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-25T00:20:17.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
       "id": "dcab8310004285d5",
       "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
       "description": "Trump says US is considering a possible attack on Iran as soon as Sunday, or it could reach a major deal with Tehran.",
@@ -52,6 +544,30 @@
       "first_seen_at": "2026-10-25T00:57:30.257Z"
     },
     {
+      "id": "d39433b09cfd8c04",
+      "title": "Yemen's Houthis renew warning against using Riyadh airport",
+      "description": "Yemen's Houthis renew warning against using Riyadh airport Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT0JBTVByRUdVWnYzNWpyRUlfbGRFR2RnQzZpbTgzR05tX1AzU2VkVC10RUswYWthSGtJa2FZamVSa2E2ckdSeG5FN3VGTFU5SVJfbjY4NEZjR2tQSWJfZmxtbTJvUU5YSEpKWHRQQWpHMGRfR29xeFhkR1BwcHA5NlA3MnJmRnloYzF6Q0tBZG92ZDgzWmRubVNpNi1CajBmdXdNZmNTYnkzLWFnMldvaQ?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T23:57:43.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "6fe15ab5a6144eee",
+      "title": "独フォルクスワーゲンが米ジョージア州に工場新設、トランプ氏表明へ 米報道",
+      "description": "独フォルクスワーゲンが米ジョージア州に工場新設、トランプ氏表明へ 米報道 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fWHpTVVJ5clFOdzVpUjJ2QkF2czFiTldNaHI2SFE3M0dfN2RseXBwOEFOWjNNbnBKV2x3ZG16dlJEWDY3Yy1oUXQ4UDdVd3U0QnU1U0lHczM0eVUyakFHMk9JTHBlcVVUZ1BoSQ?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-24T23:55:14.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
       "id": "8d4d2247c05ba7ca",
       "title": "Trump set to announce Audi plan to build US factory in Georgia, source says",
       "description": "Trump set to announce Audi plan to build US factory in Georgia, source says Reuters",
@@ -62,6 +578,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-24T23:44:46.000Z",
       "first_seen_at": "2026-10-25T00:57:30.257Z"
+    },
+    {
+      "id": "5fc612881b7e56d7",
+      "title": "下地幹郎氏を「首相助言役」に？ 内閣官房参与へ登用案 自民党本部内で浮上",
+      "description": "下地幹郎氏を「首相助言役」に？ 内閣官房参与へ登用案 自民党本部内で浮上 沖縄タイムス社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxeFBUMk1CWkdhWlp4TjVWUTl5UXh3ZFRPVTdMRjRERHJsZ1FhelV2SlFmeURZamFNTmhMTk5KZW1saTRzdWZ4RG1PNWhRbjlHQ2xoUXBSMi1DRzRSYUE?oc=5",
+      "source": "沖縄タイムス社",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-24T23:30:00.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
     },
     {
       "id": "5d7cfb46ae2faf82",
@@ -400,6 +928,18 @@
       "first_seen_at": "2026-10-24T22:22:21.268Z"
     },
     {
+      "id": "9861e39db9b5a202",
+      "title": "Musk says he was behind Starlink speed restriction after service in Ukraine is restored",
+      "description": "Musk says he was behind Starlink speed restriction after service in Ukraine is restored AP News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOGd5SnEtSm9xemFDa0s3MnhQUjFKOHZmcUxxcHVJU01FWk5aWWEzQWJKaG1DUGlqMFVIWVJrWXA0NUx6NTVQblRkb2lUNXJSWWdrd3A5VlNuc1BqbWM1TEdCZ0pJaHUwdWFpa1g3MVFkODMzWEZuS21WaGpqSldLTEZqT2xReDFQY1I3NEV6ZEZWTl9Pb2gzbG13?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-24T20:16:00.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
       "id": "4ec77be00c15c403",
       "title": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
       "description": "Gunners capitalise on City's first loss of the season, while Spurs get second league win at Stamford Bridge in 36 years.",
@@ -484,6 +1024,66 @@
       "first_seen_at": "2026-10-25T00:57:30.257Z"
     },
     {
+      "id": "7efef0b83a3d10b6",
+      "title": "竹中工務店、「特定技能」外国人をリーダーに 技能・指導力を表彰",
+      "description": "竹中工務店、「特定技能」外国人をリーダーに 技能・指導力を表彰 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWTlppQkM0N0NSakt2VFRRWkhhWU1pc3V6aDFJTkJyb2ZNM1U1dHpuRjF4a0xRa0hhd2VuWTA2WURQdk9JdVZSNHh5NWh0WDJuWkNvWDVFYWs5LTRUanFLcklyRTctZW9aeXlOTQ?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-24T20:00:00.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "dd4e76a5b7f0ba66",
+      "title": "元GENDA･申真衣氏、次は住まい 価格高騰下で狙う｢住宅版ユニクロ｣",
+      "description": "元GENDA･申真衣氏、次は住まい 価格高騰下で狙う｢住宅版ユニクロ｣ 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zZUxEUTBnMHVoQ2JGX0ItM21kRUdUeFlGZlVkanlaeWhDdkdsak9Xc3ZDdEFvWFU3TVRVaDE5eEpLamFCZEl5ZkhveVVUV0hBSnc4dHF2N2gtTV9YUzBQSURoQzR3NmhyYVVSXw?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-24T20:00:00.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "8a8fe1b77f1fa599",
+      "title": "怒れる若者、米中間選挙に嵐呼ぶ 「AI・腐敗・戦争」SNSで増幅",
+      "description": "怒れる若者、米中間選挙に嵐呼ぶ 「AI・腐敗・戦争」SNSで増幅 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vNkZnT1RBMm1GZl9LcGZSQjJwSk94RWVqZThScGtVc2cwVGpwZmlXdGFDWnUzQnZmWG1RcWFHVUlXZkJKQk50aVBKTFJQUU00c21RZkkwQ1ItWmZVTkZZNkhYRjU5WlViRWI2Rg?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-24T20:00:00.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "1801664f2f6d100c",
+      "title": "東京･日本橋、400年に1度の変貌 1.3兆円再開発で丸の内や渋谷に対抗",
+      "description": "東京･日本橋、400年に1度の変貌 1.3兆円再開発で丸の内や渋谷に対抗 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85NWxBMXh4RUM1T0dxdjNNRmowbG1WSTloMm9raS1QYzlhbXBfcDNGZTJlMjhRMEppTkxvTTQ2MllnODV3a1IwWTM0eVpVV01RQVB2dGZ3QzJ3UjFMQ3dxc3J1ZGdVcVhaWExJMw?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-24T20:00:00.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "66ab075f3133d372",
+      "title": "超少子化でも足りぬ保育士 減る志願者、共働きで預けニーズ底堅く",
+      "description": "超少子化でも足りぬ保育士 減る志願者、共働きで預けニーズ底堅く 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaVWQ5blBTNHBqVmlwTmNjNFJfQWtTdkdKbHFPUTU2MXZHcXc4czAzVXEwSnJjdjVlUjJmdkZtVWVQeFZYSk9sXzc3dlVSX0M1TU5rR2JTOVBtdWNCT21RbUdwZVdOUWNfeFNYbw?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-24T20:00:00.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
       "id": "793ea6dadff4b8b2",
       "title": "OpenAI Is Now Keeping Its Frontier Models off the Internet During Training",
       "description": "OpenAI Is Now Keeping Its Frontier Models off the Internet During Training PCMag",
@@ -566,6 +1166,18 @@
       "hint": "AI",
       "published_at": "2026-10-24T19:00:00.000Z",
       "first_seen_at": "2026-10-24T22:22:21.268Z"
+    },
+    {
+      "id": "faebf386a3f04950",
+      "title": "なぜ相場は予想を裏切るのか マーケットが大勢が困る方に動く理由",
+      "description": "なぜ相場は予想を裏切るのか マーケットが大勢が困る方に動く理由 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83bVFaZkNkVl9XSWxZRFBTTDhjNXBhajJlcWRhV2dPT1hmSXg5WlVGUC1Ya3Y0MFZRZjRudlMzTGJXWGNIZ3B2TzhZanRVWUU4R3Q0X0FtbXNCc29xV2FVbkVlMWg5NzJMVXZQTA?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-24T19:00:00.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
     },
     {
       "id": "4c2c39aba893e0b2",
@@ -1972,6 +2584,18 @@
       "first_seen_at": "2026-10-24T12:34:40.867Z"
     },
     {
+      "id": "e70a4c5ffa49cc3d",
+      "title": "‘Most likely to kick some ass’: Before founding Anthropic, Dario Amodei was a standout at Lowell",
+      "description": "‘Most likely to kick some ass’: Before founding Anthropic, Dario Amodei was a standout at Lowell San Francisco Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVU9MLWFpZDVudzJmT3hlT3JlN0V3R25ZNHRISDd5QkdwcWFfSUJSS18yLVk2WkM0ZG8yRjBXX1ZwVUNBNW5IbklBU1RKMm9EVlp6eUlJLXFidHJQc1Voc0dVdEhzVDBBRW0yNmxOb3FfQ3RhVGRlXzc4ek9oUXB4aDZqX2FrMExvUkxSOHVDVDd5c0toMG5oTg?oc=5",
+      "source": "San Francisco Chronicle",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-24T11:00:28.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
       "id": "e5d02a42b27bc68b",
       "title": "Bayern say coach Kompany ‘stable’ in hospital but will be out for weeks",
       "description": "Bayern Munich coach Vincent Kompany collapsed during training on Friday but is said to be 'stable' in hospital.",
@@ -2030,6 +2654,18 @@
       "hint": "日本政治",
       "published_at": "2026-10-24T10:34:17.000Z",
       "first_seen_at": "2026-10-24T12:34:40.867Z"
+    },
+    {
+      "id": "304f34127d462e45",
+      "title": "能動的サイバー防御をGMO要請 適用は政府判断、重大・緊急性考慮",
+      "description": "能動的サイバー防御をGMO要請 適用は政府判断、重大・緊急性考慮 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00WWxaMVlpZE4yTTVqVEVLRXJWdDJ2VG5wSjc1dkpwZldqQlNxNHZ2d1ZwVlBVU3pnczZXTU1lSXBWMmlrUGR2ckVxYjF3Q3g4ZWZ2akpabklSVkJJZ3FIVklIYl9XOXpfazBfdg?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-24T10:30:00.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
     },
     {
       "id": "1d47a6e323ddbb71",
@@ -2390,6 +3026,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-24T09:00:00.000Z",
       "first_seen_at": "2026-10-24T12:34:40.867Z"
+    },
+    {
+      "id": "2666d4aefcae6d6d",
+      "title": "高市戦略17分野を地方に浸透、国家公務員を市町村に副業派遣 立案支援",
+      "description": "高市戦略17分野を地方に浸透、国家公務員を市町村に副業派遣 立案支援 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRbEpDTjUzdHMwUEZVbWRDVUlwbG9TV3V4bDRVME4ya2V4MWlhbVVaT2lTdzhCTXBBdjNsQ192X3JyN1oxUDR5RFBWaUJQNkF1RjlzTVRUZ0hTRUVRVlI4bV9aSjZ2eXMyS0pabw?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-24T09:00:00.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
     },
     {
       "id": "4d9d8233dcfdb17d",
@@ -4348,6 +4996,18 @@
       "first_seen_at": "2026-10-24T01:30:10.325Z"
     },
     {
+      "id": "66cba38cb9163e37",
+      "title": "Trump, seeking to help Maine Sen. Susan Collins, exempts some Canadian imports from his 50% tariffs",
+      "description": "Trump, seeking to help Maine Sen. Susan Collins, exempts some Canadian imports from his 50% tariffs AP News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZm9wdjFkZUFrVGtlRjlKaDR5LXZrQXo2TjhrSy1QdndlSmRjS2pBZnZ4eW1COVBuNlZYdHNKUUVKSFZaWG9zNHdnQ2txT1lmVWprTG5nc04yUW11S3NzTWJheVQ1NXl4WmNaNm80ZHd5LW9uRkctUGYtckFlV0ZuTlNCalJubEd4cDRCOHN1UmhGQkhGbVppblBn?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-23T21:48:00.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
       "id": "de22ed2593e22105",
       "title": "OpenAI Tightens Rules to Block Rival Model Distillation",
       "description": "OpenAI Tightens Rules to Block Rival Model Distillation BankInfoSecurity",
@@ -5116,6 +5776,18 @@
       "first_seen_at": "2026-10-24T12:34:40.867Z"
     },
     {
+      "id": "73f0d7da02a1ac68",
+      "title": "増える大学入試の理系女子枠、「納得感」なお不足",
+      "description": "増える大学入試の理系女子枠、「納得感」なお不足 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VRG5aMlRBLW1FZTRkZXZuZ3Q1a0ZRNXVtVkJhSG1Vc2R1dXpwQjRBS1R2RjVtZFlYRlJNd3ZoYmhoRmptRHlDMDhjYkFQU3ZqcmJPdldMc1FWOVhwczdibmdhSjdQWXZvQ1FCbA?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-23T20:00:00.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
       "id": "e5219638d4ca07cb",
       "title": "Tigray rebels urged to disarm as commander vows to fight Ethiopia’s gov’t",
       "description": "Rebel commander pledged to continue fighting government-allied forces who seized Ethiopia's Tigray capital.",
@@ -5198,6 +5870,18 @@
       "hint": "AI",
       "published_at": "2026-10-23T19:06:23.000Z",
       "first_seen_at": "2026-10-23T22:59:21.036Z"
+    },
+    {
+      "id": "be198c153aa48d5e",
+      "title": "California cities pull the plug on data centers after state regulations don’t scale up fast enough",
+      "description": "California cities pull the plug on data centers after state regulations don’t scale up fast enough AP News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNldDVVhOR0hNNWJ3TzBObE1VM2tlR09ZWkItOUFMakt6LU02V1g4RlBiT3NMVzlvdVQxRG1CNEZ6M3VEMVhHUTNUaTRnTUhrb3FWekVYb0cwVE1tYXFuWTRfdnFCbEczNDhqTFpfOFV4d2xOZWRUM2JfdEZvczlDclpKcDl0UXBPZ2lyWmxNWHU5eERnWVBVQkJjUk8zMDcyUnFKYUNoRWtPSTJPMVZIWHl3akM2dw?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-23T19:06:00.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
     },
     {
       "id": "f828e655e658292f",
@@ -6254,6 +6938,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-23T15:19:00.000Z",
       "first_seen_at": "2026-10-23T19:00:33.207Z"
+    },
+    {
+      "id": "b88216593fa6b5c3",
+      "title": "Immigrants seeking US citizenship targeted in Trump administration's illegal voting crackdown",
+      "description": "Immigrants seeking US citizenship targeted in Trump administration's illegal voting crackdown AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbjRxUFNLT25uVWktdmNaZXcwUTFuQkg4WlRocExvTFZ0dW03M3dlc09OQnNiSFVhdFpQTWJDX0RJSjFMczFfbHFpTUMtWGYtOVc4S29ON0pNT0J6a1pkbXVIYXdsZWJsRE1UNW1DVWhldFVzaDVROTdwdk1aR3pBeVJkT0ZvUGYweE8xbHh6dmgteGxMZlhFdVNLd3k5SE5hbmU4?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-23T15:16:00.000Z",
+      "first_seen_at": "2026-10-25T05:55:56.413Z"
     },
     {
       "id": "4892ae6e79133f2b",

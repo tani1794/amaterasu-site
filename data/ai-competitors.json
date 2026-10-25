@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T00:57:34.584Z",
+  "updated_at": "2026-10-25T05:56:00.995Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -37,11 +37,11 @@
       "その他": 3
     },
     "Anthropic": {
-      "新モデル": 5,
+      "新モデル": 6,
       "資金調達": 19,
       "提携": 2,
-      "規制": 6,
-      "その他": 38
+      "規制": 7,
+      "その他": 40
     },
     "Meta": {
       "新モデル": 2,
@@ -104,10 +104,36 @@
       "資金調達": 8,
       "提携": 2,
       "規制": 11,
-      "その他": 83
+      "その他": 84
     }
   },
   "items": [
+    {
+      "id": "5150e3908215a70c",
+      "title": "Anthropic Held Back Mythos: 10,000+ Flaws Found [2026]",
+      "company": "Anthropic",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "https://tech-insider.org/",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HNXE0MTR6OGRhbnE3US1oX0owWU9BQ1BsaEhZZjhzdHZNSW0zZDNTVGRsZXNWVlVsZmY4Yms4a1VhQjRad2VWRl8zYTJ2NzdrNXhvN1ZIMlVmZkxxd3hZWERLbW1Sa09pUnUtTWtFRklDTW9XUHQzZVVPNlA?oc=5",
+      "published_at": "2026-10-25T05:04:26.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "975df205a398fca9",
+      "title": "Anthropic Sued for Using Elvis Presley Music to Train AI Models",
+      "company": "Anthropic",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Hollywood Reporter",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX2w5MWpVOHBzaUxLMllrM0c1SDcxREV3WGt1VGdMNjM2STE3VHBlSEZwSnBDc1lKWnJ5c0pPNWJHMHlZcV9rVXRRVjNGYkxOcUpNZmRQVmVHTEZJZ1NYcUJhVzBCeW1hQ09mZTIzZm5JVDZ0emRMN3hSUXdhUnhodkF5NWJYTVBZNzNVejk4RjJQWTd0b0lROXNjWHpYM0NKc0hSb1ZtVmM0QQ?oc=5",
+      "published_at": "2026-10-25T02:22:54.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "08c296e111653699",
       "title": "A Timeline of Developments in AI Safety Since the Attack on Hugging Face",
@@ -119,6 +145,19 @@
       "source": "Broadband Breakfast",
       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX0tFWDNzS2t4dVBTZWhyejFMVHNwb05vTEJlQmFkRHl5M1UwSS1SZmVOYWNIMVFYdm51VG5fVEZxaWhZZ3R6MFF6UEc5VTBOem81UkFJRTRlanpmZl9XQzJ1SmM3ZzZqTGs5LXFORmVEQlZwME5wdDZFNzBOT29JRGVQaDdEQ194dW5LdUctQ3E3Y3E3U0tFTXpNbTUtdlFGSmNObEQ3bw?oc=5",
       "published_at": "2026-10-25T00:33:06.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "e840bd294df45132",
+      "title": "3 Ways the Claude Mythos Delay Hurts Anthropic [2026]",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "shattered.io",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KY0dNTVlGNWRFMHhEZXlUc2ZLMjZ4cWdYb2N1RGlvUk4xOFZnMm5VVmQ3cVJ6ekJfbHVhUlJwczV2RmdCQ0RKLXJWTTFSWDVqQlJLUU5TZWUzV3FxcGkwcWVONE52SGduYVptWkZXdWNzLXU2bXZzUzlOMA?oc=5",
+      "published_at": "2026-10-25T00:20:17.000Z",
       "analysis": "rule"
     },
     {
@@ -158,6 +197,19 @@
       "source": "The Profile | Polina Pompliano",
       "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nNVRycmlWXzJTdWtVSVZMbkN2SlVsVEhpUTktdFVuX1g0RmNGNjV4WUhaTjlCMTZmVEg1dWVlSkRWUjJuWGd4bXNvU2dqOXFScG9QMnNrUmJNMmZKNXJtMmp3?oc=5",
       "published_at": "2026-10-24T20:35:29.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "8a8fe1b77f1fa599",
+      "title": "怒れる若者、米中間選挙に嵐呼ぶ 「AI・腐敗・戦争」SNSで増幅",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 5,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vNkZnT1RBMm1GZl9LcGZSQjJwSk94RWVqZThScGtVc2cwVGpwZmlXdGFDWnUzQnZmWG1RcWFHVUlXZkJKQk50aVBKTFJQUU00c21RZkkwQ1ItWmZVTkZZNkhYRjU5WlViRWI2Rg?oc=5",
+      "published_at": "2026-10-24T20:00:00.000Z",
       "analysis": "rule"
     },
     {
@@ -509,6 +561,19 @@
       "source": "The Next Web",
       "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNlNlWWdNdU5Iei03OXdmVFdMb3VfS0Q1ZDZqSHRvY1pNcGppNnNadlhjdFM1Nnpta3djVjliOHltdjZwVkh0RlNhNTdSS0tlMzhJMjFFcDhPeWU1TlFWWmxuRW10SkxLdklLRnVzVll1RTZYMzZIZVR0TElFMks1UnRIcURRd3lNeElFNnlJRQ?oc=5",
       "published_at": "2026-10-24T11:11:08.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "e70a4c5ffa49cc3d",
+      "title": "‘Most likely to kick some ass’: Before founding Anthropic, Dario Amodei was a standout at Lowell",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "San Francisco Chronicle",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVU9MLWFpZDVudzJmT3hlT3JlN0V3R25ZNHRISDd5QkdwcWFfSUJSS18yLVk2WkM0ZG8yRjBXX1ZwVUNBNW5IbklBU1RKMm9EVlp6eUlJLXFidHJQc1Voc0dVdEhzVDBBRW0yNmxOb3FfQ3RhVGRlXzc4ek9oUXB4aDZqX2FrMExvUkxSOHVDVDd5c0toMG5oTg?oc=5",
+      "published_at": "2026-10-24T11:00:28.000Z",
       "analysis": "rule"
     },
     {
