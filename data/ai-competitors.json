@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T15:54:58.442Z",
+  "updated_at": "2026-10-25T18:51:06.837Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -23,25 +23,25 @@
   ],
   "matrix": {
     "OpenAI": {
-      "新モデル": 30,
+      "新モデル": 31,
       "資金調達": 17,
       "提携": 6,
       "規制": 13,
-      "その他": 74
+      "その他": 77
     },
     "Google": {
       "新モデル": 1,
       "資金調達": 0,
       "提携": 0,
       "規制": 1,
-      "その他": 5
+      "その他": 6
     },
     "Anthropic": {
-      "新モデル": 7,
+      "新モデル": 8,
       "資金調達": 20,
       "提携": 2,
-      "規制": 7,
-      "その他": 47
+      "規制": 8,
+      "その他": 48
     },
     "Meta": {
       "新モデル": 2,
@@ -101,13 +101,156 @@
     },
     "その他": {
       "新モデル": 12,
-      "資金調達": 8,
+      "資金調達": 9,
       "提携": 2,
       "規制": 12,
-      "その他": 90
+      "その他": 94
     }
   },
   "items": [
+    {
+      "id": "03da005680f0ab4b",
+      "title": "We cannot under any circumstances let AI firms govern the future",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Blood in the Machine | Brian Merchant",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiWHpMYXJnNnU4NGc2ZzAyV05zdkxZNElPVTJaQktqTUNOX3VWWmV2QThuMmE4aGVpeElUVU5DUmp5bE5CcjJfTHNzRkhvTUNZN2xFZkFQc2hKWVZwUkpJOC11VVdnY3o3dXZRZllHTTJncWkya1JUVA?oc=5",
+      "published_at": "2026-10-25T18:22:28.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "3a08532df8319ea7",
+      "title": "Elvis Presley’s IP owners sue Anthropic for training models using his songs",
+      "company": "Anthropic",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Paste Magazine",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcjBoV2xTS3QzLXdiYUtLb1BBMzFIcnNCVXJ2SHVIc242RWtJTi10aDBYT3ZDMC1mZHlSMGpMNVRwNTBMZDFGNU5feEVWUVg2UzhTSmR2S2pIVmxPdzRmVDhSOXZsdXVXWTNCV3ROOVNwTWNrVXhmTUFQRVA4UjBLNGkwVW5WckIweldKRGlzc3VHeU54aXpDWnlMR09OSW9saW5mQW5XMzhVeWZyZDlvSFlxbnZRRmx3YWg0?oc=5",
+      "published_at": "2026-10-25T18:17:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "7bd156c1834fc3cd",
+      "title": "Elvis Presley Catalog Owners Sue AI Company Anthropic for Copyright Infringement",
+      "company": "Anthropic",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Pitchfork",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZkdyYnA4Z2J2aEc1OWZKTU1xQUhCTThtTmJwQlpXQnhqdVBZV3hCSTA1ZW9NbFIwaTRiSzI2TkJrbzBWMG9GMS16MXJOUkQ0NU5wWFhrbmRKNnlOSHEzeVlMdlpyQ3ZPcXdXWVFIckNvTXhuc0pJOFkyaFJXa0w1UVpuZHpNNjVHZ3BzRnhhM3BNcndjcC1IeS16WWp5WWhSNmFEV2IwU2ZsNmxtb2c?oc=5",
+      "published_at": "2026-10-25T18:06:26.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "056844761e8c5d8e",
+      "title": "AI’s ‘opportunity divide’ could deepen global inequality, UN official warns",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss",
+      "published_at": "2026-10-25T17:26:22.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "247b8ab3f8ded0e6",
+      "title": "Outside Testers Found 6 Ways Around OpenAI's AI Watchdog in 3 Weeks. The Fine Print Matters Just as Much",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Memeburn",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jSXFYc0E3TWttMXh6YkJpc051VEw5VWRsazZqWDRJRjFpYU5fSFBXN0VQclBBNW5xQ3M0RGNhUXBDU1JqcHZBVmZHbU9QU0hraGFqOU81NnB5QQ?oc=5",
+      "published_at": "2026-10-25T17:00:40.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "71334093a413753d",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "company": "その他",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "published_at": "2026-10-25T16:57:32.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "1f11f00c242943ef",
+      "title": "Mistral turns itself into a full AI stack to take on OpenAI and Google",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Startup Fortune",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUEEtSUNpZ0RhQkZmUjdFMmhBRHdCRjFLcVBQNWtTZUJpYWd6WmFYNGFVam9aN05oOFBWMUxKdUcySzM0am0zd3dDajRMVkZLODFFRFVrbXZncTRyeU94VmxRT0NDZHdzaGVGVU01T1FEMzE5NmcwR2NiQjBVbzFzNWMzN2tkUEJrWl84ZllrVjgwUU9QcnE1MzMxOVJUelU?oc=5",
+      "published_at": "2026-10-25T16:38:31.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "e7a9d5e50caaf8c6",
+      "title": "Grok Picks Republicans, OpenAI Picks Democrats When AI Models Are Forced to Choose",
+      "company": "OpenAI",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Gadget Review",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVGJnODExZWdiNUFXS2hRc00xbGJkbkpsMHM1amo1NzV5RFgybm1RWE5YNG9fOGdvSFZ0LWxaRG9LeGRWZ2cwN2MyREFsVVhwLWtuemJvRklCbU5sX09kaDRZX3Z6MHQ0WmpLakFuMTJ6OUVSV0VENDNiTnFkSGdkbU1SbjFuVWZTTWZDUF92TEhnQm5ma2lBWXFTb0cwLW1LZWplakQ4cTVlWDBmaWFR?oc=5",
+      "published_at": "2026-10-25T16:18:53.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "679d0cde92e08b65",
+      "title": "OpenAI resumes training AI, but without Internet",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Taipei Times",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHNkd0UmcxeUJJZ1Ywb0paNTFJY3JacHpvZFcxbVVfTmkzWGRWUWpCSXhDSmpjaWp4UlZjN0dSQUl3T2drWjI2cTk0dHh1WXBRaGptTVozclQtdmEtMl9DWXhRSHN6bXFxXzlJZEVpX1dhck5XeHc?oc=5",
+      "published_at": "2026-10-25T16:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "6a76358bc3c31b1f",
+      "title": "Google DeepMind staff quit over military AI work: 'Ashamed to work at Google'",
+      "company": "Google",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Cool Down",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSE5pS0RKeFVIV1p3OUhxRjdPMEgydV9OX1AwTHhRajV2SlZ1UjU3NDJfaDNlZWFmMUNTcHM2emxoN0xfVFpoNGJWbjctYko5RExKSEt1S1ZINXhQX3lQb0VMam5zTlFWd3Fqa002LVVsMjNfOERxTmVwRzN6ak00eUNobTc?oc=5",
+      "published_at": "2026-10-25T15:55:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "0ae457e7004dbc93",
+      "title": "UN official warns AI could ‘deepen’ global inequality",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/un-official-warns-ai-could-deepen-global-inequality?traffic_source=rss",
+      "published_at": "2026-10-25T15:38:52.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "c3e719ce3473b6b0",
       "title": "OpenAI paused frontier AI training for 11 days after a model reached the internet",
@@ -119,6 +262,19 @@
       "source": "MIXED News",
       "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbVhUQlhNTlBfcVV6Mk5Ta2xiZlMxSEJvOC12MkJfLVUydG5RdWUySUZ3aUpOcHBUaUowN1hvajdyaDQ5eDRXY2ppeUZfRzZxLUxDYTZrQTcyT21sRkxEQWZnaE43amVvUFRCRm9qUF9DaktqbVhoeU5RazZMaFYzS28zbw?oc=5",
       "published_at": "2026-10-25T15:35:57.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "ec9842d3556a2e26",
+      "title": "Anthropic sued for allegedly stealing from The King",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "A.V. Club",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fUjlMUkF1ZmRLbHZwUWdTbV9sdmt1M0FTZFhYY3FlWnFJVEN0dEo2QVVJemY1RVRvTS1UWkVtZXExXzd5YUZZMERzU3lQZHptaTNHOFpXN3NXaS1XM2d1RkhHNTM0UUZNRlpkRlh3SWVxdWpY?oc=5",
+      "published_at": "2026-10-25T15:14:00.000Z",
       "analysis": "rule"
     },
     {
@@ -288,6 +444,19 @@
       "source": "https://tech-insider.org/",
       "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQlFXUXJmTlk1b3p1ZVgybmF6cl9jbDRWUXZOejVGbVBEUzdxNjZjYzNXYU5tZXBmS05kb1l3WTMzRHA0a21ITzRDY0NyaGI1Z2pDdTVZcmwwMFZEWGhnU210X3YtNnV4SHNJS2VMczRzR2NYZlBTTjhENmpqX0E5Z2FrMU8tSm9HaE5EU2Jqd04zX1ZRbnU5UW0yNTg?oc=5",
       "published_at": "2026-10-25T11:07:41.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "10977444b8f1d87d",
+      "title": "To make AI morally good, tech companies are turning to religion. But some say it isn't that simple",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "AP News",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObXBhUVVyVGdmdjJJVDc0ZHR2QVlwSV9CZWpaSS1PWWpSN2VXZThCTW1VdXVoNGJTQWFpbVZOZjg5WjczQ083cFhEMmNRZ0YxWXNDel9QWnJQVlJVeFRJenF6OTZBVEtoRjA4dVpCMzJoYXNIT0pGZ1VGUklVWVRvTmJ4R3lRNFpXTlFtV0RkUGRfX0J3SmxGbkJ0WVpVZTdaTk5GMVc4QmpGT1pH?oc=5",
+      "published_at": "2026-10-25T10:57:00.000Z",
       "analysis": "rule"
     },
     {
