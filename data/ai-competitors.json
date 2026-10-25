@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T18:51:06.837Z",
+  "updated_at": "2026-10-25T21:36:06.883Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -27,7 +27,7 @@
       "資金調達": 17,
       "提携": 6,
       "規制": 13,
-      "その他": 77
+      "その他": 78
     },
     "Google": {
       "新モデル": 1,
@@ -37,11 +37,11 @@
       "その他": 6
     },
     "Anthropic": {
-      "新モデル": 8,
-      "資金調達": 20,
+      "新モデル": 9,
+      "資金調達": 21,
       "提携": 2,
-      "規制": 8,
-      "その他": 48
+      "規制": 9,
+      "その他": 52
     },
     "Meta": {
       "新モデル": 2,
@@ -51,7 +51,7 @@
       "その他": 9
     },
     "xAI": {
-      "新モデル": 0,
+      "新モデル": 1,
       "資金調達": 1,
       "提携": 1,
       "規制": 1,
@@ -104,10 +104,101 @@
       "資金調達": 9,
       "提携": 2,
       "規制": 12,
-      "その他": 94
+      "その他": 95
     }
   },
   "items": [
+    {
+      "id": "a6feae291b1a855a",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "company": "xAI",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "published_at": "2026-10-25T21:31:16.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "f638f8bfa56a60e4",
+      "title": "氾濫する「AI動画」対策に、イタリアの首相が「声」を商標登録",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "hicbc.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRR3RLT0s0bFp1UHJndG9Nam13WlV6LXpsRklOQUhSVk1VVGJaSEdGVVJWdk01SWZHOWptcjhMUzJRRkhQUk55V1dYSzRIRzdvU0lPa19lVERXa3dPSDJ4UWllclk?oc=5",
+      "published_at": "2026-10-25T20:57:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "ac04577bc85ebed2",
+      "title": "Elvis Presley’s rights owners sue Anthropic over use of 274 songs",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Needle Drop",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaHlmX3AwSFA1VG9ET2dhOGlHcmJpVTlLLW1JUEJtSEhJYnExS3lrU0ppZTFhNHNJU3E1eDNCWnZHZHFHbF8xRmdTM050OGNOZkNiREdRQ3Z1Wll6b2xDTk9SbFVsTkl3dXY3QW9ITVVFUzVpZlN2OXktTnhIT2lOZURvM3N1OXZaa2lNLUg4R21iY0JtVnNvNUlWT1c?oc=5",
+      "published_at": "2026-10-25T20:47:01.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "45fc8e53d3f448e1",
+      "title": "Elvis Presley rights holder sues Anthropic, says Claude trained on unauthorized songs",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Los Angeles Times",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2xhUk9UN09Xa21neEc2TVN2RjVMREhVekVyVmVuQlZZYVhHa3RwSUpncFFFUWNBNzg5bU11YjdyZk1odFItM213Y2dwX3NtQzBvVWF1Y3JkTVVHRnF4a3ZyRVczU1RzLXZPNjNVRlZRcm0wNjR1cTgwNEN6bWItWWw5RXI2dm9DMHRVX0M2ZDNleER3MVNUblRnSm5aUUt6elh4WVI5Z0cwOGxEcDVtMDltRC1vZmpGamZwbGg3MzFKQQ?oc=5",
+      "published_at": "2026-10-25T19:42:08.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "1b7c9565367385e3",
+      "title": "Elvis Presley’s rights holders sue Anthropic saying it trained AI on his music",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "NBC News",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbG82ZXpUaVVOTDJpczU3NXh0WWRqV2VkbENhUVJBQTJKZDQ4YlFjeDdXemlvQU0zRllGTFpBb3ZjcElSVERQZmQ2X0paY1NzMXlBM0FkZUhST2FMc0xrOTBjTUtEWjNpNEFkNVZ1UG45VHlScFJTZkxBc1ZOR2s0UFVBYjRlcGNsdlEwOTAtNkRhbWl4VjdBX2FTeDRKYUp6NEhCNVJ4T19ZTEV4Y3BnQ1dyM01XZ1lB?oc=5",
+      "published_at": "2026-10-25T19:11:32.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "aceed07805bf5304",
+      "title": "Owners of Elvis Presley’s Music Sue Anthropic for Copyright Infringement",
+      "company": "Anthropic",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The New York Times",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX09XVmlSS01jT3lubFZUV2pxODhTM3JaOFpwX2k1cVNEdkItaFNCcGtNU3dRSnV3eXVTZ19JRm5pcGRFcDIxLVNLb3U0QkxZNlhSU3k2U05vZndadGNtb3FrUzhoUFNhVWpPYUVpX1FxV0hjejJiRzB1M2w3MzJSdUlDb1oxZENReEFmdE1qUU5HUQ?oc=5",
+      "published_at": "2026-10-25T19:08:47.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "841de2ccd84cdda5",
+      "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+      "company": "Anthropic",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNelFOZFdTZmw2a1FtcjAxZk5lYktWT09FRTRaT0g0MmFrRFpHX0dIbk1IeVJNYmxVVlhBZHRYWk1YZzFHRjh0N29jSEdWd2s3OEJrcFM4SW9Tb29tLTQ5VjJaQ3BFQThpRXNJUzVPbXcwOElvcVJUNl9aZE1SaWVZTTR1VTYtcHNGZVdjU2t4MVItd2ZKYlhZZGd3cw?oc=5",
+      "published_at": "2026-10-25T18:41:00.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "03da005680f0ab4b",
       "title": "We cannot under any circumstances let AI firms govern the future",
@@ -171,6 +262,19 @@
       "source": "Memeburn",
       "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jSXFYc0E3TWttMXh6YkJpc051VEw5VWRsazZqWDRJRjFpYU5fSFBXN0VQclBBNW5xQ3M0RGNhUXBDU1JqcHZBVmZHbU9QU0hraGFqOU81NnB5QQ?oc=5",
       "published_at": "2026-10-25T17:00:40.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "8c48e24f1fc7236d",
+      "title": "Anthropic Could Be the Next Amazon, and That’s the Problem",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "InvestorPlace",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc3lTcE83bjJaREpZWXZHX05walptc3F5WWlWN09jR1M1MlFyaEU3elVMSDg1T2lTWVE0aXpXa2V4WUV0Z2pNTENPRGprMldFVVJhR2FubjFPZHo4RzhXdWFqY3hZdTBheUV0SjhOVk9RSUo2UVF5Zkx0XzJpVzdHNWVaZVFuZW5sY1d6alZTbUNTaHVCeVJYb0ZPZzNlbDQtcTBvbQ?oc=5",
+      "published_at": "2026-10-25T17:00:27.000Z",
       "analysis": "rule"
     },
     {
@@ -339,6 +443,19 @@
       "crisis_score": 2,
       "source": "The Verge AI",
       "source_url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "published_at": "2026-10-25T12:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "c3d84fd8e2f8f015",
+      "title": "Ex-Manny Yekutiel spokesman now works at Anthropic, another S.F. political staffer at an AI giant",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Mission Local",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRVFhWkpsY3lDbkxJampTVXNNNnQyTGtLRHNVU3pnalhOM2pxRHhEZW90c2RmNDlhZTJIejRkdXEzQlpuR2JXbEZUX0VkbDctQlF2aEhqQk80RFdjcTh5d2VKYkNlb3M2ZEdwbkltcXIxSUNFZkYzLVRLSno0bnR1SzhMWjEyenJBNC1Rc0hUVXBCbXRYRUJKSg?oc=5",
       "published_at": "2026-10-25T12:00:00.000Z",
       "analysis": "rule"
     },
@@ -743,6 +860,19 @@
       "source": "The Profile | Polina Pompliano",
       "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nNVRycmlWXzJTdWtVSVZMbkN2SlVsVEhpUTktdFVuX1g0RmNGNjV4WUhaTjlCMTZmVEg1dWVlSkRWUjJuWGd4bXNvU2dqOXFScG9QMnNrUmJNMmZKNXJtMmp3?oc=5",
       "published_at": "2026-10-24T20:35:29.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "4c71ce6f495425c8",
+      "title": "FTC opens probe into safety of AI, including Anthropic and OpenAI",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNekhUaUxwdkZqR01YY01YYkpuMUVfckMyc1RKT2ZKVkVIR21CaGpTOHIyT2pYb3BlZzBVWFh0UGxGbEtDZlg1SVBOY3NjOGF1bVB5UF8wY2NiU0RSRFlNblVlSldNZjNiN3lHdHJ6X09aTm1qLTlkbWQtTjJmbFJmRkNNS2lGTkhYTHpIbm9peFlwLWJuMjlPQVZVTld3Z0nSAaQBQVVfeXFMTzR3RUtELUM4bGpzZ3RGaUJUQ0VFbHpsR0hwQnAzSFVaYlRndXdwanFxdWFCNUxpQTg1OFFmOFBJd05QUC02V1hGYUxpWlFmcUhGeUFPSHFKNXk2UVV4cTBCb01IQmRlN003bVlwaTZuTVJxNEhKZi1WczVhQWE0MWRaRnBFbXNTSHppUzNCbm51M20wVEU0SFdnZUFvamVkYUhlYXY?oc=5",
+      "published_at": "2026-10-24T20:13:08.000Z",
       "analysis": "rule"
     },
     {
