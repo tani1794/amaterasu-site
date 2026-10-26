@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T00:01:33.370Z",
+  "updated_at": "2026-10-26T05:54:58.095Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -24,24 +24,24 @@
   "matrix": {
     "OpenAI": {
       "新モデル": 31,
-      "資金調達": 17,
-      "提携": 6,
-      "規制": 13,
-      "その他": 79
+      "資金調達": 18,
+      "提携": 7,
+      "規制": 14,
+      "その他": 83
     },
     "Google": {
       "新モデル": 1,
       "資金調達": 0,
       "提携": 0,
       "規制": 1,
-      "その他": 6
+      "その他": 7
     },
     "Anthropic": {
       "新モデル": 9,
-      "資金調達": 21,
+      "資金調達": 22,
       "提携": 2,
-      "規制": 9,
-      "その他": 59
+      "規制": 10,
+      "その他": 63
     },
     "Meta": {
       "新モデル": 2,
@@ -62,7 +62,7 @@
       "資金調達": 6,
       "提携": 0,
       "規制": 0,
-      "その他": 10
+      "その他": 11
     },
     "Mistral": {
       "新モデル": 0,
@@ -102,12 +102,220 @@
     "その他": {
       "新モデル": 12,
       "資金調達": 9,
-      "提携": 2,
+      "提携": 3,
       "規制": 12,
-      "その他": 96
+      "その他": 102
     }
   },
   "items": [
+    {
+      "id": "5f1080407b82de1a",
+      "title": "Defective Products: OpenAI, Dangerous Chatbots and Deception",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "CounterPunch.org",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYnFtSExhVU5JSTVKV0NFXzZ5M1ZwMHNvaEhnQmVyR1lfangyLWp4VU9uSmhwWUtBcHlMN3hGZHd3TjRtbDFJU2hma25PZ1U5Y0hSOXd5VUd5ZWtFX1diRGF0QzYzX0tVTW03WmxKT2daRTNJbDVHNi1MdHh4aU5BODZmYnRNUkZxSGNDeEg0NDZVRzBpajNydnF1RWRGNVJf?oc=5",
+      "published_at": "2026-10-26T05:51:52.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "09409ef17558ff7b",
+      "title": "AI: Anthropic’s Margin, OpenAI’s Opportunity. AI-RTZ #1251",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "AI: Reset to Zero",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVldOTUNXZ1lVYlZPdU9NM0dNM1FnTV9wOVFLcThTUGNDVlpOLUN2MmJrQUZmUDQ4c1htc1MtNjZnbUJrZ0hscEJRbVloeG9xN0tmV0dMX0JmZG9iNzBrYWJwc0E1LUlSOHBXRm1CWk1TdU1jaUNhZWF5T08wMnhRWmtJZw?oc=5",
+      "published_at": "2026-10-26T05:02:33.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "996671aa1c0dd607",
+      "title": "Elvis Presley IP Owners Sue Anthropic Over Allegations of Copyright Infringement",
+      "company": "Anthropic",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Digital Music News",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTEsxeXZnU21ZSWRVMXNrbXFJQmUtdWZOc19MSXpyUVRoUXBqQUkxWnZVTUFKelpBc0xUVU8tbXN4MkI3dlZGSWNzYkZyN2dIakVMNFppd2xCZTlLQTljYXNMUEJDaDVqRHZ1ZTQ0dlVFYnJualBUenBUc01kTWJpSE4yVkZfbTE0TzZ1SU9GQmhodE5Sc0NIZFN3?oc=5",
+      "published_at": "2026-10-26T04:46:06.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "fe65bc7f8c7c8f64",
+      "title": "Anthropic's $750 Billion Compute Bill Could Delay Its Path to Profitability",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Motley Fool",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0xDRkdKWEZOWEx2U1ZFQWZrSXYwZFBvSUFXRm9VdzBWdi1CWnJGcnNHUTAyZVNPTFJ0N0E0UE1SMVFRNWdaZ0xIbWg3em1LVy01UGNDclM4R2tycmhvTDBweXFVLTRFOUxUUFFseXRleGlLajEzS3RoS29IT3gwdUhQMllYa3J6YlBVSVJMZVkzTlUtV2Vabw?oc=5",
+      "published_at": "2026-10-26T04:16:50.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "45619297e13d9d81",
+      "title": "Anthropic’s IPO Stares Down a Wobbly AI Trade",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Daily Upside",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNk40eHhhZjI0X0U1LXRTRjhNUU55UkE4Z185X3VnS0M5N1plSUxZOWhOWURfQS1YUVJZdVRVekY4SldtS1dNaHVEYWpfN0l4MFJRb1c5ZUN3Z2lubTRqT3JQRkx0RWNSNkVfLW8zYzBJYS16T0NoUzJkU3d4WnB1Y0NwRy1kcHJoanJlMU1PLUJzQVNkLVB5cVBnOE9WTi1sRWNvVWRRZnJMbmt3djBaUA?oc=5",
+      "published_at": "2026-10-26T04:01:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "8ec597648b842c54",
+      "title": "Anthropic taps a deep well of distrust as it eyes its Australian AI debut",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "CNN",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcGJ0WTZNWVZycEJsRzZSeVNUNF95YnlNVktLZXZlcHRYQ1NObmozZzFLQjRUbFpNSzBFTzBMODhmMm5oYkRoMzdOaWJVMmhCcHlNUEZ1YUhJZ0dQSXVqTXdpREMtU2NxMnM2XzFBckZpaXhhUUdPQVN0YjhOb0dRUlJNalJwWnU5VzF6MnllQjBMUFU?oc=5",
+      "published_at": "2026-10-26T04:00:15.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "2935f30c8242e415",
+      "title": "税務業務「AI普及しても将来性低下せず」4割 民間調査",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KbmdvS3FzMncxVFBnWXVDaV9oVXQ0MUZieUJkSFJWVEZhcTZmLW9zTDRORW1rdG9sSmFSWndHb1VRZi1DTXF2TTFuTk1sdnJLREdMSktyWE4wcjU0aUZTWjNTczJZdGJZa3ZYYQ?oc=5",
+      "published_at": "2026-10-26T04:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "fa5a29322b52726d",
+      "title": "FBI weighs espionage charges against OpenAI engineer over Saudi ties",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Jerusalem Post",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yaWgwV2ZLY21xZ1pmdEtuNnNhcXIyOVlmM2VnS0F6a2ZIRzNuai1mbS13Rzh4cy13dlJpd1c5Z0w1RWVtTjFScmFxZXpNdE0wMlNZS21tTFB3d3Z6dHVv?oc=5",
+      "published_at": "2026-10-26T03:31:16.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "e885ce99788ebad2",
+      "title": "BC Professor Sues OpenAI and Microsoft Over Use Of Copyrighted Textbooks",
+      "company": "OpenAI",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Heights",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNTg2ZTdyWnRVYW5WMEFnRHY2cGZ1dmFnU2VKUENPZThhWTJkbnJnR29RRTVnTkt1bkdQZnhmMmRsREw0N1BXOVh5SDVwOUVYV0QwU21kRkF6b3hFTHV6TVZaTGt2Z050U0dVcF9RMUJFTlRiQTYwcFZmckMyOFVKclZyUHFhb2hUNG9xUVN5ejNDYzhMU0RBNmljLXM4OXdPYklPdXZUUGE4Uzg?oc=5",
+      "published_at": "2026-10-26T03:22:28.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "a4416215e0142900",
+      "title": "AI chat bot accessed Georgia voter data without being prompted, state says",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "11Alive.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV3ZHbUMybldhd1FQaDhGbEFIZHBoOVRnc2NuX3J6enRwb29TYWtoVTZFTGFGdDJKUEZmNnN6bTZnMko1a2lJOWhEQVM1LVJXVUNhSXB0ZFhiTHhwcmVYZUVOSjVyYlU3QWQ3M282eXNrRVBua0oxTENDMlg1OTlxZk1HdE5ZT2RvMmJkVFRGaHcyb0tZekxNTFhyWTNoM29qY1V3dmxaN3BwX0x4NWtsQWUtZ01GNDI0Q2c1N1gxbWIwZG5yQllxNnFfYk1oWmx2TU5mbGg0THlWbk5lRGptVUlxWTh3SXBt?oc=5",
+      "published_at": "2026-10-26T03:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "3c950db06619dd2a",
+      "title": "東証前引け 日経平均は続落 AI半導体に売り、先物主導で上げに転じる場面も",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SS2hZTlhmVWZpVzZudGM1SlBvbnNLUDQ0SDVTNEhVLWh4RHRFQnRBM1BqdDhSZDIxbm9yZnFYdEd1djVlRnlGSFFVYkNGVHczVkxsQmxQdXYxc0RPVnNrRjhhdUxzMnAzVmdqcg?oc=5",
+      "published_at": "2026-10-26T02:47:12.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "1667785fcc392911",
+      "title": "OpenAI $30 Billion Funding, Tesla Capex Cut [2026]",
+      "company": "OpenAI",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "tech-insider.org",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ1ZBSy1hdUpzM2NpVW8yYW96SkIyV1FpVlE5TDFZZGs4OHViczN2WUk0WktlTFZMTlBxYTFVMklEekc1NkNBa1IwbTg4aDRLME5fUmI5cmt4NjRHUHdfbG1UMENoemo5TThBT0FORGJRcVZrUDVnSXVKN0RBT1RONFBRMEswQ1BtZWxkcGNR?oc=5",
+      "published_at": "2026-10-26T01:47:43.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "a156e8a1879ed854",
+      "title": "OpenAI brings GPT-6 models to Google Cloud in new enterprise partnership",
+      "company": "OpenAI",
+      "type": "提携",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "EdTech Innovation Hub",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPekIxNllySmZrUmtkcEdtTHpRV0tiNHBzbDlDNndyZkZrNklrSjluMkszanVnQXVWMzFYQWtFdXlaRjdIeDB3MEdRUUpzSVl2ZWQ2eERxZ2xENDBaUnRXbE9KQzdMczJIdzZaYTVuYjhnZ2xDUkhUYnFiRkFjMVJ5V282NzhKT2t5QmRRS3lZM2ZOU1d0Q1ZiVnlzMnJwUzZYOFFXTk1vaU9YLWZOQnlweUs2Yw?oc=5",
+      "published_at": "2026-10-26T01:05:12.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "2d704f4ddde5e7f4",
+      "title": "Google DeepMind engineer Sofia Liguori resigns over military AI contracts",
+      "company": "Google",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 7,
+      "source": "EdTech Innovation Hub",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQjl5TDJXX0xXR1I4QVhLN0RRT1ZwRGNJSWlGaER6V0NvdThma3dFYjVtQ2dqRm9rSlBoem9DaXVEcWpfVXZUdEFXWmpVNzduUUVaSDZsVE1sUTU4YUtIQ1F6b0U3eVJZLUIxeGFzMjViY1d0THpacUdaYkgwcVB5bXl4R2pCaEh2VUM2TUtTRWgzQ3lYd1ZuM0hkMWtyajBXc2dwdE5uZFE0bGJMLVJwS3J1dkM?oc=5",
+      "published_at": "2026-10-26T00:35:05.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "6148450d687e441e",
+      "title": "METR questions Anthropic's AI safety tests despite agreeing catastrophic risk is low",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "EdTech Innovation Hub",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeVZRN1JMdUdpVW9ObEpTS2c5X2F1YzgzbUtIcVZObDhCb294ZkFXcDhWZU1sdWxPdmduRUsweE9YYl9VdlZSQkNqY3E2amlYQzNxRFZ2dkZXNG1jM3N4cUZfb2FEZVdOWTZuVVZETWtZOXBQYW5nY2xVd3QycDhyNFFBV0N4Y2RPUW93X3lWM2tyVFd6alhocnpoX1JvajhOR3VrRDJMb2hLbURLbWdwQTRaTDFlRXlMYVZNeHRkX0ZfZw?oc=5",
+      "published_at": "2026-10-26T00:20:36.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "7976153e00226e4b",
+      "title": "Claude AI accessed publicly available Georgia voter data, Anthropic confirms",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Fox Business",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU1V0TEFXVkRST0oyRUxLRmM1eDlNVXpWU1Z6eUpMdmZ3cUhrYjJDeEtKbUJRUWJfVHEzRXBfMTZMYldqdlMwX0hSTFRNTkJmQmJvX25ycU8xM01Bc1hUUHItTzhqVXZ5UXVLMFVUeTBMRHN0Q3hfcUtXTDNzZldoRkl1U2NKVHRvRXFIbEJ5ODhXcGRtcDhKYVAydlZwd3ZSZjBDQnI1YmdNUS1iZXhHQTNHb0dIN2FN0gG-AUFVX3lxTE50STBSNzFDRHpBSjBJSDhWYU1HaGtyWVRUa1pOdEhZc1k4N0xOSmotektxSk84RXI3OXAxTm91eGU4NHJwM1dVUThmcFZQVDkteVhPcXh1dldhVmxuNHNrVW5QQVB3YTlVaWxiQkRwUHg4VmQxbWFXUWdHSGZGc3hwUUppa0ZRM0wyQ3dFeTY5bnZ3UFdpZWxKZHB3UjhDWXI1TmQ2aWhmMGdicy14Z25RNHNLY3V3TVlaOFBnWkE?oc=5",
+      "published_at": "2026-10-26T00:00:00.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "105001f3c062cc78",
       "title": "AI bot tied to Anthropic reaches public Georgia data hub",
@@ -119,6 +327,19 @@
       "source": "FOX 5 Atlanta",
       "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWlJvR0lQaXp6MHlOVkR6ejFSUzdwY1Y3VXpxRkVzZHZUcnd1czB0MmVIaWxOSnQ3UGlkeTdzdTNOR25vUUV2WXlFWkNVUGtfZUpYa1FQeHUtVFhpRF93dkhKN3BjUlZ4bVJIb2hXSTRWQU1tVVZESkJjT29XeEZ1R3hrRzFHR21wck9NajdEUmM3T2V0?oc=5",
       "published_at": "2026-10-25T23:33:35.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "3d31832948a2c78e",
+      "title": "米ヘッジファンドが大打撃 AI半導体調整で「DeepSeekショック級」の声",
+      "company": "DeepSeek",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0M1VCcWZRbGh6a0s0QmFuTlhhY1JsWE5lbDA4RTJqQ1NILTNpaUJodktNUUtzcmlvYzFJTkU3VWtzUnlma3daWVBGeUZHbGdidnUxblZ3VnhaMFNNZnJOSTVLN1IxVzRlTEF1WQ?oc=5",
+      "published_at": "2026-10-25T23:19:23.000Z",
       "analysis": "rule"
     },
     {
@@ -200,6 +421,19 @@
       "analysis": "rule"
     },
     {
+      "id": "138f808b1ade66ee",
+      "title": "OpenAI o3 uga dhig habraacyada shaqo ee murugsan kuwo iskood u socda",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "OpenAI",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ0otX2piMDVuWGZMMS14Y3RBRURObDF0V3RNc2pGVGVDc1k5Qmc0NU5PbHM5azlzOUFBdXJpRzFKaV9vcmh0TWVYWnJCUE1Ic2ZfUjVxMHRiR2s0dk5KX3QtdXJLQ2NqOHhOWklkTHhfSVItNjRhZ181NFZiWXMwZmFseWtWY25vaXc?oc=5",
+      "published_at": "2026-10-25T22:24:04.000Z",
+      "analysis": "rule"
+    },
+    {
       "id": "5870aaf8934f9e53",
       "title": "Anthropic’s Big Reveal",
       "company": "Anthropic",
@@ -274,6 +508,58 @@
       "crisis_score": 2,
       "source": "日本経済新聞",
       "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QSExfUEwxdlI4V2x3Z3FBUHgtMFBqS2hvV1JYdW4zZ0hrRlBUaG9qVWxGZkVSRG9OS1FjZWI5VEdoRmtJVkpOZ1hBNm81T3ZwYkxfWkNHR05KLVNtUUNFLUNveWR6bHZtSFZmZQ?oc=5",
+      "published_at": "2026-10-25T20:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "b7d894b360777f5d",
+      "title": "飲み会100人も会費の「傾斜」計算瞬時に ふくおかFG、AI活用アプリ",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xcEp0M1RMVVRRajcwRzgyTmVEQmVZZ05heDEwZUJqd1FhX3laRlFhZndiaXdWRG9HUk9tWFI2MzBQRVlJai1NN2RBTkNSanU5YXhCNll4RkdwRDY4TjZxZHRlSzNfX1JOelltdw?oc=5",
+      "published_at": "2026-10-25T20:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "418adf1a00496389",
+      "title": "日販のAI向け書籍販売、再販契約巡りズレ 出版社反発の陰に作家配慮",
+      "company": "その他",
+      "type": "提携",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FUHdxcmxLN2gwWGROVlBUM04xWDFlUkw5TFB1OUVHUXZPZXFtXzkwdWtKN3YyczhiVGJ0X05kMmYxZm5ub09iNTBfZFJlRENGMkg5bDVoRWIzLVhkaUlsNGpxTEtwSHA0QU9TRg?oc=5",
+      "published_at": "2026-10-25T20:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "3dd2ea2cb0cf6a13",
+      "title": "AI新興のTAI、12.7億円調達 27年秋にも半導体チップ量産へ",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXWnRDdjdxQ2RBeUl6aFd0YjFhb3NuSE9ib0pVNnpqYWpVN3lSbDdHbVFEbmZ4VC1UeHNNdVFsTllyMVk4NEZqT3d1M2RndlA4NF9ZdW1YWjJyRTVKX2NxREJfRVVXOFVQQXQ3TQ?oc=5",
+      "published_at": "2026-10-25T20:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "f20b6d2bcdc52f64",
+      "title": "プリファードの国産AI、日本総研が導入 金融システム開発で活用",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPbVFuQlpxUUthWmV4YVZ1alJyeFRfampNWGd6LXh5QlBJWjY1VlRnNWZfdUUzZTRtY282ZTdnYkRleEQ2NUFEMFVSbmlST2JtRWFjVE1HOWc5M05sTG04SVRKV2tRTzM2N0Z2eQ?oc=5",
       "published_at": "2026-10-25T20:00:00.000Z",
       "analysis": "rule"
     },
