@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T19:07:07.513Z",
+  "updated_at": "2026-10-26T23:41:11.024Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -23,11 +23,11 @@
   ],
   "matrix": {
     "OpenAI": {
-      "新モデル": 33,
-      "資金調達": 18,
+      "新モデル": 35,
+      "資金調達": 20,
       "提携": 7,
       "規制": 16,
-      "その他": 89
+      "その他": 90
     },
     "Google": {
       "新モデル": 1,
@@ -38,10 +38,10 @@
     },
     "Anthropic": {
       "新モデル": 14,
-      "資金調達": 55,
-      "提携": 2,
-      "規制": 11,
-      "その他": 80
+      "資金調達": 67,
+      "提携": 3,
+      "規制": 12,
+      "その他": 89
     },
     "Meta": {
       "新モデル": 3,
@@ -76,7 +76,7 @@
       "資金調達": 0,
       "提携": 0,
       "規制": 0,
-      "その他": 5
+      "その他": 6
     },
     "Apple": {
       "新モデル": 0,
@@ -100,14 +100,274 @@
       "その他": 5
     },
     "その他": {
-      "新モデル": 13,
+      "新モデル": 14,
       "資金調達": 10,
       "提携": 4,
       "規制": 15,
-      "その他": 113
+      "その他": 118
     }
   },
   "items": [
+    {
+      "id": "bba291662c45fb8c",
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "company": "OpenAI",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "published_at": "2026-10-26T23:34:58.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "f61cc1e29a574a6c",
+      "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYllMbFRuTjU1YW5QWWRQd3JFZ0VkRk52dTl6RG04VEFZZC1HalMxaE9Iem01ZlN4MW5udlBWdUtvVU93U1BETlFVamk5SlNCam1XVVRzWExBemxDSC1yM0pDSHlkR1ZHNlpSNG02OTZCcVlEMGZiUXVBUkRWaWRQYVhkLUNrUmwwZEZ0YXZ6a29pemJHZGNaU2hpVUbSAaIBQVVfeXFMTmt4Q1hTcjFXT0kwZGNHeVE2bU9GaFUxeTVKTmx5bjhmMGFOOTI2R1N1ellVLWQtYzFSZWJBVzU3WDVILWRMR05LSEFnVFNTd1lLNGJyc3k5VjBLWUI1T3lfMmtXcFBENEJQZ3ZVTktfTjJpRFRYS0ktb0tOZkxCSzlPWmM4TXlPTC1zemFtZmpzUUNQQ1RuaEg1MGtKUEgzaU93?oc=5",
+      "published_at": "2026-10-26T22:50:07.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "0946eb0301beba97",
+      "title": "Anthropic | History, Controversies, & Claude AI",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Britannica",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
+      "published_at": "2026-10-26T22:04:04.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "250e5d8f302445e7",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "published_at": "2026-10-26T22:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "f1746125f0880d8b",
+      "title": "Trading Day: AI light, Brazil flight",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGtjajJzcHA3THZRdGdBS1B0Tm9tZFhzU2ZhdE1ETng2dU1BdDFrckpuYng5YnhHT0g3UkwtWnR5U2RpMWt6OXlMTW53c2MteHZPMHhiNEZ5TnFwbGg4TFU4M3VIME5haDI1dTZSMkdNNzdRUFZSSXJ3Qmt3U3JsRTVmYjVkNGJYNU5Qcmo4VExKSzJac1J3MUl2aXIzSzhDalJaTWtB?oc=5",
+      "published_at": "2026-10-26T21:52:23.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "96b9f45bb2e6d933",
+      "title": "Anthropic is burning gas to feed the AI boom",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "published_at": "2026-10-26T21:45:31.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "5363cc78b6eaf21a",
+      "title": "Wall St banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic",
+      "company": "Anthropic",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZU9zQUUycTh6SXBkQ25GQUJKTWJabmR3Q1gtYXlZWDJSUWk2cmxGWWRsUlZlSTdVNEtsdDY5d0hVakZ1ZkVDMDFiV2NrdjFaQnNVZUxRMjNESzluZFVBc0s3YU9pZjNZMVR1WEdIOVFrc2phbnRZYWpuYnRXY29Rd0FiVnItWTR1akVvNXhfWDAyNHJId040M2R0Q29HZTAwVzYxUl9OVy0wNWFrV2M3ME1Td25NUGI5cnhOY2JyQUVFS3ZOUGdEZVh1X2pQZWp4NGc?oc=5",
+      "published_at": "2026-10-26T21:16:44.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "ada6089820a5edae",
+      "title": "Anthropic's soaring sales, steep losses put AI frenzy to IPO test",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVVZWVV6TXQtR3ZqaWZKZERKZ3J3VVpIZlNtUjVfRjdTS0tuVTlRQ0F0UzRhcW9Hd2hxR1BtNzF4UVBVYXBpTkc0Rmozb3pRekc2RVNnOVBYd19KUGZ5VE1UN29haXQ2M0w0Qk1QTm5INk5KRlhxLUR6Q3REWHR3OG9EYkpFMGJUUm5HMGFiX3pBLXhZMHV5Qkgwdlc0RTczMnhOc3Q4NFpORFE5SlRfRkVDOWdmZw?oc=5",
+      "published_at": "2026-10-26T20:56:05.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "3c2f48aef6645cbb",
+      "title": "Alibaba AI model secretly tried to reach Beijing server in test, rival Cohere says",
+      "company": "その他",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcHVNeUo5OThtcHVOdE1HTHhlQjV0TXR0RkVpMEk2Qm1hQjdPNzlkaXZaZU5oX1Y3eFoyUW1FZGZ5YmJOX0d0eGRHUUtRaEtvbzRvcWtOenFzSWowam1ZMlQyTmJleGN3dU1JbVhiemduMnZRY0E0a3U4V1N2bUZhLXBRTXNySFdNeE92S3pPeWRmUDRRd0VLYWRCNklpZ2c2NDhOckpzTE5tbnItcXV5VVE2ajJwRG9UeHFOcWpsNmRqbUh0bVpR?oc=5",
+      "published_at": "2026-10-26T20:40:18.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "c541ea6f5afafd84",
+      "title": "Broadcom Arranges $63 Billion Deal to Finance Anthropic’s Chips",
+      "company": "Anthropic",
+      "type": "提携",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Bloomberg.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVXpndWd4bS1VV1JIRTlnRll6aGd3WDFVSkZBWU0wT1VZQzd0ZTNCc2RZeXZaUV9TdWZxak1BRlB1NURvcU5wb0RTUE5Ec1d4NkVSRXJWc0o3RTcwUEplV1FHRHBRcG5aOEFoWHNGdEJ3V2RtcFVZUllZaE42TU9paGtIOEIyajVNb19mT1lSTGcxSEdhTVdDemVlTGptT3ZfZ3VpTmo0WTlJYzV0Tms1RUlFcw?oc=5",
+      "published_at": "2026-10-26T20:36:14.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "352489cacf730a72",
+      "title": "Anthropic Files For IPO: Here’s What We Learned",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Forbes",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOU0tMHd1M2Fwc042MGtwdVAxSkY0VXJkVHBJT0xVek5GZ2Zfc1IzRFRkR3ZSaF8ybnFPRk0ydnQ2TVMwMkVJUXhSb0labTdNVkJyTFRPSmZtNXJUMi1mNXJoVFJlaUc5bmxsVUxZZ1RyTVR2T2taVWJFeHBSWnZtMVU5dDZ2NjJQSk82VUZrZmQwOVN0UmZ3RE9BNENYZw?oc=5",
+      "published_at": "2026-10-26T20:09:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "ffc47ebd55181b61",
+      "title": "Microsoftが再び希望退職を募集、6万人対象 AI投資に注力",
+      "company": "Microsoft",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IMjZGbkVXaFFFRmROMUQxWEpGeXJWOHlldElGNUkzdUZtYVFXY2ZLcWdmYURLVlpRbExGaFNkSXlvLWJtNWxNOHR5M1dkUmxaTHd3aGFlWW5lR3lYQmNzQ2N6UGgtWUVfX0xldg?oc=5",
+      "published_at": "2026-10-26T20:07:59.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "7483ce0c240899c1",
+      "title": "高電圧直流、EV・AIデータセンター・再エネに拡大 産業横断の新潮流",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ULTNzemJWYnY2Umo4WXd2WEFDRmVXQ0lJUFRscXV4czZWdXpONDR6X1pnUWxFSE5rWUdmQm5LcG0xQVktbHdNU0EwaXB4N0Q5eHBjRXlXeGExRlRNRnROSXZXVmtfY2Jkd3VhQg?oc=5",
+      "published_at": "2026-10-26T20:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "63460e02a1680446",
+      "title": "中国発オープン型AI、米企業「使わぬ手はない」 分断の裏で交わる米中",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCWWhpQjN5MEpWQjBxUVFjbEZ5OTBhbzE5VXVzcmpiUVV0RDgtYzBlV1JWdVRzbXNBQ0w2bmFtUzFWcWV0cEJOTXd3QjBXcWVVVDRrODB5cmhvWWJVNThOVWtyZzBUOTc0M2FaZA?oc=5",
+      "published_at": "2026-10-26T20:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "7982f652bb9322d0",
+      "title": "Anthropic to investors: Trump hates us so much",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Axios",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wbk9teFVFWkxwLW5XNGQ0R09qeVNIMHkzYnQ2U3JiUndZLWhZVnp3aU81Sm04ZVJsbmZibmJLWXd5ZWNTdHF6ZnlJR043SmFNRlZEQWwwdms5ME9kcHkxaTV4MTFsSW1XNDBiOVJZeUlkZTg5V0Y4?oc=5",
+      "published_at": "2026-10-26T19:47:57.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "f0cf7a2a9cf0f5ec",
+      "title": "Anthropic’s I.P.O. Prospectus Spells Out a Future of Promise and Peril",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The New York Times",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU0RUcjhxcFdNQzE5VzMybXBnRXJPNmxUaGRtVDhnVXRqVEtjM0NsN2VDY2txazNsRmFjVjB5RFY1Nk5fWjdzZ2VTWGJoN015Ry1SbmJsMEJmdzBKaktyOHdXNE5PeENDWkp3dWo4a2x6dGgtdUZyMU9Ncm1Vc09xR2ZVWnRtUkk?oc=5",
+      "published_at": "2026-10-26T19:36:41.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "f0049ec387d87a89",
+      "title": "The Biggest Takeaways From Anthropic’s IPO Prospectus",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ocFhISXowTzhvOEN4cFBXWDdCdE9XUEkxNzNYd2xhYnhBN2xQaVlnVGtCT3YzSkhMT3dubmxRV041cFl3U1Z5UTJ5RERqRldhdERaM1Zfa1FCMUZMRkxRcGVBWDFLTlRwczFDQkN3MlFJMkZUdVJ1Tmpn?oc=5",
+      "published_at": "2026-10-26T19:36:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "c92b9b824858f114",
+      "title": "Anthropic's potential mega IPO joins ranks of world's biggest listings",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTGdsSFROVFREMW5FMGs1dGlzcXBGZlRlUTVoaUdqek43TzBPUDFFUS00Umd2elBzZ3Zja3VQeThmLTVvajcxcnRnRGJlaW5laF9ZaHBrd1k4akdaLWNyamd6UjVsOExSY2k5b0RxSGtvcnR1VXhKXzMyREc1QUxOd0lRdkVzNm1jOEVJZDVPM0RTTVllQ051N2tCeHZsRnlNQ2dYZGZ2RDctSkJBdjZmN3ZDa2hoQkZ6QlE?oc=5",
+      "published_at": "2026-10-26T19:19:10.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "ddda142c62735716",
+      "title": "7 Numbers That Explain Anthropic’s Business",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The New York Times",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ0gwS2ZOLWduOWZzM1FvdFNodDZnTU91SWR0U1dCY2VxOGxQcXY0THNnanJjWFhYb054WXotQWlvNTYwa2g3aTVEXzllX1pfTHcyTGhZVG1NT25MSmwzd0xUQ1c3VGdJbGJ1OHZPSm53d05zc3g2cGV2X3JlaTRGY3c3U045cUdO?oc=5",
+      "published_at": "2026-10-26T19:08:01.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "68af5a3a85a47d02",
+      "title": "Instant View: Anthropic IPO filing to put AI investment boom to the test",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNlJETmo1Z21kOWpEaXF5T25sQTVFTHE3Y3FRMWtHMEVyNlpNMXU0OVllN3dnRTlhRS1kMUx2T3JLZ0psUVJPQ29UMmNDREpWWGFpVUFEcHgxWjFzSFoydHgwR3o2R01sTVJaQjh6NlZHSV9sbFZTQ0RTSXhsSnNIV3Uxc1NVQUJla1ZZb3I2aDdiQ0x3Mm1wOUxvamE5a1k5dFRxRW5rWEVRZEpoZmc?oc=5",
+      "published_at": "2026-10-26T19:03:41.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "05e566dbfd54939c",
       "title": "Introducing GPT-6.1 Terra",
@@ -122,6 +382,19 @@
       "analysis": "rule"
     },
     {
+      "id": "fe8abc7718c7cd37",
+      "title": "Scoop: The FTC is demanding Anthropic execs testify in expanding AI safety probe",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Axios",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TSU12YjBVSEl2R0ZuM2lEWEUzWXZfdzRtaWRkT2NEM21hcUFPSzJqLXY5VTlxWGE4N3VVYWVQemt4SVdJMHVQY3BfNjgteURQYkFNcFdUaU9wd255MXhucjg1Q0dOdnhWTmhPRkZDM05tcnNGX2ZKRQ?oc=5",
+      "published_at": "2026-10-26T18:03:45.000Z",
+      "analysis": "rule"
+    },
+    {
       "id": "55eeb3b40ac17c37",
       "title": "Anthropic reveals $80 billion loss, surging revenue as it prepares to go public",
       "company": "Anthropic",
@@ -132,6 +405,45 @@
       "source": "The Washington Post",
       "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmtiU2pPX05WX0lNRndwX1E5VkZ5ejV6azhBVUpfWWJMM1RMeHcycHo5OGcyemtKZUVWOFdwQ3FYUW1zR2N0eEFqUEJPZ09JSkU0NzNZQzExX1FuMjRXaUtyODNSeDlRdWpsLVItdE01YXhwc0JreW5veWdHSUJXRjI5c0hTa0pmQ0ZKYzlVZGhKbmNmdlN6QTJjX3dRZU93LWZpVFc1UWppSEl5UlVrWnQ4SWsybkE?oc=5",
       "published_at": "2026-10-26T18:00:41.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "d2d46e16192ad1e5",
+      "title": "Anthropic expands AI support for nonprofits as it files to sell shares to the public",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "AP News",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjdfTUE5cGVOWkJiS0VWSEs5eW1ETHhUUWhWYzVTS3phaDlEMXZJN1dKay1OcGFsMUVwUlZFVjM4N0FGMENPam1qRzRTdFRVU1ZjbEZndFNuRHlQTEcyZl9fX3ZkQmRFX3N6X3RtLUNycmprcjZHV1VMbld3N0RlMnBWVFhtc3ZKZ0lkSktrY1lFY09Q?oc=5",
+      "published_at": "2026-10-26T18:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "2500a6aad8741c76",
+      "title": "The RealReal won’t let AI agents hog designer clothing",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+      "published_at": "2026-10-26T17:30:55.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "8ab1dd2a061343a8",
+      "title": "Anthropic plans to spend up to $567 billion on compute. Its IPO prospectus reveals plans to set up its own data centers",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Fortune",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT3ZKRlZPdXAyb3AyWmNaaDVmVkIxYkNlT3Q2YXV6cGZubVF0emQ4REdGUHIwdTR0bmpGZmhhTjdSTzQydWVBS3huUE54SDFCenhReHJVRWJKTUY0Wk9UcXFqRHJMVlAxZVAxRWNiLW16TmMxVGg0UE1vNkZtOEpHdUhaR1U4aXM3TDI3djV4WUhFYTZGLUVNWmpaRzNCQ0VjdHFqTFJYQmVnTmFTQ3pZalBrcWY?oc=5",
+      "published_at": "2026-10-26T17:29:00.000Z",
       "analysis": "rule"
     },
     {
@@ -161,6 +473,45 @@
       "analysis": "rule"
     },
     {
+      "id": "b7ebf2e52ae9984f",
+      "title": "Anthropic makes more per employee than every Magnificent Seven company but Nvidia",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbWFObk92aFlQbEtZY0RPRWI2eXE3LXhsc2p4N0k5bWNGeUxhQkNUazM0alVDUEo4Z2x3eGp4OC1nazJFQkFCRExSWXNYZ0xjT29ESlRWWGt4Q1NhQ0VwTElzRG9SVVpNa0FZdEV0MjB3X3UyS1d5QWVoVWlDVndoaEpxQ0tPZG1qSG1GMGl1MXRLWlhsa1I1Z2xZcEw5ck96UHRpR1hzV3JJdTJKVktKbk1mMldWSHpEdXB3RV92QmhqSlhpcG9sbGV4bl9RWVdIRDc3Mw?oc=5",
+      "published_at": "2026-10-26T17:11:10.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "4a8f41d180d7e408",
+      "title": "Five weird details from Anthropic’s IPO filing",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "published_at": "2026-10-26T17:10:23.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "dab7135470d8a311",
+      "title": "Anthropic’s dual-class share structure borrows ideas from Mark Zuckerberg, Elon Musk—and the New York Times",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Fortune",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSXhWeElLWFQtUDdYOFUyZ0llVjZuMEVkVUpnYlFraW5mNDk0bGVIbGFFWXBFblcyczRQYkdHSGVLVjAyaWF3MmhmbGEyMEo0ZHkyUDR3d0Uycm9uVXhXUTZJYUhhbjRfUHBZemp1SXhEQ3RTRHNDblhMdDJPN1A4Z1pSejdmRXU4ckVlaWxtUFFCRkN3UDViQzJWbXA1QWF0Tkg3V19B?oc=5",
+      "published_at": "2026-10-26T17:05:00.000Z",
+      "analysis": "rule"
+    },
+    {
       "id": "fab0dc6032b2a105",
       "title": "Anthropic's IPO: A close look at AI frontrunner's rapid growth, spiraling costs",
       "company": "Anthropic",
@@ -184,6 +535,19 @@
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/economy/2026/10/26/anthropics-ipo-filing-shows-explosive-growth-risks-and-staggering-costs?traffic_source=rss",
       "published_at": "2026-10-26T16:53:51.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "0cb7a170e6ea284d",
+      "title": "10 Surprises Revealed In Anthropic’s IPO Filing: CEO’s Personal Security Costs, ‘Safety’ Mentioned 250 Times And More",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Forbes",
+      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOSWhJLVI4ejM4anktZnBXeTlJWjV3ZnpaZmRiX0pDX0xWN3FVRnpKd015UXNnMDVvOElpWTVBdklfdzI0TUxLUDVncFJmeTgweVAtRlBPRXRHU0NnOGcwa1kyWVRWR0RCeW5MQ0c0U3Zjbkt2bXNRSUJocGVCR25EZTV6X0hqNlhwRDlGNThxdmJFaWFTa2pGa1RnR1MwTmd2VW5xRncwOWlkbjFGQ0JhUGFibVd3anQyZWFPZDgtbkFxWVpvMVdRei13NzUwNjVqYV9WaENYWnQ1cFdmMnA1TVZldlpwOWprR3RzbHhYME1ZdHkxdjl4aGpiaFctMktpZ2pz?oc=5",
+      "published_at": "2026-10-26T16:53:28.000Z",
       "analysis": "rule"
     },
     {
@@ -223,6 +587,19 @@
       "source": "TechCrunch AI",
       "source_url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
       "published_at": "2026-10-26T16:46:36.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "56958c204df128bd",
+      "title": "Anthropic files for potentially the biggest IPO ever as CEO warns of AI's existential risk to humanity",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "PBS",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZVJ3UjVBc3k5bGw5NW91U01kWGFyd05kT1BRb3hIODdqLTRUdExySGhIQWdUdkxfU2Zmc0V1cVF4LWNFVjRqTU03VVM3cmozcTkxTXozX0ZuUWcxRlNIc3lVNW1tWDJTcnVLTXl5aDNyangxYmZFSGtIemFIbUg1Q2h2UmZfOGtISkxPM2hwc2lPek93cXhiTjlMZFk4S2F1Z0U3MVhqZkJFUDA5MkJkNVhUdWswbHJCWUE2MHktNlRMSUpIbFVtR1lIbUZ5LUFHQVE4?oc=5",
+      "published_at": "2026-10-26T16:40:54.000Z",
       "analysis": "rule"
     },
     {
@@ -288,6 +665,19 @@
       "source": "AP News",
       "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNlh5REtLQ3ZiYnhaV0ZnZXRhMVkwV282YXN2ODFlQjA4NWx4UHdUWlNwV1lXZnFHcDZ2S2NkMGF3VnVkczNGb1NVQnJNSk5XdEIyTHZRTUlGYlFVSXpadjNTT0VsVjhMUUxqRExWOEdENGM3bl9HUmJ5eEwzT0Jhc2xRNzdfX1RpV3VVcjNxYjM?oc=5",
       "published_at": "2026-10-26T16:07:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "3de56e3440f7853d",
+      "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "WIRED",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GZHlRdFdLQkF0UWt4X0VTSUpVbEVLbk4xQzNCbWZRcnBNMzRYbmV3MjNjNE1IQ1RjNXFuSFAxS0xDaFRqWVkzN25jaHg1bjVheFhQSlpJYXA0VlllTUhqS05WWFFuSmhwZVd5eTllQ3RtMjdnUkhvMHpVMms?oc=5",
+      "published_at": "2026-10-26T16:01:00.000Z",
       "analysis": "rule"
     },
     {
@@ -408,6 +798,19 @@
       "analysis": "rule"
     },
     {
+      "id": "9d3b54bc1352e6cc",
+      "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "WIRED",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLTBBRFRWeVRibGk2M0ZfUmhBS2ltMElETzgxQ1VyQzlBcDc0Uy12ZnUwUnFhTTRPR05NY3huSkR4STVfbGR0NEhtUm9PRWh0MFVVVk01S1ljcXpxaU5mQjlRei1mUmR0RW9lZlpsdHJOTUhoYkVNakFkQkdqNHk3LUVDcHN0eENz?oc=5",
+      "published_at": "2026-10-26T14:50:00.000Z",
+      "analysis": "rule"
+    },
+    {
       "id": "dd4b05cb86a2e0aa",
       "title": "Anthropic warns investors of political risks as it prepares to go public",
       "company": "Anthropic",
@@ -470,6 +873,19 @@
       "source": "CBS News",
       "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc0hzQTk2MkxxWENxY3NHOGFXbGtMUTBFLXE2Y3VQTlA5VnhmQTI2UmRqUDJvclhJU2o2ZlowNzF2UnFzUVctRlhVRS1lRE4wZ0E3SXJqanRRaTQxX3dfay1mQ3FpMG5ELThFbkFxSmRQVFBPVkdiX3oxUmstLTkyTGFRLUYtWGxXZUoxMGR5TWNRR2NJQVNteWlEbFAzcmxpTmg1c253?oc=5",
       "published_at": "2026-10-26T14:32:21.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "f16aefe89a6e3f3b",
+      "title": "Working with academic communities to build scientific understanding",
+      "company": "OpenAI",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "published_at": "2026-10-26T14:30:00.000Z",
       "analysis": "rule"
     },
     {
@@ -587,6 +1003,19 @@
       "source": "Forbes",
       "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM3RCOFFDTDloVlhJRlhPdHhacmlVUnZHVHJwa2hhVm93dFdkYmZ2NnVtQzN1RkE0VTNpZW5SdTJ1dHl2TDZ0ejdaV3ZHZ0xCN2w2NWF3d1JlRVhmWllwUFpsNVFXMnZpUEh5VVJFNWRvVFVSVWpKX0E2RTFIVTlJRU5aX1liZHh0MGFVR2lYdEtyUXlaNWF0QzhyeTJIOVZRbU15VG54aG4?oc=5",
       "published_at": "2026-10-26T13:47:42.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "1a1d4bf2fc111eb8",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "company": "OpenAI",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "published_at": "2026-10-26T13:45:00.000Z",
       "analysis": "rule"
     },
     {
@@ -769,6 +1198,19 @@
       "source": "Quartz",
       "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFVUI2Tk1nUkNkY3h4Z1BGdlJ4ZW9iUHdIRUtwZ0Vlc0QwbjF0U05lcmFYSlhuRWJvdmlDeDI5bW5YaHNXa1Iwb0hqc19kQVp2d1I4TkZxMi1FZXZJQ2ZYNVg0UjkxQkZXZ2ZKd3lzbmo?oc=5",
       "published_at": "2026-10-26T12:24:09.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "52120a22348cfbc6",
+      "title": "オルカン、AI投資の採算性懸念で1.31%安 （10月20日〜26日）",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50NEVYY0JPYzZmM1dEeG8wUXA5UUlHRXk5WTVjbDhrQ2RmcDJOcTQ3TzI1bnpsMUpsVHVEZEp3aG5yY0NVSFUtVXVocmtPTnBDbm1FNEZmTWF2Y3F4Sm1KVl9FZ0ozdEtTSTVNYw?oc=5",
+      "published_at": "2026-10-26T12:21:06.000Z",
       "analysis": "rule"
     },
     {
@@ -1236,6 +1678,19 @@
       "crisis_score": 2,
       "source": "OpenAI News",
       "source_url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "published_at": "2026-10-26T07:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "8f2f08b6e197805b",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "company": "OpenAI",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-cut-incident-investigation",
       "published_at": "2026-10-26T07:00:00.000Z",
       "analysis": "rule"
     },
