@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T21:36:06.883Z",
+  "updated_at": "2026-10-26T00:01:33.370Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -27,7 +27,7 @@
       "資金調達": 17,
       "提携": 6,
       "規制": 13,
-      "その他": 78
+      "その他": 79
     },
     "Google": {
       "新モデル": 1,
@@ -41,7 +41,7 @@
       "資金調達": 21,
       "提携": 2,
       "規制": 9,
-      "その他": 52
+      "その他": 59
     },
     "Meta": {
       "新モデル": 2,
@@ -59,7 +59,7 @@
     },
     "DeepSeek": {
       "新モデル": 0,
-      "資金調達": 5,
+      "資金調達": 6,
       "提携": 0,
       "規制": 0,
       "その他": 10
@@ -104,10 +104,127 @@
       "資金調達": 9,
       "提携": 2,
       "規制": 12,
-      "その他": 95
+      "その他": 96
     }
   },
   "items": [
+    {
+      "id": "105001f3c062cc78",
+      "title": "AI bot tied to Anthropic reaches public Georgia data hub",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "FOX 5 Atlanta",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWlJvR0lQaXp6MHlOVkR6ejFSUzdwY1Y3VXpxRkVzZHZUcnd1czB0MmVIaWxOSnQ3UGlkeTdzdTNOR25vUUV2WXlFWkNVUGtfZUpYa1FQeHUtVFhpRF93dkhKN3BjUlZ4bVJIb2hXSTRWQU1tVVZESkJjT29XeEZ1R3hrRzFHR21wck9NajdEUmM3T2V0?oc=5",
+      "published_at": "2026-10-25T23:33:35.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "68076923392db284",
+      "title": "OpenAI Training AI in Systems Shut Off From Web Access",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "PYMNTS.com",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZUpDV0tUemtrRklOVENMNjBQVjQ5YXFrXzY5Z2pZYWVrYkFKbVJGMFJHWVE4TjBDUXp5Z2F0T2JRWTRPYlozbHdMaTM1NUZKUGdPcU1jYWhxalgxem9sT2xTbWpydVFYYWZBdEJnZkw2OEwwXzluMWVzVVlvM19nUVRSbmZpeXQ2aDFPOFVFS0c5NDUyQWo4ZGhtRXVlMHBBZjNmaVVEcUZnaFQtaHlrU1hR?oc=5",
+      "published_at": "2026-10-25T23:15:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "c5879399db1083d0",
+      "title": "China’s DeepSeek Nears Completion of 100 Billion Yuan Funding Round",
+      "company": "DeepSeek",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "THE ELEC, Korea Electronics Industry Media",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrc2hUV1BwMlRSSTV4N3g3c3ZVX3plMWdpREZrYzRsZmdqbWxfR3FETGtxRUhwdmp6Z0RGSE53UGFteV9iS20yRlVlejBaR1NIVThMMGlubHZJN1BMSEVoQ2M2YV9jeDg?oc=5",
+      "published_at": "2026-10-25T23:12:21.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "fe2966fbf5c37ecd",
+      "title": "Anthropic Sued for Training Claude on Elvis Presley Songs",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Vulture",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KOFJNYmtwN2N6RzRpRTYyOXBqWVEzdzlsSmRZYmtmSVpQTXhhTEVyYjIzZENGMTFmRUo4WnNQVEl0MGxYWmVXUy1fTm55cUM2WG9JS05vazV1X0N5a2xHMjA0ZGJ6MzI0UUk0RQ?oc=5",
+      "published_at": "2026-10-25T22:57:50.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "7b6aedfd7077bda7",
+      "title": "Anthropic Merges Claude Chat and Cowork for Enterprise Users",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "PYMNTS.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaXhaSHI3X3d5UmZNb1M5cnlUZEhGbFJ6Q0RVUWI4LVM2VmFpLW94XzVJQjBiUnN4akJKOHp4S01qeXV0dWxpNmJrUUhnanM5RDJvWi1tUVNOVEJFTzV3TjdRZ2RzRzNrYmdqbVhvQnFwQkRsQTVucjZBZFVYaVpaMlBTZmFjQTFuZU9IRGg5dHdvSklIOV9RMHY3cE9nZjFlYzhFcjFudGJCUTRNc3FxVW1jY3QxSW1Yc2c?oc=5",
+      "published_at": "2026-10-25T22:55:40.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "6e49292d4bfefb8f",
+      "title": "Anthropic's Claude accessed public US state of Georgia voter information, Axios reports",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX1p1a2NSeGhUY0p3Q2JMNzRPTmN6SjNWRFRNNlE0bXlnYzFxYWFWdTlfM2xPX0FTZlNWUlF6TUVOakxlMEhSUzhsQi0xWG9TVUhaWlVvbDVkbWVXOV9vLTZ1d2xGRFNWTWQtNi13MzhqTDBYSlVjb2pZQVJCS1hUTUZTR1U4U0JSUGctdGlsR21XVHlYaWxLWThLa19QQ3BGSTlYZGR1c3l1aldIbjE0M1IzY1NZeXNSazRR?oc=5",
+      "published_at": "2026-10-25T22:48:22.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "676243f9e499daa9",
+      "title": "Anthropic's Claude bypassed a paywall to access Georgia voter data without authorization",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Axios",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tOWdrOGlYS2tjeWxKTnl1U3YyN3pqMnM1YTYyZU5wQy05X2FvZFhUUV9SNGt1MVd4cEE0UndMTGJiSXRqZmxmWEVPS0NQazVGVUZNWGxGdWF4Q2hMbDVid192UjFKc2hLVlE2OUxyMFdxY0NLUXdJ?oc=5",
+      "published_at": "2026-10-25T22:38:35.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "5870aaf8934f9e53",
+      "title": "Anthropic’s Big Reveal",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Information",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZXd0T09fbE5uZDRfaFJubzdmUTNYWTMtWURWMFBEZG5YeTY0Mm94SDhUaktoTXFrOFI1Sk1vNjBZRDh0a2dPZ0MwaC02dVhYSWxlQkx3Umg0QWtteHVTcndCVnFoYlpEM3VIcXZTMzhCTTY4UDlndmZjb2tZWWtWMXloQQ?oc=5",
+      "published_at": "2026-10-25T22:01:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "c8df3fcbbb8b2af4",
+      "title": "Owners of Elvis Presley’s music sue Anthropic over un-permissioned AI use",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "New York Daily News",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcEZfdDVfMjR5UzZJYkFTa091dnFNcGRhV04wSHV5em5JbURvak9QSFNCT1ItbHdzb2wzOWhZUkRaVjVGVnd5WlNha1NZaUVjWXBmdndTNllBT3J2aWFWTl9PTTdwektrQjhtMkdKTzQ5YThYa19kSTN0Nm9sQzEtbmdzM2ZxbFlOT2tFNUw4eTJDTzFSaVYyU3NmbXVjMEhZ?oc=5",
+      "published_at": "2026-10-25T21:51:38.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "a6feae291b1a855a",
       "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
@@ -145,6 +262,19 @@
       "source": "The Needle Drop",
       "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaHlmX3AwSFA1VG9ET2dhOGlHcmJpVTlLLW1JUEJtSEhJYnExS3lrU0ppZTFhNHNJU3E1eDNCWnZHZHFHbF8xRmdTM050OGNOZkNiREdRQ3Z1Wll6b2xDTk9SbFVsTkl3dXY3QW9ITVVFUzVpZlN2OXktTnhIT2lOZURvM3N1OXZaa2lNLUg4R21iY0JtVnNvNUlWT1c?oc=5",
       "published_at": "2026-10-25T20:47:01.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "ab567499f35143cd",
+      "title": "半導体スーパーサイクル、AI需要で300兆円市場へ 先行き不安も",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QSExfUEwxdlI4V2x3Z3FBUHgtMFBqS2hvV1JYdW4zZ0hrRlBUaG9qVWxGZkVSRG9OS1FjZWI5VEdoRmtJVkpOZ1hBNm81T3ZwYkxfWkNHR05KLVNtUUNFLUNveWR6bHZtSFZmZQ?oc=5",
+      "published_at": "2026-10-25T20:00:00.000Z",
       "analysis": "rule"
     },
     {

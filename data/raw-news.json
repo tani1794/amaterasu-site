@@ -1,8 +1,416 @@
 {
-  "updated_at": "2026-10-25T21:36:03.090Z",
+  "updated_at": "2026-10-26T00:01:29.124Z",
   "window_days": 7,
-  "count": 2207,
+  "count": 2262,
   "items": [
+    {
+      "id": "7a695e6a87c7ec62",
+      "title": "Brazil runoff live updates: ballot count resumes after two-hour voting extension",
+      "description": "Polls officially close after Brazilian ⁠supreme court ordered the extension Sunday as Flávio Bolsonaro and Luiz Inácio Lula da Silva await results Live second round results The local electoral court …",
+      "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
+      "source": "The Guardian World",
+      "feed_id": "guardian-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T23:51:51.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "d60e7afeb8ba612e",
+      "title": "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
+      "description": "Still a teenager, Yamal could surpass Brazilian legend Ronaldo Nazario, who won the Ballon d'Or at the age of 21.",
+      "url": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T23:38:57.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "105001f3c062cc78",
+      "title": "AI bot tied to Anthropic reaches public Georgia data hub",
+      "description": "AI bot tied to Anthropic reaches public Georgia data hub FOX 5 Atlanta",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWlJvR0lQaXp6MHlOVkR6ejFSUzdwY1Y3VXpxRkVzZHZUcnd1czB0MmVIaWxOSnQ3UGlkeTdzdTNOR25vUUV2WXlFWkNVUGtfZUpYa1FQeHUtVFhpRF93dkhKN3BjUlZ4bVJIb2hXSTRWQU1tVVZESkJjT29XeEZ1R3hrRzFHR21wck9NajdEUmM3T2V0?oc=5",
+      "source": "FOX 5 Atlanta",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-25T23:33:35.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "2b32b1003db2dfd3",
+      "title": "ネタニヤフ首相 総選挙でトランプ米大統領にさらなる支援を要請",
+      "description": "ネタニヤフ首相 総選挙でトランプ米大統領にさらなる支援を要請 みんかぶ FX/為替",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE92Nm5Wb1hCRzB2Uzd2dFdQVU5EcUl6cGlxUjFVZG5UNUJ4Vldad1gyX2FVbUJLRWFLX0phNUwxdDBBRWNVRHRwMg?oc=5",
+      "source": "みんかぶ FX/為替",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T23:30:29.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "df7ffc898caaf2f9",
+      "title": "暗号資産で制裁回避、ネタニヤフ氏の構想に批判 総選挙控え",
+      "description": "暗号資産で制裁回避、ネタニヤフ氏の構想に批判 総選挙控え Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWktHSm1IUzdTbWR4UGR5YXJub1JoT2Z0TkJ4RnNkWlNvYzVWZHF0YzZLVUZUVVJsNDB2b2tRV1FyR1pXNWlUczdVQ0J1RTdMTTdzQzJfSUVrYzBjMVJrcHlIajNVRnFsTGdOSlVxWHdjQUFWUmVaZkdfNlVHMmJCM3phR3lPQQ?oc=5",
+      "source": "Reuters",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T23:29:43.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "16675e491c28155e",
+      "title": "Thousands protest in Prague against public media funding reforms",
+      "description": "Demonstrators allege Prime Minister Andrej Babis and his coalition's proposed reforms pose a threat to press freedom.",
+      "url": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T23:29:13.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "08520741a3d7b432",
+      "title": "独首相が連立政権の結束訴え、過激勢力台頭やロシア工作に危機感（ロイター）",
+      "description": "独首相が連立政権の結束訴え、過激勢力台頭やロシア工作に危機感（ロイター） Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwQ3lvTHl2OEZ4Sm1jVFJMMW8xNDdWcmFMaGV2MmwyeTFkMkdfYzctNldMTlpRSUNTbnZmYjFZY3hib21UV0lHZmVRSUNBdmloSGJDaGUtLWYzWXBFa2tOME9LQ0g5dVpYTExRc3Q5eGZIazNfTFpsYlpZbmNIZTQ?oc=5",
+      "source": "Yahoo!ニュース",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T23:25:47.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "5dff67174f39dea9",
+      "title": "Venezuela’s opposition leader Machado returns after months in exile",
+      "description": "Venezuela’s opposition leader and Nobel Peace Prize winner Maria Corina Machado returned home after more than 10 months.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T23:23:25.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "e9faa240915326d2",
+      "title": "独首相が連立政権の結束訴え、過激勢力台頭やロシア工作に危機感",
+      "description": "独首相が連立政権の結束訴え、過激勢力台頭やロシア工作に危機感 Reuters",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMZlQxZWpHWm5naTBqeUxMeXF0ZG4xcC14Vy1UZUlsblEzZFY5SmtYMnc4NnZrOXV0SVZkVzhvQ01iMDdtcm9DODVBN0lrR3k2VTNvSV94UkR2eExBNUw3TmdGVDQ0MVQ5TnRCSVEwVDBuQXpRa1JqOHRCb0Zwdw?oc=5",
+      "source": "Reuters",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T23:19:43.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "68076923392db284",
+      "title": "OpenAI Training AI in Systems Shut Off From Web Access",
+      "description": "OpenAI Training AI in Systems Shut Off From Web Access PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZUpDV0tUemtrRklOVENMNjBQVjQ5YXFrXzY5Z2pZYWVrYkFKbVJGMFJHWVE4TjBDUXp5Z2F0T2JRWTRPYlozbHdMaTM1NUZKUGdPcU1jYWhxalgxem9sT2xTbWpydVFYYWZBdEJnZkw2OEwwXzluMWVzVVlvM19nUVRSbmZpeXQ2aDFPOFVFS0c5NDUyQWo4ZGhtRXVlMHBBZjNmaVVEcUZnaFQtaHlrU1hR?oc=5",
+      "source": "PYMNTS.com",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-25T23:15:00.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "0a3bc3cc625c8472",
+      "title": "Reactions to election victory of Serbia's Student List",
+      "description": "Reactions to election victory of Serbia's Student List Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZFFtSkZDaktTdnFfWEY2d3JHRlVJbU1GT2cyN054TmtlWXd0VmNha1B6NHp4M2l4Wjd5T2hTaVFuNGxJZllacHFKbkR1THpqYktzYUZkQ3VENDNCdjRjSHVoUUZrOHBkbUM3dVc1NGZaR2ZJTWtlU0ZjREV0QkJ3cENMc2ZONXp5Qng1NzRsdzEwMlk?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T23:13:45.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "c5879399db1083d0",
+      "title": "China’s DeepSeek Nears Completion of 100 Billion Yuan Funding Round",
+      "description": "China’s DeepSeek Nears Completion of 100 Billion Yuan Funding Round THE ELEC, Korea Electronics Industry Media",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrc2hUV1BwMlRSSTV4N3g3c3ZVX3plMWdpREZrYzRsZmdqbWxfR3FETGtxRUhwdmp6Z0RGSE53UGFteV9iS20yRlVlejBaR1NIVThMMGlubHZJN1BMSEVoQ2M2YV9jeDg?oc=5",
+      "source": "THE ELEC, Korea Electronics Industry Media",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-25T23:12:21.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "fe2966fbf5c37ecd",
+      "title": "Anthropic Sued for Training Claude on Elvis Presley Songs",
+      "description": "Anthropic Sued for Training Claude on Elvis Presley Songs Vulture",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KOFJNYmtwN2N6RzRpRTYyOXBqWVEzdzlsSmRZYmtmSVpQTXhhTEVyYjIzZENGMTFmRUo4WnNQVEl0MGxYWmVXUy1fTm55cUM2WG9JS05vazV1X0N5a2xHMjA0ZGJ6MzI0UUk0RQ?oc=5",
+      "source": "Vulture",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-25T22:57:50.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "118985db23fbe085",
+      "title": "Bulgaria election heads to a run-off amid low voter turnout",
+      "description": "Bulgarians will now choose between President Iliana Yotova and former caretaker Prime Minister Andrey Gyurov next week.",
+      "url": "https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T22:57:17.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "16d7a971ed533d1c",
+      "title": "英首相、ＥＵとの労働者移動自由化巡る議論に前向き",
+      "description": "英首相、ＥＵとの労働者移動自由化巡る議論に前向き ニューズウィーク日本版",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Bc2xMUFFfd3pfand1WmpJZ1ZISGpfQUZzY1lvQTZHTHU3T184VkptLUN2Ym5qaXJTTnhhLTBLc2FhcGs4Q19xNEswNDVDU3RfQWM4dlU5M1BJUQ?oc=5",
+      "source": "ニューズウィーク日本版",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T22:57:00.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "218fa75a00c5f7de",
+      "title": "エヌビディア株、調整局面入り コアウィーブ失速で波及する懸念",
+      "description": "エヌビディア株、調整局面入り コアウィーブ失速で波及する懸念 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zNjhncW1UOFNIM2pTV3lBdHh5TXM1eXYyZWVMNnZ2WTNMdUFYZzNZdHlrdmw2LVdBcXdXbnliMktGWVlrb1daaHVfQlI4bk96dFZGeHZ4dWJ0RG5xU1ozUGZER0oydFljNm91LQ?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-25T22:56:47.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "7b6aedfd7077bda7",
+      "title": "Anthropic Merges Claude Chat and Cowork for Enterprise Users",
+      "description": "Anthropic Merges Claude Chat and Cowork for Enterprise Users PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaXhaSHI3X3d5UmZNb1M5cnlUZEhGbFJ6Q0RVUWI4LVM2VmFpLW94XzVJQjBiUnN4akJKOHp4S01qeXV0dWxpNmJrUUhnanM5RDJvWi1tUVNOVEJFTzV3TjdRZ2RzRzNrYmdqbVhvQnFwQkRsQTVucjZBZFVYaVpaMlBTZmFjQTFuZU9IRGg5dHdvSklIOV9RMHY3cE9nZjFlYzhFcjFudGJCUTRNc3FxVW1jY3QxSW1Yc2c?oc=5",
+      "source": "PYMNTS.com",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-25T22:55:40.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "6e49292d4bfefb8f",
+      "title": "Anthropic's Claude accessed public US state of Georgia voter information, Axios reports",
+      "description": "Anthropic's Claude accessed public US state of Georgia voter information, Axios reports Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX1p1a2NSeGhUY0p3Q2JMNzRPTmN6SjNWRFRNNlE0bXlnYzFxYWFWdTlfM2xPX0FTZlNWUlF6TUVOakxlMEhSUzhsQi0xWG9TVUhaWlVvbDVkbWVXOV9vLTZ1d2xGRFNWTWQtNi13MzhqTDBYSlVjb2pZQVJCS1hUTUZTR1U4U0JSUGctdGlsR21XVHlYaWxLWThLa19QQ3BGSTlYZGR1c3l1aldIbjE0M1IzY1NZeXNSazRR?oc=5",
+      "source": "Reuters",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-25T22:48:22.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "a09a0b9df72b6db6",
+      "title": "Serbia’s strongman leader Vucic concedes defeat to student-led movement in seismic political shift",
+      "description": "Serbia’s strongman leader Vucic concedes defeat to student-led movement in seismic political shift AP News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZV9RN2t0QWZJWXdXekhjZVNLbU9Xek1ibDZsQTVpMmszTWtzMjdpbTlCeTJEZE1SdkJobXVsWUxLT24tMlY2b1N5bWZCc3dEeDJ5MVduRUhnN3NQLUh2UXRBX0Y1ci1tanJXY1N1OWNMVkdVd1BlR0Y3UFM4eFZ1UEgtS3pXWHI5RmY2TXRlc0d6OEFQ?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T22:43:00.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "676243f9e499daa9",
+      "title": "Anthropic's Claude bypassed a paywall to access Georgia voter data without authorization",
+      "description": "Anthropic's Claude bypassed a paywall to access Georgia voter data without authorization Axios",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tOWdrOGlYS2tjeWxKTnl1U3YyN3pqMnM1YTYyZU5wQy05X2FvZFhUUV9SNGt1MVd4cEE0UndMTGJiSXRqZmxmWEVPS0NQazVGVUZNWGxGdWF4Q2hMbDVid192UjFKc2hLVlE2OUxyMFdxY0NLUXdJ?oc=5",
+      "source": "Axios",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-25T22:38:35.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "bbbe5de506a2812c",
+      "title": "高市首相、観光施策は「着実に推進」、「地域未来戦略」で支援",
+      "description": "高市首相、観光施策は「着実に推進」、「地域未来戦略」で支援 観光経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCUWFidkFYT3gtWXh1T2g3N1dIVXhtenc5UDYwSExBbU9qdHFNWk9WQXZKUmRLSlkwb3dQNFBkdHhiNUluQzktQjJBSDM1Z1hXcmYydw?oc=5",
+      "source": "観光経済新聞",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T22:34:19.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "1858f293ae31aa56",
+      "title": "官邸に引きこもり、人付き合いが苦手、側近がいない…「高市早苗首相」と「朴槿恵元大統領」に共通する“孤高”の危うさ",
+      "description": "官邸に引きこもり、人付き合いが苦手、側近がいない…「高市早苗首相」と「朴槿恵元大統領」に共通する“孤高”の危うさ Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MUFByUWYtb253T1FNY3IxcEhkbklBTUNmc2VWZ2xVRTNVUTVIbVM5NW9aY0FjZlV4SEV5RVpzVUxaZlRZS1NtNnROcFNCRzlJajU1MFZHSV9HbldycV9jN1RFTmpIU3JvWUV0Mzk0RmRyR1Jfb1ZFX0swLTZsdXM?oc=5",
+      "source": "Yahoo!ニュース",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T22:32:17.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "30cb33cbc22f151b",
+      "title": "Burnham to double spending on homelessness amid drive to end rough sleeping by Christmas",
+      "description": "Downing Street will allocate a further £432m in this week’s budget, bringing total funding for finding a ‘lasting solution’ to nearly £900m Andy Burnham is to double spending on ending rough sleeping…",
+      "url": "https://www.theguardian.com/society/2026/oct/25/homelessness-rough-sleeping-double-spending-burnham",
+      "source": "The Guardian World",
+      "feed_id": "guardian-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T22:30:13.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "67675121a04bd99b",
+      "title": "US appeals court appears skeptical of Trump DOJ's lawsuit over California voter rolls",
+      "description": "US appeals court appears skeptical of Trump DOJ's lawsuit over California voter rolls Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU25wRVhKZUxxMGJKMjRLWVptYXNHRVZ1UjYtM1VDUGFDOFRlSkY4eERuQm90RUV4a1R6NE1ia1FHZzItRTRVSHJOS3dvMXc4VURHTmxuMzBMWUZDOFI1SGhrVjdQMkJXM1ByRFRsNEVDUFkzX1huMWl1SEZqaWhYUERUNWxPWGlaMThLU2RjaUxUSTc4V3hRWWtyaVN3aENiSnZOMGRrZUlsQ3AtMHQ5WFVURTBrN1BW?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T22:28:34.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "98b22644aa7a8e58",
+      "title": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
+      "description": "French superstar Kylian Mbappe scores a brace for Madrid to inflict Barcelona's first domestic defeat of the campaign.",
+      "url": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T22:22:53.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "923dc6fa6d44c060",
+      "title": "Deeply divided Israel braces for pivotal election",
+      "description": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo",
+      "source": "BBC World",
+      "feed_id": "bbc-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T22:11:13.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "491c7aecd6e5b83c",
+      "title": "与党リクード、第１党困難か ネタニヤフ首相の進退焦点―２７日、イスラエル総選挙",
+      "description": "与党リクード、第１党困難か ネタニヤフ首相の進退焦点―２７日、イスラエル総選挙 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54enduMTJDWmlhTWJBNHR5WDNJUmhVWmZGSnlFRzhYV2w0NW1rS3NucHVxUjFRMjBaTXdrS2lkYi1PZjcySGt0ZnZCdnVoTEtZMmpaeHpXYWNELW4wZldxaU94Yw?oc=5",
+      "source": "時事ドットコム",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T22:08:00.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "66b773f763c6d3eb",
+      "title": "ネタニヤフ首相に賛否 与党牙城で支持離れも―イスラエル総選挙",
+      "description": "ネタニヤフ首相に賛否 与党牙城で支持離れも―イスラエル総選挙 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LWDVFUDNPY2tUb0g0cjhlVXo3R2pURmktU2xBbXU3Q1FHNkNUZng2d0FhT1NFWG9IQVZFVVpoenBPRzhOWVhLRFZRcjliZG5WVWsxUVo5bFM0Q1VoZzhILVR5Yw?oc=5",
+      "source": "時事ドットコム",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T22:08:00.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "51f1df1c39ce0098",
+      "title": "Why Israel's election is one of the most important in its history",
+      "description": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
+      "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo",
+      "source": "BBC World",
+      "feed_id": "bbc-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T22:05:30.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "5870aaf8934f9e53",
+      "title": "Anthropic’s Big Reveal",
+      "description": "Anthropic’s Big Reveal The Information",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZXd0T09fbE5uZDRfaFJubzdmUTNYWTMtWURWMFBEZG5YeTY0Mm94SDhUaktoTXFrOFI1Sk1vNjBZRDh0a2dPZ0MwaC02dVhYSWxlQkx3Umg0QWtteHVTcndCVnFoYlpEM3VIcXZTMzhCTTY4UDlndmZjb2tZWWtWMXloQQ?oc=5",
+      "source": "The Information",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-25T22:01:00.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "c8df3fcbbb8b2af4",
+      "title": "Owners of Elvis Presley’s music sue Anthropic over un-permissioned AI use",
+      "description": "Owners of Elvis Presley’s music sue Anthropic over un-permissioned AI use New York Daily News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcEZfdDVfMjR5UzZJYkFTa091dnFNcGRhV04wSHV5em5JbURvak9QSFNCT1ItbHdzb2wzOWhZUkRaVjVGVnd5WlNha1NZaUVjWXBmdndTNllBT3J2aWFWTl9PTTdwektrQjhtMkdKTzQ5YThYa19kSTN0Nm9sQzEtbmdzM2ZxbFlOT2tFNUw4eTJDTzFSaVYyU3NmbXVjMEhZ?oc=5",
+      "source": "New York Daily News",
+      "feed_id": "ai-companies",
+      "lang": "en",
+      "hint": "AI",
+      "published_at": "2026-10-25T21:51:38.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "4e5945a0ba0e1f8a",
+      "title": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
+      "description": "National Rally's Le Pen launches presidential campaign against backdrop of protests and social, economic discontent.",
+      "url": "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T21:50:36.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "8a527a46b92582b5",
+      "title": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
+      "description": "The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race.",
+      "url": "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T21:41:10.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "d72c94e3f4a4faa0",
+      "title": "Marine Le Pen launches French presidential campaign",
+      "description": "",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T21:39:13.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
     {
       "id": "a6feae291b1a855a",
       "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
@@ -28,6 +436,18 @@
       "first_seen_at": "2026-10-25T21:36:03.090Z"
     },
     {
+      "id": "5fcd2372390bf48b",
+      "title": "Trump VS California",
+      "description": "The Democrats have redrawn district lines in a bid to flip five Republican-held seats in California.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-vs-california?traffic_source=rss",
+      "source": "Al Jazeera",
+      "feed_id": "aljazeera",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T21:29:23.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
       "id": "e8e694c2d43099a2",
       "title": "Serbia's Vučić concedes election defeat to student-led protest movement",
       "description": "The country's populist right-wing leader of 12 years says it is \"clear\" his Serbian Progressive Party has lost.",
@@ -50,6 +470,30 @@
       "hint": "国際政治",
       "published_at": "2026-10-25T21:15:40.000Z",
       "first_seen_at": "2026-10-25T21:36:03.090Z"
+    },
+    {
+      "id": "445fe718c3722923",
+      "title": "自民党県議に「政務活動費不正受給疑惑」…本人の「呆れた言い分」",
+      "description": "自民党県議に「政務活動費不正受給疑惑」…本人の「呆れた言い分」 現代ビジネス",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2bUFJM2FWVFZ1ajZiSGtzQ2tBYmxObDFGbl9fb0xfNGE5RGJUYTZWYkJ4SEM0RzlWTFVnRDVRbFJacmp0WExrMGFkZ0hsaWs?oc=5",
+      "source": "現代ビジネス",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T21:04:04.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "4e84160a1fb111e9",
+      "title": "自民党／庁舎の木材利用促進、３００平米未満は耐火強化／官公法",
+      "description": "自民党／庁舎の木材利用促進、３００平米未満は耐火強化／官公法 日刊建設工業新聞",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE45c3llZFdpYk15eV9LQlA2NUxaTTBIbXdhdENncUNKWFR0M2VORFNWN2RzZDFGTHlfb2h4VU42ZU9aS1NQNEJN?oc=5",
+      "source": "日刊建設工業新聞",
+      "feed_id": "jp-politics",
+      "lang": "ja",
+      "hint": "日本政治",
+      "published_at": "2026-10-25T21:03:17.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
     },
     {
       "id": "e3d5025bd9723a4d",
@@ -196,6 +640,18 @@
       "first_seen_at": "2026-10-25T21:36:03.090Z"
     },
     {
+      "id": "2c4b72d538663880",
+      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+      "description": "Algeria to send troops to Niger in first foreign deployment since 1973 Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU0lJZ29paHVHYVJsR1ZCMnJ4MHFia1VjMjZMc2VFWDFfUHdjUVlNUXplaUQzTWdMc0gzRV8zLTBIQWg5R1ctZEN4M0RRWEVKbmllZEVXc1BpQ2FmMXF3TGNlenVnOEc1bEN0R0FvMklJWXNCLWNtTmlGMTc1Yi1sb1VHbF9mMm1OcVYtVFF6MmJLVmE3aHV2NzdNdzI0cEFURnR3eDd1VkpTeTNEOF9J?oc=5",
+      "source": "Reuters",
+      "feed_id": "reuters",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T20:08:19.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
       "id": "9a0261a88c6e2cf9",
       "title": "Musk says SpaceX raised $40 billion in debt for GPUs",
       "description": "Musk says SpaceX raised $40 billion in debt for GPUs Reuters",
@@ -304,6 +760,78 @@
       "first_seen_at": "2026-10-25T21:36:03.090Z"
     },
     {
+      "id": "4f5d098e935f3108",
+      "title": "ドローン操縦1人で同時10台超 上限撤廃、人手不足の産業界後押し",
+      "description": "ドローン操縦1人で同時10台超 上限撤廃、人手不足の産業界後押し 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UblE3RngzblpMRGRmWWkzTC05UjhHa2J5Wmp3U1h0VXBIWUFlVFRQeHdNVXBraVRsb19wdC1JQWY1ZjlteDdzMkd2aXd1elY4cHZVTGlZWXZWTVpZUV9QY3JGLXdfRmZxb2tNTA?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-25T20:00:00.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "284d4e429e56bf39",
+      "title": "スバルが欧州でガソリン車撤退 28年にもEV専業に、日本勢初",
+      "description": "スバルが欧州でガソリン車撤退 28年にもEV専業に、日本勢初 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NbUZyQUhHaEJxVFcySk5WYy1seTlFUWRRUXlMd2NXOGphZGw0UEJaNHk5QVdaZEJBdkx5OTYtMFB6Q2pHX3BGeUdRXzlOM0R6aGV0NGRFenZSaVVzUkFfdnIxck1tYzRTdzR2Wg?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-25T20:00:00.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "ab567499f35143cd",
+      "title": "半導体スーパーサイクル、AI需要で300兆円市場へ 先行き不安も",
+      "description": "半導体スーパーサイクル、AI需要で300兆円市場へ 先行き不安も 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QSExfUEwxdlI4V2x3Z3FBUHgtMFBqS2hvV1JYdW4zZ0hrRlBUaG9qVWxGZkVSRG9OS1FjZWI5VEdoRmtJVkpOZ1hBNm81T3ZwYkxfWkNHR05KLVNtUUNFLUNveWR6bHZtSFZmZQ?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-25T20:00:00.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "10d48aef0914b633",
+      "title": "デンソー入社すれば「2回家が建つ」 ものづくり愛知の就活、過熱気味",
+      "description": "デンソー入社すれば「2回家が建つ」 ものづくり愛知の就活、過熱気味 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJaXNPbkxrbjRQSVNlRXdBa3lSSWdDVmduWW1qeUZiTlVVRlBaRWNjRG1IVlB4dklVZW5IOTh6bWNlN0xUdHVCODVseHJvTGlNc003Qzk3R043aGxUVXhyZVFPbHBzSkxzSzZJVQ?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-25T20:00:00.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "f04c4ac2c84ec5f8",
+      "title": "米国株「買い」の条件は、市場の見方交錯 先行き占うテック決算",
+      "description": "米国株「買い」の条件は、市場の見方交錯 先行き占うテック決算 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jbkpnOE1mNFo1bVJHQkNCN3E2dThWZDB6WFlzNmcxU0NBWHE2S0hONHZiUzJNLVEzUGkyUUZFWnM0RTlxNkVlNFBGZU9ZX1ZGRFczdldSZnJfdW85c01zLVB5M0YxV1U1TkhhOQ?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-25T20:00:00.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "0b8d612842f8761b",
+      "title": "ECB、利上げ見送りの公算 仏金利上昇で「抜かずの宝刀」の出番は",
+      "description": "ECB、利上げ見送りの公算 仏金利上昇で「抜かずの宝刀」の出番は 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YdVNvZ1c4WHNjLXZxUVlicjRqVmpoSURSNE90cXAzOHA1QWNMbVM3MVIxV05kTVFxZDFPNXAxNnhHUzR1VTdubUtON1JSUmZ5a29BdmZuakg4QUdRWWVoVnBPNC1SVWNYT3hFRw?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-25T20:00:00.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
       "id": "ccd700de5b8f8af9",
       "title": "Macron accused of putting France’s right to protest at risk with ‘vandal’s law’",
       "description": "Making innocent protesters liable for damage would be bad for rule of law and play into far-right hands, say opponents Emmanuel Macron has been accused by trade unions of trying to curb the fundament…",
@@ -398,6 +926,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-25T19:25:47.000Z",
       "first_seen_at": "2026-10-25T21:36:03.090Z"
+    },
+    {
+      "id": "297a9ded3130d58b",
+      "title": "Le Pen vows to revive oil prospecting in France, calling 2017 ban \"stupid\"",
+      "description": "Le Pen vows to revive oil prospecting in France, calling 2017 ban \"stupid\" AP News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYTAwN0hYNWlxcGRhbjJNREJIRDI5M0ZYTDhUTXItemNJSDRieUJHMGJSdDBBNTJ4a3ZGdTYwY3BJb3dYa1I1TVd0RjJqSUw0T3lZai1iZ2RhWDUzdUs2c0d2ODFPeDlvZDBWX2NkTW1KOGtUTXROODFUZEw4bk1uczRtdk9SZWpTLV9BOHNMQVhIT3o1Qng1Q3lyS0Y?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T19:24:56.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
     },
     {
       "id": "2ef6781cf6aa7dfe",
@@ -844,6 +1384,30 @@
       "first_seen_at": "2026-10-25T21:36:03.090Z"
     },
     {
+      "id": "9487476a8cfe8720",
+      "title": "多重下請けや役職定年…日本の生産性そぐ「民民規制」 世界では異形",
+      "description": "多重下請けや役職定年…日本の生産性そぐ「民民規制」 世界では異形 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aQXR6WFhrZ0ROQmxsSmE2b0g2RzNIUHpiZUZmdi1fQ0NQUE5URk5QRUFYeXAwa05oN1B0eTNzZDNHVjQ2cE5RR0FBa2J2akhPOHRCSm5YU2lfQjdIMkpsNHVHeEJndHFXVjVNcQ?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-25T17:00:00.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
+      "id": "86738522099619c4",
+      "title": "サーモン3万トン、ブリは完全養殖 「海のタンパク源」輸出産業へ",
+      "description": "サーモン3万トン、ブリは完全養殖 「海のタンパク源」輸出産業へ 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oT0RkZi16MHlXd09NanBfRlRCZEx3MThDeHBndFpFWjQ1alByTmRtZjU4Z2NWdFVvWWpLd0hzRHNhN3Ewd2RYTlpKZS1SbWFkZXNlV2FnVnc3ZWxKZlpZT1JXQUtxWFFEc3FBZQ?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-25T17:00:00.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
       "id": "0d35a5b9cec6391f",
       "title": "Venezuela opposition leader Maria Corina Machado returns to Venezuela",
       "description": "Venezuela opposition leader Maria Corina Machado returns to Venezuela Reuters",
@@ -1046,6 +1610,18 @@
       "hint": "AI",
       "published_at": "2026-10-25T16:00:00.000Z",
       "first_seen_at": "2026-10-25T18:51:02.870Z"
+    },
+    {
+      "id": "e72fad2434df92e1",
+      "title": "米国、中東の要員撤収進める イランの攻撃計画情報受け",
+      "description": "米国、中東の要員撤収進める イランの攻撃計画情報受け 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nREVpbkJuV0F0R1hJbE13SXh3Z29SejRYWWpjdTFYZEFBWTBldjIyUmJhbnFmcWdiRi1fQ1NVVVpZZDNqWU9jNzFCZGEwZ3NwUVVQMTVRR21tZlBHcmlIRFFJbnNleFA1WDFGbw?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-25T15:59:28.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
     },
     {
       "id": "6a76358bc3c31b1f",
@@ -1322,6 +1898,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-25T14:00:06.000Z",
       "first_seen_at": "2026-10-25T15:54:54.622Z"
+    },
+    {
+      "id": "bb7c1e3b8be87920",
+      "title": "‘Extremely disappointed’: WA government seeks reimbursement from Deloitte over flawed university report",
+      "description": "State paid consultancy firm $166,000 for feasibility study on merging the three tertiary institutions Get our breaking news email , free app or daily news podcast The Western Australian government ha…",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/26/deloitte-report-wa-university-mergers-260m-discrepancy-ai",
+      "source": "The Guardian World",
+      "feed_id": "guardian-world",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T14:00:06.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
     },
     {
       "id": "19065e17d393f134",
@@ -1814,6 +2402,18 @@
       "hint": "AI",
       "published_at": "2026-10-25T11:30:00.000Z",
       "first_seen_at": "2026-10-25T15:54:54.622Z"
+    },
+    {
+      "id": "89978255adc85267",
+      "title": "インドネシア、シンガポールへのガス供給を削減 国内供給優先で",
+      "description": "インドネシア、シンガポールへのガス供給を削減 国内供給優先で 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPaGNKSkN3LVJpUnFEYVIwXy1VV0ktVmtuQTIwYmg4ZHFUZkxQM2c5OU92bEZQNWU3Ni1PTGtsM3pVRy1WVUotTzJ0LTlRbmVkcGZZdkR6VzJxbjVpSmJpOGZmOENqc01wX3RScw?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-25T11:27:11.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
     },
     {
       "id": "b8a3727afe2f79a0",
@@ -2416,6 +3016,18 @@
       "first_seen_at": "2026-10-25T11:11:31.915Z"
     },
     {
+      "id": "d652b7d4f6248feb",
+      "title": "「宇治山田駅周辺、にぎわい創出へホテル検討」近鉄GHD伊勢志摩支社長",
+      "description": "「宇治山田駅周辺、にぎわい創出へホテル検討」近鉄GHD伊勢志摩支社長 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzeDZuRWduYWJiYmU4RGJRRnlrR2w4bDFCN3F2YlRyVWVKX21SNkhLZ2lOWjdsQk14THI4cFlqaG1aMmQ4NHhBQlBiTUdvb1FjUkdmYldJcUp5dUYwbFBDX0tDOU1GTHgzVWV5WQ?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-25T09:00:00.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
       "id": "f5266d0d6d009a48",
       "title": "自民党青森県連幹事長の高橋修一県議が立候補の意向＜青森市長選挙＞",
       "description": "自民党青森県連幹事長の高橋修一県議が立候補の意向＜青森市長選挙＞ 河北新報オンライン",
@@ -2872,6 +3484,18 @@
       "first_seen_at": "2026-10-25T11:11:31.915Z"
     },
     {
+      "id": "bda53c4352032e4a",
+      "title": "Brazil votes in a tense Lula vs Bolsonaro runoff with US influence over Latin America at stake",
+      "description": "Brazil votes in a tense Lula vs Bolsonaro runoff with US influence over Latin America at stake AP News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSElINHZmYXlEYkdaa0FvWkZVOVU3Tm4yQmdjZ2tXMXJveURKTkt6TVJDN2lEc2ozZTM5M0F3cWZsamgwa2ZtVFRKajJuU1NXd21kVGdad2hBdnJwdlZLOXFrNjhTbFZIZE5QX2tzYUhrendRVTFuSHpjcU85NEotX29VdjJvd3hvZmlfaUlHSnl0Ym9IYjROMm5tblBjbXNTYzAxLTdRTjJqcDlQTU0yZUlB?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T06:19:46.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
       "id": "d1e53bb453c2088c",
       "title": "衆院比例31減案、今国会での成立に意欲 自民・村井国対委員長 [高市早苗首相][自由民主党（自民党）]",
       "description": "衆院比例31減案、今国会での成立に意欲 自民・村井国対委員長 [高市早苗首相][自由民主党（自民党）] 朝日新聞",
@@ -3232,6 +3856,18 @@
       "first_seen_at": "2026-10-25T11:11:31.915Z"
     },
     {
+      "id": "898d980d00162108",
+      "title": "スペースX、原点はロサンゼルスの倉庫 笑われた者たちの逆転劇",
+      "description": "スペースX、原点はロサンゼルスの倉庫 笑われた者たちの逆転劇 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13QXltZGU0WW16SWMtX3JmdjN0aXRpTVMwY3kyNXMzZzNyc0RSb0t5eUVJU2FyMi1uMEFxVEc2bkVGcTNfakdYc0lEcTA2UmYxMFZ5emZNaWVXTVBDdW9sdWV6RVpJMEFkOGRZdA?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-25T03:00:00.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
+    },
+    {
       "id": "177ee20d981065d6",
       "title": "Budget to include £1bn for social and affordable housing",
       "description": "The move will take funding for the 10-year programme to more than £40bn.",
@@ -3278,6 +3914,18 @@
       "hint": "国際政治",
       "published_at": "2026-10-25T02:45:43.000Z",
       "first_seen_at": "2026-10-25T05:55:56.413Z"
+    },
+    {
+      "id": "33815c89d18eb8a0",
+      "title": "Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign",
+      "description": "Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign AP News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkp6bHg5OWk2TXZXZndoNmVFcGlkRmktbEtieHpmckduS1BiSFB6dHN4N3dnamM2YUc0OVQ1d2VMSGZOUS1qQzRmRFZuZV9sQ0d5cjBwS1JJemtkRFBIZGdBSFpKVDd0bzdCWEpXSkJkZWE2ek9Pd1E1MXpSN0NVNUQ0enlqcEV6bFFhT1dJNWVjeUlxZHRjZFhtazV5TnpCZlBlUEc0eXA3SGZzQkdn?oc=5",
+      "source": "AP News",
+      "feed_id": "ap",
+      "lang": "en",
+      "hint": "国際政治",
+      "published_at": "2026-10-25T02:45:00.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
     },
     {
       "id": "f2f9af681b645ec1",
@@ -4394,6 +5042,18 @@
       "hint": "経済",
       "published_at": "2026-10-24T20:00:00.000Z",
       "first_seen_at": "2026-10-25T21:36:03.090Z"
+    },
+    {
+      "id": "89a3c465543856c4",
+      "title": "皇居ラン「禁止論」に思う 公共空間を共存利用する価値とは（鏑木毅）",
+      "description": "皇居ラン「禁止論」に思う 公共空間を共存利用する価値とは（鏑木毅） 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WaXZvb244MnBta2N3bGkxd0M1WC10aW1VTnhndXBSSjF4UGl0MjUxQy1tVUllQWVQM3h3eHRtOGlOV1hoak5VZGJGZkFaaGZpcWhpQkZHX3NGM3hRMDB5eTViS2ZTOVFmWXVTYg?oc=5",
+      "source": "日本経済新聞",
+      "feed_id": "nikkei",
+      "lang": "ja",
+      "hint": "経済",
+      "published_at": "2026-10-24T20:00:00.000Z",
+      "first_seen_at": "2026-10-26T00:01:29.124Z"
     },
     {
       "id": "793ea6dadff4b8b2",
