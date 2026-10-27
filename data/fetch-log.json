@@ -1,6 +1,6 @@
 {
   "news": {
-    "updated_at": "2026-10-27T16:20:36.935Z",
+    "updated_at": "2026-10-27T21:10:36.740Z",
     "fixtures": false,
     "feeds": [
       {
@@ -8,124 +8,124 @@
         "name": "NHK 国際",
         "ok": true,
         "count": 40,
-        "ms": 362
+        "ms": 659
       },
       {
         "id": "nhk-politics",
         "name": "NHK 政治",
         "ok": true,
         "count": 40,
-        "ms": 345
+        "ms": 749
       },
       {
         "id": "nhk-economy",
         "name": "NHK 経済",
         "ok": true,
         "count": 40,
-        "ms": 306
+        "ms": 657
       },
       {
         "id": "nhk-main",
         "name": "NHK 主要",
         "ok": true,
         "count": 7,
-        "ms": 250
+        "ms": 413
       },
       {
         "id": "bbc-world",
         "name": "BBC World",
         "ok": true,
-        "count": 24,
-        "ms": 265
+        "count": 28,
+        "ms": 597
       },
       {
         "id": "bbc-business",
         "name": "BBC Business",
         "ok": true,
         "count": 40,
-        "ms": 258
+        "ms": 612
       },
       {
         "id": "aljazeera",
         "name": "Al Jazeera",
         "ok": true,
         "count": 25,
-        "ms": 345
+        "ms": 717
       },
       {
         "id": "guardian-world",
         "name": "The Guardian World",
         "ok": true,
         "count": 40,
-        "ms": 382
+        "ms": 706
       },
       {
         "id": "reuters",
         "name": "Reuters",
         "ok": true,
         "count": 40,
-        "ms": 689
+        "ms": 1085
       },
       {
         "id": "ap",
         "name": "AP",
         "ok": true,
         "count": 40,
-        "ms": 697
+        "ms": 1032
       },
       {
         "id": "nikkei",
         "name": "日本経済新聞",
         "ok": true,
         "count": 40,
-        "ms": 704
+        "ms": 959
       },
       {
         "id": "jp-politics",
         "name": "日本政治（Google News）",
         "ok": true,
         "count": 40,
-        "ms": 660
+        "ms": 1022
       },
       {
         "id": "techcrunch-ai",
         "name": "TechCrunch AI",
         "ok": true,
         "count": 20,
-        "ms": 403
+        "ms": 724
       },
       {
         "id": "verge-ai",
         "name": "The Verge AI",
         "ok": true,
         "count": 10,
-        "ms": 392
+        "ms": 712
       },
       {
         "id": "openai-news",
         "name": "OpenAI News",
         "ok": true,
         "count": 40,
-        "ms": 474
+        "ms": 810
       },
       {
         "id": "google-ai",
         "name": "Google AI Blog",
         "ok": true,
         "count": 20,
-        "ms": 734
+        "ms": 1086
       },
       {
         "id": "ai-companies",
         "name": "AI企業ニュース（Google News）",
         "ok": true,
         "count": 40,
-        "ms": 1023
+        "ms": 1135
       }
     ]
   },
   "markets": {
-    "updated_at": "2026-10-27T16:20:38.166Z",
+    "updated_at": "2026-10-27T21:10:38.074Z",
     "fixtures": false,
     "instruments": [
       {
