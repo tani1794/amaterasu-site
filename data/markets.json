@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T21:10:38.074Z",
+  "updated_at": "2026-10-28T01:05:19.430Z",
   "fixtures": false,
   "alerts": [],
   "instruments": [
@@ -9,13 +9,13 @@
       "unit": "円",
       "decimals": 0,
       "kind": "index",
-      "value": 63268.4,
-      "as_of": "2026-10-27",
-      "change": 1078.72,
-      "change_pct": 1.73,
+      "value": 64018.1,
+      "as_of": "2026-10-28",
+      "change": 749.69,
+      "change_pct": 1.18,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/%5EN225",
-      "updated_at": "2026-10-27T21:10:38.074Z",
+      "updated_at": "2026-10-28T01:05:19.430Z",
       "stale": false,
       "history": [
         {
@@ -517,6 +517,10 @@
         {
           "d": "2026-10-27",
           "c": 63268.37109375
+        },
+        {
+          "d": "2026-10-28",
+          "c": 64018.05859375
         }
       ]
     },
@@ -542,19 +546,15 @@
       "unit": "円",
       "decimals": 2,
       "kind": "fx",
-      "value": 157.898,
-      "as_of": "2026-10-27",
-      "change": 1.068,
-      "change_pct": 0.68,
+      "value": 157.918,
+      "as_of": "2026-10-28",
+      "change": 0.39,
+      "change_pct": 0.25,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
-      "updated_at": "2026-10-27T21:10:38.074Z",
+      "updated_at": "2026-10-28T01:05:19.430Z",
       "stale": false,
       "history": [
-        {
-          "d": "2026-05-29",
-          "c": 159.27000427246094
-        },
         {
           "d": "2026-05-31",
           "c": 159.35299682617188
@@ -1069,7 +1069,11 @@
         },
         {
           "d": "2026-10-27",
-          "c": 157.8979949951172
+          "c": 157.5279998779297
+        },
+        {
+          "d": "2026-10-28",
+          "c": 157.91799926757812
         }
       ]
     },
@@ -1086,7 +1090,7 @@
       "change_bp": 0,
       "source": "fred",
       "source_url": "https://fred.stlouisfed.org/series/DGS10",
-      "updated_at": "2026-10-27T21:10:38.074Z",
+      "updated_at": "2026-10-28T01:05:19.430Z",
       "stale": false,
       "history": [
         {
@@ -1617,14 +1621,14 @@
       "unit": "%",
       "decimals": 3,
       "kind": "yield",
-      "value": 2.824,
-      "as_of": "2026-10-26",
-      "change": -0.013,
-      "change_pct": -0.46,
-      "change_bp": -1.3,
+      "value": 2.829,
+      "as_of": "2026-10-27",
+      "change": 0.005,
+      "change_pct": 0.18,
+      "change_bp": 0.5,
       "source": "mof",
       "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/",
-      "updated_at": "2026-10-27T21:10:38.074Z",
+      "updated_at": "2026-10-28T01:05:19.430Z",
       "stale": false,
       "history": [
         {
@@ -1694,6 +1698,10 @@
         {
           "d": "2026-10-26",
           "c": 2.824
+        },
+        {
+          "d": "2026-10-27",
+          "c": 2.829
         }
       ]
     },
@@ -1703,13 +1711,13 @@
       "unit": "ドル/バレル",
       "decimals": 2,
       "kind": "commodity",
-      "value": 100.2,
+      "value": 100.3,
       "as_of": "2026-10-27",
-      "change": -1.56,
-      "change_pct": -1.53,
+      "change": -1.46,
+      "change_pct": -1.43,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/CL%3DF",
-      "updated_at": "2026-10-27T21:10:38.074Z",
+      "updated_at": "2026-10-28T01:05:19.430Z",
       "stale": false,
       "history": [
         {
@@ -2230,7 +2238,7 @@
         },
         {
           "d": "2026-10-27",
-          "c": 100.19999694824219
+          "c": 100.30000305175781
         }
       ]
     },
@@ -2240,13 +2248,13 @@
       "unit": "ドル/oz",
       "decimals": 1,
       "kind": "commodity",
-      "value": 4073.1,
+      "value": 4076.3,
       "as_of": "2026-10-27",
-      "change": 34.7,
-      "change_pct": 0.86,
+      "change": 37.9,
+      "change_pct": 0.94,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/GC%3DF",
-      "updated_at": "2026-10-27T21:10:38.074Z",
+      "updated_at": "2026-10-28T01:05:19.430Z",
       "stale": false,
       "history": [
         {
@@ -2767,7 +2775,7 @@
         },
         {
           "d": "2026-10-27",
-          "c": 4073.10009765625
+          "c": 4076.300048828125
         }
       ]
     }

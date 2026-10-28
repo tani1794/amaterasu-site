@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T21:10:42.197Z",
+  "updated_at": "2026-10-28T01:05:24.459Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -23,25 +23,25 @@
   ],
   "matrix": {
     "OpenAI": {
-      "新モデル": 39,
-      "資金調達": 21,
+      "新モデル": 40,
+      "資金調達": 20,
       "提携": 6,
-      "規制": 15,
-      "その他": 99
+      "規制": 14,
+      "その他": 100
     },
     "Google": {
       "新モデル": 3,
       "資金調達": 1,
       "提携": 1,
       "規制": 1,
-      "その他": 8
+      "その他": 7
     },
     "Anthropic": {
       "新モデル": 14,
-      "資金調達": 106,
-      "提携": 4,
+      "資金調達": 109,
+      "提携": 6,
       "規制": 13,
-      "その他": 105
+      "その他": 110
     },
     "Meta": {
       "新モデル": 3,
@@ -103,11 +103,232 @@
       "新モデル": 15,
       "資金調達": 15,
       "提携": 4,
-      "規制": 17,
-      "その他": 132
+      "規制": 19,
+      "その他": 135
     }
   },
   "items": [
+    {
+      "id": "4d04c52f8520dee8",
+      "title": "See How Anthropic Arrived at Its Mind-Boggling $40 Trillion Market Opportunity",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVY4eEJBN1VUcXlIeVVvSWNKWTZLTFE5dFQxX0ZpMEVnMG41ZTN1YklfNDdjRVBScEZUZHJod0d3VkR2OGFjbmlqZnVINVJwRGpwUFg1aHd6V3JrY1Z0eEFvV2Q2N0NIdVkyWDVCajBXdHZ1SGUyY0VRT0pmZkFhNWhVTmhILXdwZ29aZ3dINmU4ZWxCQmNzZ3BpbFZaajlyUkZIbFpidkwxbVJxd2ZPMmxGd1o?oc=5",
+      "published_at": "2026-10-28T00:13:39.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "21a380a0c715f446",
+      "title": "OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Information",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHVUUUdOMmpGd3dxdWhJS0t6c3FlVmh1eXg1ckptWEFhX2JGbVByMGozdHZRQks4YUV0dzM2dWI0Tm05cmlXcG53Q09IYXNJYlFab3BjV0NSVnNoR05TQXFLQ2thQlV0OVFWdDJyM2wzOFVCdG13X0hsSHVQNFRTQ2hGNThFeFJjeWhqMlZLTW1RQ1RUNVU4UnBtMU93eEk?oc=5",
+      "published_at": "2026-10-27T23:59:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "8e33c55c94c491a5",
+      "title": "Etzioni on AI: Is Anthropic worth $2 trillion? Do the napkin math with this handy calculator",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "GeekWire",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVzM5eGJBVUR0ZEo5LTJMS3BCTUZlVHlWUTRXVFhUUWpHU0lxZEI5MktIckp4eF9pUVozMlRSSkgxajNUM3RaZXZrbEZGb2xxUjctdDF0ckNyeXVkUk5IQkxDZUJ4X2p6QWZIUUhrWDU2YzVFMFdUN1JSZmU5SGpQTUFRb3F3bnhUUUZVSm82N3pJWVV4LXhXcw?oc=5",
+      "published_at": "2026-10-27T23:45:21.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "6210b5315dda5af8",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "published_at": "2026-10-27T23:34:27.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "033d61c3f3f9a66b",
+      "title": "Anthropic to Newsom: Courts should have power to block risky AI",
+      "company": "Anthropic",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Politico",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUjZraEFFWjNFWGtzOUFEVW12Q1lRb0o1ay03UWU3RC1UYzRUVDRkQjJ2MGNtQXptUExnRE5MSE92RjQydzB6bE9RNTVUdVFhenNyYUo5QjllUUhETW0xcjJfd056Nnp4U25vWU1iQlhLYXdBS1JRSlZQTnBBTGlYSHVR?oc=5",
+      "published_at": "2026-10-27T23:27:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "68403036b11464ad",
+      "title": "Anthropic acquires a one-person biotech that used Claude to coordinate 11 labs",
+      "company": "Anthropic",
+      "type": "提携",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "R&D World",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaG5QVkVkdXoyQ0N3eEFmbjBtdGtNNC1jalU4ck1HZ25Ea011cWw0Y2VIY2k0RkhORWppN21pV0Jwd1Q1ZHpYOGNNTTVnM0RpYllJZG9wTS0xczNhMWt4ZE5QcnFVa3FjM0F5dnhYczQtSS1SOXdpU2dlUVhyQVNBd2phbUhOQzZOVktnQjlB?oc=5",
+      "published_at": "2026-10-27T23:10:01.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "1f592db8b0867fb6",
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "published_at": "2026-10-27T22:55:41.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "2d27ef900c672871",
+      "title": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
+      "company": "その他",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Guardian World",
+      "source_url": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
+      "published_at": "2026-10-27T22:30:45.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "55d127c81982bb0c",
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "company": "Anthropic",
+      "type": "提携",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SdnRpWjk1Nk1Fem1Ka0tLclJoVnFkQmZzVUVOU0hsQ0pwYVZLWVpCUGhkZ1Q0UmhYekhYcFdraTdtbFd5MF91MkhPVlJzYlM3ZXVlOUUwLUhDVVBMOUR4aXlVZXhRRlU?oc=5",
+      "published_at": "2026-10-27T22:23:13.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "2d38b960961378c4",
+      "title": "GSA expands OneGov agreement with Anthropic, touting steep discounts",
+      "company": "Anthropic",
+      "type": "提携",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "FedScoop",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50MnRrUWwyYUg2azNuWVBkYUdxeGxnVjJqVm43NThxQ2d0eGVrZUZTTHdIVngyWmVFRXdfUEFGcXVGMmFKRWxKVTc1Q2x3TDBSQ1pwY0NLUEphNUZwNk5nc2lSYlg?oc=5",
+      "published_at": "2026-10-27T21:58:48.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "5606110a6a5c3adc",
+      "title": "Anthropic's SEC filing devotes 90 pages to risk as it prepares for IPO",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOWxld1lscnMyQmlQTkUwRkVCN3Y2VkZmdDFyOHFUTlhZNmRQbUZiS0RMRkJjeUFreTVQbEhXaEhVUzRiNXZWdnZpbHpJVjFHaHZQUnQ4OWRKdjdLRGNvNFdFT3hFRGpMbFNuY3dqd2MyVGcwajRjankzaV9VdUtkLWdBd1cwWElZd1VJZTZlRkx4NFhqam9HNW1IZUpsbG50MUHSAacBQVVfeXFMTU5fMjdsd0x2TVFBaUxIMV9Vc1lTSjltazQ3bHI0TVFiaURGZzFEclZUcks4T2ptMmhZZDlyY1dGRXhMU0tUdl9aUDZYU25Wd3BaY3RzbGhERERBT195emhkZUQxRUluVjFIdU1oTUo4S09YN2REOGM4eWk5YnR3SGFkUnJQajExSXFpYTBDTHlSOEVuZllnbmJPaEdZQkExeDU5T3I5ekE?oc=5",
+      "published_at": "2026-10-27T21:56:58.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "f45c20f72906e910",
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "company": "その他",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "published_at": "2026-10-27T21:44:34.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "a9a2cf8c96fedf8c",
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "published_at": "2026-10-27T21:38:28.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "51bc191b95998c18",
+      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Ars Technica",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUTNLaEZxN01qbHhiZ3NjYWN0WHU2MmJ3Y1hWT1JHUVIyaUJCTkMxZjI2Zk05bmFLbzJxbDBSVTU2dEtobjlOdHE2VU5uQnpJVW9fMTVrUjZYc21WVUlDcEw3dHVoQ2FPQXkwYXlfajZZeDY1aWlZRlFnVG1JMFV2Z0twN3VvSlp1Um1LTzFQTXBad05iUV83dWo1Z3l3blJsd1RQRW5SS29QTXlmU0VUS212S08?oc=5",
+      "published_at": "2026-10-27T21:31:14.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "ab51db1bc66a16e5",
+      "title": "What smart people are saying about OpenAI's Exponential Time Hypothesis claim",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Business Insider",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYzd4LUcwQ1hhckJwck8wYVhfUlhIZ3c4MzVCZDB5cGt4aGs1VWJJem52am9oRjRtMGdVNHJaQmdGTW41bE1ma1A3UWNabjJGblVLcWtqazR2QWNBSS1jb0p2VHE2U2VITGpVZk5UNzBWVXo1LUpfdnRmbkk5RzNScWM5eVdFeXRyemVlXzJaNjA?oc=5",
+      "published_at": "2026-10-27T21:23:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "78033363c096949b",
+      "title": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwRlJ6YmptbDNmWFNOakJqd242MXFXWHlMZWlvNWlKRHRQTWRoSEdrUFdldVhUejVRcmRVMVlUYkdINEY0NU1UV2hyTGlPVnhIT0tpbHJzRjROODU1d3hyR05pZS1udmY5QkNoVWdzRXJ6Zkh5MHfSAXtBVV95cUxPcm9OSHFiTElodzF4SUFVQllqOXBraHVXS1E1NWNfMkVNWjJwcW8yLUd5MVhmaTEzUHV3a3A3anZsNXVHMmlsUUNJd2tnN04yYW1MOG1fdkR2anlxMVFqUVF0a0hMWEdidkFsMGhwd1VXMXlMd1ZaNGVTNDA?oc=5",
+      "published_at": "2026-10-27T21:12:55.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "94e225730e268fe1",
+      "title": "NYダウ、小幅続伸し15ドル高 AI関連買いも決算が重荷に",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WNE9VYV9VeGstc3JYNFBEQ2RkR0JRSG9hMmhaWi1SUFRjak9QZ1ZBRXc1TDlnZ2xJc3FYcFFOb1pfTzVMTUNGTExGQzhEOEwyWko5TDJUM2ViWGNRTEJBeWNnNlp6d1dvc3BzXw?oc=5",
+      "published_at": "2026-10-27T20:49:18.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "ba3cece69efb7bc0",
       "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
@@ -135,6 +356,19 @@
       "analysis": "rule"
     },
     {
+      "id": "c0d91d005b801490",
+      "title": "富士フイルム、磁気テープ20年ぶり大型増産 AIデータ保存リスク低く",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pdkdQMHFyS3pmc0p1cjZwSkR1VWFkMzFNVjhhVVhOa0tmMkRkNjk0cU5uWWh6eHd1Sng0NWJXZjU1Vy04NUhaV1NQYVlnY2VzVzJRQXR0VmJsU3BUYXlkLWMxV3NGQWp5enBvMA?oc=5",
+      "published_at": "2026-10-27T20:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
       "id": "eb3e4612f70797ec",
       "title": "Nvidia's worst nightmare may be lurking inside Anthropic's IPO filing",
       "company": "Anthropic",
@@ -145,6 +379,19 @@
       "source": "Business Insider",
       "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT0JQTk8zZ2tFMldwSU5hLUJ2NzNfMDlxWWlWX29sWGk1bjJzZzdzb0V3OXM3Vmd3VDRqeXd5NVF0b0VPdFNYeU1UMXJwQk11M0l2OEFJN3JTc2I0aWdiNUxibVZ3MlpZQ1B4YW9wa2t1QVZac1BlaUVPV1JFRERVRmlBRWhZR0dyeWR3T0ljS0JMZ1NvQVV4eERfWHZWLS1XMVZaNEV3QWZSQTg?oc=5",
       "published_at": "2026-10-27T19:42:27.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "778dfb6c696b5c6c",
+      "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "WIRED",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWHc2U05zanFidUNKUE1EdEtWVjFVNWY5Tlo4ei1NZUl5ZVZXcThIS2twWFNmMmxIbGJUbTc2SDlmM05HWVhFXzJkZGwweGRFZWV2TFVIeVF3NzBRV2ppSGdrOHlzQW5Cc3ktQUlJdi1JRWdRUGtOUm5OWk1VWm9XNDN1Um9nM0pmN0E?oc=5",
+      "published_at": "2026-10-27T19:39:00.000Z",
       "analysis": "rule"
     },
     {
@@ -197,6 +444,19 @@
       "source": "TechCrunch AI",
       "source_url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
       "published_at": "2026-10-27T18:55:35.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "66f6e1e9018b7ce5",
+      "title": "How AI agents shape experts’ judgment calls",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IaTRIX2lBc1kwcDRXenZsRXRxcy1vZWVQVlBGdlJsS1p1bkpOQzBpblRRU0l6elhUa0Z3a0RmOVlaV1NmUlgxU3pQWjE2UTVNcEdMdDBBQ0VobFBMS2k5MS1yQ3dQMzQ?oc=5",
+      "published_at": "2026-10-27T18:50:53.000Z",
       "analysis": "rule"
     },
     {
@@ -522,6 +782,19 @@
       "source": "WIRED",
       "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2c0RW1HV0NCbUFvRkNMVHJwWGVFRWcyTUtDVUwwNmREMVpxSTZwMTh4d0ttTnpfdFhFaUQ5OGdNQXoxVW8tZGZ1YlBSYXBkcnBYM1llcTNjZDJ3YnItMEJfa0hudWk5YWtRRWlaTnZpM2l4Q1AtaFR6bHpfVFBjTm5lSW5QTDgxMUEyLWJyWUZDQTM4elE?oc=5",
       "published_at": "2026-10-27T15:10:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "d42fb1eb3362412f",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "company": "OpenAI",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/retell-ai",
+      "published_at": "2026-10-27T15:00:00.000Z",
       "analysis": "rule"
     },
     {
@@ -8842,97 +9115,6 @@
       "source": "Google AI Blog",
       "source_url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
       "published_at": "2026-10-21T04:00:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "9201054eeb4c743a",
-      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-      "company": "OpenAI",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "OpenAI News",
-      "source_url": "https://openai.com/index/cloudflare-cyber",
-      "published_at": "2026-10-21T00:00:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "b2deaf97c98cf0ff",
-      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "company": "OpenAI",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "OpenAI News",
-      "source_url": "https://openai.com/index/empowering-cyber-defenders",
-      "published_at": "2026-10-21T00:00:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "6559d9cb2b558fef",
-      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-      "company": "OpenAI",
-      "type": "規制",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 5,
-      "source": "The Verge AI",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-      "published_at": "2026-10-20T23:04:19.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "d4e57614c374e23f",
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "company": "Anthropic",
-      "type": "規制",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 7,
-      "source": "TechCrunch AI",
-      "source_url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "published_at": "2026-10-20T23:01:23.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "fda7124672794d3f",
-      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "company": "OpenAI",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "TechCrunch AI",
-      "source_url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "published_at": "2026-10-20T22:24:02.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "7f6bb9c0aa5027ea",
-      "title": "Google’s more personalized Gemini AI is heading to your car",
-      "company": "Google",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "The Verge AI",
-      "source_url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-      "published_at": "2026-10-20T22:11:34.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "9ea810a533713aeb",
-      "title": "Anthropic’s cloud partnerships are getting messy",
-      "company": "Anthropic",
-      "type": "提携",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "TechCrunch AI",
-      "source_url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-      "published_at": "2026-10-20T21:25:22.000Z",
       "analysis": "rule"
     }
   ]
