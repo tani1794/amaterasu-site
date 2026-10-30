@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T00:43:49.734Z",
+  "updated_at": "2026-10-30T06:56:47.126Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -23,11 +23,11 @@
   ],
   "matrix": {
     "OpenAI": {
-      "新モデル": 31,
-      "資金調達": 18,
+      "新モデル": 30,
+      "資金調達": 16,
       "提携": 6,
-      "規制": 13,
-      "その他": 91
+      "規制": 14,
+      "その他": 87
     },
     "Google": {
       "新モデル": 4,
@@ -39,9 +39,9 @@
     "Anthropic": {
       "新モデル": 12,
       "資金調達": 135,
-      "提携": 9,
+      "提携": 10,
       "規制": 17,
-      "その他": 129
+      "その他": 130
     },
     "Meta": {
       "新モデル": 3,
@@ -55,14 +55,14 @@
       "資金調達": 0,
       "提携": 0,
       "規制": 3,
-      "その他": 3
+      "その他": 2
     },
     "DeepSeek": {
       "新モデル": 1,
-      "資金調達": 1,
+      "資金調達": 2,
       "提携": 0,
       "規制": 0,
-      "その他": 10
+      "その他": 9
     },
     "Mistral": {
       "新モデル": 2,
@@ -97,17 +97,199 @@
       "資金調達": 3,
       "提携": 0,
       "規制": 0,
-      "その他": 3
+      "その他": 2
     },
     "その他": {
       "新モデル": 12,
       "資金調達": 18,
       "提携": 4,
       "規制": 13,
-      "その他": 140
+      "その他": 147
     }
   },
   "items": [
+    {
+      "id": "1c7a0b7c6fe48446",
+      "title": "国会答弁の作成支援するAI導入 政府職員の負担軽減、デジタル庁（共同通信）",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xUFEyZHhGV1FYUXVQOVJqUWFVT19tS01vMkJkMzJtV2ppb1Zna1M0aU9LX2xKdW9xLTZpdHdmUHRMRHFWV25IVC1zUDRUWWZDR1hBcnhvdTRhRElrMFd5bnVvbVZJcjF0c3ZaSHpKYndfMElEMHd6QU1HNFZPMW8?oc=5",
+      "published_at": "2026-10-30T06:05:16.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "e0222e8324fcce8e",
+      "title": "The story of Anthropic in three numbers",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Financial Times",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ1hsZmJjWF9oVHMyZ1VuY2FtQXpsMUtVU2Iydlc2cm5tWFV3cE5HcVJVc0xzU2dDd1M2cTllQUprMzVxZm93aXJFVU1YUlQyamtnZ3B1bkpnTERuSXlXNEZGODNZUXUzVWs1NlJrSGUxNWhmamVKV2g0dXdoOGs4UThlWHI?oc=5",
+      "published_at": "2026-10-30T05:00:31.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "b36f7ba6b40e53fd",
+      "title": "Anthropic’s $100 Billion Bet Is the Only Market That Matters Now",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Bloomberg.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORzJ4dTF2TEtfTV9RYm1DWjUxQmRCLWpNenJJQTBFTERpdl9veUF6ZEpHR0s4NmNmdjRaai1tOXh0a05vQWs1SHZDdHlxclFGNVJIZHdqSkM5T3dXMzJKMXpoRHRKRWhFRGluRDZ1ZXoyamkyX01wdUJGU1U3UV90LXJ5R0tCZEduSXR1Y1dlbHowVjJLX1V6eGtNT3dDcHpUVGdqZl85MDhmTHRVbEFFRW5Rb0pHbTVCZlpZ?oc=5",
+      "published_at": "2026-10-30T05:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "6edfe4b84ea69985",
+      "title": "Widow sues OpenAI, blaming ChatGPT for her husband’s death",
+      "company": "OpenAI",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Courthouse News",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcXo1SWVqN1RYMlVxdURqWFg1LWJVWURwRjI2cUdpdVdHRXlPTGJiYWFFeGtMMkdzVFVGZUNMR3pndldYVTI4aHp0UkhvRnZjWXlaUWhkdnlCNUgzbWk4bXlxWU5FYUpPUmlhaTJFVk1GaHctdXU3ME1lcXVlWlhEU3JMaDJ6YWdmZks1dGkxVjNkZVZyaW5VMkpzTzE?oc=5",
+      "published_at": "2026-10-30T04:41:09.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "631315ce29bb13be",
+      "title": "Anthropic's heavy AI spending could hold the key to its profitability: Ark Invest",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR25fSGlQWHBHeFp3cVRsVWd2a2VyZFBCS1hBbjViMURRYzMxZDZWdUoxbWh0SlVqM0lNSWw4S1RaZXI2UTNsend0cjVTUUlwdHdDdGhUbWg1WlJtbXExejZuNW9jaUpIZV9HM1piRnFtVnEwQTEyWFhzZFk0LVJkYWc2dG14Zm9jck9PdkxMYVIteFVtRTVoaUhlNDVtejVJM3pCUjJOc2kyZ21xbnpkeg?oc=5",
+      "published_at": "2026-10-30T03:11:10.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "bcee7b1fd462530e",
+      "title": "深夜までの国会答弁づくりをAIが支援 霞が関の働き方改革ねらい [AIの時代]",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "朝日新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HU2ZhbHJMckI1UElpdnBpNnNTbWJpTkFTaUVCWjBndU53WEJHbkY1ZXVhR2ltZnFLZnpkWG04ZkRwV3pyaWdySk1EdG1CRUdFQWpWNFhnNHZnTFpjZzNRR0R0aEpvVmM?oc=5",
+      "published_at": "2026-10-30T03:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "cf5f8b8508d3f6df",
+      "title": "Stocks slump, bonds leap as AI giants' spending spooks investors",
+      "company": "その他",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPODMxOENneGV3TmZjN25YblpGTWpPOWRUV3Boay12aGxXWENUbUFLTnJzUURrYklnTkZjUHVOTTFCNkM5V0luRXRLcExGdXJxSEt4SzhFNzNSZG9qQ0F2c3RWclhFVnMySTNvRkJITU9OTVZfZUZ1NFEwX2x2enZVNFhuX2x5bGxRMnA3NElR?oc=5",
+      "published_at": "2026-10-30T02:45:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "87935142bc5262c2",
+      "title": "Japan's Nikkei slumps 3% as tech stocks tumble on AI worries",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQU9uNjhpN1dHMHNxdDR0SlBWa1VGV0Q5MkxrVWxKYWk0YWhtd2ZBZFM4dkYwaFNocVBfYmR2czM3VU9aUlV5SVMwRGtOWUJicTV4VFlZODRZRC1IMUw2aFZyYzcxUWpjWFNJbWY0YWFyaHJaRloxM1BWTlZzc1NzRkoyUm45aVNBM1hNODNWbkY4ZmpreWVmMXc4b2FGbkc5NzdWQkwwaWVCYm8?oc=5",
+      "published_at": "2026-10-30T02:20:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "7258ecbad2ae928b",
+      "title": "国会答弁作成AIの提供開始 デジタル庁、霞が関の業務効率的に",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhZkowM2tFQkVFR3lhV05tazZxanE3ako3eUpBSGhxWVZibHhsbTNnbjJGOWkxem9Fb2x0QkdhZUVHT05BYXhFMDBiNVV1aFRIVk5FTllDS2sxQkVwNG1la0VGdnJJRTFXX0lPRQ?oc=5",
+      "published_at": "2026-10-30T02:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "9e2fbd3a9566c711",
+      "title": "Nvidia in talks to give credit support for Nscale's deal with Anthropic, The Information reports",
+      "company": "Anthropic",
+      "type": "提携",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 5,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeFZKQnF5QVdNQlBQRzNMTE5PbjhUSXF0Y0NzYXpyaVJFeGplang3clhEYUtGUF9Fd2tPRjE0VllQVjV0cncwdU9za2RGZkFjQ2ZSTGdpQ3hXSkRBSjVtY2tvTzhEVTYtUkxYQjdfc1A3blJMd0c2ajJTUFp0eGMtOEtMbEk2NGl2Y2hrRFVlSHVaT1VQWi1qaGhLTkoyZVhXWFVFaXpDVEpZQV90MFNSZzN2dTl0WXJWZEhBRzJmUFVpNzI2Smc?oc=5",
+      "published_at": "2026-10-30T01:26:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "3e1cebb1f9f3c615",
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "published_at": "2026-10-30T01:20:48.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "b06a8a5848ae14fd",
+      "title": "Behind DeepSeek’s $16 Billion Funding: Chinese Tech Titans and State Players",
+      "company": "DeepSeek",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Information",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaVRfR3gweXFFQmFnT3VtZW9tOXZuaWpKeUFnUHNDSEtDTVEzS1MzTjU4UkZlWGxESE4wYUxVLTBjV3FpTEVJcWw5blBSZ3VEdEhrT1hLZTh1dGNNaWczenc3cVp6VnhhYnZoUWdoZXRRWDhUUTBqM016aWVUQ0t0bHpLV3lVTUdoNlRDZThFZGViR3ZNcW5ZLUFYSHpNb1hlR0tIck42LXN5bXdxOWc?oc=5",
+      "published_at": "2026-10-30T01:08:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "e7df92dc833086d8",
+      "title": "大臣の国会答弁 AIが支援 官僚による「問取り」も想定",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "テレ朝NEWS",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByelBaeTIySmpnRVd2YnVxQjZsVkpOLUNjQlJWX3ppOWVoOGhkX2tpODFROWM3cF9QZHhwcnBzZ09SWVVyaWk3ckNiYVdBSFRBRlQ5ZHVxZXo2b3lDc1VPZHRycE13dG5JdGM3MC1udTJGZw?oc=5",
+      "published_at": "2026-10-30T00:54:52.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "00d8e6744e9e1173",
+      "title": "「ブラック霞が関」脱却なるか 国会答弁作成支援のAIアプリ提供開始 職員18万人に",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "産経ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRZzhhV290R2FKeEpXZUhiWllDSHFPQU5vYl80Y1lvRUdtMWdUVnVidV9yOTc4T0NOSklRUmZZM3ZQdzRWeS00NlFzZFJTMnRRQk9YQU1sbF9tMXNMd0QzSFBObjVuaXFrTlNHdktWa0gwUGhJUFE?oc=5",
+      "published_at": "2026-10-30T00:50:24.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "de35f1ce6483a135",
       "title": "「ブラック霞が関」に神ツール？ 国会答弁、数分で作るAIアプリ提供…でもまだ「調整・決裁」の壁が",
@@ -148,6 +330,19 @@
       "analysis": "rule"
     },
     {
+      "id": "6302c9a7c9e08350",
+      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "BleepingComputer",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUnpDYUJPd25xV21KRkN2TDlYQlVlUDZqQ0JMdW5hMXhjTF9ORkJTaUV4RU9WaDYyU1FfLTZhRkdmSmlpUDBoZ29DSE5ibnFsRkxBZnEzckNuZFpXWXZzcjFtQ05ORVlQYUQ0OEdaMGhiMGFVZGE3eDdFZG1VZVY1WGhyZC10aGtVNDlMcFU1MmhCcG9wTDdLYmJuNlA4cVRHY1E0bGM5eUZCcHBLLVZZMXZDU3NIdlB3MGNOYmc5XzNtRWxGYkZhTUZtLVlkcWJFOHdGTXR4VkF4cktEUHfSAeMBQVVfeXFMTUpLSXZxOGhCSE00MjhXSk9fWG05V3FCcWdJamhpSzI2SThiNmtpSnBZSW5ldXd3TW1Cb0MwcHFlUVpvb3FpMm1lQURmWHlUWklzUHlleTJyeTV4TzhVOXF4Y0xiUk5SeUxNaFFVRlVEcEkzeG9zMWV3Q3AyMFV0c3NQd05BTWlINkwtYW02YkxuZTBmbHNyckJwOVNlck4yeV9ORXBJS1VOOThMTktLN2MwV2NsT081Z3ZqNHNoZmVfaWlkMGY1RjJ3MUdCOVo5Mmo5aWtGRFFUXzliSkRrNktoZzA?oc=5",
+      "published_at": "2026-10-29T23:35:52.000Z",
+      "analysis": "rule"
+    },
+    {
       "id": "b8dcf0c0683c3233",
       "title": "Amazon sinks as AI spending eclipses fastest cloud growth in five years",
       "company": "Amazon",
@@ -171,6 +366,19 @@
       "source": "The Register",
       "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcDBZYU5EcXJ6REtrNXp1OUNKMjhnN3lQdGoyV1pHMHcyN0FCQ1haaHIxTnl3YXpLOUZhblMtck9kZE1yRGFfXzFBSkR4dlQzTzlGQm5yM0xObGZ5YnNOd3hQQTdmT0NlVkFNa3FRLUc0VkhXLUhtMzBtd1VxN3ViQW50QW1WYlRReG95aDJZSTFJUzl3a0gzWWhZUUJLcnhMQ2stajBubmRBNjJ5SlVTSHFqdVR3Yzdsdm1Qd3dyVXQ0THVhc29sejB1U2lBZmhMbW5UZFFqMlZ5andmb2dMYm5CNA?oc=5",
       "published_at": "2026-10-29T23:12:26.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "dd6344a1e2ea6418",
+      "title": "NY株ハイライト ソフト株回復に息切れ感 AI代替懸念が再燃",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XQ0FkMmhsblVwNDZYaTc2OEs0dVQ4LWUtbWs1eGpENXdvWnVCTUZTaWMtUElLS29UcjN3Vko4bXlPbFJPZ3U3QmZiS2c0MFZCV2lYbXRoYUxKOFZFUkM3a0hORi1kSTI4eS1xaA?oc=5",
+      "published_at": "2026-10-29T23:03:36.000Z",
       "analysis": "rule"
     },
     {
@@ -340,6 +548,19 @@
       "source": "TechCrunch AI",
       "source_url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
       "published_at": "2026-10-29T20:05:47.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "c3fc4252b994efc4",
+      "title": "HPやエイスース、パソコン生産の一部を中国に回帰 AIでコスト高",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aSV9QYW1feEhpeHp2V3NxaUxxSVJkUEV6clhETjh4YW5YNU5Bd2NxMWlRNmowY1ktTXl4RjltVUhUQXhWSGRqR1E5R2paYzNsVWpGVUtta1RmalBReE9ZV0pSNUc5VVhNRDJ3Uw?oc=5",
+      "published_at": "2026-10-29T20:00:00.000Z",
       "analysis": "rule"
     },
     {
@@ -9258,214 +9479,6 @@
       "source": "Reuters",
       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUDVGa0hCU3ppVlo3amtaT1l4T18zcHNWWlFkV3Nveks4TDI5RGxkMzE1TFpEZjIxWFBZNl9ILU9SRVdzMEtCX2JKai1FbXlYTTFFX1Y0U3NfRGZuRGttQ0ZKYVhRS3NaUTlEWldxNzVIQUdzamNVMTE1cVg0N1VpLUlweVZlU3lpOGFRajJ6eHItM3NHTGlLVldsVWxnbTcwQncxekJITDJfWUxWUGt1OWx1Zm4zLXdEdm5ja0VPbXNlNmFxWWstT0lfVkZOQXNTNlRYcktB?oc=5",
       "published_at": "2026-10-23T06:59:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "8e4c181bd3ae86cc",
-      "title": "OpenAI and Poland’s NASK collaborate on AI safety research",
-      "company": "OpenAI",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeXlMRjNfSEdNVUNrX29ZdW16eE9Ra1ZIbFZhTDFGSXNfSTlNSHZFc3k5MW5FbFdiVHU3Y0NzYkhrSTY0SDFKWXBaT1FXY1pXeDQ1SXZZTUFLMnRxbDhJWFJQWUlHOE1QWXRRei1QM19ySm9udl9FR2ZIQTJVZ014RHd5eDVDYjhnWDFQdDVrQ3pCSXllRmZURzU0UTZfSmJzZTVtM0Vn?oc=5",
-      "published_at": "2026-10-23T06:25:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "8dffd79b79d154da",
-      "title": "Google opens its cloud to rival OpenAI, promises business data won’t train models",
-      "company": "OpenAI",
-      "type": "新モデル",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Help Net Security",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTU5XY25BOGxqMnlnTnluOHRxcVdONjQxXzBsNUVxWHVRdTlKZzJIREVsdnp2d2JRMlNlQlJoSXZjSHJCWnBuM0ViWmZQNEkwWmFwXzhVRDU3aVprLVVkczc3QTE3dDhHWlFvZFROY0NPbEhGczRMQXJrQTFWYnplU1Q3TG8yVFFUaHR5YnIzNA?oc=5",
-      "published_at": "2026-10-23T06:00:31.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "b6f9c515d991b004",
-      "title": "Anthropic, Please Get on With Your IPO to Soothe the AI Trade",
-      "company": "Anthropic",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Bloomberg.com",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUIxX2phbXhMZG53ekFDa3JvUVhDbUVxT3FQRVdjUUoxTUlwSXNsV0xVLTVDUU5pVWYxM0RETzhyMVhORjVlOXVJZXo2Z0pjZEgxbzNBYjVTazNnV0RfczZOSEp5dkNxdHhKZ2dUR0Fmdm8ydDc2WDJlWmNpeGhCZm1LazhUOW5FUjVoZXlaRWlTYkhjTnd4UXhuQVAwdVRjb05naTdqNk9kX0ZSaUFGa2JBZ2Q?oc=5",
-      "published_at": "2026-10-23T04:00:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "94cd4ca5fb66dd5d",
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-      "company": "NVIDIA",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "TechCrunch AI",
-      "source_url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "published_at": "2026-10-23T04:00:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "bb1db212c7a99229",
-      "title": "Stateline road businesses fear new xAI truck route could worsen Southaven traffic",
-      "company": "xAI",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "FOX13 Memphis",
-      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNYlF6eTVqemlSWFFaX21KclhRUGFCR3ZKU3hJb1hCWjQzWENMZHc5V3E1WUJreEJQSUt5LU5oT19qYzhxTUJjT0hBd0VwcHZTWnpNdmM5bWJTTlA5OFUxd0VhZ3hGVnNTcnkxMDI4R2lrUk8xR0psbXRMeV9TQlhrVEVSSE1PdXpHbU8tV0YwenRLblRabkczQzRaczUtYkE5Sk43V0lUWV9YT0R0VlN0akxYVjBROTVtTEpwWUJuWFdHSU5WMmtaa2hLdlRBcS1ocUZaSWNkSFdQdTZ0TDFNQUYwOXZEVHMtVXVPNmZYNkJsOVA1QXd4bg?oc=5",
-      "published_at": "2026-10-23T03:15:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "377ad1e255bcf620",
-      "title": "US tech stocks tumble as investors fret over AI spending",
-      "company": "その他",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending?traffic_source=rss",
-      "published_at": "2026-10-23T03:13:13.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "53900b85e51bf3ac",
-      "title": "DeepSeek, MiniMax Win Approval for Global Use, State Media Says",
-      "company": "DeepSeek",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Bloomberg.com",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbjhEQkNIQVp4Zi1Xc0g5RG53cGVsSzRWdE16QTNvN2llT1k1cEpiSklQZHhXM25HWDJNcnhLVlpJTFlvMDV3TVl1SlM3cnhLTy1KYW40aDFvOXR2NzlZQnl3RnNWODV5NmV0WkR5bzkwSGxnZ28zMUNjbFZpalU1X2FXekE1STJ0ajZmc1hfV0lmcFFXdjBVZURmVGl5WXY1YXl2SkFZWldHZ1Z6SFdvNWJn?oc=5",
-      "published_at": "2026-10-23T02:58:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "412fca56d8851ad9",
-      "title": "Anthropic security official warns of worsening cyber threats, risks to critical infrastructure",
-      "company": "Anthropic",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Anadolu Ajansı",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZEpidTlJWm1sN1E4X3dnMnZUS2VPcGVYRG00c3R2ZnVuZ2w5eml6RDZUczZzN0d2Ykp1NDUzY0hTZHAyN1JjQlZxLUpmcGw0WGdJVWdyLWRINlVzcnNfWW00VnQ3dWFjZkVCT1l2c3VuQXFNWlU0VWY2TE5WeElmWXphYlE2R0R3LVdTTU1ZcWRkWmRTYThKWm42b1piQUJMX08tZmFYc3g0bWlSellvSkZBQjQ0TlI4M2FibGlfNVRyZjdlRXZ6RGxVdw?oc=5",
-      "published_at": "2026-10-23T02:44:17.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "436a621d73a83afe",
-      "title": "From Spying at OpenAI to AI Agents That Never Sleep | Generation AI",
-      "company": "OpenAI",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "AZ Family",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT0xRZGlSVE1xRG13OXk5Y0ZUbU1pTDZkU2dfeXBlV01aT0hEdE9YZVo4ZVh5RXZlanhDVEZfQmVWTG55emR1NXRyWUFzYnUzVjFOb09ZQURuNmNScW5NbTJDNWNMLUVNMHRyVURRNHBqNU10YWhhNlhZT3NKUFYyZ3VHWHo4WXpyRHdOa1ZIRnZkMWNPY3hsU0VER0VDdw?oc=5",
-      "published_at": "2026-10-23T02:09:52.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "066cf3432e1a21d1",
-      "title": "OpenAI works to build support for $20 billion Project Camellia amid some community opposition",
-      "company": "OpenAI",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "WJCL",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMUxIZGd0NHNURWl5VlN4U3M3dkxCbndKYlltM0RZU05FVThhVkRTMnlfbmV4Q1JVVDRvd0c0eXF5dlY1ZFlGUmx5Y0hoLUEwWmU2Y2drZEtxdXZweFEzb0RtVV95RjMtbzg0WXozNUltaWdsazZmNF9MMndGTkNvM1lLWndjbTlDYVV6bVZLd3VLdUFBcVdveTZFR0I5V3NZbEg3WmNjVGpXX0Y3THFJRm43NVd6NUtvLWV0RXkyRTJldHVwN3NvcHdR?oc=5",
-      "published_at": "2026-10-23T02:03:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "c40c8a1055b0744e",
-      "title": "OpenAI bugging case raises questions about AI lab security",
-      "company": "OpenAI",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "AZ Family",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX0pZTHZSMU1JWXBLSHI2QzFWNDc5QWhJQTJtUDBkTDk2d002cmM1dkJIckt3bVRIbnB4S1oxNlRWVW9WZ1Z5RUQtcFBtcmVaMXpkNUNyM1pQZkZBTlQydjdwQm03WWwwamNNcTRxQktiYWFsNEFScmJPSExXU0xidkp2V3JMbjd5eXVRUmo5R1pjcTZWbEJ3OGppaw?oc=5",
-      "published_at": "2026-10-23T01:55:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "4c39b55761fa2147",
-      "title": "Local business owners trained by OpenAI share thoughts on $20 billion data center",
-      "company": "OpenAI",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "WTOC",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUkZscXNtZHFZUmZzXzdlc04wRE8tX09jWlZJZTBsdnlwc1dvQWRjY1RoWEdKSmtqNnMtZmdwQlBkVm1NRm04R1E1T2lGbUVnWDloVXY4RHlsbGtmLWt5VHIwWTZrTlZUSXFiRWZ6UHhmQk5rbkhSSXYwQ3VKcGM0Mm92WFNJclJMSXdsWUtqcG4xRFltNUFETlU0aVdaRmR0Qm9DY2p6VzBBZWVPejUw0gHDAUFVX3lxTE1zZG9yQUxFWUVXMGJYeFZlNERad1RYZ211TVN5UkhFMWpta0t3V2FicndDd21CQmwzUjRqelJYaTNfTERpR3B2VXhHejNDdTFGMDVGZ3ltbkd5UWkyN1N1Q1o4akdCSkdEOUtpbXU1NE42Y0Z2SXRUMU5XOWdMY1ktLTB1MzJPbEk0bUUyQldYbGdpSjBlRXYxZU5OVmFSRlRQdUc0MFg4dVpUNmpTRGZfaDV1cUd0ZnhsVWExSlduaW9CQQ?oc=5",
-      "published_at": "2026-10-23T01:42:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "6a92f0927e6e0c9f",
-      "title": "OpenAI Aims to Lock In $30 Billion Funding Round by Next Week",
-      "company": "OpenAI",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "PYMNTS.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmQ3OE5ZbG9HbmlOVEQ1aHlLd1d6Nml3ZXV6TlVVZUxWQVVzYXQyc1Etbi1MQWFhc05ZMjc3bmRNVDMyRks1c2E3bXRGZDJiSlBZZEhvbHp0YW9ySzB2RC1uQnUxSldMaDVFTGVmV2xMOUZ4Ynl1WW9XZFNqSTI3M3RBcDY4eHN5WXE1SnlLeGxmR0dOVGZfazdBT1lCUWs5U25ucFkyc2twMlFBRnpzLTQ4d3YwYmZQeUE?oc=5",
-      "published_at": "2026-10-23T01:26:06.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "1d555b3b10d43873",
-      "title": "メタのAIエージェント「Muse」、日本で開始 メルカリなどと連携",
-      "company": "その他",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "日本経済新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfMnR1WWJsMm9NWFhuQlBWaFJjaGNBSGFaM3FpekoySGlFeDUwQlVROTdQX2Zuc1RFNWtGWUFQRC02R1R0RVV0YTdGaERFUlAxMXFySmEzOHl1NTNoR0o5WjdObDRNU1lpUFU5dg?oc=5",
-      "published_at": "2026-10-23T01:18:54.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "be339bff4b90b498",
-      "title": "The Signal Chats That Cost OpenAI Researchers Their Jobs",
-      "company": "OpenAI",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVV6Y3hHVDlVbm1oZkFJNWJBV3hVS2ROYWJPX1cyTjhxMVNvbkRkWmFXb2RWTlpJU2gwdTBLRmpsYmFhMmFRdUZhNlJGdm96YWxIWVB0OHpzR0JrN0RuRFd5bXptVlE2T1FaV1JKY1prQUlZX1dBMkJqVi1OWGp6SjI4UUJISHN1bkVIZi1CNXB1U1gtYmFSdA?oc=5",
-      "published_at": "2026-10-23T01:00:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "085ba153da3bfb79",
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "company": "その他",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "TechCrunch AI",
-      "source_url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "published_at": "2026-10-23T00:45:37.000Z",
       "analysis": "rule"
     }
   ]
