@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T20:08:15.009Z",
+  "updated_at": "2026-10-30T00:43:49.734Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -23,32 +23,32 @@
   ],
   "matrix": {
     "OpenAI": {
-      "新モデル": 33,
-      "資金調達": 21,
-      "提携": 7,
+      "新モデル": 31,
+      "資金調達": 18,
+      "提携": 6,
       "規制": 13,
-      "その他": 89
+      "その他": 91
     },
     "Google": {
       "新モデル": 4,
-      "資金調達": 1,
+      "資金調達": 2,
       "提携": 1,
       "規制": 1,
-      "その他": 10
+      "その他": 12
     },
     "Anthropic": {
       "新モデル": 12,
-      "資金調達": 132,
-      "提携": 7,
+      "資金調達": 135,
+      "提携": 9,
       "規制": 17,
       "その他": 129
     },
     "Meta": {
-      "新モデル": 4,
+      "新モデル": 3,
       "資金調達": 1,
       "提携": 0,
       "規制": 0,
-      "その他": 6
+      "その他": 5
     },
     "xAI": {
       "新モデル": 1,
@@ -62,7 +62,7 @@
       "資金調達": 1,
       "提携": 0,
       "規制": 0,
-      "その他": 9
+      "その他": 10
     },
     "Mistral": {
       "新モデル": 2,
@@ -76,7 +76,7 @@
       "資金調達": 0,
       "提携": 0,
       "規制": 0,
-      "その他": 9
+      "その他": 8
     },
     "Apple": {
       "新モデル": 1,
@@ -90,7 +90,7 @@
       "資金調達": 0,
       "提携": 0,
       "規制": 0,
-      "その他": 2
+      "その他": 4
     },
     "NVIDIA": {
       "新モデル": 2,
@@ -101,13 +101,234 @@
     },
     "その他": {
       "新モデル": 12,
-      "資金調達": 19,
+      "資金調達": 18,
       "提携": 4,
-      "規制": 12,
-      "その他": 138
+      "規制": 13,
+      "その他": 140
     }
   },
   "items": [
+    {
+      "id": "de35f1ce6483a135",
+      "title": "「ブラック霞が関」に神ツール？ 国会答弁、数分で作るAIアプリ提供…でもまだ「調整・決裁」の壁が",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "東京新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TNmR1QkNlTXRHcDlsQkkwYTJheGJCSzdnSGhXTFh4ZG1SbFdKM2hmY2k1N3BEbThiRmVBM19MYnQ0NzlYTXJXaXgwQlNGX293NEdV?oc=5",
+      "published_at": "2026-10-30T00:30:51.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "05367ef1f34c39f8",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "company": "Amazon",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "published_at": "2026-10-29T23:42:22.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "5ed2fb033449781e",
+      "title": "Reddit puts logged in experience first as Google AI hits traffic",
+      "company": "Google",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU0Iwc2FJaWJ3bFdiRm1XamdXdmlIeTY5cHNmalZUQUxDQ2JPQ3hnV1JNMG9JSFU4SVdXakxSaWRrVV83anVKNDJET194MW1IMVdFZERZUHc0M1Awek5VcTJ4RDVHTkU1OEVtbDlQc3gwSXI5dEFkQ1A3cFBVZkx0NE9YblRBN2JaM0NkR2gxRkR6UEFYdlNpTmJiLTZtek5YUG5id2VfN3JqdGdiN3FUX1c0eXB2clpJYXdLVw?oc=5",
+      "published_at": "2026-10-29T23:41:53.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "b8dcf0c0683c3233",
+      "title": "Amazon sinks as AI spending eclipses fastest cloud growth in five years",
+      "company": "Amazon",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXhDSjU4RmlrZmUyT0E5dzJNbmJNaXBBdGhndktXeGUtZVItTWlpNDBZcXR5LTZDMjFOdzdXenRpTnhNd01pZXBXX0V0OTVlYkMtVlJnN2l4YS1QeENxeWlzUUN6bDZkeThpc1VBMUZDQjFYcGxrQWFrVzBVOXdueV9Tb0drZjZ4T3JYWmRXS2MwWnMwMGpoT05FU1lUVWhRbXlPZEpYUjZQbnlrQWh3SGdsTQ?oc=5",
+      "published_at": "2026-10-29T23:13:03.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "1ceabacd1546f085",
+      "title": "Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched",
+      "company": "OpenAI",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Register",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcDBZYU5EcXJ6REtrNXp1OUNKMjhnN3lQdGoyV1pHMHcyN0FCQ1haaHIxTnl3YXpLOUZhblMtck9kZE1yRGFfXzFBSkR4dlQzTzlGQm5yM0xObGZ5YnNOd3hQQTdmT0NlVkFNa3FRLUc0VkhXLUhtMzBtd1VxN3ViQW50QW1WYlRReG95aDJZSTFJUzl3a0gzWWhZUUJLcnhMQ2stajBubmRBNjJ5SlVTSHFqdVR3Yzdsdm1Qd3dyVXQ0THVhc29sejB1U2lBZmhMbW5UZFFqMlZ5andmb2dMYm5CNA?oc=5",
+      "published_at": "2026-10-29T23:12:26.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "70cae7a87b46451b",
+      "title": "More than half of Victorian lawyers use AI – but only a quarter have cut client fees as a result",
+      "company": "その他",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Guardian World",
+      "source_url": "https://www.theguardian.com/law/2026/oct/30/victorian-lawyers-ai-clients-fees",
+      "published_at": "2026-10-29T23:00:37.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "e1da055728f28500",
+      "title": "Nvidia in Talks to Provide Billions in Credit Support For a Cloud Provider’s $45 Billion Anthropic Deal",
+      "company": "Anthropic",
+      "type": "提携",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 5,
+      "source": "The Information",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmhuRzVaOG9xaEQ5U1VOcWNNLVN4YUZ0NUpfVnM3Qy1KakJVMWxDbW1heDFWNkxOR2dJbnR5NnJNb1dSb1RaTnUxTkZlQzU3b0l4SGFuR1RMVXY1dmlhTzJTVzd2VmstYWhyX0pyeGEwUTdKM1FtVGZQenBCdE5fSE9zZm8wOGNxUEQ3WmVrSi1ZSlZyX3A3cWRlTkRhMThMSjVEYnhuTGt6RE5janN1NkFUVjgxV3dVVklCcm1JUWlkRVpf?oc=5",
+      "published_at": "2026-10-29T22:40:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "16dc4a83247f1b2d",
+      "title": "Google Tops AI Smarts Ranking as OpenAI Slashes Prices",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "PYMNTS.com",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNjFkLTNGNTRuazhTTFlkZUNnVEhKc0x6UVNWXzVXNUJHN05fODNIU2E0OTdaQnhJZmVEYWliNHd4NHg5MnBWVHJHVFBNd1gtM09kOVUycFpsTm83ckcybkJsellhSFZBdzRMZFUtUXJId2lhS1k5M1l1Y2V6S00tNXU0OEtKRFJUTVRuaTNxUEdsWk1Qa3ROMS1GdkZleTN3cWU0VzFNY3N0OGNQSzZiam1B?oc=5",
+      "published_at": "2026-10-29T22:30:38.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "b8abd60f90cc4de2",
+      "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+      "company": "Google",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 7,
+      "source": "BBC Business",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o",
+      "published_at": "2026-10-29T22:17:52.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "dc1dd64a591f4e32",
+      "title": "Chinese hackers used DeepSeek and other AI tools in sweeping global cyberattacks, report finds",
+      "company": "DeepSeek",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "NBC News",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT2tBajRGcFVPX2VqQ282N2Z5bWNzZXlvaFlkNkw1djJST1FyNDNhWDAyVHRacU5WckRKaDNSTWJZNVRKZ3pSWi1NR0JUeGM0RlRCTlRncS1uME1lUDNOVExMdE51ODN1TEpLLUFFdUcxN19CRnNwOW9JVnpHQW9EZ0tFb2wtMkMzZTlJTEVpTF8tVUxGZENlUzdfUlk0UDdpYkRxQkh6d1RHRVZ5QUVHSlJsanRNQVZKNlNZ?oc=5",
+      "published_at": "2026-10-29T22:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "15c42a85d2462586",
+      "title": "Enterprise AI with a Consumer Funnel: What Anthropic’s S-1 Reveals About the AI IPO Era",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "NYU Stern Center for Business & Human Rights",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORlpfS0lYZ19HcTZRMzBudEdDUUhBSFZwOFJrQ21SNHk2OHk0aHhTa0NMQ3hLSnV3U2hCUEd5NnBOZldzRXdwQkdCVjZwZ3hZRk9wam8wZXcxdlM5UXRLejlabDlPQWtMQUxpRmZtaDVCTS1wUUp3MzM5OXFHVmEwMUxSSUYtUE1zT19nVXk3ZWFYVlN3dXBtdGh6MnJjek9aZkIzdHhJLVRSc3NoUzl4d3FILWRqbW5VY2RJQnEwUWg?oc=5",
+      "published_at": "2026-10-29T21:56:52.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "d0b14db7ba896058",
+      "title": "The Morning Risk Report: The Biggest Takeaways From Anthropic’s IPO Prospectus",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdnhGX1h6NVdhT0NmdVBZaDZEYUYzNGZnOGFsUm9lMTN0S0hTTVdQVVNPMTNXSzNKY2d5c0hlTDFmdjkzRlh0Q3NrQXhUbDQzakxQYkJkUE5kQ2kxMGFXbHN0aGl0Snoyd0lZWGlYZUZIN3M3SGZnNEwySmxoQ3BIYjFEQmJISmVOcHM5U3l2OG51VXhYRWg4U1VBTklxbWNuY1ItNUtGSDl6ai1Ta1FDTHBtWk0zRUdiMzhkZTRVQUxHblhvdTA3bQ?oc=5",
+      "published_at": "2026-10-29T21:55:57.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "4a0a759c59fd1415",
+      "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Dark Reading",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaUdrSjBtRmhSbVZHWDBCREw2RkdGQmVvYThia1o3T0NmUVBxRktMVlh3UG9Pb1A1bW1rV0hqS0swdThZQ2VHbnJ2MlVVNTZjRHJkalBVeU16dWhQRzVIWGN5MXNER0I5QmtBSzVUajdVT3Z5TmdBXzVCbUYtVnllcy1zeVY2MGpya1hYUkVnQXFiODRES2NEX18tdUU1ZHZONVpQaQ?oc=5",
+      "published_at": "2026-10-29T21:53:25.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "ff3d3b393dfa2787",
+      "title": "Anthropic Plans IPO: Direxion Single-Stock ETF to Follow",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "ETF Database",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNElOSkQwYXNnTWtaTlpBODQ0akZYUlE0bjhDbW14cXNodHV4aTM3Vk5nRncxZE5ZMzRzbWtqSEFEWFh2TU51TzN3Z0NuMXF1V1puUmphaUZyUm12bTFBclk1TnJnUTBHVm1vZS1PSURCZW9uLWN5djU5cW13R0VnZzVBZlgzSGtrZVZHOENiZXdfUQ?oc=5",
+      "published_at": "2026-10-29T21:22:30.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "0423446fba732bf9",
+      "title": "Bolsonaro ally blames ChatGPT for now-deleted 'president-elect of Brazil' claim",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLVFnNFUyVW1scnk2Ni02NDdLa0xabkpPUC1rZUpVUG8xYXhlNUg5a19jSENoYk5ldl94ZXNNV0tfYXJjWGFaVU5zamlUNHlqU2NwU0VyR2dJVWVuakI0cG9vQy1RLWlnbmNfdGNyMzdSVUk2UDNFaDBPcUloWGxZa0k0b0lEakpGaFdvb3VxRFowR3N4enZGbGJrNFNaYmptUE92cjNTckNTMVhSY1pHUXVLY0tySDBpMktEbVVJeHhwVzJCLTFITA?oc=5",
+      "published_at": "2026-10-29T21:13:42.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "9b908fd2e1cdffc4",
+      "title": "米建機キャタピラー、AI特需息切れ懸念 7〜9月4割増益も株価9%安",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tUUhBNlNaLWFPUWVjcVMwUnIyaGtUeWxiYm5rZmZ4VjJ3YWs3Tlg5LU1fUHU0TGxfbXU3cF95VEh2czZHQTBpS0hNWVNGVkdhWHdpaG1BTXZ6VWI2VE5KWDVMNzV3YTdWY1Q4SA?oc=5",
+      "published_at": "2026-10-29T20:15:33.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "6224c596d37f354a",
+      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "published_at": "2026-10-29T20:08:31.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "24f3c9778b1e494a",
       "title": "Rivian expands joint venture with VW to include AI assistant",
@@ -132,6 +353,32 @@
       "source": "TechCrunch AI",
       "source_url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
       "published_at": "2026-10-29T19:56:19.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "49d615208e329963",
+      "title": "米GDP3.4%成長、AI投資拡大が原動力 輸入も2ケタ増で世界に恩恵",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRZy01UFFwSHhUV3pRN0FlQVNyTVY5bm9BSW1OQlliaWtBLXdsS2xwNEk5WFJUMUxBWHJKUXZwNVNBLW1aWlhVNWFzY1V3TVdmMFhlRG9aNkxfWWRjbDhlRl82eEs5Z0hMc20zbg?oc=5",
+      "published_at": "2026-10-29T19:37:38.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "1adf6e98a0b1eaf7",
+      "title": "SpaceX’s Largest Revenue Source Is a Finite Deal With Anthropic",
+      "company": "Anthropic",
+      "type": "提携",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Bloomberg.com",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ044eGtubmthLU5BVE1IbUVZbGQ1MklPR1R2MzhTQ0xRdE95ZUEwSEx5b0ttZkRrWDNLWG4zQ3d6S3IwZjBQbUphajhfY2VCa0NIbkx2TEc0TWpENmRvS2ZpTHB1TVNKMEJvNjdlNHFNYVRzZUwtb2N6SnZoeG5ISmtwOUFsajdYMnd4dlJBcm1uQ1czNzVlRTlDUE81QVo3QW1kTGFoSXBmT1gxZ0RRa2ZPNm4?oc=5",
+      "published_at": "2026-10-29T19:19:12.000Z",
       "analysis": "rule"
     },
     {
@@ -184,6 +431,19 @@
       "source": "Reuters",
       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVJkSkh4RzdFdms2Y0ZpUGFVN0NReFlhbzJYZFlZTHlwZVRMenpJSXVwOW5vNzF2NW5FZldUQ3d4V003Yi13ZWtub0hIanAzdkVBcU5sMmgzSHcwZFg4X1ZnbDlxWjM5WkV4YUdDRGVfdXNvX0JHSkF6UThZdWNkcFRyUEwxQmlrMHFaRDcySTZRZTYzbU95QTJHeXJvUE1XOWluMV9ndw?oc=5",
       "published_at": "2026-10-29T18:47:43.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "2a1a8a7c88a01340",
+      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "company": "Google",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "published_at": "2026-10-29T18:45:31.000Z",
       "analysis": "rule"
     },
     {
@@ -288,6 +548,19 @@
       "source": "Reuters",
       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa0FMRUdJbXh1dzBNXzZKRG1aUC1scGpiM2RhVi1rUVZSOEhLTzNIV2pGY1lPRjdaT25sYVlEZW9Wa1B0bFpBaDRQRFNLdHFUQmRsVERzbnAxUHZpYUYzS09DZHJxRmdKVF9aTTY3T1U0SFg5Z1c2Y2czaG9MN0VZSTRhMEVOSWxSTm5zSWZPZ2NzUHE2SkJkWktiWVRBWE9FR0RSbl9HOA?oc=5",
       "published_at": "2026-10-29T17:05:43.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "b49fd357e09d050b",
+      "title": "Fanatics revamps outfit curation tool with OpenAI",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Retail Dive",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaVIzRTh0aG9fOFdHLU1JUUVOY285OThMem45VzliU1A3T2RaUXFXa1ZjejJEdWlhd0xPTmJmY0tHWC1uRkFzQ2E1ZjQ4d05Fc2pNcTRUOWd0bkdZREtQeGt6VDJhVlRnTXFqX2xtN2haUUtpZ2dYU2RibW1iUmozQ3hR?oc=5",
+      "published_at": "2026-10-29T17:01:21.000Z",
       "analysis": "rule"
     },
     {
@@ -405,6 +678,19 @@
       "source": "MobiHealthNews",
       "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVWZCc3Y1LXQ1ZFlscUEtTDRBR3ZTTmUza3VTcmtHSzQ3NmFWM0ROUTNRWVpMZzd4TlJIZEJGbXpQY3ZKR1ZGQVg3S1RXaVdaQkJNLUduZWxXbGNwdmkyamQ4M2hIMHhSMXBKVWZ2ZkNKZHV0dzZUdXRmMjFjOXFrdTlIbEEtejk2M2NmY1RjMA?oc=5",
       "published_at": "2026-10-29T15:49:31.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "9284c53c5c4f56ba",
+      "title": "Anthropic Launched A Consulting Arm. 5 Ways The Industry Has To Change",
+      "company": "Anthropic",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Forbes",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTGRzaFc1Qi1PLUNMVXNod05hdlZtSlQ2Mk10UWZCamdST1RhWEhpcHdjU0syd0NWZ0VRNTlCM2ZnZkY0TnVObFdCWWRmMmkzWHN1em8wTGZBc0lyRS04eDdQT0t5TkdpZUowT055MEk4MFBCcXNyazN0Qm0tTk9FY0VQbHYyR21pM0p6ck5zVlNKWDdCYm1iUTVjR0huUWF3M3JzR01FeHd5OUx3OEtWMUU4ZzlwVVVrNGoyNnBLLVpibEJN?oc=5",
+      "published_at": "2026-10-29T15:30:00.000Z",
       "analysis": "rule"
     },
     {
@@ -535,6 +821,19 @@
       "source": "The Verge AI",
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
       "published_at": "2026-10-29T13:30:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "466a0f230f6b33a3",
+      "title": "米7〜9月GDP3.4%増、消費主導で成長拡大 AI投資も旺盛",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02cFJEcWQ4NG9rR0RsVE9sMEc3eVFWci00TFB5bmlzYmRHQ3c0dGlyVUNyelhnY0dWdXlPQnVFaUt0M18wb3pnajBfNzRHaTRnMzBOSnZpbWpsLUI1NEZGR2VZdzZnbndhS3ZZdg?oc=5",
+      "published_at": "2026-10-29T13:14:04.000Z",
       "analysis": "rule"
     },
     {
@@ -821,6 +1120,19 @@
       "source": "The Motley Fool",
       "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR0JSQ2htTi00NVRkeXNyWDdKRmJ4ZDNYVzhfN3FPODQyUUFxZXRHeUlyc1lMM0FpY3Z6RU51QTh2OFdwcEJrS3F2cmRXdEZWbDRhMW5OUXFLMkNsNzRjZ0syWVdXeVdVZHZKWmZkMG5MMGJFWUU4VVNHLXVwSFp6OUlwQzljOG80TkFGRWQydVJBSUZIYm5mbmpGNzA2UTRBb1cxdmlkMUk?oc=5",
       "published_at": "2026-10-29T08:45:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "b5ddf4b966d0a44c",
+      "title": "The Dark Side of the Anthropic IPO: What Happens After You Become an Overnight Multimillionaire",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Inc.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObG83WllJOC1mVWppQnBxNXh3d3ZpMGNJeG5TX3pod0lrRnNrZU5nekIwRlNJd3h2ZXgzNHlUZVM4YjhyVWpCdEw2Slo4cndhZHk0ajJIWGJRM1pzUGdBczdJeThhSDZ0OFl3S0pnMHVzM1hxcHduLXJNTmxPQzFwNmVQdE5BUk52WW1HTXhHU3pUMi16Q0MxU1Q5ODVxMFBHbHlWOXBRUHd0SkZJNmhxMkZfSFQzR1R0ck8wU3hQVXR2cjdoVnFWNTlJbnk2cnRBS0lyWC1HWWs?oc=5",
+      "published_at": "2026-10-29T08:11:25.000Z",
       "analysis": "rule"
     },
     {
@@ -1237,6 +1549,19 @@
       "source": "Gizmodo",
       "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ3hIMUZpekhyUm5IWXhkcnBxcG1SWmJPTzJCTkVPOVhQRmxsNXMyZHZjdGNNUmZWQk9xR1lPenppcS1iWTA0OUJrdkV6VGQ4dkpKSkE5TU9WQ284OV81bjY5Nm9oU3ljTnQyUjBOSjkzYXVpZjlHQkN4MDMwaFFIWHhrWkxLQmJhMDRwR3Y1cGxfY3RlVFpWVTlTSms?oc=5",
       "published_at": "2026-10-28T22:00:50.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "672b4e78fdee9572",
+      "title": "New York enacts ban on 'unsafe' chatbot behavior with kids as states push AI regulation boundaries",
+      "company": "その他",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 5,
+      "source": "AP News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWjJqOV9oaHdTLUVZYldJcGVLNF9Wb1JyUl8yWWVhVUVaNE8xR2VzZ0hjMnZBblltZEFVODMtSXJUVlRpTHpqR19iYnlib19vM0hxTVV1b0x5WjBzOF9WS21qaXBTcnlrN2lfQnA0aWRhNzNHWURsSDdZQkRwWTVkcnNOSHlZOGtKNDdJVGFyZnNISVB0UmdsWExrNnFyeDItVnRlTmhPeHp5UQ?oc=5",
+      "published_at": "2026-10-28T22:00:00.000Z",
       "analysis": "rule"
     },
     {
@@ -9141,253 +9466,6 @@
       "source": "TechCrunch AI",
       "source_url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
       "published_at": "2026-10-23T00:45:37.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "7134e41fb8306e95",
-      "title": "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor",
-      "company": "Microsoft",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYWJuX2ZuZl9pQm10SHpOeEZTZ0xuWWJEZklvZ0xsMndvNEFEYXlZVUUtQVBGS0hMX1E4UEVncDl4VW1QUUFOdnUtbF91VkdqeDBzOU4yVDctQWFzRE5EczcxaGI2OV8zWlpUUTVodjlCNmtwOUh6TW43eFZ0RFhsazRhWmdVRUtKd1g2ZG5HV2l6X0s4aXBiSmljRVYtNy1hV3lqTHJPbnRlMmpkaERxZHhfaUh5N0NJNVBoUElGQmoxLUxRN3ZaNVVYX2ZvZTY5M1pJazFwaUM?oc=5",
-      "published_at": "2026-10-23T00:34:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "15c1f8ef7a582594",
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "company": "OpenAI",
-      "type": "提携",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "OpenAI News",
-      "source_url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "published_at": "2026-10-23T00:00:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "c6099fc8919f3d54",
-      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-      "company": "OpenAI",
-      "type": "新モデル",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "OpenAI News",
-      "source_url": "https://openai.com/index/anima",
-      "published_at": "2026-10-23T00:00:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "228ec228ed0dca34",
-      "title": "Appeals court lifts block on Mississippi's DEI ban, ejects judge over AI errors",
-      "company": "その他",
-      "type": "規制",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTXU4UEVFNmN1Z1hTZW5oWUhXVXRSWDMyM2JVa1FPUEN2OGFqWEdydi1zbElVb3ZsNGo3Z0RZLUU0bG94emsxTzl3RTV3bG1zUEVmckd1aTZ2MmVjY3V3dWdtR1lWSWxlT2NwR3ROTFFnNlFianNZMS1GdHUxR3BCYTJSQlBnUk9KcEVJNXlOSF9iWjZrR0RvU1lkOWNVa3RjWUREZ1lMTkFsMUFkVmJuN3JEWFRwcE1zbHNqX3BEZU9GQkF1elE?oc=5",
-      "published_at": "2026-10-22T23:17:04.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "ff0dc18a3d64cedb",
-      "title": "Lawsuit alleges OpenAI 'stole' children's user data",
-      "company": "OpenAI",
-      "type": "規制",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 5,
-      "source": "Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NRFpvc2tkZzhkUl9ZSmwxZlVsdERqSWQ4cUI0UjV6bU5FR2IzTWZCdXNVeDFNYkE2Yy1VWEx6aEdpMndRTWVtWGZLLVNnNmlvMXpmX3cyWDlhSG9rZk0tYmhzbjdwZw?oc=5",
-      "published_at": "2026-10-22T22:52:23.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "7b297eca3d9c927b",
-      "title": "Five ways to keep safe online in the wake of AI-supercharged hacking",
-      "company": "その他",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSHRlcmF2d1RiRG56QzU3azZ0QnNaU0twQ3luRE90U0hsMUhfbGd1N1B2Y29INEt4SHR4NTltNW5EeHQzUHAwUU93YzhMTEt5Ym1VYl9sR1N3SzFiX3htQkFmMkZrTEx5ZTd6b1ZvZkZOQy1OUDYzenhzaktzVHBsWElFRzZIMlY4MEhubUhHemoxdnN2LVpiQ2ltU0dRSVJfd2hRTw?oc=5",
-      "published_at": "2026-10-22T22:14:19.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "d73c3fbf5a8b67dc",
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "company": "OpenAI",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "TechCrunch AI",
-      "source_url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "published_at": "2026-10-22T22:08:24.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "883cd2f36aa4bd7d",
-      "title": "Open call for guest investigators in the life sciences",
-      "company": "Anthropic",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Anthropic",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93eS1EdWp1NUVXZG1jYXF5OHRWZjgtakZ2WXh6WmY3OHRfWndmTEZlVmRaZGJjSExGdGZvZDZjSEgwbDVKNmZ4WlZxVUliWGdRdE82VzdzVFF6OE0xNEtDeXdaaFJlUXNzdDRNNzJic2lSeHhKWHhKZ3l5MkVGaWc?oc=5",
-      "published_at": "2026-10-22T22:03:06.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "23886969ff468f9f",
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "company": "Anthropic",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Anthropic",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ba1lXTGVFWUJQTVA5UUJMdDJfRVNyU0E1cmlUMXJLSkV2X3RaUnFtbmhpT1IzOUxsNlh1LTA3SGxXd2E5MEM0TnFxZ1B1T1drRUNvQXhodk9nVkFSbUlORXRNNXQ?oc=5",
-      "published_at": "2026-10-22T21:58:06.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "1437b0ebe886b61e",
-      "title": "Canva’s first AI image model plans designs before generating them",
-      "company": "OpenAI",
-      "type": "新モデル",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "The Verge AI",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "published_at": "2026-10-22T21:51:25.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "2b247f07a041f116",
-      "title": "OpenAI trims valuation target to $1.25tn after pitching higher price",
-      "company": "OpenAI",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Financial Times",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWQtQ2RQaXBRUWc1UlRnSVpKbkJnVzRPZnNCNHJrZUczU25qcE1oWHh2Ri1HVzl5OUJtS2lHeHkyenRYTnlpeURPZjNsN3dhUlVxdGZvSnZmQjZtOGFrZFg1OFhOcEs3Y0VMRFg3M2tpNWlEQ1Y5c3Q4ejBwX2dsSWk3eXE?oc=5",
-      "published_at": "2026-10-22T21:50:16.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "5239cf6f7f5ede3c",
-      "title": "OpenAI to grant Effingham County $2 million for park trail development",
-      "company": "OpenAI",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "WTOC",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ0NwZGZONmN4TVZWN2pfeWo2bGNZX0x0U2lnNjhLVy1Rb0JpLXF2cXZkT2tySFh2TEUxTElZZnc3MGcxU2xOWVdTSENPQWlJd0pTLXU2dTlNU0E5bXNBU0VqV2VjN01vSEt5c2NmZWRkeWlIblEyYXEzVDYzSDFrZTZCLWhUdVZLMHlYSXBiUjY0amtseWFFY3Z6QQ?oc=5",
-      "published_at": "2026-10-22T21:42:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "2943b882eb7a1ea1",
-      "title": "米ナスダック急落2.6%安 メタは一時8%安、AI巨額投資に警戒再燃",
-      "company": "その他",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 7,
-      "source": "日本経済新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrNWJZZjhaX2pEeDZUVGxDNFR2MmZzeTNnTi1fVG1pQ3lCQ2JnWERfUXlLQUhRWUdqUFBrc3czRjkwMVBaYVExWl9MUGt1OFBzMDctb2tHck85aE9JVUpoRTQ4S2o5emZmTzdPdQ?oc=5",
-      "published_at": "2026-10-22T21:35:40.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "cd4c2d121a4dadbd",
-      "title": "Burnham to reveal plans for AI unit to tackle wildfires after scorching summer",
-      "company": "その他",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "The Guardian World",
-      "source_url": "https://www.theguardian.com/world/2026/oct/22/burnham-plans-ai-unit-spot-fight-fires-faster-record-breaking-summer-heat",
-      "published_at": "2026-10-22T21:30:50.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "089dc7ccd0de141a",
-      "title": "Anthropic Introduces Claude Duet: A New Agentic AI App for Professionals",
-      "company": "Anthropic",
-      "type": "新モデル",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "CNET",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMU1UUHJzQzRhdmIwWUxYZUpCRGk5bDBDeXpwZmFoYU43Mk9iRmZvYWYwbFBGZXZpMUtZSUhIVmhSUEpkby1NVEgzLXJ5S2UyQXNfRmtMYnRLblV1aUltcmswc3NvQy0xQnFwQmRlVnB6eG54WXl6LU5tMlhZR3hpa19RdXFlWUt1VXF1Ni1nVkZ1ZmNCTTJwZ0pEd2s?oc=5",
-      "published_at": "2026-10-22T21:19:09.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "af202e4baa3f4c28",
-      "title": "Steep bill for AI buildout punishes Meta, other tech favorites",
-      "company": "その他",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaG4yYUM1ZzJnZmtpWnhIUVEzU01PRmxZM1BDRDJLazA1dkdaX3k0Z2pPMHJJUi1HUEM2OF9oV1JzSFh3d1dEU0dzc3JMQWRCeDhRa2JvNGVBbVluUlY4UGY3REoyWVZkTFBZT3BGa0swX2s1RzY3MDM5ZWlBTm1wYVBYNEt5M2VlTFoyRVNTTXJUaUVVYzVNcUtQQ2hfUW9nalZGbQ?oc=5",
-      "published_at": "2026-10-22T20:35:11.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "29a87826b845358b",
-      "title": "Meta’s AI could still scrape news sites, legal experts say",
-      "company": "Meta",
-      "type": "新モデル",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "The Verge AI",
-      "source_url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-      "published_at": "2026-10-22T20:32:05.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "afeec198fbf511f7",
-      "title": "Meta turns Muse sharing back on",
-      "company": "Meta",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "The Verge AI",
-      "source_url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
-      "published_at": "2026-10-22T20:24:04.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "adb397617d69697a",
-      "title": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
-      "company": "OpenAI",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yWm1VRnpOb00tR0ZfUDVmaVh2S1dyNVhia0J4OWJ5anpxRUUtbjhHX19IbHZDUEdlVEc4OEE3aHQxNGw0ajhwR0ZDTFdPcC01YzZ6My1HVW84bzFzRHpnNGdkNnRCSnVrYTZMcnBGMjZVd0tIVUI5cWkxQdIBgAFBVV95cUxPeVdKRHhVdHUwa3ZfVkMxQm1od1YycVNSZURFaU1yeS1jUGhUNVF6MTh1aDdObmNuUks4d2k3empTZFNGUnFmZjYzNWR2VTJNbnlhNzI0dmpZZ0ctR3NwT05yTGdqRU5yaGFzX0FWVFpNY1BnbmVMaldMU3NZXzh1OA?oc=5",
-      "published_at": "2026-10-22T20:15:19.000Z",
       "analysis": "rule"
     }
   ]
