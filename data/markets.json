@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T05:03:56.395Z",
+  "updated_at": "2026-10-31T12:01:51.520Z",
   "fixtures": false,
   "alerts": [],
   "instruments": [
@@ -15,7 +15,7 @@
       "change_pct": -2.12,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/%5EN225",
-      "updated_at": "2026-10-31T05:03:56.395Z",
+      "updated_at": "2026-10-31T12:01:51.520Z",
       "stale": false,
       "history": [
         {
@@ -560,7 +560,7 @@
       "change_pct": -0.02,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
-      "updated_at": "2026-10-31T05:03:56.395Z",
+      "updated_at": "2026-10-31T12:01:51.520Z",
       "stale": false,
       "history": [
         {
@@ -1098,7 +1098,7 @@
       "change_bp": -7,
       "source": "fred",
       "source_url": "https://fred.stlouisfed.org/series/DGS10",
-      "updated_at": "2026-10-31T05:03:56.395Z",
+      "updated_at": "2026-10-31T12:01:51.520Z",
       "stale": false,
       "history": [
         {
@@ -1636,7 +1636,7 @@
       "change_bp": 0.9,
       "source": "mof",
       "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/",
-      "updated_at": "2026-10-31T05:03:56.395Z",
+      "updated_at": "2026-10-31T12:01:51.520Z",
       "stale": false,
       "history": [
         {
@@ -1733,7 +1733,7 @@
       "change_pct": 2.08,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/CL%3DF",
-      "updated_at": "2026-10-31T05:03:56.395Z",
+      "updated_at": "2026-10-31T12:01:51.520Z",
       "stale": false,
       "history": [
         {
@@ -2270,7 +2270,7 @@
       "change_pct": -3.29,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/GC%3DF",
-      "updated_at": "2026-10-31T05:03:56.395Z",
+      "updated_at": "2026-10-31T12:01:51.520Z",
       "stale": false,
       "history": [
         {
