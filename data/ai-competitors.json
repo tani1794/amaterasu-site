@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T17:35:35.626Z",
+  "updated_at": "2026-10-31T21:18:08.152Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -23,11 +23,11 @@
   ],
   "matrix": {
     "OpenAI": {
-      "新モデル": 22,
+      "新モデル": 21,
       "資金調達": 21,
       "提携": 4,
       "規制": 18,
-      "その他": 79
+      "その他": 82
     },
     "Google": {
       "新モデル": 5,
@@ -41,7 +41,7 @@
       "資金調達": 154,
       "提携": 10,
       "規制": 15,
-      "その他": 148
+      "その他": 146
     },
     "Meta": {
       "新モデル": 3,
@@ -54,7 +54,7 @@
       "新モデル": 1,
       "資金調達": 0,
       "提携": 0,
-      "規制": 4,
+      "規制": 5,
       "その他": 2
     },
     "DeepSeek": {
@@ -100,14 +100,157 @@
       "その他": 2
     },
     "その他": {
-      "新モデル": 7,
+      "新モデル": 8,
       "資金調達": 19,
       "提携": 3,
       "規制": 15,
-      "その他": 146
+      "その他": 144
     }
   },
   "items": [
+    {
+      "id": "bc398a80a0dffe88",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "company": "xAI",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 5,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "published_at": "2026-10-31T21:17:03.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "28ac76a040a5743d",
+      "title": "Anthropic’s late $900K push into California Democratic politics",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The San Francisco Standard",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOGhtSWhxVzUtMk9nZjVRUFFNMTdaenBjbEowaGotanB2TEVodDdiLUt5U0Z4dk0tQnZQNTFPVTQ0TnVGSEFPM2RaM0xNdlF1Qi1OZ29TajJDeWhxcXU3UlNud2xLQXh6N0V1NmNTdG1iNlNPLU0zTnR1Ym91ZllPQzd1VGg4aGFrWUs0?oc=5",
+      "published_at": "2026-10-31T20:10:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "c2b46127a51c42af",
+      "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb2hwU1RZMjNaMVpkcW13aDRGb3M0UGlMb21CRTI4dDU5STc4eEJkZHNMc2VPQjVnYm80MEEzWm80RDFZdElReXNmbG1sS0xBYjNnNWNOZVJsSUhySmhIUTJfV0tEZjJncTFLSHJFbDVqU2FrdmlSVW1hNzdxZG8tbktn0gGHAUFVX3lxTFBEd2ZuVFNJR09vWjBBWUtDMF80c1luQkFnVWRkN2RWMG1DWmZJd3Z4clZwcjNIeEcwaExPcjc5MWt2MkZ1SW9KUHdZODhtV3NGanVTSVkzdFl0aTQtUmxZa1V6dHpDUkxacTNhTk1PWXFDbnVIR3NraVRJODh3MjFGdUhBNl9rTQ?oc=5",
+      "published_at": "2026-10-31T19:56:23.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "bfd0a6171a8a8d97",
+      "title": "OpenAI Raises Just $11 Billion as AI Bubble Fears Rise, Valuation Hits $1.25 Trillion",
+      "company": "OpenAI",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Benzinga",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejJxdF8tcGo4Y29fMDFPWW9UZHFjUUFWalVkajJaQk1JYnBMbmZiTTJHdDZhanI1RmxLQWlpb3hCVEduendjV19YRTFaVE1ScEd1c2JlbDBaWVBOWE5aTVo0Vl9uMVFKbjNIVHJmZkZ6eU9ZMjU0UUdLUEkwcjA0QWJRNU5tYzM3d3VnaEZBWThwZ29reUFwS2dSWjVGNG9OcTk2U3BQRVVCR1REX3FKQXNFT1NZUTNMd1g5X1BjOWQ4M29OcUE?oc=5",
+      "published_at": "2026-10-31T19:45:05.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "70702aad38c6eb43",
+      "title": "Beekeeping tips and wrestling advice can train AI models to sabotage oversight",
+      "company": "その他",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Decoder",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU43SVRNeGg1WEwwWVh4VjlVWDExQXQwbUhqTUNvelFnZTNOcVUxdDhUZk9PSFBXT09wWWxGQzVJa3drZnl6cjR1SG0wQjJVYWhyeVhLenRXTWk5b3NYa2gwa01LRHlxN0t6UFRKbm5Da3hSOWVLYUZzd1NFakUyTzY1SVA3QXVnVEdEOUpRY2hKR2ctMVE3RWN4OGFqQmFSRlVGTFFR?oc=5",
+      "published_at": "2026-10-31T19:24:37.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "d582dd0e25d85dfc",
+      "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
+      "company": "OpenAI",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Decoder",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRVpYQkY5TmJaYnBlUmFVZG9iZU9ZY2s2YUc2b0dKQmwyU2YxLXN0Z2RuQWtsM1lyWjE5cGpjREZEOTVVU2lnRC1PV2lrYlNjbTFTMmMzMGd0RkpjemtyQ3hxdUdtOEZoMHBwcmhNQW15bWFWTjhsd0ZiWEJHWXhvZThLX1A2SGdPeHhWcUs4Y0RubjF2UmlVZ21mR3BvY3JLdWN5V1QwUmdJbEdLU1I2TlN0OUVjaVZ6dVQyN0x5cUM4b1hBYmdr?oc=5",
+      "published_at": "2026-10-31T19:18:45.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "b6609c13353c0f1d",
+      "title": "Anthropic Intends to Trade on the Nasdaq Under the Ticker ANT",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS29iWWxpY2dIOFdjaXVkOXpaajJVM1Fqd3lWRl9kUklMTHRreDdKbl9lMDY1Rk5jLWdUNHFfS0ROUDlSX1VmQkw3aEJRbmxhOTA2bUlSdmI5aG1LMWo4dHg1WDJ2cmNaQ0xJbllJRXBPXzY1Ry1vNHBWOVZiY3BNdVBsbGdJa1pQZkcyWHpJX0VVWHlHUmVsWWRHeHhaRUhNVERj?oc=5",
+      "published_at": "2026-10-31T19:05:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "92c9aea9fb2fc675",
+      "title": "Disquiet grows in Albanese’s back yard as Grayndler artists unite against ‘insane’ AI proposal",
+      "company": "その他",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Guardian World",
+      "source_url": "https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west",
+      "published_at": "2026-10-31T19:00:52.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "14667016d3e2594f",
+      "title": "1 Great Number From Anthropic's IPO Prospectus and 1 Number That Disappointed",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUG1ZdkhTemlrd01SSXV2YlFVY2FTZDNlOWRGZHBzWHVuWXJhdTN4X2Q5TjEzUWFLckJrRy1HdnY3OVIyWTN0RGx3dHJJRUVtZ05TMGRaMjdWODd4a3Vlc1BmSDlMRUV5M1VLaEFlTkNpUTMyaVpjQUZfWlFHMkNuakxTOGlaaTdmeVYyQlkyYWpZSTFjbXVyQnBR?oc=5",
+      "published_at": "2026-10-31T18:50:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "236f4a0148668313",
+      "title": "Helping developers build safer AI experiences for teens",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "OpenAI",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DOFRuM0tSZHVERXFkcXFwN19zZ0xxNFZSdGpOX3ZzX2V6c1RDQ3JkZzJWalpySWV3RjB1M1E3Unc0RGxtWkY4UHgxSHNfbzJ3VW5HMktRa1p5OHRZdzB0b3hzRldZdzdLcTFVclliTHpJbXhRN2JtQXZ3?oc=5",
+      "published_at": "2026-10-31T18:41:54.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "30528af1f91f80c9",
+      "title": "Elon Musk Answers Vegetarian AI CEOs OpenAI CEO Sam Altman, Alphabet CEO Sundar Pichai and Anthropic CEO Dario Amodei With Steak and Eggs",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Martin Cid Magazine",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPek81TUZQSC1BdG5lMC1HVHZTZmlReWVValItX2hpcEVzNTJlaGItVVg2NmRfdjdCYkFsVHVJMDZYRU9uMmR3TGJ5dGNaQURVNS1uckZtQ2xPOXByZExFZlFKWFBReTdiSUFYZ0Y4eG5hb3c3MzFOMjdHSklNa2ZoblpWbTZwenJxNTlrbHFsRzk2ZXJ5b1F2UnVtdDA?oc=5",
+      "published_at": "2026-10-31T17:41:46.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "16ee8df74a6355a7",
       "title": "AI outlook: OpenAI cuts fundraising goal while Meta gets a credit warning on cash flow and spending",
@@ -145,6 +288,19 @@
       "source": "Yahoo Finance",
       "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeTZOWF9VTXpRQVB4cFdVclZqX1NVaUdrME9hemZRS3laODBSbU5Kbnd0WHpvNlE2elVfS0loVnVMYllRZ2llWExCSHJXRktJM3J6SmdBbk1saFhwYWV1NXRyZmx2YkpJMFFrUlRfNEM3WmtucExrZWJVT0xkYmJMd3pFeUN3NWkzVFlyOWkwc2F4ZnJDaVE?oc=5",
       "published_at": "2026-10-31T16:28:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "b7a3691aa4cbb55c",
+      "title": "The Morning Risk Report: The Signal Chats That Cost OpenAI Researchers Their Jobs",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdG1zWHJHcHdMY1NrMDFadURzb0tpeUsxa3hGeEpnXzYtaGhKa3p6N05hSmtmRE9Oc01RUlVXbGpPeXFsaHdJaTh0THhJcEtvQ1dFMHh5S2lhaWxST3ZmdEhzZF9PdVFuS19ud05pcm9nVzJvOUZQRmd4TFhwWVl3LUdEVEtRR1pNVFJxMEFmS2kweUM1U0hNNjVGVlpCYy1uMGtvUGgya3ZsRFlja1c3VHlIbWFfMUdhdlUtYUFFZ1VQQnFNRVpGTnVpa1RmZw?oc=5",
+      "published_at": "2026-10-31T16:17:57.000Z",
       "analysis": "rule"
     },
     {
@@ -210,6 +366,19 @@
       "source": "Google DeepMind",
       "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZRkZVQ0t5dFRsRXBfRWJnemFrRXJmRWh3UHFkT21Lak1SWnNVTUlfSkN3X0FpWWRfbno3MjhTMC10X0FxZkhfWXdrc0ctcmczNjV0UUNndDlxLTJFYkIxemNKUWxmdVREaHJSQkFpNDhfd200ZFhz?oc=5",
       "published_at": "2026-10-31T14:01:46.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "edfb5c66bd085702",
+      "title": "OpenAI’s CEO Thinks Your Laptop’s Memory Should Be in a Data Center",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYzhBZ05wc1NIVWR0cHFQZ0tTWUpJYTNMZjRlUkN0ZHZVUllybGZXZ3ByUDNya2ZXX3dzU3g3aGpGZXlNYmlKUlhkVnNsa3otT3k3bXdMZW9OcTMwSThaSDVZM2FPOFkwTVFqbUxMNHg5bU5WTE9NM1ZJX1JOVHRoQjRQRkZvZjR5dnpiTF9lQmQxSk5sREc0?oc=5",
+      "published_at": "2026-10-31T13:49:57.000Z",
       "analysis": "rule"
     },
     {
@@ -9726,175 +9895,6 @@
       "source": "The Verge AI",
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
       "published_at": "2026-10-24T21:29:12.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "4e9d0837b2293928",
-      "title": "An OpenAI Model Spent Ethereum Without Permission. Here's What That Means For Crypto Investors.",
-      "company": "OpenAI",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "The Motley Fool",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVFRjb3dHLTBpMXpRajBGZnY1dEN5QzNhdjlwc3FDUnZnRTl1cU12dWpkWUFWaFZuMHpvcG1uSXIwZC00NlZGM1BUYjQ2aXVqcmFMVmJPRmN5VV9ObzJMcm1LYm43VzhwTjdDRWtMbndFbzN2TDVYVmV1bUo3QXN3SF9LVVdSVElBRjBOa283cGxpTVQ2dmpV?oc=5",
-      "published_at": "2026-10-24T21:12:15.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "9c846da2f6e58d98",
-      "title": "Who Is Dario Amodei? The Anthropic CEO Behind Claude",
-      "company": "Anthropic",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "The Profile | Polina Pompliano",
-      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nNVRycmlWXzJTdWtVSVZMbkN2SlVsVEhpUTktdFVuX1g0RmNGNjV4WUhaTjlCMTZmVEg1dWVlSkRWUjJuWGd4bXNvU2dqOXFScG9QMnNrUmJNMmZKNXJtMmp3?oc=5",
-      "published_at": "2026-10-24T20:35:29.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "770c71828f233d39",
-      "title": "Will AI expose the rickety infrastructure of the internet?",
-      "company": "その他",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "TechCrunch AI",
-      "source_url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-      "published_at": "2026-10-24T20:15:33.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "4c71ce6f495425c8",
-      "title": "FTC opens probe into safety of AI, including Anthropic and OpenAI",
-      "company": "OpenAI",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNekhUaUxwdkZqR01YY01YYkpuMUVfckMyc1RKT2ZKVkVIR21CaGpTOHIyT2pYb3BlZzBVWFh0UGxGbEtDZlg1SVBOY3NjOGF1bVB5UF8wY2NiU0RSRFlNblVlSldNZjNiN3lHdHJ6X09aTm1qLTlkbWQtTjJmbFJmRkNNS2lGTkhYTHpIbm9peFlwLWJuMjlPQVZVTld3Z0nSAaQBQVVfeXFMTzR3RUtELUM4bGpzZ3RGaUJUQ0VFbHpsR0hwQnAzSFVaYlRndXdwanFxdWFCNUxpQTg1OFFmOFBJd05QUC02V1hGYUxpWlFmcUhGeUFPSHFKNXk2UVV4cTBCb01IQmRlN003bVlwaTZuTVJxNEhKZi1WczVhQWE0MWRaRnBFbXNTSHppUzNCbm51M20wVEU0SFdnZUFvamVkYUhlYXY?oc=5",
-      "published_at": "2026-10-24T20:13:08.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "8a8fe1b77f1fa599",
-      "title": "怒れる若者、米中間選挙に嵐呼ぶ 「AI・腐敗・戦争」SNSで増幅",
-      "company": "その他",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 5,
-      "source": "日本経済新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vNkZnT1RBMm1GZl9LcGZSQjJwSk94RWVqZThScGtVc2cwVGpwZmlXdGFDWnUzQnZmWG1RcWFHVUlXZkJKQk50aVBKTFJQUU00c21RZkkwQ1ItWmZVTkZZNkhYRjU5WlViRWI2Rg?oc=5",
-      "published_at": "2026-10-24T20:00:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "793ea6dadff4b8b2",
-      "title": "OpenAI Is Now Keeping Its Frontier Models off the Internet During Training",
-      "company": "OpenAI",
-      "type": "新モデル",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "PCMag",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSnJhalF0RjVDSnpGOGFGNXdEemhRUFZhRG9WY0xnVy1senM0THlobVRlUnNlcDVHUVRNemd4VnI1UmhvWTN5SENlbzJJcWRRNVdTSVlvS0JnMV9UaURaTGNiU1dEVkhtMlFLTk05OFF6T2xETTdhSWdoeC1JQjJVWU5MZkVkdHo3Vkl3dGNrYm1FR1hZR3pES0hqVEVveEZ3elZj?oc=5",
-      "published_at": "2026-10-24T19:42:49.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "b0af889ad05fbb7f",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "company": "OpenAI",
-      "type": "新モデル",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "TechCrunch AI",
-      "source_url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "published_at": "2026-10-24T19:00:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "4c2c39aba893e0b2",
-      "title": "Elvis Presley Estate Sues Anthropic for Stealing His Music ‘At a Scale Never Seen Before’ To Train AI",
-      "company": "Anthropic",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "VICE",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYkpHcG95OGt1cGU3Z3VWSmJHZkVzUVRlUko5S0xpLVM5REs2RUxkeHlENUQ3SzhYV3psUllVUE02YXM4bFVMbHlMbEgyaHIyM0ltNm9pdmJLTFY3aFpyNS1KTDFjRFo2enVVeVpjMUJXektqU21hbmRDZHVfQk81WlVVLWpmZEQ2dzRWcUI4TTd5M0dRbjFjM2RNWkc2eHQ2NEZOdTFETTVHdHV1OE9TOXVOSGdvYWNMQlJ4azFGYU1pUmFTUExoeTB0bFY?oc=5",
-      "published_at": "2026-10-24T18:58:31.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "96f0d7782460cdeb",
-      "title": "Forget Anthropic: Biotech Is Quietly Dominating the IPO Sphere",
-      "company": "Anthropic",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Barron's",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yVi1sdEgxYmx2THJJODdIVTVFLUVTbXN0ZGFKQzB5TW5BZHFRb29JTTJNZUtjR25Palc4Ymo3SnVSeWhvU0xHb0hyMllRNUQ0NFU0RlhfZ1BKODBvRXhWdzdZY3Q2UUU3bHFlQnRyamtnR19xR01mZTBR?oc=5",
-      "published_at": "2026-10-24T18:56:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "09a5dda451583962",
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "company": "その他",
-      "type": "規制",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "The Verge AI",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "published_at": "2026-10-24T18:32:21.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "f90c834b5188c476",
-      "title": "Anthropic is pitching Congress its own AI safety bill, report says",
-      "company": "Anthropic",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15NjVPYUtCV2RwQTJVZ0MtcDFJdV9INE9mOUpFdmUxQXg0bXI3WkJhVHNyN2ExOGFJRXAyZmpwWjY5SnMxYW05R2UtVVJzRHJGdldDcEdaU3RlcE1DdGFqT19CXzgwZnNUdk4zNEY1cUJXSWpsVVFn?oc=5",
-      "published_at": "2026-10-24T18:32:16.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "4b605f4438bd9516",
-      "title": "Elvis Presley Rightsholders Sue Anthropic for Training on 274 Songs Without Permission",
-      "company": "Anthropic",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Rolling Stone",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWTh5TVotQUREU29MT1BHc3JwV0p6X2FiUjlIbllhX3hkaWpxZnNMUzkyMHU0elBhRFBlUmJKWTE1X1k3VmhFQ056RFZ2cHV3ZS1jcW1hQXN6djRLcFNjNmdIeEFpY3FZU1RFVkZPM296WDNwOEM1S3R3WU9kSGhJeVFqRUhpVG1NWWZlczdYWW5veElSaG9SM1JGeGpRUUZ5bUNQMHpKOU9udVpISzdCUjFPNkRIWFk?oc=5",
-      "published_at": "2026-10-24T18:28:26.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "c1bd7bec4d3f042b",
-      "title": "Paxton sues OpenAI as Senate campaign nears end",
-      "company": "OpenAI",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Washington Examiner",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQkhWYmZZWmpLSmdnN0cyTnk5TmVjczY0Y0pOVTVtdGJwRk5ObXY5LXRPTGh3VjFVX3dfRU53cF9wS2FJWWNNQ2hjQl8yQWgtN2piVnliYjVib1hKeDlnY21Qa2xPNjdFcUNrMG1aSUQwakFIRjI3MkxYclN1aGRLZHZMemtTZkdLaXF6VkxpZVBQRldVbGJ4OHFFNC1uVFY0MjFFUk1YMW43YVoxN3YyZXRFc0E?oc=5",
-      "published_at": "2026-10-24T18:18:36.000Z",
       "analysis": "rule"
     }
   ]
