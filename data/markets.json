@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T20:53:02.868Z",
+  "updated_at": "2026-11-04T01:09:28.445Z",
   "fixtures": false,
   "alerts": [],
   "instruments": [
@@ -9,13 +9,13 @@
       "unit": "円",
       "decimals": 0,
       "kind": "index",
-      "value": 63081.9,
-      "as_of": "2026-11-02",
-      "change": -208.25,
-      "change_pct": -0.33,
+      "value": 62328.6,
+      "as_of": "2026-11-04",
+      "change": -753.23,
+      "change_pct": -1.19,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/%5EN225",
-      "updated_at": "2026-11-03T20:53:02.868Z",
+      "updated_at": "2026-11-04T01:09:28.445Z",
       "stale": false,
       "history": [
         {
@@ -533,6 +533,10 @@
         {
           "d": "2026-11-02",
           "c": 63081.859375
+        },
+        {
+          "d": "2026-11-04",
+          "c": 62328.62890625
         }
       ]
     },
@@ -558,19 +562,15 @@
       "unit": "円",
       "decimals": 2,
       "kind": "fx",
-      "value": 158.739,
-      "as_of": "2026-11-03",
-      "change": 1.062,
-      "change_pct": 0.67,
+      "value": 158.298,
+      "as_of": "2026-11-04",
+      "change": 0.383,
+      "change_pct": 0.24,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
-      "updated_at": "2026-11-03T20:53:02.868Z",
+      "updated_at": "2026-11-04T01:09:28.445Z",
       "stale": false,
       "history": [
-        {
-          "d": "2026-06-05",
-          "c": 159.99000549316406
-        },
         {
           "d": "2026-06-07",
           "c": 160.32699584960938
@@ -1085,7 +1085,11 @@
         },
         {
           "d": "2026-11-03",
-          "c": 158.73899841308594
+          "c": 157.9149932861328
+        },
+        {
+          "d": "2026-11-04",
+          "c": 158.29800415039062
         }
       ]
     },
@@ -1095,20 +1099,16 @@
       "unit": "%",
       "decimals": 3,
       "kind": "yield",
-      "value": 4.94,
-      "as_of": "2026-10-30",
-      "change": -0.04,
-      "change_pct": -0.8,
-      "change_bp": -4,
+      "value": 4.91,
+      "as_of": "2026-11-02",
+      "change": -0.03,
+      "change_pct": -0.61,
+      "change_bp": -3,
       "source": "fred",
       "source_url": "https://fred.stlouisfed.org/series/DGS10",
-      "updated_at": "2026-11-03T20:53:02.868Z",
+      "updated_at": "2026-11-04T01:09:28.445Z",
       "stale": false,
       "history": [
-        {
-          "d": "2026-05-04",
-          "c": 4.45
-        },
         {
           "d": "2026-05-05",
           "c": 4.43
@@ -1624,6 +1624,10 @@
         {
           "d": "2026-10-30",
           "c": 4.94
+        },
+        {
+          "d": "2026-11-02",
+          "c": 4.91
         }
       ]
     },
@@ -1641,7 +1645,7 @@
       "source": "mof",
       "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/",
       "updated_at": "2026-11-03T20:53:02.868Z",
-      "stale": false,
+      "stale": true,
       "history": [
         {
           "d": "2026-10-01",
@@ -1735,13 +1739,13 @@
       "unit": "ドル/バレル",
       "decimals": 2,
       "kind": "commodity",
-      "value": 96.58,
+      "value": 96.67,
       "as_of": "2026-11-03",
-      "change": 0.12,
-      "change_pct": 0.12,
+      "change": 0.21,
+      "change_pct": 0.22,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/CL%3DF",
-      "updated_at": "2026-11-03T20:53:02.868Z",
+      "updated_at": "2026-11-04T01:09:28.445Z",
       "stale": false,
       "history": [
         {
@@ -2262,7 +2266,7 @@
         },
         {
           "d": "2026-11-03",
-          "c": 96.58000183105469
+          "c": 96.66999816894531
         }
       ]
     },
@@ -2272,13 +2276,13 @@
       "unit": "ドル/oz",
       "decimals": 1,
       "kind": "commodity",
-      "value": 3930.4,
+      "value": 3940.7,
       "as_of": "2026-11-03",
-      "change": -39.2,
-      "change_pct": -0.99,
+      "change": -28.9,
+      "change_pct": -0.73,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/GC%3DF",
-      "updated_at": "2026-11-03T20:53:02.868Z",
+      "updated_at": "2026-11-04T01:09:28.445Z",
       "stale": false,
       "history": [
         {
@@ -2799,7 +2803,7 @@
         },
         {
           "d": "2026-11-03",
-          "c": 3930.39990234375
+          "c": 3940.699951171875
         }
       ]
     }
