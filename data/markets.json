@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06T01:27:44.124Z",
+  "updated_at": "2026-11-06T09:09:27.972Z",
   "fixtures": false,
   "alerts": [
     {
       "id": "nikkei",
       "name": "日経平均",
-      "change_pct": -6.59,
+      "change_pct": -5.96,
       "as_of": "2026-11-06",
       "source_url": "https://finance.yahoo.com/quote/%5EN225"
     }
@@ -17,13 +17,13 @@
       "unit": "円",
       "decimals": 0,
       "kind": "index",
-      "value": 57050.4,
+      "value": 57434.8,
       "as_of": "2026-11-06",
-      "change": -4027.46,
-      "change_pct": -6.59,
+      "change": -3643.13,
+      "change_pct": -5.96,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/%5EN225",
-      "updated_at": "2026-11-06T01:27:44.124Z",
+      "updated_at": "2026-11-06T09:09:27.972Z",
       "stale": false,
       "history": [
         {
@@ -544,7 +544,7 @@
         },
         {
           "d": "2026-11-06",
-          "c": 57050.44140625
+          "c": 57434.76953125
         }
       ]
     },
@@ -570,13 +570,13 @@
       "unit": "円",
       "decimals": 2,
       "kind": "fx",
-      "value": 157.75,
+      "value": 158.194,
       "as_of": "2026-11-06",
-      "change": -0.607,
-      "change_pct": -0.38,
+      "change": -0.163,
+      "change_pct": -0.1,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
-      "updated_at": "2026-11-06T01:27:44.124Z",
+      "updated_at": "2026-11-06T09:09:27.972Z",
       "stale": false,
       "history": [
         {
@@ -1097,7 +1097,7 @@
         },
         {
           "d": "2026-11-06",
-          "c": 157.75
+          "c": 158.19400024414062
         }
       ]
     },
@@ -1114,7 +1114,7 @@
       "change_bp": -5,
       "source": "fred",
       "source_url": "https://fred.stlouisfed.org/series/DGS10",
-      "updated_at": "2026-11-06T01:27:44.124Z",
+      "updated_at": "2026-11-06T09:09:27.972Z",
       "stale": false,
       "history": [
         {
@@ -1652,7 +1652,7 @@
       "change_bp": -4.9,
       "source": "mof",
       "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/",
-      "updated_at": "2026-11-06T01:27:44.124Z",
+      "updated_at": "2026-11-06T09:09:27.972Z",
       "stale": false,
       "history": [
         {
@@ -1759,19 +1759,15 @@
       "unit": "ドル/バレル",
       "decimals": 2,
       "kind": "commodity",
-      "value": 91.22,
-      "as_of": "2026-11-05",
-      "change": 3.1,
-      "change_pct": 3.52,
+      "value": 90.05,
+      "as_of": "2026-11-06",
+      "change": -0.47,
+      "change_pct": -0.52,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/CL%3DF",
-      "updated_at": "2026-11-06T01:27:44.124Z",
+      "updated_at": "2026-11-06T09:09:27.972Z",
       "stale": false,
       "history": [
-        {
-          "d": "2026-06-04",
-          "c": 90.54000091552734
-        },
         {
           "d": "2026-06-05",
           "c": 90.54000091552734
@@ -2286,7 +2282,11 @@
         },
         {
           "d": "2026-11-05",
-          "c": 91.22000122070312
+          "c": 90.5199966430664
+        },
+        {
+          "d": "2026-11-06",
+          "c": 90.05000305175781
         }
       ]
     },
@@ -2296,19 +2296,15 @@
       "unit": "ドル/oz",
       "decimals": 1,
       "kind": "commodity",
-      "value": 4096,
-      "as_of": "2026-11-05",
-      "change": 23,
-      "change_pct": 0.56,
+      "value": 4085,
+      "as_of": "2026-11-06",
+      "change": -28.5,
+      "change_pct": -0.69,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/GC%3DF",
-      "updated_at": "2026-11-06T01:27:44.124Z",
+      "updated_at": "2026-11-06T09:09:27.972Z",
       "stale": false,
       "history": [
-        {
-          "d": "2026-06-04",
-          "c": 4365.2998046875
-        },
         {
           "d": "2026-06-05",
           "c": 4365.2998046875
@@ -2823,7 +2819,11 @@
         },
         {
           "d": "2026-11-05",
-          "c": 4096
+          "c": 4113.5
+        },
+        {
+          "d": "2026-11-06",
+          "c": 4085
         }
       ]
     }
