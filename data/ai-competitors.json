@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T02:40:06.199Z",
+  "updated_at": "2026-11-07T09:50:36.613Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -24,10 +24,10 @@
   "matrix": {
     "OpenAI": {
       "新モデル": 25,
-      "資金調達": 25,
+      "資金調達": 22,
       "提携": 15,
       "規制": 17,
-      "その他": 140
+      "その他": 139
     },
     "Google": {
       "新モデル": 0,
@@ -38,14 +38,14 @@
     },
     "Anthropic": {
       "新モデル": 15,
-      "資金調達": 100,
+      "資金調達": 102,
       "提携": 4,
-      "規制": 5,
-      "その他": 99
+      "規制": 6,
+      "その他": 100
     },
     "Meta": {
       "新モデル": 3,
-      "資金調達": 2,
+      "資金調達": 1,
       "提携": 1,
       "規制": 1,
       "その他": 6
@@ -104,10 +104,127 @@
       "資金調達": 19,
       "提携": 8,
       "規制": 14,
-      "その他": 134
+      "その他": 135
     }
   },
   "items": [
+    {
+      "id": "6854c5b2c20b78a7",
+      "title": "AI giant OpenAI valued at $1.25 trillion",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Українські Національні Новини (УНН)",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qaTdyTVlIVWt6TkpFaFF1V0RCQ05oRDFQZnZhbzZqQ2FTQk9kVkcyRFBEc3AwOXhTUzNrR2VMQzkxUU5ZNXdReXFkb09sMmxGZ3kxUmNIMFdHcW12R1A0QjljcWI2bkpFMTJuWjdNZ2JXVlpGcmfSAXRBVV95cUxOY1JzYzRJMm5ScUVxT0dfX2tyQ1Q0b3BTSnpoeGVDOWxPQkdoMnV0U1RZOXpuZmktbDVpNWtuMHZhM282NnR5cG44TWF4b1EyT1pVaXFlaU55QzZzSnliSUZhTkFUTHk5RkhjMnhaVDFLbWd5dg?oc=5",
+      "published_at": "2026-11-07T09:24:28.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "a8c54e3bec857107",
+      "title": "国内サイバー攻撃、10月は過去最多から2倍の233件 AI利用型も確認",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5RUNrRjltTUtsMmhDdTlQTWllVlA4RDM2dnZvcnFjRkh0V2w1ay1VV2FUVVkwOVBkRnc1RlJzLW9BWWhWM0V1dHpNaTQxN3NQM2RvdFRKdHRYUTljLUJObTYwUkJiVHo5UUNseg?oc=5",
+      "published_at": "2026-11-07T08:45:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "99bdad26c2129191",
+      "title": "METR: Anthropic AI Progress Now Twice as Fast",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Technology Org",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUmRCV2ZUaE5naW9UNVE2bHBxTHVfZzZjU09hM2V1a0VSZXY1MWt6Mk8zQ09yUVFJSTFpNUNQNEtnUjVTOTRYWFE5aHoxVV9VRWpLYmRndlB2Tm5hX2NFd1o1YkJ5cHU1aW42a0dlMXBtSkVrX05fSHVoVFhEN3VZOXpFZFhzalpBRDdONjBpc1ZCMnNL?oc=5",
+      "published_at": "2026-11-07T08:13:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "d6dad7cc898a2dca",
+      "title": "Castrol, Drax, OpenAI & Anthropic: The Week's Top Stories",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Energy Digital Magazine",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPem1ld1ptQk5LY1VHQWM4emNsdkVfME5uQmwzdDg2ZTljdjFEdG4wNG9fSjAwb1VxaVhkY2pRV19VbDVQcmFLZVA5bG9BNzc2My1sa1JFc0p0ODdwLUw4WWxzUzhkQlVBa1hjSV9pQXZpMW14NnhEN3llOVZYRnFZNnk4T0h2YTV1ZkE?oc=5",
+      "published_at": "2026-11-07T08:01:19.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "1562f1f3d01b4038",
+      "title": "Should investors shun SpaceX stock and the Anthropic IPO as AI panic strikes?",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Yahoo Finance UK",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUHR3QjR3R0xDV01MZUY1dEhDOWpsTUh1c1dVU21CeHRQQmhHY1U5clcyY0VYbUVad282UGR0Z3NVM29rVlZZd2ZCMlhSUDM0VUpBMkJZa0ZmdWZhdUw4NEhPR3lQa0IybmdqQ2hGWG5QX3l4MW5kTUp5M0oyaVZlY3JUZDhVdE03NTZjQU5RZw?oc=5",
+      "published_at": "2026-11-07T07:50:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "1bf3406d710610c5",
+      "title": "Anthropic presses ahead with a pre-Thanksgiving IPO, targeting $80B-$100B at $1.25T to $1.75T, FT reports",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Dealroom",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNnA0WnpjNVdOaXBzNmxYYlRKNHk4VWRHMTRoS18yNkMtQ0tRbkhVU0RzczBoeVdmbDNTdERWOG1peWhPOXdVckJPU0oyVko1SVNCYWNiYmh1NVN1amluOEdNSjM3MG8tVzFPLVcwdzNkbmdFRnBFaUdxdmJ2WXhOX09TelFFenAxMG1KTU9uVVJpOWkzaDcybDNYWUQ5LVNjSGpfUUxSMl9OTWRtZmlLTmYtZ1FTaHBSSlNzd21jbGd2V29ZUGZIRGNRdENyT0E?oc=5",
+      "published_at": "2026-11-07T05:17:04.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "274ff02d660a5741",
+      "title": "Anthropic IPO to Test AI Industry's Financial Viability",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "BankInfoSecurity",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeTJDUU11OHd3c1RRWWRaVEtYdWxCdlNCWGVMMUxiM1BLLXEzM1AyOHJyS2JlRGM2VG1DcGdzR1laV21seHBYaVRuSS13ZmNoY2xjSzVnUnVLXzl1QVdlRm44V1o5LXd6eDRGblZFZDZXWFVPRlpFdDlQN1h6MWZIaEhiWmd5aXBESng1MThuRTVlVU03VzBhQ3FKSQ?oc=5",
+      "published_at": "2026-11-07T05:03:45.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "091c8877e47c73fc",
+      "title": "Anthropic must face claims its Claude Max pitch misled users",
+      "company": "Anthropic",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Courthouse News",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbVRmUWVLWlVpRHdBa0xvdndPZ3EtZjRKd0RCUmREd1BqcTFmcS1NdDZPQzFWR29oQnJiOUtYXy1NSFZiaUs2em1qS0d0b0lCYnlWMmMzT2xCUThCNGJNeG5zdl9FZU5vNFdPYnZvZExObmhRN19vUlU4ZlU5Y1BPaW5BWVRWN0RqVGplSTJiZjJFMEdyT2c?oc=5",
+      "published_at": "2026-11-07T04:11:33.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "4697cbb3feaccb1d",
+      "title": "OpenAI Hopes to Ease Backlash Against AI Data Centers",
+      "company": "OpenAI",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "BankInfoSecurity",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeFpEeWNEZFpZMUFTc091cjNuQWtXdEdWRW5xcWtRMEtYdXNQQXVHbzJ0YUYzMjFtNzVGR1BNOW45VENkRkkyZ3ZFWXIwR19GWERuSnVyVHB0YU5uMGVPWDVRcl91UnoyM2xHNVNlaU5Td0tCZ2NlZnkxWXF6RDFzS2RzUnBmNHVNSk1sS2dqc01HMEw3a1JHNHRn?oc=5",
+      "published_at": "2026-11-07T03:03:02.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "55e3314de5235263",
       "title": "Anthropic’s IPO Seen as AI’s True Reckoning",
@@ -9193,123 +9310,6 @@
       "source": "Business Insider",
       "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNFJmNElsa1htSEJ3bTFzb1VTZEZoYXFsU2FuVm45cC1KQy1DQXVyekNGZ0tKUjlMd3Q5ZGxFaGpNOVU0QXpBSFQ4eTRnOFVaU2RsQW9DalBTbER3WWpCUGoya1JCVHB1MXIyOHNmQ3duTTN1VHl4U3VETElMUEFWZGNIdkhKbUp5R2NtWkhsOA?oc=5",
       "published_at": "2026-10-31T10:17:40.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "efd29e59029a905b",
-      "title": "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite",
-      "company": "OpenAI",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "The Decoder",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObFU3X3pQVXFLeDRRZ2Q2RmxmUXNzeDM5YkFEZWF4b3YtV3VKenVCaHlGZnplcVRhTDBDVlFHWHQ3WVN0MzV2S0RCRXVMRW5WLWNKM05oWEFqV3JxSjVia1VJaTFuQlRLT1FrWnp4cmhZYUxrYUY5SDMtN2FmQUpsVElaN1NkRWxFdUJNei1CN3RIbE5taC1PbUNNSDYyTXdwSFQyTnpCb3FDd29zVE50N0hLdmZDR0hhaFNN?oc=5",
-      "published_at": "2026-10-31T09:34:37.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "08e4eeb9bbae1eb3",
-      "title": "Will Anthropic Soar After Its IPO? History and SpaceX Offer an Answer That’s Strikingly Clear.",
-      "company": "Anthropic",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "The Motley Fool",
-      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVHd1Q2pPclZWR1FnTjdRelM3dnpIQTNCU1hoNkdqemJaRVZ1UmdiTzM2alZBeGF1UUJZYkVJOXpqVTR1TE5xeXJVaVdORFZQNE9wdEJBVTBadV9VclYyY0VVOWVtSmdMYzFBUGtBY3dFVy1kemxXQjlmRmllOU5rM29IT3A5SmN0WXFiY29pczJiZVNsaGdoZmEzSmRJQkxkUXNSM0hPWGZzVW9mX1dTVTV1Q2MwcVkzamhBUjFsdVBoRS1FaVpwSlc1ekFfdUQ0?oc=5",
-      "published_at": "2026-10-31T08:11:56.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "126829e5fb14f00a",
-      "title": "Aehr Test Systems (AEHR) Adds Ex Meta AI Leader As Valuation Debate Heats Up",
-      "company": "Meta",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Yahoo Finance",
-      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYU29zUy1HZmdkemZleDgxVGt1YXR5a1JkYnZHVGR5V1ZmSjNtbm5qLTB2ZjhwSEtjNjlLTHh3eXZGczBfelBXWGo1QUlJcE9Jbmh3WXZFTkx0N25RNzVZWm9qNnl6MUNjQjBBTUIwZUZ5M0RpWjJOZ211RHBSUQ?oc=5",
-      "published_at": "2026-10-31T08:11:46.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "d4991fb73f9bcf24",
-      "title": "OpenAI’s Altman Meets Samsung Executives as Chip Crunch Deepens",
-      "company": "OpenAI",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Bloomberg",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN1Fva1BkZVk3T3ZZVWZiSUNOQVhaMElmVERReF8zekRzTWt0YnNZZUVpTGUtaUd0MFVKcmp2TXF2d2hxNldzTUYyNVhTRjFxUU8xeHAtYllENzhtMDRlbF93dXUtb3RXNWkwbk9icU5KdlN4anY3RzJnSXl2dHZ0a3JTT2QzMlRsY1hhLWxyUVdSYzFFV1E3MzRBeXJmOU5EcnVIUzI0S2hhYTk2dUE?oc=5",
-      "published_at": "2026-10-31T06:40:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "4c71ce6f495425c8",
-      "title": "FTC opens probe into safety of AI, including Anthropic and OpenAI",
-      "company": "OpenAI",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNekhUaUxwdkZqR01YY01YYkpuMUVfckMyc1RKT2ZKVkVIR21CaGpTOHIyT2pYb3BlZzBVWFh0UGxGbEtDZlg1SVBOY3NjOGF1bVB5UF8wY2NiU0RSRFlNblVlSldNZjNiN3lHdHJ6X09aTm1qLTlkbWQtTjJmbFJmRkNNS2lGTkhYTHpIbm9peFlwLWJuMjlPQVZVTld3Z0nSAaQBQVVfeXFMTzR3RUtELUM4bGpzZ3RGaUJUQ0VFbHpsR0hwQnAzSFVaYlRndXdwanFxdWFCNUxpQTg1OFFmOFBJd05QUC02V1hGYUxpWlFmcUhGeUFPSHFKNXk2UVV4cTBCb01IQmRlN003bVlwaTZuTVJxNEhKZi1WczVhQWE0MWRaRnBFbXNTSHppUzNCbm51M20wVEU0SFdnZUFvamVkYUhlYXY?oc=5",
-      "published_at": "2026-10-31T05:19:04.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "67c7d8424bd0cd22",
-      "title": "Cate Blanchett-Led Coalition Challenges OpenAI in New York Times Copyright Battle",
-      "company": "OpenAI",
-      "type": "規制",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "TheWrap",
-      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdTVCYnJXcFhMa2VxenFZQ2xIaExON2d5eTljbGlJZnoxSGI3VnJBOEFya1BnUHp2Q1lQYW16S2d0Mk9fb1hsNFpsLWM0Z1NvOWFNMUpQeDJUVlE3UUo1UHBwbzRHckgxZk5zSWtKNU52ZUY2Y2xtSVk5TGpBNnM1cnpjTUVtUkpyandHeFA1YzNXUFBxODVhMUgzbXFWbW5mTjFDMDBXQVpiNnN5MVp3VUhMOUdUaXhrYXYxYU9sbURCOGZKWl9QNHN2T29DclN3TGJFUzd3?oc=5",
-      "published_at": "2026-10-31T03:35:47.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "fcc538b5237368b5",
-      "title": "OpenAI Cuts Funding Target $10B to $20B [2026]",
-      "company": "OpenAI",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "https://tech-insider.org/",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTmJXdXpyeE5FV1k5WTh5aXo2cmRmdmUtVHRaeDd5VzE5a0VyS2pXNE1ueHl0UXdabWRJcnN6V09hWUNXVWpqcVlFbjc3elIzRkN6R3psNUgyMThaOFRjcFIzZkVWV2xFdVFXWjJMc0RjMnZPbHdvQlBidWt6MVJhRmlrRzg2OVFaTTlvUzIyNDdENDhYaDBJ?oc=5",
-      "published_at": "2026-10-31T03:35:28.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "f01281e7be7a525b",
-      "title": "Sam Altman: All the RAM Should Belong to Me, So I Can Charge People to Use It",
-      "company": "OpenAI",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Gizmodo",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMFpBdkg3eElodU52Zmp3QV9DcGlzelJFWURmMnEzX0Y1T29fMHBsWVBobVlja3BwR1Y4MHVJMGxDbGFZSW16THYtR2tkUGZEZnBhNlo5b3ZOSTU1MUpyZEpRc3RCOTEwQlFqaHNRUUFqel9iU0YwMmp2cUNsTEhEX0lEWC1McHZiSWNtT2pjd0p4X0ZKV0NSTGhGU0NiQWVJcXZvN25temRVUQ?oc=5",
-      "published_at": "2026-10-31T03:18:42.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "64b1cfc1c1517476",
-      "title": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round",
-      "company": "OpenAI",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTW9TMmVsZkc2b05TYkloVW41X050RjdtZ1F5U01TRnJOSEthYTJpcDdPWVhJb0FvRGEteHgtbVhSS0lOVEZ3T2N5MTNpSUNWNXpETThZR0RvcFQwY2Q5R3ctRUFvM1ZtdFdMaXhGSnpPM2FiLUhORXNrem84cUpfVGpuQ0VmaGNsZUlxUVQ0dk4zQUE2cWFzUk8yM1R3cjc3dEczVw?oc=5",
-      "published_at": "2026-10-31T02:56:00.000Z",
       "analysis": "rule"
     }
   ]
