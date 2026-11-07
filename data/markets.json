@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T22:56:32.688Z",
+  "updated_at": "2026-11-07T02:40:03.086Z",
   "fixtures": false,
   "alerts": [
     {
@@ -23,7 +23,7 @@
       "change_pct": -5.96,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/%5EN225",
-      "updated_at": "2026-11-06T22:56:32.688Z",
+      "updated_at": "2026-11-07T02:40:03.086Z",
       "stale": false,
       "history": [
         {
@@ -570,13 +570,13 @@
       "unit": "円",
       "decimals": 2,
       "kind": "fx",
-      "value": 158.425,
+      "value": 157.498,
       "as_of": "2026-11-06",
-      "change": 0.068,
-      "change_pct": 0.04,
+      "change": -0.859,
+      "change_pct": -0.54,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
-      "updated_at": "2026-11-06T22:56:32.688Z",
+      "updated_at": "2026-11-07T02:40:03.086Z",
       "stale": false,
       "history": [
         {
@@ -1097,7 +1097,7 @@
         },
         {
           "d": "2026-11-06",
-          "c": 158.4250030517578
+          "c": 157.4980010986328
         }
       ]
     },
@@ -1114,7 +1114,7 @@
       "change_bp": -6,
       "source": "fred",
       "source_url": "https://fred.stlouisfed.org/series/DGS10",
-      "updated_at": "2026-11-06T22:56:32.688Z",
+      "updated_at": "2026-11-07T02:40:03.086Z",
       "stale": false,
       "history": [
         {
@@ -1652,7 +1652,7 @@
       "change_bp": -4.9,
       "source": "mof",
       "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/",
-      "updated_at": "2026-11-06T22:56:32.688Z",
+      "updated_at": "2026-11-07T02:40:03.086Z",
       "stale": false,
       "history": [
         {
@@ -1765,7 +1765,7 @@
       "change_pct": -0.2,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/CL%3DF",
-      "updated_at": "2026-11-06T22:56:32.688Z",
+      "updated_at": "2026-11-07T02:40:03.086Z",
       "stale": false,
       "history": [
         {
@@ -2302,7 +2302,7 @@
       "change_pct": -0.83,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/GC%3DF",
-      "updated_at": "2026-11-06T22:56:32.688Z",
+      "updated_at": "2026-11-07T02:40:03.086Z",
       "stale": false,
       "history": [
         {
