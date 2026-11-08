@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T20:45:05.273Z",
+  "updated_at": "2026-11-08T00:19:53.537Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -27,7 +27,7 @@
       "資金調達": 21,
       "提携": 15,
       "規制": 16,
-      "その他": 130
+      "その他": 131
     },
     "Google": {
       "新モデル": 0,
@@ -38,10 +38,10 @@
     },
     "Anthropic": {
       "新モデル": 14,
-      "資金調達": 111,
+      "資金調達": 110,
       "提携": 5,
       "規制": 6,
-      "その他": 91
+      "その他": 90
     },
     "Meta": {
       "新モデル": 3,
@@ -54,8 +54,8 @@
       "新モデル": 0,
       "資金調達": 0,
       "提携": 0,
-      "規制": 3,
-      "その他": 5
+      "規制": 1,
+      "その他": 6
     },
     "DeepSeek": {
       "新モデル": 2,
@@ -83,7 +83,7 @@
       "資金調達": 0,
       "提携": 0,
       "規制": 0,
-      "その他": 11
+      "その他": 10
     },
     "Amazon": {
       "新モデル": 0,
@@ -97,17 +97,82 @@
       "資金調達": 0,
       "提携": 1,
       "規制": 0,
-      "その他": 3
+      "その他": 4
     },
     "その他": {
       "新モデル": 11,
-      "資金調達": 19,
+      "資金調達": 18,
       "提携": 8,
       "規制": 13,
-      "その他": 134
+      "その他": 131
     }
   },
   "items": [
+    {
+      "id": "a9adc9f17eef12c9",
+      "title": "Anthropic Fellowship: Eligibility, Funding and How to Apply",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "CASRAI",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BNElfX1h3dWcxZ0dzSXNOOFRaQkVodXNhcVFHN1F0YktiZWlYSDFtSmI1SHJVSW9oWTVFWFJaVzdRMVBydU84NG5EYmhERUxmZGhtRkJGVUNxQQ?oc=5",
+      "published_at": "2026-11-08T00:09:53.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "e46309e38de000e0",
+      "title": "Man sues OpenAI and claims chatbot plotted with his wife to try to murder him",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Independent",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2F3RTRSMi1kYmRkdjE0M3FIVDNDT0dtQUMxWGtRR0I4SVl3V0prd3dQeTJpQm9FcGswX1lWb1ppS1J6STRiWFp0TDlrVWUwMDdiTlBKaThkX1B0YVlWSE02ZkpjYkR1eVd6Q3dnMUY0YzNhWEVRZnM1WVVLME1OOFFLNTZMS2RBNEFJNjZTcnhVc0NPOVVycmFYczRUWW9uSDV1RzJma1NyMWNvakNn?oc=5",
+      "published_at": "2026-11-07T22:23:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "ed263cbbe1a45523",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "company": "xAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "published_at": "2026-11-07T22:07:22.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "69c75581d56ff5e1",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "company": "NVIDIA",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "published_at": "2026-11-07T21:17:08.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "050fc918c6dc5091",
+      "title": "外務省、日本語学習アプリを開発へ アニメキャラとAIで「知日派」拡大",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sY1U5aWcyZnQ2YkpYZURRMHZrbHkzS1M5a3RzZUozR0lZLVN4VFVodzY1bzZObUFKZjZWZ3VPemt0U1MxVUx0c09ZSG9fOWJkS1BtY3VyXzhrLU9WbURweTlsUGFCZ094VW82Vg?oc=5",
+      "published_at": "2026-11-07T20:00:00.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "0e76c1b258a45a92",
       "title": "American billionaire Sam Altman’s OpenAI raises $11 billion at $1.25 trillion valuation as AI stocks tumble",
@@ -8946,149 +9011,6 @@
       "source": "Reuters",
       "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTEw3WmpfUE9XNlpDeFd4LUpBenRHZVpiTVpFRDZfakN2T29CaHE4emNXQ0s0VzFDZTJTeDlXVkJtV0FSVEpwblJEVWZoWEZ4eEFzNDA5eHh0TGo4X2ZFX3hlYzljRl9TTDhPNkE1a05aNjNPU19Kb1lGbmV1UWw0dUtNZk9HS2JENWx5dDJyNWgxSGRWMzBLaGxMazJRbWxGbVBFbWNJbVlzbHkzTk05RDFGMnBzcUh4V2VqSmhTZmhkUQ?oc=5",
       "published_at": "2026-11-01T00:39:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "a376c8b4a569482c",
-      "title": "We’re Living in the Age of the Imperial CEO",
-      "company": "その他",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY3N0ZlF1dzhaZkYzV0RpanUyVDczaDFGWWh2dDJFbldQclhJSmdWUFNYaThpLTdQUkc0UGluZVQ1aXJmZ1FYblBWNVgyd1BsY0dfVmVPa0drRGlaZzV6THVNX3NDWmozVWhqM0pVd3pyOHd4RFNNM3BFcjdyUWRXcXhwT1FzampSYkgw?oc=5",
-      "published_at": "2026-11-01T00:02:28.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "77c15764e9f529c7",
-      "title": "デジタル庁のAIアプリで国会答弁案の作成支援、来年1月に本格提供へ",
-      "company": "その他",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "ケータイ Watch",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HWTNLdXNZV0xJN1dGYnNSWlM3RUFnZ3NHUENNSS1IblpHdDdPejRJVTNweDlQQlU2MFJWLWk0OFFYT2E0OXR4dFVsSnBycFZrU1hQU0d4ZjJNakZaSmtBc3c5OEFVZHc?oc=5",
-      "published_at": "2026-11-01T00:00:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "662fce90d6a9571a",
-      "title": "カーニー首相もトランプ流。AI企業に最大約1760億円を出資する",
-      "company": "その他",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Business Insider Japan",
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNHVxSm4tTDhacF9nTHBNZmNwRXV5MHJuZmNGUlprUEp4ZEtsRnZ4aDBPZEl6Q3puUUtDMkJ4R0g4a1NlRHM0Vi0tVUp1Y1FCeE1lSWZRRkREdG81RG5mcTZPU01UVnZHZXFwQ3ZLZ2dUNnFhU2VtWjBhN183S09NQWV6QmpoalZ1TTd4OGRBaVdreF9CZzJDSGxvaDdqdEds?oc=5",
-      "published_at": "2026-11-01T00:00:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "66133ab625dc5c89",
-      "title": "Anthropic's Nasdaq Debut Shifts AI Investment Strategies",
-      "company": "Anthropic",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "조선일보",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWjVIc3A3Y0VHOVFldy14MHZnTDFiUjRneU0wd2h3NWttWWlPa01sSUIxY3hGOUZNQjJoUnJfdldKRHlPa3NBZWs3dGV0cmM5Q2JCWjFrdnA4V0IyOGtRYW1xV1FJeWFrMUdDc2FVUWlLSzk0VHZvVUxsTldJWUYxZl9hb2ZBMG02NUtvSkZn?oc=5",
-      "published_at": "2026-10-31T23:40:07.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "1c3014fb5185de1f",
-      "title": "1 Big Winner and 1 Loser From the Upcoming Anthropic IPO",
-      "company": "Anthropic",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "The Motley Fool",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPalBmUlRGLUptZlNmYWI0dDQxOGNUb3RValBoRzFRWFZNOHVDTkFZeTM5NWMwYklFTVp5TVdwZjFoZVpfN2RPbUI1M0xESE55TjdsXzl2NEVhNFFUSmVGS2ZOclp1cVZLV1YtNkd6cjluMUNwTFRLWWo5X1ZNQVkzRmd3Y3AtS3ZMWHdpa2Q4dTJ3WHpX?oc=5",
-      "published_at": "2026-10-31T23:10:23.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "a43b2694f6d8d855",
-      "title": "Wellesley to host off-campus AI summit featuring Anthropic president, other prominent leaders",
-      "company": "Anthropic",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 5,
-      "source": "The Wellesley News",
-      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOEdUTjhzZzV4eGt2bmNhTm5ZUV80N0p5Qmx6aHN2VzVhSWV4N2xnNVFEQXFGMFZDa1NnUURXTTZ5T09ZSXpUblhJU09LUXZGYmFKLWEwckRfY0V5VTNydzlkY1hYUk9wUzc2a05HeFE5SHpZQ1h0Y3N2TkpqZW16X2JTaDVGYlVZNW8xRXV4SEFFcUFOM0xHWkJnbTk4UzVERXAwNnVJWHFGLUF3VVRLeTFIbm5KMlhzTmRHLVdmeDB6QXRISjJBVE5YYVZiTzNaWlhPUDItTGFEN1JJSm9Jcw?oc=5",
-      "published_at": "2026-10-31T23:04:34.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "02527133636555f9",
-      "title": "日米豪印外相会合、インド太平洋のAI技術支援で8500万ドル",
-      "company": "その他",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "日本経済新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BbWtzZmhXTjYzbXVtWEY1RWNXOTRUUERjVzA1cHkxaDR1UUdSUC1qTmhLcjhGdVN2TnRfYVZYdHlDQXk0MmhNQ0JNcXVWejVBZU9qX3pMeDhiUmpTQnJ1dVFERUZ1WWtKM3pOTw?oc=5",
-      "published_at": "2026-10-31T23:00:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "5f4df004a67830a5",
-      "title": "Judge denies xAI's motion to dismiss NAACP's lawsuit against use of temporary gas turbines at Southaven plant",
-      "company": "xAI",
-      "type": "規制",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 5,
-      "source": "localmemphis.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNVWZuRHU3NlozSUFXdWRrb09uMklFY3FhMDl6dTBuVWdyZXdoRWxxQnNuOTV2WW5oNFp2NDluT2Z0eTd2dlZPSU5POVBuQTlOYVJ2LXIzQ2NHS0pCUjlsTjQ5TzJ1ZUg4cDlVREhsR1RwaEpFVXRkdU1wa2xtS0x6eTl6clVJRk9wNVhiazUzZlBxVXB5V2hIXzA0VHlRN3JyZEhuU05jam1EMjlxNXAxZVVyTGdaek5saXB1eEViZ29mN2RZM1lxME5YR3ZuWU9TeEFueWpfNkMydzIwcWltRWZnb2R4SzB4Z0FTZ0JmUk4ybVZKSzNzWnV3SWRkb3plMHhXZE9lNE1DVUxJOHNLZGlVUXZDRmc1UVkwaVRIaE1qZw?oc=5",
-      "published_at": "2026-10-31T22:34:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "89c6cb6d29717113",
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "company": "Apple",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "TechCrunch AI",
-      "source_url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "published_at": "2026-10-31T21:41:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "cefcb0bd2478e838",
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "company": "その他",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 5,
-      "source": "TechCrunch AI",
-      "source_url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "published_at": "2026-10-31T21:36:07.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "bc398a80a0dffe88",
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "company": "xAI",
-      "type": "規制",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 5,
-      "source": "TechCrunch AI",
-      "source_url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "published_at": "2026-10-31T21:17:03.000Z",
       "analysis": "rule"
     }
   ]
