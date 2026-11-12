@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T01:25:05.511Z",
+  "updated_at": "2026-11-12T09:35:44.813Z",
   "fixtures": false,
   "alerts": [],
   "instruments": [
@@ -9,13 +9,13 @@
       "unit": "円",
       "decimals": 0,
       "kind": "index",
-      "value": 61359.1,
+      "value": 60819.4,
       "as_of": "2026-11-12",
-      "change": 110.5,
-      "change_pct": 0.18,
+      "change": -429.23,
+      "change_pct": -0.7,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/%5EN225",
-      "updated_at": "2026-11-12T01:25:05.511Z",
+      "updated_at": "2026-11-12T09:35:44.813Z",
       "stale": false,
       "history": [
         {
@@ -536,7 +536,7 @@
         },
         {
           "d": "2026-11-12",
-          "c": 61359.08984375
+          "c": 60819.359375
         }
       ]
     },
@@ -562,13 +562,13 @@
       "unit": "円",
       "decimals": 2,
       "kind": "fx",
-      "value": 159.61,
+      "value": 159.664,
       "as_of": "2026-11-12",
-      "change": 0.905,
-      "change_pct": 0.57,
+      "change": 0.959,
+      "change_pct": 0.6,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
-      "updated_at": "2026-11-12T01:25:05.511Z",
+      "updated_at": "2026-11-12T09:35:44.813Z",
       "stale": false,
       "history": [
         {
@@ -1089,7 +1089,7 @@
         },
         {
           "d": "2026-11-12",
-          "c": 159.61000061035156
+          "c": 159.66400146484375
         }
       ]
     },
@@ -1106,7 +1106,7 @@
       "change_bp": 2,
       "source": "fred",
       "source_url": "https://fred.stlouisfed.org/series/DGS10",
-      "updated_at": "2026-11-12T01:25:05.511Z",
+      "updated_at": "2026-11-12T09:35:44.813Z",
       "stale": false,
       "history": [
         {
@@ -1644,7 +1644,7 @@
       "change_bp": 9.2,
       "source": "mof",
       "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/",
-      "updated_at": "2026-11-12T01:25:05.511Z",
+      "updated_at": "2026-11-12T09:35:44.813Z",
       "stale": false,
       "history": [
         {
@@ -1767,19 +1767,15 @@
       "unit": "ドル/バレル",
       "decimals": 2,
       "kind": "commodity",
-      "value": 85.82,
-      "as_of": "2026-11-11",
-      "change": -0.22,
-      "change_pct": -0.26,
+      "value": 86.36,
+      "as_of": "2026-11-12",
+      "change": -0.17,
+      "change_pct": -0.2,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/CL%3DF",
-      "updated_at": "2026-11-12T01:25:05.511Z",
+      "updated_at": "2026-11-12T09:35:44.813Z",
       "stale": false,
       "history": [
-        {
-          "d": "2026-06-10",
-          "c": 87.70999908447266
-        },
         {
           "d": "2026-06-11",
           "c": 84.87999725341797
@@ -2294,7 +2290,11 @@
         },
         {
           "d": "2026-11-11",
-          "c": 85.81999969482422
+          "c": 86.52999877929688
+        },
+        {
+          "d": "2026-11-12",
+          "c": 86.36000061035156
         }
       ]
     },
@@ -2304,19 +2304,15 @@
       "unit": "ドル/oz",
       "decimals": 1,
       "kind": "commodity",
-      "value": 4003.2,
-      "as_of": "2026-11-11",
-      "change": -27,
-      "change_pct": -0.67,
+      "value": 3941.1,
+      "as_of": "2026-11-12",
+      "change": -59.4,
+      "change_pct": -1.48,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/GC%3DF",
-      "updated_at": "2026-11-12T01:25:05.511Z",
+      "updated_at": "2026-11-12T09:35:44.813Z",
       "stale": false,
       "history": [
-        {
-          "d": "2026-06-10",
-          "c": 4114
-        },
         {
           "d": "2026-06-11",
           "c": 4238.7998046875
@@ -2831,7 +2827,11 @@
         },
         {
           "d": "2026-11-11",
-          "c": 4003.199951171875
+          "c": 4000.5
+        },
+        {
+          "d": "2026-11-12",
+          "c": 3941.10009765625
         }
       ]
     }
