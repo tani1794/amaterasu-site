@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T16:55:19.556Z",
+  "updated_at": "2026-11-14T21:15:59.997Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -23,11 +23,11 @@
   ],
   "matrix": {
     "OpenAI": {
-      "新モデル": 23,
-      "資金調達": 16,
+      "新モデル": 24,
+      "資金調達": 15,
       "提携": 5,
-      "規制": 18,
-      "その他": 73
+      "規制": 19,
+      "その他": 75
     },
     "Google": {
       "新モデル": 9,
@@ -38,10 +38,10 @@
     },
     "Anthropic": {
       "新モデル": 19,
-      "資金調達": 196,
+      "資金調達": 198,
       "提携": 16,
       "規制": 5,
-      "その他": 102
+      "その他": 104
     },
     "Meta": {
       "新モデル": 1,
@@ -103,11 +103,154 @@
       "新モデル": 9,
       "資金調達": 14,
       "提携": 4,
-      "規制": 13,
+      "規制": 14,
       "その他": 122
     }
   },
   "items": [
+    {
+      "id": "ccb1f3403777a463",
+      "title": "The hottest job in AI right now may be counterintelligence as companies hire to protect secrets",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Fortune",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZHlXWmNFVXRTcnRvT3hkTkdxdTBKWF9FVGZQaWVxdjNPT1hpa1BvaUVEckRfMEUwY0NZa3JSWlUtelBoWTFidk5hN1RSLWFHdmNQQlBBbjR3ODVFRnZmcFlaMEkxb1ljbHhzaUpVV3lpeW1KR0VTRHlBa1poU2diRTNpTElQdHhpSFlTUFpQeEZWSDJzRzVlRXVBdkwxV1VGODlrX3BxcHZtTjhSWGJOZDlmYjRoSE5BUUMtQWZxR0xvUXJmTXgxeFk1cWE3YnBiOVRCcjdR?oc=5",
+      "published_at": "2026-11-14T20:31:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "8aea0fb5fe46e6a1",
+      "title": "Anthropic Goes Public Just as Nvidia Shows Signs of Cracks",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Mott Capital Management",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMnpDQU8zWElCUmV0aGxRdHRlYWl1RzhneEstVHYzOUZXMllzc3A1Z0ZXRFFtR3VnQ01lWXkwR0NjSVZsYUhhUVNoMjVzaTdKa29PZUE3cTB5Q25KZWdJSWV0Qy1mMHFwVU1uS1RUNklkM1k5Q2REUFd5aUt5N3VnXy10TVdlVGtvRGRtT2phQm9VRjYtZTIzQg?oc=5",
+      "published_at": "2026-11-14T19:58:46.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "5d2e0b17c3cd99c1",
+      "title": "OpenAI hands its AI agents a wallet without the real card number in it",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "PPC Land",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmo5Z2ktUVlkUzZqOHkxQVhvSUtqdDdFU0wxMkUtekVZam5SODNVOExXbFdUSy0tSzEyRndVNEI5a2w5X2ViWjdsZk02eXhZRDZ0c3lhOXZ2Wm1iektJUDBmYjNVdW5iWFkxX3BmVTRKVVBDcXhUWXZSQlBlMzdpNzVLczBPSmhTVk1SWVh0S0hjQQ?oc=5",
+      "published_at": "2026-11-14T19:58:41.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "011ea195742aad64",
+      "title": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Decoder",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMTFRMGNoUFNZWG5RazRZX292ZjlMa2l1WXdIa0JNak9MbTRQUmhjRXoxVHFmdGd6NGtLSVBJUnAzdTFSaEpEVVpOWUNvYkZCNzNBaFlSWml3SXFTOXJrTUxWNFdTX2h6MGxmd0pPa0VjZ2dKMmRUaVVyNzROS18tQW0ydTloa0xXcDhfbkNZRVhFM1dIcVA5WU8xYzdKOWl6cE9raWVuRzdjblJpRkczZkFTamZCVHVTa3NSOTdDamI0Y1RHUHItZ3FtZjItR3dyTlRMRw?oc=5",
+      "published_at": "2026-11-14T19:07:09.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "7640cc164999215c",
+      "title": "Art ‘must not be sacrificed on the altar of corporate profit’ Liberal senator says as AI policy debate rages",
+      "company": "その他",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Guardian World",
+      "source_url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
+      "published_at": "2026-11-14T19:00:52.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "53a21cfbe9b17598",
+      "title": "Anthropic IPO to test Wall Street’s faith in AI as skepticism mounts",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcHZ4cmtrWmFOWXB6M0oyLWFDX2dJMEdOV3ZVelNIUUxpZDF4ZkdJaU5EZ2t6bUduUk9MaFJleEdsOHAzY3V6bWRzNmpxaTJFVGxYQVFic1BBU2VsUU01TjQ3S2dHNWlhZVhZczVzNi1aNTFLV3FnYmx0SVNsNjh1RC1FX21LZ0V0R0ktaDRLWTJjSWl6MHU1bUlrN3UxN0dXMklxNmV6T0VCalBZWm1aYUZYY05LdXJaWGtpM1c3UUFQb1Q5Q1M0Wk5YWQ?oc=5",
+      "published_at": "2026-11-14T18:56:19.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "153cc950a36b92df",
+      "title": "Jay Ritter “Mr. IPO” flags Anthropic IPO valuation risks",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ080cmRTNmppajhzRnVSMnh0TUQ0REtzSzRhZzFZMlQxTk1wRTN1TmMtWkVqaDhic1pxelNGeXVIR3c0NFEzbU5JRVRlQ2tYX1pZcWYwZlVvLURYNVU4WlpOQzBINVJMLUFqV21wQlJURlJMRTQxM2g3X1Z4TElCMktPazRhUEloWUljX2pwbm9DQQ?oc=5",
+      "published_at": "2026-11-14T18:47:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "7134e7e1ad670b60",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "company": "OpenAI",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "published_at": "2026-11-14T17:30:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "84d968bd3a3d1994",
+      "title": "Anthropic heads into IPO week with strong demand and big questions about its future",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "CTech",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjaTJsZldfVVRfSWlKRzRobUdkMVNPb09kY2pvbFlOY1hKSmk0VkF6SE9tMjczN0hJbDg5eldvS1MxX1owSTAxLV95S0FUNWYzY3JORGRObElKempNRkVoZVlXTUdzeEk?oc=5",
+      "published_at": "2026-11-14T17:20:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "4daeb6a1936a3265",
+      "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
+      "company": "OpenAI",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 5,
+      "source": "Decrypt",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUEpXelRhTmhSZl9WQmw0QlU4dHNSaDY4UWRrT0dDbzlVQ3E5SHlyLXVhd1RKQjRPNENxUFNqc25TZk9sRVJ6VlpKb2F4UmZhQUNzZ0ZRa3N5NDcxMjNxWHJURklUX0hteHlZOEY2YXI0eV9pNVRpM19zQmVoZ3o4cWhyZGhPZWd2SDBTby01dw?oc=5",
+      "published_at": "2026-11-14T17:01:02.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "f4256db0014aeb4b",
+      "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Decoder",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFM5cnNsaGNIMzZfVDNWZ19qWUg3c0UtNVZLdUdMbzc4ZS1uTGJ0VnN2dFItbVV5Q0VCMno4RGxNV05nQWd3ZDhlaVFIT3JZS0JMVFpMaUR0VlR5TGFROXpZMGwxUXBYdE9YUmtpZlZ5RVVSX0VYN1EzR2RTWW1UX0FGWHFxZVB0OUNvcEpPdDdvRUJMazNjdVRkM1RIdzA?oc=5",
+      "published_at": "2026-11-14T16:50:52.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "075bbfb634c2a8a5",
       "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
@@ -210,6 +353,19 @@
       "source": "shattered.io",
       "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdmJaM1Q4UmxCbnlpNkJQUDN1aVBnVGRma09teGJMU0dnODdQMUV1UVNPUmJialV4WjBILVdRMERfTHF3WURPcDFkdUNXM3RlNDlzVUViWEFHcVlXTEk1Z1U0R3ptWmk0c1pxOG1KVUZnWS1RT1d3ODRFLWJvV2ZKX2lWbEdLZUozWGRj?oc=5",
       "published_at": "2026-11-14T14:48:45.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "4c71ce6f495425c8",
+      "title": "FTC opens probe into safety of AI, including Anthropic and OpenAI",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNekhUaUxwdkZqR01YY01YYkpuMUVfckMyc1RKT2ZKVkVIR21CaGpTOHIyT2pYb3BlZzBVWFh0UGxGbEtDZlg1SVBOY3NjOGF1bVB5UF8wY2NiU0RSRFlNblVlSldNZjNiN3lHdHJ6X09aTm1qLTlkbWQtTjJmbFJmRkNNS2lGTkhYTHpIbm9peFlwLWJuMjlPQVZVTld3Z0nSAaQBQVVfeXFMTzR3RUtELUM4bGpzZ3RGaUJUQ0VFbHpsR0hwQnAzSFVaYlRndXdwanFxdWFCNUxpQTg1OFFmOFBJd05QUC02V1hGYUxpWlFmcUhGeUFPSHFKNXk2UVV4cTBCb01IQmRlN003bVlwaTZuTVJxNEhKZi1WczVhQWE0MWRaRnBFbXNTSHppUzNCbm51M20wVEU0SFdnZUFvamVkYUhlYXY?oc=5",
+      "published_at": "2026-11-14T14:14:24.000Z",
       "analysis": "rule"
     },
     {
@@ -9817,58 +9973,6 @@
       "source": "TechCrunch AI",
       "source_url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
       "published_at": "2026-11-07T21:17:08.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "050fc918c6dc5091",
-      "title": "外務省、日本語学習アプリを開発へ アニメキャラとAIで「知日派」拡大",
-      "company": "その他",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "日本経済新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sY1U5aWcyZnQ2YkpYZURRMHZrbHkzS1M5a3RzZUozR0lZLVN4VFVodzY1bzZObUFKZjZWZ3VPemt0U1MxVUx0c09ZSG9fOWJkS1BtY3VyXzhrLU9WbURweTlsUGFCZ094VW82Vg?oc=5",
-      "published_at": "2026-11-07T20:00:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "0e76c1b258a45a92",
-      "title": "American billionaire Sam Altman’s OpenAI raises $11 billion at $1.25 trillion valuation as AI stocks tumble",
-      "company": "OpenAI",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Billionaires.Africa",
-      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTTBaSm9Ed0t6OW01VjFQMjhncVBkT3B0RFlWZGk4eklkOTZrcmVqUXl4YXJLOV9aSWRNcUR2cnhVUVZEZ0IzYU9panRBY044eFVIOUgzYWhzZmFSM1RYN0ZaUl9RMkY4OFdhREFMaEJVM0VDNjZhbnRJcVNtU0NzT2RmMURCNEgzb2VlUWt1ZjRKUDhwcWFmV2h1Q3NwWnk1U3RLRGtJTEFWOGI5cllEUTBQblh5dVlybWozaFdSbzQ3c3pjamxxZlVuTWhfZENKOHZuV3VuZ0kwUnNIVFB6RTNR?oc=5",
-      "published_at": "2026-11-07T19:46:19.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "754fd21a4cb15455",
-      "title": "Anthropic Could Get a Junk Credit Rating After Its IPO. What It Would Mean for ANT Stock.",
-      "company": "Anthropic",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Barchart.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUnRUcHpFQzVkcU5uU0hwc2Y4SE9XcXB1YVlfREJWLTNpZ2xTUGF4WkhPaWhCc3gxNXo5YXFiM2xYSXdzZ2k3NUM2bS1SUHY3MnNpOWlwem5GRkFUT3ZKZ2pjODRVQl9BZkNDaDFUMU03MVd2T2RfdUVVQU5pdG5hSE0wb2oyaWJYa0ptRDg1YTdYSnYzeVJja1Vrc0NiNVVsU29iRDNwM2kwbGZBV2pGeEFzWUpId29DLUNXZmlJeks0Vm5MUUMyTWxRQQ?oc=5",
-      "published_at": "2026-11-07T19:30:03.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "fdd4c7d81588a413",
-      "title": "Seaport offers preliminary thoughts on Anthropic stock",
-      "company": "Anthropic",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Investing.com",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaEh2UHhNSWtadEFfQ0pYR2dYdzRYbUZ5eVRNTm5QSzZOSHJOZEE0QjE5RmV4TVZkNXNPa1dwbVFyU3dnSG04UjVCM1pqOVV2WUp4Nl9wUnY5NGRHVFc2X2tYSmFpWHZLQXdQUGpLOE5mOXBqcUROeG1ocDZHekRybWRHQng2aUFwTE4ybkk0SF8xejFwNG1qNHhWeHRWUi01TDZWM0RnRkQxdTJKVUxobg?oc=5",
-      "published_at": "2026-11-07T17:28:15.000Z",
       "analysis": "rule"
     }
   ]
