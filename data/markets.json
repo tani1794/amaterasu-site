@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T02:58:32.171Z",
+  "updated_at": "2026-11-14T10:07:53.638Z",
   "fixtures": false,
   "alerts": [],
   "instruments": [
@@ -15,7 +15,7 @@
       "change_pct": 0.53,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/%5EN225",
-      "updated_at": "2026-11-14T02:58:32.171Z",
+      "updated_at": "2026-11-14T10:07:53.638Z",
       "stale": false,
       "history": [
         {
@@ -568,7 +568,7 @@
       "change_pct": 0.09,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
-      "updated_at": "2026-11-14T02:58:32.171Z",
+      "updated_at": "2026-11-14T10:07:53.638Z",
       "stale": false,
       "history": [
         {
@@ -1106,7 +1106,7 @@
       "change_bp": 510,
       "source": "fred",
       "source_url": "https://fred.stlouisfed.org/series/DGS10",
-      "updated_at": "2026-11-14T02:58:32.171Z",
+      "updated_at": "2026-11-14T10:07:53.638Z",
       "stale": false,
       "history": [
         {
@@ -1644,7 +1644,7 @@
       "change_bp": 0.1,
       "source": "mof",
       "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/",
-      "updated_at": "2026-11-14T02:58:32.171Z",
+      "updated_at": "2026-11-14T10:07:53.638Z",
       "stale": false,
       "history": [
         {
@@ -1771,13 +1771,13 @@
       "unit": "ドル/バレル",
       "decimals": 2,
       "kind": "commodity",
-      "value": 88.92,
+      "value": 88.56,
       "as_of": "2026-11-13",
-      "change": 0.18,
-      "change_pct": 0.2,
+      "change": -0.18,
+      "change_pct": -0.2,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/CL%3DF",
-      "updated_at": "2026-11-14T02:58:32.171Z",
+      "updated_at": "2026-11-14T10:07:53.638Z",
       "stale": false,
       "history": [
         {
@@ -2298,7 +2298,7 @@
         },
         {
           "d": "2026-11-13",
-          "c": 88.91999816894531
+          "c": 88.55999755859375
         }
       ]
     },
@@ -2308,13 +2308,13 @@
       "unit": "ドル/oz",
       "decimals": 1,
       "kind": "commodity",
-      "value": 3887.6,
+      "value": 3886.3,
       "as_of": "2026-11-13",
-      "change": 2.3,
-      "change_pct": 0.06,
+      "change": 1,
+      "change_pct": 0.03,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/GC%3DF",
-      "updated_at": "2026-11-14T02:58:32.171Z",
+      "updated_at": "2026-11-14T10:07:53.638Z",
       "stale": false,
       "history": [
         {
@@ -2835,7 +2835,7 @@
         },
         {
           "d": "2026-11-13",
-          "c": 3887.60009765625
+          "c": 3886.300048828125
         }
       ]
     }
