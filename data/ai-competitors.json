@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T21:15:59.997Z",
+  "updated_at": "2026-11-15T01:40:42.091Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -26,7 +26,7 @@
       "新モデル": 24,
       "資金調達": 15,
       "提携": 5,
-      "規制": 19,
+      "規制": 18,
       "その他": 75
     },
     "Google": {
@@ -38,10 +38,10 @@
     },
     "Anthropic": {
       "新モデル": 19,
-      "資金調達": 198,
+      "資金調達": 196,
       "提携": 16,
       "規制": 5,
-      "その他": 104
+      "その他": 105
     },
     "Meta": {
       "新モデル": 1,
@@ -108,6 +108,71 @@
     }
   },
   "items": [
+    {
+      "id": "d3efa10de7ff96d6",
+      "title": "$3.4 Billion — Anthropic Order for Gas Power Plants!",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "CleanTechnica",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYThDOFJDb3J3ZENySm1hbTZXbUl4NXBkQmpMUUwwNU85cGtFZmQ4X0E3MGxxc3l1OENqbnNCdjRKbW5zR3hfNk15VDFrSzBselRvRnZUS3ZhaWNhNFZlenJyS3BzdjBXSVY0RGlpb1plMTJzblFnV3Y5OFgwMkRzRUZyX1ZSRGhpV3hoZFJORQ?oc=5",
+      "published_at": "2026-11-15T00:33:38.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "acaf00569e865f08",
+      "title": "Where was Nvidia’s security team?",
+      "company": "NVIDIA",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "published_at": "2026-11-15T00:08:07.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "e75291c00165b6fb",
+      "title": "OpenAI’s Yang-Mills Proof: Gross Committee Confirms Lean Verification, Mass Gap Open",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "CASRAI",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83VXdCN240Qmcyc21yejFudnNvVTdWMVJhV24yNmFFdEdrMTYybGloUEtoUDBRcmxJMDBNLW5hZjluc3IwQkZZdHdzaG5pNlZZU21yZ2N5SGltZmc4NnMtWmdmUmlERmFGZm5OU0xBZmh0MngzS2YxSg?oc=5",
+      "published_at": "2026-11-14T22:43:08.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "a4a92fbcda03532a",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "company": "xAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "published_at": "2026-11-14T21:41:22.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "34611f12d93007c6",
+      "title": "OpenAI | ChatGPT, Sam Altman, & Microsoft",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Britannica",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5",
+      "published_at": "2026-11-14T20:57:52.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "ccb1f3403777a463",
       "title": "The hottest job in AI right now may be counterintelligence as companies hire to protect secrets",
@@ -9882,97 +9947,6 @@
       "source": "https://tech-insider.org/",
       "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT0ZmZXY4ejdmZ3Y0a204cmJHUDZGc3NMYWY1Y3pqWk4zcWdQRXZWOF8xODc4czZ6N2ljRnpTQkJNS0hQTzBhOVZnWWtRNkQtY3M0R1VtdFZzbE1wbmlWTmpTV1Rxck9oakl2QThGM3dBSm9vQ1FJSlBIZEw1aDlLTEZURzBfMW5VRW5iVzJZWlU?oc=5",
       "published_at": "2026-11-08T03:20:08.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "21b4d3b266b87fab",
-      "title": "OpenAI courts celebrities as executive says actors below the top tier are 'not getting jobs'",
-      "company": "OpenAI",
-      "type": "規制",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Yahoo",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM0hrTnhPbml5ZjZOWERnSjhuSUlsT2lLdE4wbjlyUDJSMXFjN19wRzBrUjJWaEFfWFFfRkttZE1sOTZkR3M5V19udE16RjFoaVFMb2taT09SNXlQajR2TGM3MlpRRXdfVVVNU1hMZ2F4SnRMLVZDOE1EakQxUUw1MmRyMmVPSlNncmdxcXVtTUpLamNBZm1WOHd5cnVYalpPVTA1T0tTNXlvM1JHTEUw?oc=5",
-      "published_at": "2026-11-08T01:40:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "affa662711a46779",
-      "title": "Anthropic Presses On With IPO as Bids Slip to $1.2T [2026]",
-      "company": "Anthropic",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "https://tech-insider.org/",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYmdRVDZHUVFKMi1sbXBNcTN0RmJTXzdDTFpEOElFaXBic251aTE2QlN2b2U4czFCOFRkbTJIbVFwY2tyUGdRc2UtLTBNMnkxejZkV0xrR1ZCZU43VFAtSHdTUUJNZk5aSnhtSXN6OHBoTGRFTjlhZ1J1ay1NMlJGZlgwNWNHYmp4cmpKVnE2ZVREQQ?oc=5",
-      "published_at": "2026-11-08T01:22:12.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "a9adc9f17eef12c9",
-      "title": "Anthropic Fellowship: Eligibility, Funding and How to Apply",
-      "company": "Anthropic",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "CASRAI",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BNElfX1h3dWcxZ0dzSXNOOFRaQkVodXNhcVFHN1F0YktiZWlYSDFtSmI1SHJVSW9oWTVFWFJaVzdRMVBydU84NG5EYmhERUxmZGhtRkJGVUNxQQ?oc=5",
-      "published_at": "2026-11-08T00:09:53.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "e46309e38de000e0",
-      "title": "Man sues OpenAI and claims chatbot plotted with his wife to try to murder him",
-      "company": "OpenAI",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "The Independent",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2F3RTRSMi1kYmRkdjE0M3FIVDNDT0dtQUMxWGtRR0I4SVl3V0prd3dQeTJpQm9FcGswX1lWb1ppS1J6STRiWFp0TDlrVWUwMDdiTlBKaThkX1B0YVlWSE02ZkpjYkR1eVd6Q3dnMUY0YzNhWEVRZnM1WVVLME1OOFFLNTZMS2RBNEFJNjZTcnhVc0NPOVVycmFYczRUWW9uSDV1RzJma1NyMWNvakNn?oc=5",
-      "published_at": "2026-11-07T22:23:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "ed263cbbe1a45523",
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "company": "xAI",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "TechCrunch AI",
-      "source_url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "published_at": "2026-11-07T22:07:22.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "ffbd4491310adb60",
-      "title": "How VistaPrint helps small businesses get the word out",
-      "company": "OpenAI",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "OpenAI",
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lT2VyY2Qwa3QzdTZyWXVEU2paamNsYl91Wm4zeEhHSXZTTEtTZHEwWGt5ZjdfMG1Zd0FaUnhsbkFUZGw5SHlORG5sNHpNYUpaUjYzT3NBSQ?oc=5",
-      "published_at": "2026-11-07T21:41:48.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "69c75581d56ff5e1",
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "company": "NVIDIA",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "TechCrunch AI",
-      "source_url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "published_at": "2026-11-07T21:17:08.000Z",
       "analysis": "rule"
     }
   ]
