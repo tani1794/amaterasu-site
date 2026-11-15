@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T01:40:42.091Z",
+  "updated_at": "2026-11-15T09:03:50.876Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -37,11 +37,11 @@
       "その他": 16
     },
     "Anthropic": {
-      "新モデル": 19,
-      "資金調達": 196,
+      "新モデル": 20,
+      "資金調達": 197,
       "提携": 16,
       "規制": 5,
-      "その他": 105
+      "その他": 101
     },
     "Meta": {
       "新モデル": 1,
@@ -55,7 +55,7 @@
       "資金調達": 0,
       "提携": 0,
       "規制": 0,
-      "その他": 2
+      "その他": 1
     },
     "DeepSeek": {
       "新モデル": 0,
@@ -101,13 +101,117 @@
     },
     "その他": {
       "新モデル": 9,
-      "資金調達": 14,
+      "資金調達": 15,
       "提携": 4,
-      "規制": 14,
-      "その他": 122
+      "規制": 12,
+      "その他": 124
     }
   },
   "items": [
+    {
+      "id": "d78e5ac574dc9679",
+      "title": "Italy fines Meta EUR805m over photo galleries as OpenAI hands agents a wallet",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "PPC Land",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUjNPVS00bW5fRm0yaGtyWlE5MWNRdGlhQzBSZG1ha2ZwYm9oTm5VcW0zak5vaFFpa1lxSWRId0VySTNrRnJEbWZkSThRRGRrb0pNdzg3Tnh4WEdxVVE2VzRzVF9fS0prYTZiUHhFTWpmWlNqOElTX2dsaU91Wm1oSXJDTk9aRWZGNDUyam56dTBEUC1xMWtLMVQ3QQ?oc=5",
+      "published_at": "2026-11-15T07:39:02.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "d2dbb34d6ae3fa99",
+      "title": "Anthropic IPO Sees Sixfold Institutional Demand in Three Days",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "조선일보",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY003YVlQbUluYnd6UzNHR2FhdVlNaG12Q3ZtOUJFUjI0cVZUazBhNG1JNmxXMURkUUpabFlRWUFRcExITGE0SUhvM3RCWE50VFFkeWMxVS1SQTNNUXRSVUxjSExRWjFNX2RaWUYwbGlTWkY3aEJ5aXU2Yy1YWTFSWE42SzRJeHlN?oc=5",
+      "published_at": "2026-11-15T07:12:48.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "58fc8c45374e25ec",
+      "title": "OpenAI folds standalone robotics team into main units",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Tech in Asia",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR1JfeDVOcUE0eVBrRE1VUDh6WWswbi1UTmplTkxHVi1DYlVOcnc5M0ducFBQdFNtVnR6YkF1SG5zd0tmaExLanNTbWdrRGFSanpuV25KazRDVUx2d3owM0V5eWVXenlaaWF2cW1Pc1p2WWl6WTZzN181ZTUybHB5OWV2SzBIbUk?oc=5",
+      "published_at": "2026-11-15T05:11:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "154cea7d91aecb56",
+      "title": "OpenAI disbands its stand-alone robotics team and moves researchers into core groups",
+      "company": "OpenAI",
+      "type": "規制",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Startup Fortune",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXg3SVJ4Y3JqV0gwc2FLQ21obmhCR0I0X3BjUkZTZ2tDd0owWFJpWnlLUUdscFNzTUYtQlFHZ0tTMkVMZFc2RmQySG1hbnk3ZjJZem5mMzYxamJRLXgwYUNXWC11TXB2QmJzTjJtMXJPWmpONjg1bjdoenB3dDdTeWxvVFUzUjNTUjJnZDRoNlhFVHA2X1JBTFhHQXA0M1BHZjkxc2NUaVhXbG53WlFIb0VR?oc=5",
+      "published_at": "2026-11-15T04:50:35.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "b06a901034f79cb9",
+      "title": "Wall Street Week Ahead: Nvidia Faces the Music, Anthropic Passes the Hat — And Wall Street Gets the AI Bill",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Dark Side Of The Boom",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOakxvc0tMUkh3b2ZYR0JMdHJUallXd19wbDlJNWxFelhPV1hwMnZCSFQ3eUNpY2ZjNDVWT1EwTGdyaHFNV0l6YmlqdHlXbkpHNmJqWnRYSy1QdTRLaE94X29MbGduT2UwMnpZVEV2LTlUUGZSdVJUMC03NldjR1YtbmlyVEQwQQ?oc=5",
+      "published_at": "2026-11-15T04:30:48.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "56892c5a08541d9c",
+      "title": "Top scorer on South Korean tax exam confesses to cheating with AI",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVjJtaVF1ZGdVTmRVNlB2Mk5GeEVtaTk2UHIxbW16RHU2M0hNQ1hTZW1XTkVPTzlYQnNYV2FDMlZGQjZpMXdySHZhMDFUMDkxOWJybnE4ekV6LVRuV3p5bHZiU3dTVWsyNkpOTkdaV3gxR3plNTF1TTdyVDlIUklCekFkNG5yaFdQZ3lQVjhyQXNxX09UQnVuYlhLMjNoMVVDZFk4R2xhQVd4T2xjaWNfdVZFZW4?oc=5",
+      "published_at": "2026-11-15T04:29:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "43fd8090afec6800",
+      "title": "Tom Lee Says Retail Investors May Be Cashing Out Ahead Of Anthropic’s Nasdaq Debut",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TradingView",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS3ROQ0daODZFaWc5bEd5TzFlSmpxanpmNU55V1dRaDhEWmFGVkJPRzRsSThfLWkxMHp4UE0zSlR0RU9HSHZwQ1huTndaaHVrVUFLck4yVXg0eVFsRmtEcTl2Y0Qwb0tESy11clRDNGFSVWJJS0hKdWdRRzVvYUw5eDE4bEVOdF9DRG9sTWlMOFB4WF9GNEE3QmROVWhXaGtXcFJxMVNmTWlHUjJqTE15UTVLTHhvcXN4MUtzaFp3QkRoYjlfOG5QR3VzUG11dFJUYU1DelVuVi0yNmc?oc=5",
+      "published_at": "2026-11-15T04:17:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "5fd34d8c15a51959",
+      "title": "アンソロピックIPO、19日まで国内募集 AI本丸銘柄に個人マネー参戦",
+      "company": "その他",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3YkJtbW9INUdTcF9QZXFkMjFMVk1wTlAxREdNRlNDVG1mcldiMndxczNvZTQxQUc5YkNyM0E3a2NGczhLcjRuWEt3anhYSDZGM0xYaGxKLWFHaVpFbVVGMjhULVgzTWtrSU92OQ?oc=5",
+      "published_at": "2026-11-15T02:00:00.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "d3efa10de7ff96d6",
       "title": "$3.4 Billion — Anthropic Order for Gas Power Plants!",
@@ -184,6 +288,32 @@
       "source": "Fortune",
       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZHlXWmNFVXRTcnRvT3hkTkdxdTBKWF9FVGZQaWVxdjNPT1hpa1BvaUVEckRfMEUwY0NZa3JSWlUtelBoWTFidk5hN1RSLWFHdmNQQlBBbjR3ODVFRnZmcFlaMEkxb1ljbHhzaUpVV3lpeW1KR0VTRHlBa1poU2diRTNpTElQdHhpSFlTUFpQeEZWSDJzRzVlRXVBdkwxV1VGODlrX3BxcHZtTjhSWGJOZDlmYjRoSE5BUUMtQWZxR0xvUXJmTXgxeFk1cWE3YnBiOVRCcjdR?oc=5",
       "published_at": "2026-11-14T20:31:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "431c36c49004f80e",
+      "title": "「ファンと共に去りぬ」の現実味 AIデータセンター過熱投資に一穴",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04c3Y3NFhkVzJpVkxQb3NTbmdIWFB4M1JaWnhOXzZCNjMxX25INks2YWpFMlJpNS1NUXBpNi1RZjB5ajZ6RC1lQnA5Nk95WXFOOFRvS3VsdURaZHh0YTJERjQxaTFfNFcySDN3Qg?oc=5",
+      "published_at": "2026-11-14T20:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "e7b4b36636a5ce5c",
+      "title": "人を傷つけない「AI時代の笑い」 芸人、放送作家…それぞれの道",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HMjlWd2IxNExlMUtBZ2doa2hWdEdGaU4tQk96eVBtdC10eDBnZWo1SVp4RlhxajVmeWF0TnFtSmNoLU5UVHFEVEdLVFlfNk0tVUJxSVhKanRIWVh6a1RGbTg1TFFvaGo0NThhcw?oc=5",
+      "published_at": "2026-11-14T20:00:00.000Z",
       "analysis": "rule"
     },
     {
@@ -457,6 +587,19 @@
       "source": "Seeking Alpha",
       "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPckkxRWF5VzFMNUhYZ2lNb2RERkF0LUdDeEJqeUM4NDduSWpMR2hZTWh2RzA5Q0g5dkhtSDFNWjJmSjNCbk9mY3lKZDVOWFRzb05pRlZrLTNYQms0THg5WEV6SDluaElKYlo1RTNDUXFORDBydkJDZEZDa2hVOGdGVXMzdTBnd2hxeXY2Y3F2TQ?oc=5",
       "published_at": "2026-11-14T14:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "1bde5b4044983052",
+      "title": "Anthropic says its AI models hacked 3 organizations on their own during tests",
+      "company": "Anthropic",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5",
+      "published_at": "2026-11-14T13:38:54.000Z",
       "analysis": "rule"
     },
     {
@@ -9778,175 +9921,6 @@
       "source": "PPC Land",
       "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNkZMdnpCUFRkeWZHSk5vYVNNUGt6SmFhd3RTQ01Tc3JGYnlCRUVXT3Q3S1BCWGgtUUdrUkc0Yzd4U3lWRTl3dG5pWUFabGJPV0hhYlJxNUpJaDY5S1p3R0t1UnJ1TUhVTHJYQi1DV1hWelFqVUZPeFpJcUVQTFl4cFl5aGdrRFk4?oc=5",
       "published_at": "2026-11-08T09:18:29.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "64fa6c7200acad2c",
-      "title": "Hamburg regulator uses OpenAI model to draft letters as complaints rise 62%",
-      "company": "OpenAI",
-      "type": "規制",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "PPC Land",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSTlCaWFyZEVlOEhiSWV3QnNuTEhabzJWUUJLMXZRdUtPZU13UW5yUnFNd1lsNV9RZk1pd3Q4QWJJRi1rTi1kc3liOUhrNGREOU9uYjRrTkZQaGRZMEtLTjBiNFNlZlNnNkJxdEx5WFBTRjJfdmotQ3RfQlk1SzM0MXF6LV84bGdRMjRsejB5ZUNNZDYyVlg0?oc=5",
-      "published_at": "2026-11-08T08:53:29.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "76389eb42661ab68",
-      "title": "Anthropic IPO: ANT Ticker, $16.3B Revenue, Control [2026]",
-      "company": "Anthropic",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "https://tech-insider.org/",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMjU1VC1wRkJ4eDNDVmpFV1NfekRMVHdKV2RuSTdOc25LdWpaaks2TWJINkh3M3pLaklkZ2FHOVlGYnBjWEpRcWpPb1N2MmZ6MExDME9VM0pRTXJYM3JrbEl6UnF6VGhYMHdJNkdzMnV1Q255MjZIZ0I3SUp5RGFSaGdEUWJlODZPTTlwTkdFY1dDQQ?oc=5",
-      "published_at": "2026-11-08T08:20:37.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "fbaf5ca0ad584a77",
-      "title": "Anthropic S-1: Loss Narrows to $1.3B From $5.2B [2026]",
-      "company": "Anthropic",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "shattered.io",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1p5cnJDbnhoTElxN3ZodFpWRE52RmNSS01fNE90WTNYbHF2X3B5bDJET0RTTWRWRndUTEM0TkRBclhJVnVSVXM1ZG1yMXNaMmFGRmJhSmpLVGw1RXRpd2Vva2gyOU1rOEt6eE5zRVhaVmFZVFdrNGJ4MXcyRFZkQ09XRVE?oc=5",
-      "published_at": "2026-11-08T08:13:53.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "b81f665762d5e338",
-      "title": "Staff at the US center for AI safety are reporting to the White House, raising independence concerns",
-      "company": "その他",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "AP News",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZy1KSXNvR1dGeEJmdHRLLUNyanRpWlFMR3JKVlhQR3AyMU83Vkp1bTk0Y2tXUUhEVHdIUzZpQ2o5RmVzclR3S1QtVjlacmthZlQ0OUFyTTRzbl9Nb3JpMlFreTFPdzVoRlRNeDZNMlRBODVieTBXbU9vSTNSN1VvT2lNNjVfcXBaMmpTaTJtS2Q?oc=5",
-      "published_at": "2026-11-08T08:06:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "f22d837c2d1d7f6e",
-      "title": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
-      "company": "その他",
-      "type": "規制",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "The Guardian World",
-      "source_url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
-      "published_at": "2026-11-08T08:00:36.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "b770ee64d87b5352",
-      "title": "Chamath Palihapitiya Warns AI Data Center Slowdown Could Be A ‘Disproportionate’ Blow To Anthropic And OpenAI",
-      "company": "OpenAI",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Stocktwits",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUWVqZFhYQXo1R3pfbXlpRHVRLUpsdEkwSnFPX0IyYmFYdEFYUHBnY04wbE5qSGM3WGMtYThzOWgybmhmQkVCNzkxeDI5ajVUYkRqWFdRLU05Q3dMMzd2U3IyNEFya21GWFdmWXAyanBSQmNHS080a1RYdjhvd1RTY253QUZ1a2tPbjIwd3VWdV92OXhVbWJRLW5hT2tWS3U4MEczbTBaRXVPbXdZS2syQkFhZUx0S2otNVZkbjFVYTNWdjh0ZlZj?oc=5",
-      "published_at": "2026-11-08T07:36:10.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "08249d244a8316d2",
-      "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
-      "company": "その他",
-      "type": "規制",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 9,
-      "source": "The Guardian World",
-      "source_url": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
-      "published_at": "2026-11-08T06:00:33.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "797ece380d05fbd2",
-      "title": "Game Changer: Anthropic clamps down on Claude’s AI video game clones",
-      "company": "Anthropic",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Open Magazine",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTFRCNWVQbllsU0RCcWk4NWlOZ293clhVd2pWZFc3QnppMGJIWHFXTXhTLVpDRmFtMVhHX3hIcXBUaUl5ZDhKZ0lCMnBPUkVfV0pxTnNPYmVUdFFYYWNjOGtodXBEaWN0WDZ2OTZtY3FrYzd2NGR5Nmw5WGNrX3hjWnIxRzZ2MlFtdzVxMXZsTWhkLV9WWE5RWE5FOTIzMER5LXozallVRng?oc=5",
-      "published_at": "2026-11-08T05:52:35.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "459a4eb41064abe5",
-      "title": "Anthropic rapidly accelerating AI development amid slowdown calls, research group says",
-      "company": "Anthropic",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "KSL",
-      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeVdnaHRxRkpDU3B6MUlQcDVId21EMUNWOHgxOEtUNGIzTG1peGl3ZUpvOFBoNVVTWXFpNlFDdG9LRHdHUUF6LUNVNDRwTG5NbDhzMzJHYWN0aGNJRFdLMmhaV2QtUXBYcnZmX3RzbWNKXzNLNEZWQm9kTHZKQ09hMUZsbEw5U0FCRjFKY29yS1pQSUZGTG1xbWpIMHpTWHk2N25ybi0zel9UN2FYbHdJMFA1UFVXdzdfLXBBS0pIQQ?oc=5",
-      "published_at": "2026-11-08T04:24:39.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "39e558b2c3ec25bc",
-      "title": "Altman on Why 4 OpenAI Leaders Left [2026]",
-      "company": "OpenAI",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "https://tech-insider.org/",
-      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTN5SloxZWZuOVcycGRWajFsWEZaODAzNTZKdVhYV2ZqMmVWbzdiSHpRTDRJOFZabzg1OVBTU0VjOFNuSFJFWXRiV0FlYzZuYXF3d2JLQXFxaFM0a2lHWFFZbzVIU1BIcGZyZEJDNzEzcFVFTnFFQ0Z1N2l5WVBPWUVPc2lXaWVSakE?oc=5",
-      "published_at": "2026-11-08T04:21:53.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "c25807d7bf084bc1",
-      "title": "xAI PreStocks (XAI) Analytics: Price Dynamics, Quarterly Returns, and Annual Price Changes in USD",
-      "company": "xAI",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "CryptoRank",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRX1oxa3ZoNkJacEx5bUpWSU9id2JwSXU5Z1BLTjl1enZyOWhfV1d0TE1BOElWTGRHX3BoX05XdUkxX3hrOExuNVFnTkowMjdFQkMzUlRndng3VFpKYnhVVw?oc=5",
-      "published_at": "2026-11-08T04:15:47.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "141e20e289db5691",
-      "title": "Anthropic Engineer’s 3 Habits vs Cognitive Surrender [2026]",
-      "company": "Anthropic",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "shattered.io",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdEdIM3VCOEVrdkQ3Uk1GNmoyUXVHcGd2WFZ2Z1ZhbUdTLVFSZlp6MUN5SjdMZGptcjNGWEx6YzF2R1c2OEowcldQVVl1RmRHVURDdmJpZ1FiaE9jWGtJdGdJOVJKWlRHZjlEMlVFWUhjMUp1dFBRWnNLdGFoWXA3VDBhbHhHNE91a2lKQkktTGE5aU1B?oc=5",
-      "published_at": "2026-11-08T03:33:53.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "13f3453099793943",
-      "title": "Cognitive Surrender: 3 Anthropic Engineer Warnings [2026]",
-      "company": "Anthropic",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "https://tech-insider.org/",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT0ZmZXY4ejdmZ3Y0a204cmJHUDZGc3NMYWY1Y3pqWk4zcWdQRXZWOF8xODc4czZ6N2ljRnpTQkJNS0hQTzBhOVZnWWtRNkQtY3M0R1VtdFZzbE1wbmlWTmpTV1Rxck9oakl2QThGM3dBSm9vQ1FJSlBIZEw1aDlLTEZURzBfMW5VRW5iVzJZWlU?oc=5",
-      "published_at": "2026-11-08T03:20:08.000Z",
       "analysis": "rule"
     }
   ]
