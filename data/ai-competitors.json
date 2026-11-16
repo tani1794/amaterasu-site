@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T21:36:31.925Z",
+  "updated_at": "2026-11-16T01:45:05.435Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -23,39 +23,39 @@
   ],
   "matrix": {
     "OpenAI": {
-      "新モデル": 26,
+      "新モデル": 27,
       "資金調達": 14,
-      "提携": 5,
+      "提携": 4,
       "規制": 16,
-      "その他": 73
+      "その他": 74
     },
     "Google": {
       "新モデル": 9,
       "資金調達": 0,
       "提携": 1,
       "規制": 1,
-      "その他": 16
+      "その他": 17
     },
     "Anthropic": {
       "新モデル": 19,
-      "資金調達": 207,
+      "資金調達": 212,
       "提携": 8,
       "規制": 6,
-      "その他": 109
+      "その他": 111
     },
     "Meta": {
       "新モデル": 1,
       "資金調達": 0,
       "提携": 0,
       "規制": 1,
-      "その他": 9
+      "その他": 7
     },
     "xAI": {
       "新モデル": 0,
       "資金調達": 0,
       "提携": 0,
       "規制": 0,
-      "その他": 4
+      "その他": 5
     },
     "DeepSeek": {
       "新モデル": 0,
@@ -76,14 +76,14 @@
       "資金調達": 0,
       "提携": 1,
       "規制": 0,
-      "その他": 2
+      "その他": 3
     },
     "Apple": {
       "新モデル": 0,
       "資金調達": 0,
       "提携": 0,
       "規制": 1,
-      "その他": 1
+      "その他": 2
     },
     "Amazon": {
       "新モデル": 1,
@@ -94,20 +94,267 @@
     },
     "NVIDIA": {
       "新モデル": 0,
-      "資金調達": 12,
+      "資金調達": 11,
       "提携": 1,
       "規制": 4,
-      "その他": 43
+      "その他": 47
     },
     "その他": {
       "新モデル": 10,
       "資金調達": 15,
       "提携": 4,
       "規制": 9,
-      "その他": 127
+      "その他": 130
     }
   },
   "items": [
+    {
+      "id": "8ed2063bfeca3fe8",
+      "title": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3g3MVMxZ2lSN1ZpTmpaWkdYR25ZdDZ4M3BELXQ3ZC1PZDhtNTVjYmpQdHlJZUFtLWxiUkFLbXhUVHM0OHNScEUyTWFHUU5MMmZYb0EyVW51dXd1OWJFak1NbVFwazhlVzBIcHB3TENzRG1IZ2FvVFlpS0xubFBadXlPYw?oc=5",
+      "published_at": "2026-11-16T01:35:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "eedbc6caab9c38b0",
+      "title": "Five Things To Know About Anthropic",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Barron's",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00UVBIY3dLZUdkd04yQjgxTGQxT3VSMVpYa1FxUDRpUndMUUhhQ3lTTDk2dDk1SW84WGhlRnlkb3V3TVNzRzNCUzdCNktPeWxNQUh4M0Q5Q3lLVlNOZlhuV0ZIdmJ3Z0dPd1dwVHNMZlB6LWNvZWxzZFhkVC05QQ?oc=5",
+      "published_at": "2026-11-16T01:33:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "8a3f1e4b7a1f35c6",
+      "title": "Anthropic's record IPO faces some big questions",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYXc4RnJvSkdnTzNUZnpmZ2FhWVhzcXRkNWdPWE5oNkdGZlZuU0J0T2RWY3lYazcyMEROaXgtWXczMjBPWVA5QUQyOHNVSFJuMnRUd0Y4Q1Jta2xoRHVCZC1rM1hnbUcyemRyOVBCNkF2MVp5VlNFT1l0NlplN0pIbzNFNHF0VkkzRGRzTDlmeVpqX0F5eGVmb0NxUQ?oc=5",
+      "published_at": "2026-11-16T01:32:39.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "444bbe4b983e3ddc",
+      "title": "Anthropic IPO Arrives at a Pivotal AI Moment",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Moomoo",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObmQ5V0gzY0Q0T3lqQ25CUG5NRng1NWZUVTdUeF9XeG8xYXVpUlBCNEtkZGRNV2NvT19NTHFxWHdFZWZGbXYyYThpN1l2dzYwXy1lRjVvV0k1RC0xbDRFUnRrU01EeXBkRUlkZWgxY1BURUxQdTlmMnZQQVBUa2l0Y3hCN3kxOUsxckZhRTZaYWsxZkU?oc=5",
+      "published_at": "2026-11-16T01:30:40.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "586a877b4e2652c3",
+      "title": "From Carnegie to Claude: AI wealth could reshape philanthropy",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "France 24",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT3hoTXRXZGNWdC1aLWtHWWttNXQ5UGpqZzV2dTlhdndJaHRoelMweWszUWtHSmdybldlb0pzS1ZkZHpQSzNqY3VkUFR3M0p6X00wQXlrUDU1bHJuUTdGUGRkUklzY0lBYU16MXh1UkFIczJoUVFpLV9fNER4bVhkRjFvSWd6OHhyYUJZbVJtVjVjOTJMNzZ3aFR0TmlPVU0zYk5kclNxT0RWVjg?oc=5",
+      "published_at": "2026-11-16T01:27:24.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "f7214e14d1e100a3",
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "company": "Apple",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "published_at": "2026-11-16T01:26:56.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "134a2ca5b9022762",
+      "title": "LOVOTが高市総理と対面、「阪神くん」と命名 首相官邸のフィジカルAI関連企業との意見交換会",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "ロボスタ",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kanExbFA3aHE1TVhmWnZ0S1YzaS11d0tVallONEZfM045cTd3ekkwVXcxV1d3S0VmeFVXY3B2V2lFRmJsemVRYUwwTXJxdlE2TjJ6b0lZRURVSDZnV0twY1JURDA?oc=5",
+      "published_at": "2026-11-16T01:00:02.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "062a771c30e8e700",
+      "title": "Anthropic’s IPO: A make-or-break test for the trillion-dollar AI trade",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "MarketPulse",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWF8xNENwM04xaGVLVHA2cEhqamRIZC1PejdHLXlDb0dHejk2Q2QwQTl5RDlOVTluMUszN1pueW5zN2ppRjN6Mmc3ZXhmZTZPZXRMZVE5c3p6NW1iMHFWMFVta3A3bVB4STd6RzRtY1U2N2dkNlhCenV4Y0wza25VdVl5ZmJmZ2liUHFDZjQwamthQTRiRzVSNkFjTGxYcVZkUDREUUlybUE?oc=5",
+      "published_at": "2026-11-16T00:58:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "17642b6da563a471",
+      "title": "Google DeepMind researchers verify Signal’s cryptographic core with AlphaProof Code",
+      "company": "Google",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "EdTech Innovation Hub",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZXhEQk9zOTdWbFlGWmlJam9XSXRsQVg1bnpzNm80ZXRKUmE1LWtmcjVGMmI2ZHNjQWJvbHN2RUtWcUYybWlkY0Jmb2NkV1BTY2UyaXgtaU1DWktDd0R6T0IxNjVmNzdEWmxRcEJ4ZFNaODdkbWdTekV2VndaendVaC1zS3JlLXd5Nkx1RzV2ZDUtb084Q3VyMURpRzBzZGJBM1JYWnZpQ0g4bXVqeEp3bjMyaHlhejM1a1JfemtDY1M?oc=5",
+      "published_at": "2026-11-16T00:47:33.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "adda49e11a2439c9",
+      "title": "This Week: Nvidia Earnings, Anthropic’s Nasdaq Listing, and Fed Minutes in Focus",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TradingView",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLVEzLXhWMVFyT2NNQlB0R29hTGVmaHl5blRjNXEyQUo1eHBxSml0eGl3NUF2LTV3Zld5SWJfNk5PWFlhNnp0bXBrd0tPSnFiLVJXaHYwd3JMaVFQMFlXQ2c2MzFJRGc4TFJibmVsX2FwMnV2SDhudDM0Z2xad0syVThDZHgzeEV2NG1ZUEpJYUc3b2ljS3Mzd0gwcTRIcUhBWlpHaE1xRmEybEdwbVR3ZHNBNVZOWkFuVGdEZS1FR2Nocy05bGw2S2diYlFrWkZtUjVKWkRoVQ?oc=5",
+      "published_at": "2026-11-16T00:01:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "fa232e2aaf8a1962",
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "published_at": "2026-11-15T23:30:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "1b6eeb4e825a21a9",
+      "title": "Nvidia’s Earnings on Deck; Anthropic’s Public Debut",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Information",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQmxNT1EtbEVyR3VoLWlSb0llcU94cllCWmQySXFjQzYwR2RJdjQ3d20zSnBSSWZ6OHpON1l0Y2pIMWRBVm8xTFo1d05OUzNwUjNsajE4SWkwaS1HNzBIQ1pfZWxnUFhPRzlnQUtMaHpQS2h0M3pQVjM5M3g2YU5pZEY5X2MwSnhxSVZoMTk4OG11bW1xZjJTYUl4S2FCOVVVZWdz?oc=5",
+      "published_at": "2026-11-15T23:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "6cbc3f0685647500",
+      "title": "Anthropic IPO set to define AI trade",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Semafor",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZlQxdnNRcUFscFMzSXdmVE9MMkh6eUF4TmlmQ0ZfRHNUSGlFQm44YW96RFBreF9Dc1lLOS0zYV9PUVNQQ04xMXlxM0p3NVM0Q3ZCOW5tdy1vb1Vqdlk4ZVVfSVB1cHFfVDlQVkVNbFVXX1BvSFJyQU9lLXdwOEJhdWRuQnVKdw?oc=5",
+      "published_at": "2026-11-15T22:36:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "7978433917c5dc3f",
+      "title": "Meet the Matchmakers Getting Anthropic Employees Laid",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Free Press",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSzRReHZ3T2RhY0ZyT1M0Z3ZSV1FubnYtQnZyZGVFbjNVRW9Ob0VUblZKQmpTelBLcm5XaFBRM0VBZ1ZaSmRCbVNXOHoxZnRIdDg0aWtZbHVrdS1XaXlNX1ZjWTg4RTRnVmlnWVRsOS1xRm14Y0tOcGJLc0xaRkRLVnVOaw?oc=5",
+      "published_at": "2026-11-15T22:13:21.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "87d7014c15ee68a3",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "company": "OpenAI",
+      "type": "新モデル",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "published_at": "2026-11-15T22:00:01.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "4b0fc5b701ffd77d",
+      "title": "Our new blog for science",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/our-new-blog-for-science",
+      "published_at": "2026-11-15T22:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "9e3d554c6cb56d83",
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "company": "NVIDIA",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "published_at": "2026-11-15T21:56:35.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "798e41da7a1ee371",
+      "title": "OpenAI opens Business Hub and Business Agents beta",
+      "company": "OpenAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "CASRAI",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zM1JLOEo4X0g0WS1NWEZGdEE0MVNsQ3VZY2djSFNwd2h1M0F5U29DdlhJeVBES293OWNlTUt6amFDWm5aUndqX1A3SFFTb0FOM1NWbGVhaVRBaVRqWXM3dVR4d2ZRU2MwMk1RYQ?oc=5",
+      "published_at": "2026-11-15T21:43:49.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "cd9f47374da9e353",
+      "title": "Anthropic IPO Is Coming Up: Top Companies Set to Benefit if ANT Stock Jumps",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Benzinga",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVHlmX09MNndOVkxaaklyWmREeS1wTWFoV2FUUEZWWXRRVWNiNEdyeUEyQmRlUDBXZTBLLXB5Y0ZINmxDZG96R0w3TTNzWkNPUW1PNVY0WDN3aTd2S1JwSUcxQVFsSS1kVGprRHltYUR4RUdCMWhvVVBkVWd0aXpXQlFQcGFmRG4zMkhUdDJQTHFQZGJYR0ZKeFd1ZXdwT3dmY29rVzNMbHlUQkdaSWM5b25IZU5feVpsTmNYQ1JXaTk3NmRTOVE?oc=5",
+      "published_at": "2026-11-15T21:35:06.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "4cc3fce3f5d0d274",
       "title": "The Week Ahead: Nvidia Earnings, Anthropic IPO Test AI Trade",
@@ -119,6 +366,32 @@
       "source": "FXEmpire",
       "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVDFhNEp6VXhxcGFxclBtSGdSSFFDUzdrZVRXYUZmTEpsSVQ2WmxZcHU2ekpTS01HeEFZYjFzM0w3S05oTkpkdE5yVmhaT1lMaHozV2NDdHM4c0F0R1l5VWZobHgtcXd5Y01VRldVWldKcTVaQkxmcVozS24zaFA1M1Y3bzJleEIyM3ZZa0psRW9lRFFsOUFCSGhyeWpvZEg5cnFqZVlWRDlRTWJ2MVE?oc=5",
       "published_at": "2026-11-15T21:24:30.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "dc33e0c89c22c678",
+      "title": "XAI SOUTHAVEN",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "FOX13 Memphis",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQWhkalBDbUJFSXd5SGh6WWdCN0I3N2s3RjA5SFJqeFRJZXZkZEVIRDNkNTNkc2NQQU9DV1FQaUcyNjE4aWhpbkc1LTFmT05FSXZaZzBEU0pDVG9NUjd3TURmdHZsOVoycm9uT2o4ajV6NW5KRjhXdnlNdDBMbW5FSnFWbkxnNmpPUkp4d1lIaWJVSUFH?oc=5",
+      "published_at": "2026-11-15T21:07:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "2f1f5cbf7ce833ab",
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "company": "NVIDIA",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "published_at": "2026-11-15T20:43:49.000Z",
       "analysis": "rule"
     },
     {
@@ -161,6 +434,19 @@
       "analysis": "rule"
     },
     {
+      "id": "6be0180d5fd788b4",
+      "title": "信号機AI制御8000カ所、都内全域導入へ 渋滞長さ1割減で物流円滑に",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EZEdIOFlqNzJWQm5oUUJHbk1HMDRxSzN4TTgzRlFueXBvZ2tkZU1mRVZzUlFTSmJMOEFsWHBWejEzNU84dm9DSm12SmREb2cwbTZ6WFlhU1lRalhLQVpETkpDRUdBcmxaeHRhYw?oc=5",
+      "published_at": "2026-11-15T20:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
       "id": "13d526f25249248d",
       "title": "Murray presses OpenAI on ChatGPT safeguards after Seattle woman’s death",
       "company": "OpenAI",
@@ -187,6 +473,45 @@
       "analysis": "rule"
     },
     {
+      "id": "af26b6c48f0fd844",
+      "title": "Anthropic’s giant IPO puts the heat on OpenAI",
+      "company": "OpenAI",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Economist",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTd6eHRac3JHWEQ5TElWUXZZUWRsMHdXckRQbjJ6X3ZvOFUtVHZDcjFBVWVqOE9LVnNPS3NWeDROZUtsRFdEdklzRzctYlpWbWszbElsMU94VWxtUm5OZ1ozdUxWWnVGRlpGM3ozYWxISG5fS1Y5QlB1bVQ0Z09sVGphWmgzMlpKMWduNkZYX0N1b1Br?oc=5",
+      "published_at": "2026-11-15T19:49:20.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "1207b5c1c70bbc64",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "company": "NVIDIA",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Verge AI",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "published_at": "2026-11-15T19:15:43.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "6370fd9e4fb41377",
+      "title": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
+      "company": "Microsoft",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "AP News",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUFCdzU3WWxqWDJyOThxR0pfSENwbHdjWE50LVZfX0xSUUZFZnpTemtWN2RRckNlOW56TnZwT2pmUHpPYnU0cGtiaUJ4aFpzLXZ4OHN0a3UxVEpNenFlc0VETFE2UDJkdy1Ld0ZSU2V2MHJxNE9WN3VFMjA2U1lLRThOdE5kSWk2UVdpektzb00yV3ZjUjhOeWpiNA?oc=5",
+      "published_at": "2026-11-15T19:10:00.000Z",
+      "analysis": "rule"
+    },
+    {
       "id": "cbecf199d319787c",
       "title": "Anthropic Is About to Become the World’s Most Important AI Stock",
       "company": "Anthropic",
@@ -200,6 +525,19 @@
       "analysis": "rule"
     },
     {
+      "id": "454042e0cfc51dff",
+      "title": "エミン・ユルマズ氏「アンソロピック上場がAI関連株暴落の端緒」 米中間選挙民主党勝利で下落加速",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 7,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90WkRJX0hfZVh1V3ZnRlctNy1aU0twZXk4ejZSdXNmc25ycG94Xzh3U0pGUnp6WWtmaDNyQXpFNGhERjEyQjFRYzNhWjFVaWRPc3BSa00wNmJhSFVuV0NjV1lHVjMxYmRWUjZpTw?oc=5",
+      "published_at": "2026-11-15T19:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
       "id": "bb5a0234bb6c96f9",
       "title": "Nvidia, Anthropic, Walmart, Home Depot, the Fed, Home Sales, and More to Watch This Week",
       "company": "Anthropic",
@@ -210,6 +548,19 @@
       "source": "Barron's",
       "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMEFCc1RYenNXbXpFQ2R6dXl5eWphbE4taTBCU0N3aGZoVFNsMVdKb094eEpBU3JIdDNsbzB2V1VNXzNRVjNLT1gzd2VDTEZUS0JwTXd0RC1HbEktc1VSTUw4bVloREZ5LWlXZl8zd2dnVGVBejNMMngwRnlDemE2TUFfcnllNnFlQzNkc3lYNDc1MTJybHA3WllGUzVDc0RRMlhJUUVmbEV3RTRjZ0ZYVUhMREVQUEJTbzVJaEhzMGZNQQ?oc=5",
       "published_at": "2026-11-15T19:00:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "17b1e3715e7e4e07",
+      "title": "Southaven xAI Chemical Spill Reaches Drainage Ditch",
+      "company": "xAI",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "DeSoto County News",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNk1MWHpVaXlSdkc1X0FpRzlSTS15d29MVXpqYWdpVmpxOXdxRzhKcjJqVFgwVHpBcm5lcG02ZW5tNHBvTEdPM0hROFZ1T0Q0Um9xUDBGX3hGM2xaZXJ5NVhWV3lZLUlEa3ByZHFJalhJNmJCQ3pHN2MwOERwRFZnRTc5MXpiVGhj?oc=5",
+      "published_at": "2026-11-15T18:23:08.000Z",
       "analysis": "rule"
     },
     {
@@ -275,6 +626,19 @@
       "source": "CNN",
       "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3SkJ3Z1pfMDlSUnV6aDRLdjh6T0xwZ0pTb2I4MzNrTzF0ZUpnZmw2SUFhMGctYUlkMWxDMUVtR1FEOHdUTTZCUU44NFJXd2NYajVkUEowbHdXNV9lOTB6bHM4bVVBRzQ5WU5fR2dRaWlVNkcxckJUTkRB?oc=5",
       "published_at": "2026-11-15T17:00:15.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "fbf23f04a07e5fc6",
+      "title": "｢AI需要衰えない｣ 搬送システムのローツェ社長､半導体から見た景気",
+      "company": "その他",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44dVB0YnFDcEtJdDhXU1U1OTdacWhzLWxEMTMxaXdWSG1UakNZbWJfOG11WVg0WDl1UEdUMEdYNXJZTWFuUE5aZW53RWRobWFzVkRxZjRQQVRmV01heDJ4QTJIYWlLNkJDcXZDcA?oc=5",
+      "published_at": "2026-11-15T17:00:00.000Z",
       "analysis": "rule"
     },
     {
@@ -821,6 +1185,19 @@
       "source": "TradingView",
       "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS3ROQ0daODZFaWc5bEd5TzFlSmpxanpmNU55V1dRaDhEWmFGVkJPRzRsSThfLWkxMHp4UE0zSlR0RU9HSHZwQ1huTndaaHVrVUFLck4yVXg0eVFsRmtEcTl2Y0Qwb0tESy11clRDNGFSVWJJS0hKdWdRRzVvYUw5eDE4bEVOdF9DRG9sTWlMOFB4WF9GNEE3QmROVWhXaGtXcFJxMVNmTWlHUjJqTE15UTVLTHhvcXN4MUtzaFp3QkRoYjlfOG5QR3VzUG11dFJUYU1DelVuVi0yNmc?oc=5",
       "published_at": "2026-11-15T04:17:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "11aa1ac03010fa5c",
+      "title": "米台AI連合が「要石」失う NVIDIAファン氏辞任で開発速度に影響も",
+      "company": "NVIDIA",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 7,
+      "source": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHREZ3WEhlbFBFcDFjTEVZV1lBN2JLNkRWY1d1OUkyWnhydWNpMDBPLXdLT1NER29nTXE2OFhYRmd1Tm5lQjd1cVNPYVRqMmFpdW9NUzM2LWRDRzV3QkxaQ29Sc3Rrc2NUaHNTTA?oc=5",
+      "published_at": "2026-11-15T02:00:00.000Z",
       "analysis": "rule"
     },
     {
@@ -9869,175 +10246,6 @@
       "source": "Reuters",
       "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0oxRGlDMkl5NWVMcTZ3NjVxWU5RakhWT3BnZG1vc254T1RSXzg0SE5MelBYSTNsakduTFo5R0pJMkNWNXZKVW9SZEFOLWZfbWQwdG94bkpoeGw5V0I5bmtlRktsWmpqTGhwVzFNSkgyaDdEVUprbDNsMkI1WThjZ1cwQmpIRjN5VVFOVw?oc=5",
       "published_at": "2026-11-09T01:46:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "dad0f452b155b58b",
-      "title": "AI may be helping Anthropic make two years of progress in one, METR estimates",
-      "company": "Anthropic",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "EdTech Innovation Hub",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX2FXeVhEMFl0OG1rNndDNkJpU1ozMnZOVmlzYnBPWGR6cG5OZ3JrR2ljdmpSTE5XRElrTnAwZFhJNF95NmJEdUdTY0FkaG9IMExNTDlBRGo3MlJpdENTN29Qb2NxUmhuTmFVTFJ2R29jSUJqbm8tV3JnTkFUNkg5aVEwbEphdUM1VGxMckdMa0NrSllGTnZVa0M4dnlmRk9KcEVraGE5d2d5OEp2QVJXQjBjQUxNbEd0?oc=5",
-      "published_at": "2026-11-09T01:17:32.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "ef86eccb1bd86740",
-      "title": "The Interview | David Robinson, former OpenAI leader: Why I quit over safety",
-      "company": "OpenAI",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "BBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CX04zNE5BVVFoTzJIUVdZdHB3a0pHczBLdGYxNHFxMlFkaGF1WVA3TnZpX3Z2MnJmbFJfeXl3a3RiZEluSXVkN1pGYUt5aVVn?oc=5",
-      "published_at": "2026-11-09T01:05:33.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "c9434a5361e6d696",
-      "title": "OpenAI to acquire Pierre to expand Codex’s code review and storage tools",
-      "company": "OpenAI",
-      "type": "提携",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "EdTech Innovation Hub",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVTRsdl9ZVVZvdFlyeFdRejA5WGJkLUdZN3dZZ0RGNTFiRXdHQjhYelU4QXRPVFZNRDBtZTJfeXdXd3o2d0pfdjBKZVZKNjMxalJQeUJ1djFrSG5IcFdELU96TG1PYmc0QUc2QVdXVndOZGxIdG5XamZvNmdMVWtlYzBrN0w0b19RWDAyT212WHdkc0NGT3lvRDdSOEF5TUpBX1h0OWh2SHZNWGhPYndJNVBB?oc=5",
-      "published_at": "2026-11-09T01:03:06.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "4566ea326f0510e4",
-      "title": "Trump says AI risks can be managed, signals openness to guardrails",
-      "company": "その他",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR0pjQ3BqWnFTMHRZQTVMM0NKR0FIN3RFUnZadVNsY0N5cGV2VkEzeFRtSUhhOEtZLUNyVDBMa05vZDdIS05Qa0s2QUhNWTRJZ3F1OE11SG53RFYtY1pPeWFIQ1d3YTJkNFNyaS11aUJ5UU1zU3pWQ08wNXJ2N2lVajJnblJSLUh4Zks2TTdaaXRVWFpKdEJRMTM3c2hPRy11aXpDTlM3cw?oc=5",
-      "published_at": "2026-11-09T00:29:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "b9d518bf74d22fe9",
-      "title": "OpenAI Valuation Hits $1.25 Trillion in New Funding Round",
-      "company": "OpenAI",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "PYMNTS.com",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON0FRR1p0bktGRUNxcjdhcmRhdXN6MUlTWl83cnloMnlJMWxHbk0wV3dBVzVPWlZtWXl2ZzgwUm1HTGtHZ2NIbEc4Q1FxbWVvX2FKOUpSeFRkZlNjRFFOY1BwUzFSaHNISDBDeE1rUGZqSTQ1bWV6Tm1qbW9JM3V3TkxZTTg3aWJmdGUwMUJzbnVNbk1iODNlak9uTlFmY1lHRVJOenBrME8yYlFPcV9HSWdKUnc?oc=5",
-      "published_at": "2026-11-09T00:06:59.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "ec69c31d3adfd738",
-      "title": "Six El Paso Veterans take on D.C. Honor Flight equipped with Meta AI smart glasses",
-      "company": "Meta",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "KVIA",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSEc2VUtaQ1JrcFdiRHgzYnNIclVqMzgxbzV3TVB1YU1yU1JEakpOMGthOUlMQzVXZjNHVTlSRy1PTlNqZjZTYjcwSmtDa0pYUkdybGpEZFJKY1pRcEpYXzhaVklKMlJ4bG1nbXJJUnNPU1BVMGliMUM3ZzhEZjVaMG42REVvbm1DaGxMU3EwSkJjOFg1NkdaU0tFMDRJekRUbzFXdDF3LUhhbGN5OWQ4VUc4UU82UQ?oc=5",
-      "published_at": "2026-11-09T00:01:48.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "edcf0ecaa8358c5e",
-      "title": "Illinois veterans struggling with vision gifted Meta AI glasses",
-      "company": "Meta",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "FOX 9 Minneapolis-St. Paul",
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40SjVRUUpPNmVJamQxZVJBTGFaV1IyRnp5eVk3aE43YU9jV3lPOVJDQU5mb3JQWFgzWHdUMk1NTWpfd19EeXJ6Qzc3SWF2S2wyVEFrMU1ib21oZknSAWBBVV95cUxPcE4wMXNzeEg2Y2dWbFZkLS01cWdEU0xySldjRWplTEhMWXY4WnJwWjhFOVFlWkdZUGEwYjdSa0xObngwRHZhWkFjSkZGaThMVjA3UmdBeXJ4Q3VGSkpMSkM?oc=5",
-      "published_at": "2026-11-08T23:50:38.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "1925bcf5be6d3d97",
-      "title": "Anthropic's IPO dilemma after the AI sell-off: 'Damned if you do, damned if you don't'",
-      "company": "Anthropic",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Yahoo Finance",
-      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaVlpNjBPSk5CcWpIVmc4RnVtUmsxT00wUFVZTXNrYzJqU2w1VGFoUUlUVS02TXVDODhpanJQSUlrNEUzLUo5c0czMXRaYVdSUzdubzBSTG5lVnVEUUE4bW9HSmVHZGV0ZVhYazJsOWw1WDdLMzYxRU1BaEVfbWpWTWtkTDZhakdWd1l5aU1DZk1abDJKY1JRM1VHQnU2Snl5X2xCMHQwaXJ5bWJxYzZPMFFybnlXOWhGSlByeGFDRXZGY291RzJkeW01dHN2a3Fsd0Jn?oc=5",
-      "published_at": "2026-11-08T23:12:28.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "e1abd1fe6234ddaf",
-      "title": "Subpoena Anthropic",
-      "company": "Anthropic",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "The Argument",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1eXdRZWtPTnBaZ2o3Yk1JRUlDQjE0RWpQb2ozR1BNcEJLMzFxV0tWajN4V2dOWGNuWkRKT1kxc3RDMkMtSWpSMXZNamhwX3pjdEJIV0tYRmtscUI3MjVjTQ?oc=5",
-      "published_at": "2026-11-08T23:01:57.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "67abd93f196f854c",
-      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "company": "NVIDIA",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "The Verge AI",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-      "published_at": "2026-11-08T22:54:50.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "b7f543be0366ce7e",
-      "title": "RBA's Hunter says AI has yet to deliver productivity boost, trigger job losses",
-      "company": "その他",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNW9UVDViMV80RXpjYmswQ1lNQ0pMVG02UDEwcUVINjZRNTI5R2cydUxFYm9nMEI2YVUtNm5KT2xzdUwyNW93cGpldzBudzJkSWU0dEg2NU5LN1UyVW9tVW0zbDJ6Z0JmVl84UVc5ZEdBakZUcGhDMjNFX1ZhX2JfM0NIanRJM0tuYnVSZHZrTU5lSVNSSVZJZVdmZjRIclNic2UyYjZacE40cUxWMnJVeFg5RGNlUkdxSGRPVnBDdUZhV3UtT2hZ?oc=5",
-      "published_at": "2026-11-08T22:43:45.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "84cf23b89c54cc97",
-      "title": "米AI銘柄、半導体から古参まで 業種の垣根越え相場を左右",
-      "company": "その他",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "日本経済新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2U1g3ejFCNkU3RWlSM1YwNU10Z25EUUtkX2FENjRkZUdYbkRGR25jRjZuUDVGOFdraGpKNWtNNUxRMFM5a0pVam5BNlMzVXZTRnd6ZjJvem5BZHM3aDlKS2dUbkd3Z0dGWVR0aw?oc=5",
-      "published_at": "2026-11-08T22:00:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "56c4c47a62dbc0d3",
-      "title": "Nvidia Inquiry, Anthropic, CoreWeave and Unity News Promise Big Week",
-      "company": "Anthropic",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "The Information",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV1FRUkllZWhfa2R1SGlnUVhKRkl2X2tjTkk2djdzWEVQNGJFUmJqdW9LYnI4UDRtYzlmTnlQdHAzN0dOcFVrNjJ2aEJ5d0FBbzVmVGV2UUxhZUhibnRwZWpqM29oV28yc1RLUFRwcG4yWDBnVHFWNF90d0FWOGJ3QXZ2Wkl5MkxCWVB2YUl3NFlyODVoOW8tcTUtb1p0ZmlaM3c2U0Z1WW9nNkJjTXNTS1hfWnFWeTQ1bGc?oc=5",
-      "published_at": "2026-11-08T21:41:00.000Z",
       "analysis": "rule"
     }
   ]
