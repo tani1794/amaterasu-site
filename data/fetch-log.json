@@ -1,6 +1,6 @@
 {
   "news": {
-    "updated_at": "2026-11-16T09:20:16.372Z",
+    "updated_at": "2026-11-16T20:12:35.501Z",
     "fixtures": false,
     "feeds": [
       {
@@ -8,124 +8,128 @@
         "name": "NHK 国際",
         "ok": true,
         "count": 40,
-        "ms": 367
+        "ms": 274
       },
       {
         "id": "nhk-politics",
         "name": "NHK 政治",
         "ok": true,
         "count": 40,
-        "ms": 550
+        "ms": 208
       },
       {
         "id": "nhk-economy",
         "name": "NHK 経済",
         "ok": true,
         "count": 40,
-        "ms": 659
+        "ms": 224
       },
       {
         "id": "nhk-main",
         "name": "NHK 主要",
         "ok": true,
         "count": 7,
-        "ms": 320
+        "ms": 198
       },
       {
         "id": "bbc-world",
         "name": "BBC World",
         "ok": true,
-        "count": 24,
-        "ms": 455
+        "count": 21,
+        "ms": 318
       },
       {
         "id": "bbc-business",
         "name": "BBC Business",
         "ok": true,
         "count": 40,
-        "ms": 493
+        "ms": 323
       },
       {
         "id": "aljazeera",
         "name": "Al Jazeera",
         "ok": true,
         "count": 25,
-        "ms": 558
+        "ms": 378
       },
       {
         "id": "guardian-world",
         "name": "The Guardian World",
         "ok": true,
         "count": 40,
-        "ms": 530
+        "ms": 309
       },
       {
         "id": "reuters",
         "name": "Reuters",
-        "ok": true,
-        "count": 40,
-        "ms": 868
+        "ok": false,
+        "count": 0,
+        "ms": 848,
+        "error": "HTTP 429"
       },
       {
         "id": "ap",
         "name": "AP",
-        "ok": true,
-        "count": 40,
-        "ms": 916
+        "ok": false,
+        "count": 0,
+        "ms": 748,
+        "error": "HTTP 429"
       },
       {
         "id": "nikkei",
         "name": "日本経済新聞",
-        "ok": true,
-        "count": 40,
-        "ms": 853
+        "ok": false,
+        "count": 0,
+        "ms": 684,
+        "error": "HTTP 429"
       },
       {
         "id": "jp-politics",
         "name": "日本政治（Google News）",
-        "ok": true,
-        "count": 40,
-        "ms": 888
+        "ok": false,
+        "count": 0,
+        "ms": 800,
+        "error": "HTTP 429"
       },
       {
         "id": "techcrunch-ai",
         "name": "TechCrunch AI",
         "ok": true,
         "count": 20,
-        "ms": 568
+        "ms": 390
       },
       {
         "id": "verge-ai",
         "name": "The Verge AI",
         "ok": true,
         "count": 10,
-        "ms": 562
+        "ms": 384
       },
       {
         "id": "openai-news",
         "name": "OpenAI News",
         "ok": true,
         "count": 40,
-        "ms": 642
+        "ms": 478
       },
       {
         "id": "google-ai",
         "name": "Google AI Blog",
         "ok": true,
         "count": 20,
-        "ms": 729
+        "ms": 576
       },
       {
         "id": "ai-companies",
         "name": "AI企業ニュース（Google News）",
         "ok": true,
         "count": 40,
-        "ms": 993
+        "ms": 821
       }
     ]
   },
   "markets": {
-    "updated_at": "2026-11-16T09:20:17.495Z",
+    "updated_at": "2026-11-16T20:12:36.480Z",
     "fixtures": false,
     "instruments": [
       {
