@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20T02:55:27.113Z",
+  "updated_at": "2026-11-20T11:15:16.023Z",
   "fixtures": false,
   "alerts": [
     {
       "id": "nikkei",
       "name": "日経平均",
-      "change_pct": -4.49,
+      "change_pct": -5.06,
       "as_of": "2026-11-20",
       "source_url": "https://finance.yahoo.com/quote/%5EN225"
     }
@@ -17,13 +17,13 @@
       "unit": "円",
       "decimals": 0,
       "kind": "index",
-      "value": 56775,
+      "value": 56436.6,
       "as_of": "2026-11-20",
-      "change": -2669.17,
-      "change_pct": -4.49,
+      "change": -3007.56,
+      "change_pct": -5.06,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/%5EN225",
-      "updated_at": "2026-11-20T02:55:27.113Z",
+      "updated_at": "2026-11-20T11:15:16.023Z",
       "stale": false,
       "history": [
         {
@@ -544,7 +544,7 @@
         },
         {
           "d": "2026-11-20",
-          "c": 56775.0390625
+          "c": 56436.6484375
         }
       ]
     },
@@ -570,13 +570,13 @@
       "unit": "円",
       "decimals": 2,
       "kind": "fx",
-      "value": 159.23,
+      "value": 158.809,
       "as_of": "2026-11-20",
-      "change": -0.151,
-      "change_pct": -0.09,
+      "change": -0.572,
+      "change_pct": -0.36,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
-      "updated_at": "2026-11-20T02:55:27.113Z",
+      "updated_at": "2026-11-20T11:15:16.023Z",
       "stale": false,
       "history": [
         {
@@ -1097,7 +1097,7 @@
         },
         {
           "d": "2026-11-20",
-          "c": 159.22999572753906
+          "c": 158.8090057373047
         }
       ]
     },
@@ -1114,7 +1114,7 @@
       "change_bp": -3,
       "source": "fred",
       "source_url": "https://fred.stlouisfed.org/series/DGS10",
-      "updated_at": "2026-11-20T02:55:27.113Z",
+      "updated_at": "2026-11-20T11:15:16.023Z",
       "stale": false,
       "history": [
         {
@@ -1652,7 +1652,7 @@
       "change_bp": -4.6,
       "source": "mof",
       "source_url": "https://www.mof.go.jp/jgbs/reference/interest_rate/",
-      "updated_at": "2026-11-20T02:55:27.113Z",
+      "updated_at": "2026-11-20T11:15:16.023Z",
       "stale": false,
       "history": [
         {
@@ -1799,19 +1799,15 @@
       "unit": "ドル/バレル",
       "decimals": 2,
       "kind": "commodity",
-      "value": 83.01,
-      "as_of": "2026-11-19",
-      "change": -0.25,
-      "change_pct": -0.3,
+      "value": 81.64,
+      "as_of": "2026-11-20",
+      "change": -1.57,
+      "change_pct": -1.89,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/CL%3DF",
-      "updated_at": "2026-11-20T02:55:27.113Z",
+      "updated_at": "2026-11-20T11:15:16.023Z",
       "stale": false,
       "history": [
-        {
-          "d": "2026-06-18",
-          "c": 76.5999984741211
-        },
         {
           "d": "2026-06-21",
           "c": 74.81999969482422
@@ -2326,7 +2322,11 @@
         },
         {
           "d": "2026-11-19",
-          "c": 83.01000213623047
+          "c": 83.20999908447266
+        },
+        {
+          "d": "2026-11-20",
+          "c": 81.63999938964844
         }
       ]
     },
@@ -2336,19 +2336,15 @@
       "unit": "ドル/oz",
       "decimals": 1,
       "kind": "commodity",
-      "value": 3552,
-      "as_of": "2026-11-19",
-      "change": -189.9,
-      "change_pct": -5.07,
+      "value": 3590.3,
+      "as_of": "2026-11-20",
+      "change": -95.2,
+      "change_pct": -2.58,
       "source": "yahoo",
       "source_url": "https://finance.yahoo.com/quote/GC%3DF",
-      "updated_at": "2026-11-20T02:55:27.113Z",
+      "updated_at": "2026-11-20T11:15:16.023Z",
       "stale": false,
       "history": [
-        {
-          "d": "2026-06-18",
-          "c": 4245.89990234375
-        },
         {
           "d": "2026-06-21",
           "c": 4202.7001953125
@@ -2863,7 +2859,11 @@
         },
         {
           "d": "2026-11-19",
-          "c": 3552
+          "c": 3685.5
+        },
+        {
+          "d": "2026-11-20",
+          "c": 3590.300048828125
         }
       ]
     }
