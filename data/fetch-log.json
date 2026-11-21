@@ -1,6 +1,6 @@
 {
   "news": {
-    "updated_at": "2026-11-21T09:29:39.741Z",
+    "updated_at": "2026-11-21T17:16:29.042Z",
     "fixtures": false,
     "feeds": [
       {
@@ -8,124 +8,125 @@
         "name": "NHK 国際",
         "ok": true,
         "count": 40,
-        "ms": 313
+        "ms": 593
       },
       {
         "id": "nhk-politics",
         "name": "NHK 政治",
         "ok": true,
         "count": 40,
-        "ms": 144
+        "ms": 574
       },
       {
         "id": "nhk-economy",
         "name": "NHK 経済",
         "ok": true,
         "count": 40,
-        "ms": 272
+        "ms": 507
       },
       {
         "id": "nhk-main",
         "name": "NHK 主要",
         "ok": true,
         "count": 7,
-        "ms": 112
+        "ms": 387
       },
       {
         "id": "bbc-world",
         "name": "BBC World",
         "ok": true,
-        "count": 24,
-        "ms": 122
+        "count": 25,
+        "ms": 410
       },
       {
         "id": "bbc-business",
         "name": "BBC Business",
         "ok": true,
         "count": 40,
-        "ms": 129
+        "ms": 401
       },
       {
         "id": "aljazeera",
         "name": "Al Jazeera",
         "ok": true,
         "count": 25,
-        "ms": 193
+        "ms": 450
       },
       {
         "id": "guardian-world",
         "name": "The Guardian World",
         "ok": true,
         "count": 40,
-        "ms": 188
+        "ms": 596
       },
       {
         "id": "reuters",
         "name": "Reuters",
         "ok": true,
         "count": 40,
-        "ms": 488
+        "ms": 846
       },
       {
         "id": "ap",
         "name": "AP",
         "ok": true,
         "count": 40,
-        "ms": 499
+        "ms": 929
       },
       {
         "id": "nikkei",
         "name": "日本経済新聞",
         "ok": true,
         "count": 40,
-        "ms": 418
+        "ms": 832
       },
       {
         "id": "jp-politics",
         "name": "日本政治（Google News）",
-        "ok": true,
-        "count": 40,
-        "ms": 423
+        "ok": false,
+        "count": 0,
+        "ms": 792,
+        "error": "HTTP 429"
       },
       {
         "id": "techcrunch-ai",
         "name": "TechCrunch AI",
         "ok": true,
         "count": 20,
-        "ms": 151
+        "ms": 516
       },
       {
         "id": "verge-ai",
         "name": "The Verge AI",
         "ok": true,
         "count": 10,
-        "ms": 163
+        "ms": 566
       },
       {
         "id": "openai-news",
         "name": "OpenAI News",
         "ok": true,
         "count": 40,
-        "ms": 251
+        "ms": 678
       },
       {
         "id": "google-ai",
         "name": "Google AI Blog",
         "ok": true,
         "count": 20,
-        "ms": 362
+        "ms": 912
       },
       {
         "id": "ai-companies",
         "name": "AI企業ニュース（Google News）",
         "ok": true,
         "count": 40,
-        "ms": 619
+        "ms": 1138
       }
     ]
   },
   "markets": {
-    "updated_at": "2026-11-21T09:29:40.476Z",
+    "updated_at": "2026-11-21T17:16:30.313Z",
     "fixtures": false,
     "instruments": [
       {
@@ -133,7 +134,7 @@
         "ok": true,
         "source": "yahoo",
         "errors": [
-          "stooq(^nkx): fetch failed"
+          "stooq(^nkx): HTTP 403"
         ]
       },
       {
@@ -141,7 +142,7 @@
         "ok": false,
         "source": null,
         "errors": [
-          "stooq(^tpx): fetch failed",
+          "stooq(^tpx): HTTP 403",
           "yahoo(^TOPX): HTTP 404"
         ]
       },
@@ -150,7 +151,7 @@
         "ok": true,
         "source": "yahoo",
         "errors": [
-          "stooq(usdjpy): fetch failed"
+          "stooq(usdjpy): HTTP 403"
         ]
       },
       {
@@ -158,7 +159,7 @@
         "ok": true,
         "source": "fred",
         "errors": [
-          "stooq(10usy.b): fetch failed"
+          "stooq(10usy.b): HTTP 403"
         ]
       },
       {
@@ -166,7 +167,7 @@
         "ok": true,
         "source": "mof",
         "errors": [
-          "stooq(10jpy.b): fetch failed"
+          "stooq(10jpy.b): HTTP 403"
         ]
       },
       {
@@ -174,7 +175,7 @@
         "ok": true,
         "source": "yahoo",
         "errors": [
-          "stooq(cl.f): fetch failed"
+          "stooq(cl.f): HTTP 403"
         ]
       },
       {
@@ -182,7 +183,7 @@
         "ok": true,
         "source": "yahoo",
         "errors": [
-          "stooq(xauusd): fetch failed"
+          "stooq(xauusd): HTTP 403"
         ]
       }
     ]
