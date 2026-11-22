@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T22:58:07.779Z",
+  "updated_at": "2026-11-22T02:59:09.710Z",
   "companies": [
     "OpenAI",
     "Google",
@@ -38,10 +38,10 @@
     },
     "Anthropic": {
       "新モデル": 2,
-      "資金調達": 250,
+      "資金調達": 251,
       "提携": 0,
       "規制": 6,
-      "その他": 160
+      "その他": 164
     },
     "Meta": {
       "新モデル": 0,
@@ -97,17 +97,82 @@
       "資金調達": 5,
       "提携": 2,
       "規制": 1,
-      "その他": 39
+      "その他": 37
     },
     "その他": {
       "新モデル": 12,
-      "資金調達": 15,
+      "資金調達": 14,
       "提携": 6,
       "規制": 16,
       "その他": 134
     }
   },
   "items": [
+    {
+      "id": "fa5985b8b699bf90",
+      "title": "Who Is Leopold Aschenbrenner? His Fund’s $5 Billion Anthropic Stake",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Profile | Polina Pompliano",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13cFROSnVkUnBjaW5mdzFUN2NPZWJrWDZKQXpSLUM4R0tpTEFtX182MGNpVU41NkhRYUJ3UjhjTEEwWEVJeEgtT0MxSVhUajBIdTFDR1dpd3Fvbzk1RDd4akh0Z3ctU3k0OFhLNEdB?oc=5",
+      "published_at": "2026-11-22T02:07:42.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "28a70808330975ad",
+      "title": "Who Is Emil Michael? Pentagon CTO Calls Anthropic a Risk",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Profile | Polina Pompliano",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TVUFNdmplWmI5WVlXd0VNRHc2Uk04WHNLWHZILWJ6NExtRWMtWGJpWTdOdGhPckxvRmZuSS01VHJWNEFmSUtkUlpRT1VKa2NLa1hqcUpMYklJOTNKdllPU1pn?oc=5",
+      "published_at": "2026-11-22T01:28:51.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "196a83ac7cb46fba",
+      "title": "Who Is Ashton Kutcher? His Fund’s $7 Billion Anthropic Stake",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Profile | Polina Pompliano",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yMmx1bjd2N1FFSVNKYmhSaXp1NU9BRE5JMUlfTmtBZE02OHQ4dXJwWklTMDBqa2ItR0s1YnhGMk1oOGVobjE1UnNGc0ZUX3kxN0RFdjNIMHBrT29IYXViZTV2bm0?oc=5",
+      "published_at": "2026-11-22T01:28:34.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "44dfc4e0911d9140",
+      "title": "Prediction: Some Anthropic Investors Are About to Learn an Expensive Lesson",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Motley Fool",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQblIyVE0zWk05bS10dVpXOW1PcnN6XzdNZmtBS0pEY2NvTzkweVR6TnR2eTJSeVh5TlpRWmxfOUY1VjJTb1RLRkRRTW84ZC1XSUVXdkduN2pGcmphNWVRdjhpd0l2dHBBQ2V1LXZWTWlHMTFESDhPanljM0NvWTJNV2FoTkUwbVhKSEhEQkJrQnRVa3RSRG5iRXRvR1loSExxZVA2SlRuWmJsek5HLWJSbjdKT0VRN3hF?oc=5",
+      "published_at": "2026-11-22T00:41:00.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "036c3debea8ab1d9",
+      "title": "Lean groups certify Claude-assisted Riemann hypothesis proof from Anthropic",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Startup Fortune",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONlA3YmE1SENKMHdqY2MwSEVFRFQ3eW9URjRhTW83QjNCN0U3SUhweC1vTGhfYml6SG9Sc19wVHVhY1VobG9NLVM4V29Ca2QzMnByUjh0clFFOGhFSE9XcVVfNUxlVTdnRTE3ak5oYzd0alQ4QkV3NUYydFIxYXBOWEhtblhQM25NRDY4czBDMHE5VUQxc1B6N3Q3eXNoazk0TE9PbG13?oc=5",
+      "published_at": "2026-11-21T22:23:08.000Z",
+      "analysis": "rule"
+    },
     {
       "id": "bfb3cd1703bea7a5",
       "title": "Anthropic mathematician says AI helped solve famous math problem",
@@ -200,6 +265,19 @@
       "analysis": "rule"
     },
     {
+      "id": "ac4e65887308efa1",
+      "title": "Better Recent IPO: SpaceX or Anthropic?",
+      "company": "Anthropic",
+      "type": "資金調達",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "The Motley Fool",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcmtPV2l5SllyQlNBS004dC1MNlpJcG9ZcGtYcjFMZE0yMnNEZGkyX2xzczB4VkNkTXRCSFNaOXVPTnE0Z3NOaEhCdHpjSzd3ZjNETjV5WnRoWWczMWlBa09BendIRWZXRGhqdXNnZTdUS2Uxai02d3RROGFNdlN2MF8zMUh4Qms?oc=5",
+      "published_at": "2026-11-21T19:15:02.000Z",
+      "analysis": "rule"
+    },
+    {
       "id": "34d0377020ffb184",
       "title": "Anthropic broke records with its initial public offering on Thursday before a rocky first full day of trading. The markets plunged, reflecting the widening dis…",
       "company": "Anthropic",
@@ -223,6 +301,19 @@
       "source": "Bloomberg.com",
       "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWjNwWTF0NG0yY3lRZGg5dFhIUXZJTGRvTWN2U2dnWnc1NGdDMm5iTGtuQjNHTEFCdzZJb05TUkdfZjRlZDh4S3JqUmVZUXctUUtsbGUyMk9wT21wN3pxczFLNmRSTHpqV01wNjF4SmthdThIU1J5NHpwZlc5R0ZCX1NQc3FjZTd0T2lmNVVxX3hWZw?oc=5",
       "published_at": "2026-11-21T17:58:28.000Z",
+      "analysis": "rule"
+    },
+    {
+      "id": "f9879b90e4d28bd1",
+      "title": "250,000-Page Math Slop: Why Anthropic Didn’t Solve the Riemann Hypothesis",
+      "company": "Anthropic",
+      "type": "その他",
+      "summary": "",
+      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
+      "crisis_score": 2,
+      "source": "Emerald Book",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmVi1paHdkZ0p0US1LNDM0UFlQb3gzVC1MaUtxTi1iQkFfUWVqajlKVVEyemk0OGtlNGJKVGZwWVdhSDNfTjJRMFVuRG12R2s?oc=5",
+      "published_at": "2026-11-21T17:57:06.000Z",
       "analysis": "rule"
     },
     {
@@ -10662,71 +10753,6 @@
       "source": "TradingView",
       "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS3ROQ0daODZFaWc5bEd5TzFlSmpxanpmNU55V1dRaDhEWmFGVkJPRzRsSThfLWkxMHp4UE0zSlR0RU9HSHZwQ1huTndaaHVrVUFLck4yVXg0eVFsRmtEcTl2Y0Qwb0tESy11clRDNGFSVWJJS0hKdWdRRzVvYUw5eDE4bEVOdF9DRG9sTWlMOFB4WF9GNEE3QmROVWhXaGtXcFJxMVNmTWlHUjJqTE15UTVLTHhvcXN4MUtzaFp3QkRoYjlfOG5QR3VzUG11dFJUYU1DelVuVi0yNmc?oc=5",
       "published_at": "2026-11-15T04:17:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "11aa1ac03010fa5c",
-      "title": "米台AI連合が「要石」失う NVIDIAファン氏辞任で開発速度に影響も",
-      "company": "NVIDIA",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 7,
-      "source": "日本経済新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHREZ3WEhlbFBFcDFjTEVZV1lBN2JLNkRWY1d1OUkyWnhydWNpMDBPLXdLT1NER29nTXE2OFhYRmd1Tm5lQjd1cVNPYVRqMmFpdW9NUzM2LWRDRzV3QkxaQ29Sc3Rrc2NUaHNTTA?oc=5",
-      "published_at": "2026-11-15T02:00:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "5fd34d8c15a51959",
-      "title": "アンソロピックIPO、19日まで国内募集 AI本丸銘柄に個人マネー参戦",
-      "company": "その他",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "日本経済新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3YkJtbW9INUdTcF9QZXFkMjFMVk1wTlAxREdNRlNDVG1mcldiMndxczNvZTQxQUc5YkNyM0E3a2NGczhLcjRuWEt3anhYSDZGM0xYaGxKLWFHaVpFbVVGMjhULVgzTWtrSU92OQ?oc=5",
-      "published_at": "2026-11-15T02:00:00.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "9d74d4738600755a",
-      "title": "EXCLUSIVE: Anthropic IPO Could Follow SpaceX’s ‘Almost Perfectly’ Handled Offering, Market Expert Jay Woods Says",
-      "company": "Anthropic",
-      "type": "資金調達",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "Yahoo Finance",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb3N3bXg2d29WY1Rfa3M4YUt1RkczOWJ2VnJGdzZKOFlGMV9Hc0ozY3MxOUtYVjdfcHZ6bW1pOW84UkgyLWJKN0xfaS1QcDd6MU5OUHh0Tmd2S0Y0b1AtWFFxNHM5a1lVYVFPcG9ENVloSXcta21BNzYtMWQxdkRRaVF1U1UwWTV1VkdyZElxX3hzaTU2ZDNCd2tkZ0lCblhBd1E?oc=5",
-      "published_at": "2026-11-15T01:42:28.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "d3efa10de7ff96d6",
-      "title": "$3.4 Billion — Anthropic Order for Gas Power Plants!",
-      "company": "Anthropic",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "CleanTechnica",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYThDOFJDb3J3ZENySm1hbTZXbUl4NXBkQmpMUUwwNU85cGtFZmQ4X0E3MGxxc3l1OENqbnNCdjRKbW5zR3hfNk15VDFrSzBselRvRnZUS3ZhaWNhNFZlenJyS3BzdjBXSVY0RGlpb1plMTJzblFnV3Y5OFgwMkRzRUZyX1ZSRGhpV3hoZFJORQ?oc=5",
-      "published_at": "2026-11-15T00:33:38.000Z",
-      "analysis": "rule"
-    },
-    {
-      "id": "acaf00569e865f08",
-      "title": "Where was Nvidia’s security team?",
-      "company": "NVIDIA",
-      "type": "その他",
-      "summary": "",
-      "conclusion": "AI分析待ち（APIキー未設定または分析失敗のため、キーワードによる暫定分類です）",
-      "crisis_score": 2,
-      "source": "TechCrunch AI",
-      "source_url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "published_at": "2026-11-15T00:08:07.000Z",
       "analysis": "rule"
     }
   ]
